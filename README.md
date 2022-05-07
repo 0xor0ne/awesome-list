@@ -2,15 +2,15 @@
 
 My personal awesome list of interesting repos, libraries and tools.
 
-
 ## Contents
 
 * [Awesome Lists](#awesome-lists)
 * [Blogs](#blogs)
 * [Compilers and Toolchains](#compilers-and-toolchains)
 * [Debuggers](#debuggers)
+* [eBPF](#ebpf)
 * [Embedded and IoT](#embedded-and-iot)
-* [Emulators](#emulators)
+* [Emulators And Dynamic Analysis](#emulators-and-dynamic-analysis)
 * [Exploit Development](#exploit-development)
 * [Fuzzing](#fuzzing)
 * [Linux Kernel](#linux-kernel)
@@ -28,7 +28,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [eBPF][25]: curated list of awesome projects related to eBPF.
 * [Docker][30]: curated list of Docker resources and projects.
 * [Embedded][20]: curated list of awesome embedded programming.
-* [Linux Kernel Exploitation][21]: collection of links related to Linux kernel security and exploitation.
+* [Linux Kernel Exploitation][21]: collection of links related to Linux kernel
+  security and exploitation.
 * [Linux Rootkits][29]: list of rootkits for the Linux kernel.
 * [Malware Analysis][34]: malware analysis tools and resources.
 * [IoT][19]: st of great resources about IoT Framework, Library, OS, Platforms.
@@ -40,7 +41,9 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Blogs
 
-* [Nightmare][13]: intro to binary exploitation / reverse engineering course based around ctf challenges.
+* [ir0nstone][56]: binary exploitation notes.
+* [Nightmare][13]: intro to binary exploitation / reverse engineering course
+  based around ctf challenges.
 * [System Overlord][46]: security engineering, research, and general hacking.
 
 ## Compilers and Toolchains
@@ -58,17 +61,27 @@ My personal awesome list of interesting repos, libraries and tools.
   * [GEF][27]: plugin with set of commands to assis exploit developers and
     reverse-engineers.
 
+## eBPF
+
+* [epbf.io][66]: official website.
+
 ## Embedded and IoT
 
 * [Low level][48]: misc documentation about low level development.
 * [NexMon][49]: C-based Firmware Patching Framework for Broadcom/Cypress WiFi
   Chips.
 
-## Emulators
+## Emulators and Dynamic Analysis
 
+* [Avatar2][62]: target orchestration framework with focus on dynamic analysis
+  of embedded devices' firmware!
 * [EMUX][9]: Firmware Emulation Framework.
+* [Firmadyne][63]: platform for emulation and dynamic analysis of Linux-based
+  firmware.
 * [QEMU][28]: open source machine emulator and virtualizer.
+* [Panda][64]: platform for Architecture-Neutral Dynamic Analysis.
 * [Qiling][10]: Qiling Advanced Binary Emulation Framework.
+* [Triton][65]: dynamic binary analysis library.
 
 ## Exploit Development
 
@@ -111,10 +124,16 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Programming Languages
 
+* [C][57]: C reference
+  * libc implementations:
+    * [glibc][58]: GNU C library.
+    * [musl][59]: C standard library.
+    * [uclibc][60]: C library for developing embedded Linux systems.
+    * [uclibc-ng][61]: small C library for developing embedded Linux systems.
 * [Rust][41]: secure system programming language.
   * [Book][42]: introductory book about Rust.
-  * [std][43]: standard library documentation.
   * [crates.io][44]: Rust community's crate registry.
+  * [std][43]: standard library documentation.
 
 ## RTOS
 
@@ -124,7 +143,8 @@ My personal awesome list of interesting repos, libraries and tools.
 ## Tracing, Hooking and Instrumentation
 
 * [DynamoRIO][23]: runtime code manipulation system.
-* [Frida][36]: instrumentation toolkit for developers, reverse-engineers, and security researchers.
+* [Frida][36]: instrumentation toolkit for developers, reverse-engineers, and
+  security researchers.
 * [Tracee][24]: Linux Runtime Security and Forensics using eBPF.
 
 ## Trusted Execution Environment
@@ -187,3 +207,14 @@ My personal awesome list of interesting repos, libraries and tools.
 [53]: https://salsa.debian.org/reproducible-builds/diffoscope
 [54]: https://github.com/OP-TEE/optee_os
 [55]: https://optee.readthedocs.io/en/latest/index.html
+[56]: https://ir0nstone.gitbook.io/notes/
+[57]: https://en.cppreference.com/w/c
+[58]: https://sourceware.org/git/?p=glibc.git
+[59]: https://git.musl-libc.org/cgit/musl
+[60]: https://www.uclibc.org/
+[61]: https://cgit.uclibc-ng.org/cgi/cgit/uclibc-ng.git/
+[62]: https://github.com/avatartwo/avatar2
+[63]: https://github.com/firmadyne/firmadyne
+[64]: https://github.com/panda-re/panda
+[65]: https://github.com/JonathanSalwan/Triton
+[66]: https://ebpf.io/
