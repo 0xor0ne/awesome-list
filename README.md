@@ -16,6 +16,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Linux Kernel](#linux-kernel)
 * [Network Scanners](#network-scanners)
 * [Network Proxies and Traffic Manipulation](#network-proxies-and-traffic-manipulation)
+* [Misc](#misc)
 * [Programming Languages](#programming-languages)
 * [Reverse Engineering](#reverse-engineering)
 * [RTOS](#rtos)
@@ -44,6 +45,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [ir0nstone][56]: binary exploitation notes.
 * [Nightmare][13]: intro to binary exploitation / reverse engineering course
   based around ctf challenges.
+* [Rust OSDev][68]: rhis Month in Rust OSDev.
 * [System Overlord][46]: security engineering, research, and general hacking.
 
 ## Compilers and Toolchains
@@ -67,6 +69,8 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Embedded and IoT
 
+* [Flashrom][74]: utility for detecting, reading, writing, verifying and erasing
+  flash chips.
 * [Low level][48]: misc documentation about low level development.
 * [NexMon][49]: C-based Firmware Patching Framework for Broadcom/Cypress WiFi
   Chips.
@@ -86,6 +90,9 @@ My personal awesome list of interesting repos, libraries and tools.
 ## Exploit Development
 
 * [how2heap][47]: repository for learning various heap exploitation techniques.
+* [libc-database][69]: database of libc offsets to simplify exploitation.
+* [one_gadget][70]: tool for finding one gadget RCE in libc.so.6.
+* [pwntools][71]: framework and exploit development library.
 
 ## Fuzzing
 
@@ -114,6 +121,7 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Reverse Engineering
 
+* [CAPA][73]: tool to identify capabilities in executable files.
 * [Diffware][52]: configurable tool providing a summary of the changes between
   two files or directories
   * [Diffoscope][53]: directory differ.
@@ -121,6 +129,11 @@ My personal awesome list of interesting repos, libraries and tools.
   toolset.
   * [Cutter][3]: GUI based on [Rizin][2].
   * [Rizin][2]: radare2 fork.
+* [Yara][72]: pattern matching swiss knife for malware researchers.
+
+## Misc
+
+* [OpenSK][67]: open-source implementation for security keys written in Rust.
 
 ## Programming Languages
 
@@ -218,3 +231,11 @@ My personal awesome list of interesting repos, libraries and tools.
 [64]: https://github.com/panda-re/panda
 [65]: https://github.com/JonathanSalwan/Triton
 [66]: https://ebpf.io/
+[67]: https://github.com/google/OpenSK
+[68]: https://rust-osdev.com/
+[69]: https://github.com/niklasb/libc-database
+[70]: https://github.com/david942j/one_gadget
+[71]: https://github.com/Gallopsled/pwntools
+[72]: https://virustotal.github.io/yara/
+[73]: https://github.com/mandiant/capa
+[74]: https://github.com/flashrom/flashrom
