@@ -45,8 +45,10 @@ My personal awesome list of interesting repos, libraries and tools.
 * [ir0nstone][56]: binary exploitation notes.
 * [Nightmare][13]: intro to binary exploitation / reverse engineering course
   based around ctf challenges.
+* [Phrack][75]: e-zine written by and for hackers.
 * [Rust OSDev][68]: rhis Month in Rust OSDev.
 * [System Overlord][46]: security engineering, research, and general hacking.
+* [tmp.out][76]: ELF research group.
 
 ## Compilers and Toolchains
 
@@ -106,6 +108,25 @@ My personal awesome list of interesting repos, libraries and tools.
   techniques, bug detection mechanisms, and defence technologies.
 * [Kernel documentation][12]: official linux kernel documentation.
 * [kernel.org][11]: linux kernel archives.
+* [linux-insides][77]: a book about linux kernel and its insides.
+* Rootkits:
+  * [Awesome Linux Rootkits][29].
+  * [Diamorphine][78]: LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and
+    ARM64.
+  * [Pinkit][81]: LKM rootkit that executes a reverse TCP netcat shell with root
+    privileges.
+  * [Reptile][79]: LKM Linux rootkit.
+  * [Research rootkit][84]: LibZeroEvil & the Research Rootkit project.
+  * [Rootkit][83]: rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and
+    2.6.32), both i386 and amd64.
+  * [Rootkit list download][82]: list of rootkits (includes also userspace
+    rootkits).
+  * [Sutekh][80]: rootkit that gives a userland process root permissions.
+* Rust:
+  * [Linux crate][86].
+  * [knock-out][87]: example of a kernel module in Rust.
+  * [Rust for Linux][85]: organization for adding support for the Rust language
+    to the Linux kernel.
 
 ## Network Scanners
 
@@ -239,3 +260,16 @@ My personal awesome list of interesting repos, libraries and tools.
 [72]: https://virustotal.github.io/yara/
 [73]: https://github.com/mandiant/capa
 [74]: https://github.com/flashrom/flashrom
+[75]: http://www.phrack.org/
+[76]: https://tmpout.sh/#
+[77]: https://0xax.gitbooks.io/linux-insides/content/
+[78]: https://github.com/m0nad/Diamorphine
+[79]: https://github.com/f0rb1dd3n/Reptile
+[80]: https://github.com/PinkP4nther/Sutekh
+[81]: https://github.com/PinkP4nther/Pinkit
+[82]: https://github.com/d30sa1/RootKits-List-Download
+[83]: https://github.com/nurupo/rootkit
+[84]: https://github.com/NoviceLive/research-rootkit
+[85]: https://github.com/Rust-for-Linux
+[86]: https://crates.io/crates/linux
+[87]: https://github.com/jbaublitz/knock-out
