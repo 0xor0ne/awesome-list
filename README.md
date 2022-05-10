@@ -14,9 +14,9 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Exploit Development](#exploit-development)
 * [Fuzzing](#fuzzing)
 * [Linux Kernel](#linux-kernel)
+* [Misc](#misc)
 * [Network Scanners](#network-scanners)
 * [Network Proxies and Traffic Manipulation](#network-proxies-and-traffic-manipulation)
-* [Misc](#misc)
 * [Programming Languages](#programming-languages)
 * [Reverse Engineering](#reverse-engineering)
 * [RTOS](#rtos)
@@ -33,7 +33,8 @@ My personal awesome list of interesting repos, libraries and tools.
   security and exploitation.
 * [Linux Rootkits][29]: list of rootkits for the Linux kernel.
 * [Malware Analysis][34]: malware analysis tools and resources.
-* [IoT][19]: st of great resources about IoT Framework, Library, OS, Platforms.
+* [IoT][19]: list of great resources about IoT Framework, Library, OS, Platforms.
+* [Golang][105]: curated list of awesome Go frameworks, libraries and software.
 * [Raspberry Pi][33]: Raspberry Pi tools, projects, images and resources.
 * [Reverse Engineering][35]: reversing resources.
 * [Rust][18]: curated list of Rust code and resources.
@@ -71,6 +72,7 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Embedded and IoT
 
+* [FACT][100]: Firmware Analysis and Comparison Tool.
 * [Flashrom][74]: utility for detecting, reading, writing, verifying and erasing
   flash chips.
 * [Low level][48]: misc documentation about low level development.
@@ -91,6 +93,7 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Exploit Development
 
+* [cwe_ckecker][101]: finds vulnerable patterns in binary executables.
 * [how2heap][47]: repository for learning various heap exploitation techniques.
 * [libc-database][69]: database of libc offsets to simplify exploitation.
 * [one_gadget][70]: tool for finding one gadget RCE in libc.so.6.
@@ -99,8 +102,15 @@ My personal awesome list of interesting repos, libraries and tools.
 ## Fuzzing
 
 * [AFLplusplus][38]: improved version of AFL.
+* [boofuzz][89]: fork and successor of the Sulley Fuzzing Framework.
+* [difuze][90]: fuzzer for Linux Kernel Drivers.
+* [halfempty][91]: fast, parallel test case minimization tool.
 * [Honggfuzz][39]: evolutionary, feedback-driven fuzzing based on code coverage.
+* [krf][92]: kernelspace syscall interceptor and randomized faulter.
+* [LibAFL][95]: fuzzing library.
 * [Syzkaller][37]: unsupervised coverage-guided kernel fuzzer.
+  * [Syzbot][94]: continuously fuzzes main Linux kernel branches and
+    automatically reports found bugs
 
 ## Linux Kernel
 
@@ -122,11 +132,21 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Rootkit list download][82]: list of rootkits (includes also userspace
     rootkits).
   * [Sutekh][80]: rootkit that gives a userland process root permissions.
+* [ltp][93]: Linux Test Project.
 * Rust:
   * [Linux crate][86].
   * [knock-out][87]: example of a kernel module in Rust.
   * [Rust for Linux][85]: organization for adding support for the Rust language
     to the Linux kernel.
+
+## Malware
+
+* [Pafish][97]: testing tool that uses different techniques to detect virtual
+  machines and malware analysis environments.
+
+## Misc
+
+* [OpenSK][67]: open-source implementation for security keys written in Rust.
 
 ## Network Scanners
 
@@ -140,22 +160,6 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [mitmproxy][40]: interactive HTTPS proxy.
 
-## Reverse Engineering
-
-* [CAPA][73]: tool to identify capabilities in executable files.
-* [Diffware][52]: configurable tool providing a summary of the changes between
-  two files or directories
-  * [Diffoscope][53]: directory differ.
-* [Radare2][1]: UNIX-like reverse engineering framework and command-line
-  toolset.
-  * [Cutter][3]: GUI based on [Rizin][2].
-  * [Rizin][2]: radare2 fork.
-* [Yara][72]: pattern matching swiss knife for malware researchers.
-
-## Misc
-
-* [OpenSK][67]: open-source implementation for security keys written in Rust.
-
 ## Programming Languages
 
 * [C][57]: C reference
@@ -164,10 +168,36 @@ My personal awesome list of interesting repos, libraries and tools.
     * [musl][59]: C standard library.
     * [uclibc][60]: C library for developing embedded Linux systems.
     * [uclibc-ng][61]: small C library for developing embedded Linux systems.
+  * Libraries:
+    * [libaco][104]: blazing fast and lightweight C asymmetric coroutine
+      library.
+* [Go][106]: open source programming language supported by Google.
+  * [Docs][107]: official documentation.
+  * [pkg.go.dev][108]: packages documentation.
 * [Rust][41]: secure system programming language.
   * [Book][42]: introductory book about Rust.
   * [crates.io][44]: Rust community's crate registry.
   * [std][43]: standard library documentation.
+  * Libraries:
+    * [Goblin][99]: cross-platform binary parsing crate, written in Rust.
+    * [redhook][96]: dynamic function call interposition / hooking (LD_PRELOAD)
+      for Rust.
+
+## Reverse Engineering
+
+* [CAPA][73]: tool to identify capabilities in executable files.
+  * [lancelot-flirt][103]: library for parsing, compiling, and matching Fast
+    Library Identification and Recognition Technology (FLIRT) signatures.
+* [Diffware][52]: configurable tool providing a summary of the changes between
+  two files or directories
+  * [Diffoscope][53]: directory differ.
+* [FLOSS][102]: FLARE Obfuscated String Solver.
+* [Radare2][1]: UNIX-like reverse engineering framework and command-line
+  toolset.
+  * [Book][98]: radare2 official book.
+  * [Cutter][3]: GUI based on [Rizin][2].
+  * [Rizin][2]: radare2 fork.
+* [Yara][72]: pattern matching swiss knife for malware researchers.
 
 ## RTOS
 
@@ -179,6 +209,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [DynamoRIO][23]: runtime code manipulation system.
 * [Frida][36]: instrumentation toolkit for developers, reverse-engineers, and
   security researchers.
+* [QDBI][88]: a Dynamic Binary Instrumentation framework based on LLVM.
 * [Tracee][24]: Linux Runtime Security and Forensics using eBPF.
 
 ## Trusted Execution Environment
@@ -273,3 +304,24 @@ My personal awesome list of interesting repos, libraries and tools.
 [85]: https://github.com/Rust-for-Linux
 [86]: https://crates.io/crates/linux
 [87]: https://github.com/jbaublitz/knock-out
+[88]: https://github.com/QBDI/QBDI
+[89]: https://github.com/jtpereyda/boofuzz
+[90]: https://github.com/ucsb-seclab/difuze
+[91]: https://github.com/googleprojectzero/halfempty
+[92]: https://github.com/trailofbits/krf
+[93]: https://github.com/linux-test-project/ltp
+[94]: https://syzkaller.appspot.com/upstream
+[95]: https://github.com/AFLplusplus/LibAFL
+[96]: https://github.com/geofft/redhook
+[97]: https://github.com/a0rtega/pafish
+[98]: https://book.rada.re/
+[99]: https://github.com/m4b/goblin
+[100]: https://github.com/fkie-cad/FACT_core
+[101]: https://github.com/fkie-cad/cwe_checker
+[102]: https://github.com/mandiant/flare-floss/
+[103]: https://crates.io/crates/lancelot-flirt
+[104]: https://github.com/hnes/libaco
+[105]: https://github.com/avelino/awesome-go
+[106]: https://go.dev/
+[107]: https://go.dev/doc/
+[108]: https://pkg.go.dev/
