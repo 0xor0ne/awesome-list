@@ -7,6 +7,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Awesome Lists](#awesome-lists)
 * [Blogs](#blogs)
 * [Compilers and Toolchains](#compilers-and-toolchains)
+* [Databases](#databases)
 * [Debuggers](#debuggers)
 * [eBPF](#ebpf)
 * [Embedded and IoT](#embedded-and-iot)
@@ -44,6 +45,7 @@ My personal awesome list of interesting repos, libraries and tools.
 ## Blogs
 
 * [ir0nstone][56]: binary exploitation notes.
+* [malwareMustDie][116]: white-hat security research workgroup.
 * [Nightmare][13]: intro to binary exploitation / reverse engineering course
   based around ctf challenges.
 * [Phrack][75]: e-zine written by and for hackers.
@@ -60,11 +62,21 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Dockcross][45]: cross compiling toolchains in Docker images.
 * [gcc][14]: GNU Compiler Collection.
 
+## Databases
+
+* [ExploitDB][112]: the exploit database.
+* [iot-malware][117]: source code of samples leaked online.
+* [MalwareBazaar][111]: sharing malware samples with the infosec community.
+* [SeeBug][114]: exploit database.
+* [Sploitus][113]: exploit database.
+* [vx-underground][115]: malware collections.
+
 ## Debuggers
 
 * [GDB][26]: GNU Project Debugger.
   * [GEF][27]: plugin with set of commands to assis exploit developers and
     reverse-engineers.
+* [Scout][110]: instruction based research debugger.
 
 ## eBPF
 
@@ -180,11 +192,13 @@ My personal awesome list of interesting repos, libraries and tools.
   * [std][43]: standard library documentation.
   * Libraries:
     * [Goblin][99]: cross-platform binary parsing crate, written in Rust.
+    * [redbpf][119]: Rust library for building and running BPF/eBPF modules.
     * [redhook][96]: dynamic function call interposition / hooking (LD_PRELOAD)
       for Rust.
 
 ## Reverse Engineering
 
+* [Angr][109]: user-friendly binary analysis platform.
 * [CAPA][73]: tool to identify capabilities in executable files.
   * [lancelot-flirt][103]: library for parsing, compiling, and matching Fast
     Library Identification and Recognition Technology (FLIRT) signatures.
@@ -206,6 +220,9 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Tracing, Hooking and Instrumentation
 
+* [bcc][118]: rools for BPF-based Linux IO analysis, networking, monitoring, and
+  more.
+* [bpftrace][120]: high-level tracing language for Linux eBPF.
 * [DynamoRIO][23]: runtime code manipulation system.
 * [Frida][36]: instrumentation toolkit for developers, reverse-engineers, and
   security researchers.
@@ -325,3 +342,15 @@ My personal awesome list of interesting repos, libraries and tools.
 [106]: https://go.dev/
 [107]: https://go.dev/doc/
 [108]: https://pkg.go.dev/
+[109]: https://github.com/angr/angr
+[110]: https://github.com/CheckPointSW/Scout
+[111]: https://bazaar.abuse.ch/
+[112]: https://www.exploit-db.com/
+[113]: https://sploitus.com/
+[114]: https://www.seebug.org/
+[115]: https://www.vx-underground.org/
+[116]: https://www.malwaremustdie.org/
+[117]: https://github.com/ifding/iot-malware
+[118]: https://github.com/iovisor/bcc
+[119]: https://github.com/foniod/redbpf
+[120]: https://github.com/iovisor/bpftrace
