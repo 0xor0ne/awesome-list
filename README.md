@@ -16,8 +16,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Fuzzing](#fuzzing)
 * [Linux Kernel](#linux-kernel)
 * [Misc](#misc)
-* [Network Scanners](#network-scanners)
-* [Network Proxies and Traffic Manipulation](#network-proxies-and-traffic-manipulation)
+* [Networking](#networking)
+* [Penetration Testing](#penetration-testing)
 * [Programming Languages](#programming-languages)
 * [Reverse Engineering](#reverse-engineering)
 * [RTOS](#rtos)
@@ -160,20 +160,50 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [OpenSK][67]: open-source implementation for security keys written in Rust.
 
-## Network Scanners
+## Networking
 
-* [masscan][8]: TCP port scanner, spews SYN packets asynchronously.
-* [nmap][4]: utility for network scanning and discovery and security auditing
-* [RustScan][5]: quick port scanner implemented in rust.
-* [skanuvaty][7]: fast DNS/network/port scanner.
-* [ZMap][6]: fast single packet network scanner.
+* Misc:
+  * [nebula][122]: scalable overlay networking tool.
+* Network Scanners:
+  * [masscan][8]: TCP port scanner, spews SYN packets asynchronously.
+  * [nmap][4]: utility for network scanning and discovery and security auditing
+  * [RustScan][5]: quick port scanner implemented in rust.
+  * [skanuvaty][7]: fast DNS/network/port scanner.
+  * [ZMap][6]: fast single packet network scanner.
+* Proxies:
+  * [leaf][132]: versatile and efficient proxy framework.
+  * [mitmproxy][40]: interactive HTTPS proxy.
+  * [socat][134]: relay for bidirectional data transfer.
+* Remote Shells:
+  * [icmpsh][136]: reverse ICMP shell.
+  * [tunshell][121]: remote shell into ephemeral environments.
+  * [wash][131]: a cloud-native shell for bringing remote infrastructure to your
+    terminal.
+* Tunnelling:
+  * [gsocket][130]: connect like there is no firewall. Securely.
+  * [ssf][133]: Secure Socket Funneling.
 
-## Network Proxies and Traffic Manipulation
+## Penetration testing
 
-* [mitmproxy][40]: interactive HTTPS proxy.
+* [PayloadAllTheThings][123]: list of useful payloads and bypass for Web
+  Application Security and Pentest/CTF.
+* Post-exploitation:
+  * [pupy][135]: cross-platform remote administration and post-exploitation
+    tool.
 
 ## Programming Languages
 
+* Assembly:
+  * ARM:
+    * [Docs][124]: official documentation.
+    * [Instructions Reference][125]: official instruction reference.
+  * MIPS:
+    * [Manuals][128]: official manuals.
+  * RISC-V:
+    * [Manuals][129]: official specifications.
+  * x86:
+    * [felixcloutier.com][126]: instructions reference.
+    * [Software Developer Manuals][127]: official manuals.
 * [C][57]: C reference
   * libc implementations:
     * [glibc][58]: GNU C library.
@@ -354,3 +384,19 @@ My personal awesome list of interesting repos, libraries and tools.
 [118]: https://github.com/iovisor/bcc
 [119]: https://github.com/foniod/redbpf
 [120]: https://github.com/iovisor/bpftrace
+[121]: https://github.com/TimeToogo/tunshell
+[122]: https://github.com/slackhq/nebula
+[123]: https://github.com/swisskyrepo/PayloadsAllTheThings
+[124]: https://developer.arm.com/documentation/
+[125]: https://developer.arm.com/documentation/dui0068/b/ARM-Instruction-Reference
+[126]: https://www.felixcloutier.com/x86/
+[127]: https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
+[128]: https://www.mips.com/downloads/
+[129]: https://github.com/riscv
+[130]: https://github.com/hackerschoice/gsocket
+[131]: https://github.com/puppetlabs/wash
+[132]: https://github.com/eycorsican/leaf
+[133]: https://github.com/securesocketfunneling/ssf
+[134]: https://repo.or.cz/socat.git
+[135]: https://github.com/n1nj4sec/pupy
+[136]: https://github.com/bdamele/icmpsh
