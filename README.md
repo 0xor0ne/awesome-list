@@ -44,6 +44,7 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Blogs
 
+* [GitHub Security Lab][137]: GitHub security research.
 * [ir0nstone][56]: binary exploitation notes.
 * [malwareMustDie][116]: white-hat security research workgroup.
 * [Nightmare][13]: intro to binary exploitation / reverse engineering course
@@ -101,6 +102,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [QEMU][28]: open source machine emulator and virtualizer.
 * [Panda][64]: platform for Architecture-Neutral Dynamic Analysis.
 * [Qiling][10]: Qiling Advanced Binary Emulation Framework.
+* [Renode][138]: virtual development framework for complex embedded systems.
 * [Triton][65]: dynamic binary analysis library.
 
 ## Exploit Development
@@ -174,8 +176,13 @@ My personal awesome list of interesting repos, libraries and tools.
   * [leaf][132]: versatile and efficient proxy framework.
   * [mitmproxy][40]: interactive HTTPS proxy.
   * [socat][134]: relay for bidirectional data transfer.
-* Remote Shells:
+* Remote/Reverse Shells:
+  * [GTRS][142]: Google Translator Reverse Shell.
+  * [hershell][141]: multiplatform reverse shell generator.
   * [icmpsh][136]: reverse ICMP shell.
+  * [Platypus][144]: modern multiple reverse shell sessions manager written in
+    go.
+  * [rsg][146]: tool to generate various ways to do a reverse shell.
   * [tunshell][121]: remote shell into ephemeral environments.
   * [wash][131]: a cloud-native shell for bringing remote infrastructure to your
     terminal.
@@ -185,11 +192,15 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Penetration testing
 
+* [BDF][145]: The Backdoor Factory.
+* [GTFOBins][147]: curated list of Unix binaries that can be used to bypass
+  local security restrictions.
 * [PayloadAllTheThings][123]: list of useful payloads and bypass for Web
   Application Security and Pentest/CTF.
 * Post-exploitation:
   * [pupy][135]: cross-platform remote administration and post-exploitation
     tool.
+  * [pwncat][143]: reverse and bind shell handler.
 
 ## Programming Languages
 
@@ -245,6 +256,8 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## RTOS
 
+* [FreeRTOS][140]: open source, real-time operating system for microcontrollers.
+* [MangooseOS][139]: IoT operating system and networking library.
 * [Zephyr][50]: mall, scalable, real-time operating system (RTOS).
   * [Docs][51]: zephyt project documentation.
 
@@ -400,3 +413,14 @@ My personal awesome list of interesting repos, libraries and tools.
 [134]: https://repo.or.cz/socat.git
 [135]: https://github.com/n1nj4sec/pupy
 [136]: https://github.com/bdamele/icmpsh
+[137]: https://github.blog/tag/github-security-lab/
+[138]: https://github.com/renode/renode
+[139]: https://mongoose-os.com/
+[140]: https://aws.amazon.com/freertos/
+[141]: https://github.com/lesnuages/hershell
+[142]: https://github.com/mthbernardes/GTRS
+[143]: https://github.com/calebstewart/pwncat
+[144]: https://github.com/WangYihang/Platypus
+[145]: https://github.com/secretsquirrel/the-backdoor-factory
+[146]: https://github.com/mthbernardes/rsg
+[147]: https://gtfobins.github.io/
