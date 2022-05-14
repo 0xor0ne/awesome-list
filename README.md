@@ -15,6 +15,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Exploit Development](#exploit-development)
 * [Fuzzing](#fuzzing)
 * [Linux Kernel](#linux-kernel)
+* [Malwares](#malwares)
 * [Misc](#misc)
 * [Networking](#networking)
 * [Penetration Testing](#penetration-testing)
@@ -153,8 +154,10 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Rust for Linux][85]: organization for adding support for the Rust language
     to the Linux kernel.
 
-## Malware
+## Malwares
 
+* Packers:
+  * [UPC][154]: free, portable, extendable, high-performance executable packer.
 * [Pafish][97]: testing tool that uses different techniques to detect virtual
   machines and malware analysis environments.
 
@@ -229,8 +232,16 @@ My personal awesome list of interesting repos, libraries and tools.
   * [pkg.go.dev][108]: packages documentation.
 * [Rust][41]: secure system programming language.
   * [Book][42]: introductory book about Rust.
+  * [Cargo Book][129]: official cargo book.
   * [crates.io][44]: Rust community's crate registry.
+  * [Embedded Rust Book][153]: introductory book about using the Rust
+    Programming Language on "Bare Metal" embedded systems.
+  * [Rustonomicon][150]: awful details that you need to understand when writing
+    Unsafe Rust programs.
+  * [Rust Reference][151]: primary reference for the Rust programming language.
+  * [rustup][152]: installer for the systems programming language Rust.
   * [std][43]: standard library documentation.
+  * [This Week In Rust][148]: handpicked Rust updates, delivered to your inbox.
   * Libraries:
     * [Goblin][99]: cross-platform binary parsing crate, written in Rust.
     * [redbpf][119]: Rust library for building and running BPF/eBPF modules.
@@ -424,3 +435,10 @@ My personal awesome list of interesting repos, libraries and tools.
 [145]: https://github.com/secretsquirrel/the-backdoor-factory
 [146]: https://github.com/mthbernardes/rsg
 [147]: https://gtfobins.github.io/
+[148]: https://this-week-in-rust.org/
+[149]: https://doc.rust-lang.org/cargo/
+[150]: https://doc.rust-lang.org/nomicon/
+[151]: https://doc.rust-lang.org/stable/reference/
+[152]: https://rustup.rs/
+[153]: https://docs.rust-embedded.org/book/
+[154]: https://upx.github.io/
