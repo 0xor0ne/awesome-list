@@ -48,6 +48,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [GitHub Security Lab][137]: GitHub security research.
 * [ir0nstone][56]: binary exploitation notes.
 * [malwareMustDie][116]: white-hat security research workgroup.
+* [Malware traffic analysis][157]: source for packet capture (pcap) files and
+  malware samples.
 * [Nightmare][13]: intro to binary exploitation / reverse engineering course
   based around ctf challenges.
 * [Phrack][75]: e-zine written by and for hackers.
@@ -113,6 +115,9 @@ My personal awesome list of interesting repos, libraries and tools.
 * [libc-database][69]: database of libc offsets to simplify exploitation.
 * [one_gadget][70]: tool for finding one gadget RCE in libc.so.6.
 * [pwntools][71]: framework and exploit development library.
+* [ROPGadget][159]: search your gadgets on your binaries to facilitate your ROP
+  exploitation.
+* [Ropper][160]: find gadgets to build rop chains for different architectures.
 
 ## Fuzzing
 
@@ -254,9 +259,13 @@ My personal awesome list of interesting repos, libraries and tools.
 * [CAPA][73]: tool to identify capabilities in executable files.
   * [lancelot-flirt][103]: library for parsing, compiling, and matching Fast
     Library Identification and Recognition Technology (FLIRT) signatures.
+* [CyberChef][155]: web app for encryption, encoding, compression and data
+  analysis.
 * [Diffware][52]: configurable tool providing a summary of the changes between
   two files or directories
   * [Diffoscope][53]: directory differ.
+* {ELFKickers][156]: collection of programs that access and manipulate ELF
+  files.
 * [FLOSS][102]: FLARE Obfuscated String Solver.
 * [Radare2][1]: UNIX-like reverse engineering framework and command-line
   toolset.
@@ -280,6 +289,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [DynamoRIO][23]: runtime code manipulation system.
 * [Frida][36]: instrumentation toolkit for developers, reverse-engineers, and
   security researchers.
+* [LIEF][158]: library to Instrument Executable Formats.
 * [QDBI][88]: a Dynamic Binary Instrumentation framework based on LLVM.
 * [Tracee][24]: Linux Runtime Security and Forensics using eBPF.
 
@@ -442,3 +452,9 @@ My personal awesome list of interesting repos, libraries and tools.
 [152]: https://rustup.rs/
 [153]: https://docs.rust-embedded.org/book/
 [154]: https://upx.github.io/
+[155]: https://github.com/gchq/CyberChef
+[156]: https://github.com/BR903/ELFkickers
+[157]: https://www.malware-traffic-analysis.net/
+[158]: https://github.com/lief-project/LIEF
+[159]: https://github.com/JonathanSalwan/ROPgadget
+[160]: https://github.com/sashs/Ropper
