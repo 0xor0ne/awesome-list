@@ -38,6 +38,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [IoT][19]: list of great resources about IoT Framework, Library, OS, Platforms.
 * [Golang][105]: curated list of awesome Go frameworks, libraries and software.
 * [Raspberry Pi][33]: Raspberry Pi tools, projects, images and resources.
+* [RAT][162]: RAT And C&C Resources.
 * [Reverse Engineering][35]: reversing resources.
 * [Rust][18]: curated list of Rust code and resources.
 * [Shell][31]: command-line frameworks, toolkits, guides and gizmos.
@@ -84,7 +85,11 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## eBPF
 
+* [BumbleBee][173]: simplifies building eBPF tools and allows you to package,
+  distribute, and run them anywhere.
 * [epbf.io][66]: official website.
+* [Cilium ebpf][172]: Pure-Go library to read, modify and load eBPF programs.
+* [tetragon][171]: eBPF-based Security Observability and Runtime Enforcement.
 
 ## Embedded and IoT
 
@@ -172,6 +177,9 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Networking
 
+* File Transfer:
+  * [croc][167]: easily and securely send things from one computer to another.
+  * [pcp][166]: peer-to-peer data transfer tool based on libp2p.
 * Misc:
   * [nebula][122]: scalable overlay networking tool.
 * Network Scanners:
@@ -181,8 +189,10 @@ My personal awesome list of interesting repos, libraries and tools.
   * [skanuvaty][7]: fast DNS/network/port scanner.
   * [ZMap][6]: fast single packet network scanner.
 * Proxies:
+  * [frp][169]: fast reverse proxy.
   * [leaf][132]: versatile and efficient proxy framework.
   * [mitmproxy][40]: interactive HTTPS proxy.
+  * [ngrok][170]: introspected tunnels to localhost.
   * [socat][134]: relay for bidirectional data transfer.
 * Remote/Reverse Shells:
   * [GTRS][142]: Google Translator Reverse Shell.
@@ -195,6 +205,8 @@ My personal awesome list of interesting repos, libraries and tools.
   * [wash][131]: a cloud-native shell for bringing remote infrastructure to your
     terminal.
 * Tunnelling:
+  * [clash][164]: rule-based tunnel in Go.
+  * [gost][165]: a simple tunnel written in golang.
   * [gsocket][130]: connect like there is no firewall. Securely.
   * [ssf][133]: Secure Socket Funneling.
 
@@ -203,12 +215,16 @@ My personal awesome list of interesting repos, libraries and tools.
 * [BDF][145]: The Backdoor Factory.
 * [GTFOBins][147]: curated list of Unix binaries that can be used to bypass
   local security restrictions.
+* [traitor][168]: automatic Linux privesc via exploitation of low-hanging fruit.
 * [PayloadAllTheThings][123]: list of useful payloads and bypass for Web
   Application Security and Pentest/CTF.
 * Post-exploitation:
+  * [Emp3r0r][163]: Linux/Windows post-exploitation framework made by linux
+    user.
   * [pupy][135]: cross-platform remote administration and post-exploitation
     tool.
   * [pwncat][143]: reverse and bind shell handler.
+  * [Stitch][161]: python Remote Administration Tool.
 
 ## Programming Languages
 
@@ -458,3 +474,16 @@ My personal awesome list of interesting repos, libraries and tools.
 [158]: https://github.com/lief-project/LIEF
 [159]: https://github.com/JonathanSalwan/ROPgadget
 [160]: https://github.com/sashs/Ropper
+[161]: https://github.com/nathanlopez/Stitch
+[162]: https://github.com/alphaSeclab/awesome-rat/blob/master/Readme_en.md
+[163]: https://github.com/jm33-m0/emp3r0r
+[164]: https://github.com/Dreamacro/clash
+[165]: https://github.com/ginuerzh/gost
+[166]: https://github.com/dennis-tra/pcp
+[167]: https://github.com/schollz/croc
+[168]: https://github.com/liamg/traitor
+[169]: https://github.com/fatedier/frp
+[170]: https://github.com/inconshreveable/ngrok
+[171]: https://github.com/cilium/tetragon
+[172]: https://github.com/cilium/ebpf
+[173]: https://bumblebee.io/EN
