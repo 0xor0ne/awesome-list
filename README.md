@@ -22,6 +22,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Programming Languages](#programming-languages)
 * [Reverse Engineering](#reverse-engineering)
 * [RTOS](#rtos)
+* [Sandboxing](#sandboxing)
 * [Tracing, Hooking and Instrumentation](#tracing-hooking-and-instrumentation)
 * [Trusted Execution Environment](#trusted-execution-environment)
 
@@ -42,6 +43,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Reverse Engineering][35]: reversing resources.
 * [Rust][18]: curated list of Rust code and resources.
 * [Shell][31]: command-line frameworks, toolkits, guides and gizmos.
+* [Tunneling][181]: ngrok alternatives and other ngrok-like tunneling software
+  and services.
 * [Vim][32]: all things vim.
 
 ## Blogs
@@ -69,6 +72,7 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Databases
 
+* [CVE Details][185]: security vulnerability datasource.
 * [ExploitDB][112]: the exploit database.
 * [iot-malware][117]: source code of samples leaked online.
 * [MalwareBazaar][111]: sharing malware samples with the infosec community.
@@ -96,6 +100,10 @@ My personal awesome list of interesting repos, libraries and tools.
 * [FACT][100]: Firmware Analysis and Comparison Tool.
 * [Flashrom][74]: utility for detecting, reading, writing, verifying and erasing
   flash chips.
+* [Frankenstein][192]: Broadcom and Cypress firmware emulation for fuzzing and
+  further full-stack debugging.
+* [InternalBlue][193]: bluetooth experimentation framework for Broadcom and
+  Cypress chips.
 * [Low level][48]: misc documentation about low level development.
 * [NexMon][49]: C-based Firmware Patching Framework for Broadcom/Cypress WiFi
   Chips.
@@ -112,6 +120,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Qiling][10]: Qiling Advanced Binary Emulation Framework.
 * [Renode][138]: virtual development framework for complex embedded systems.
 * [Triton][65]: dynamic binary analysis library.
+* [Unicorn][187]: CPU emulator framework.
 
 ## Exploit Development
 
@@ -130,6 +139,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [boofuzz][89]: fork and successor of the Sulley Fuzzing Framework.
 * [difuze][90]: fuzzer for Linux Kernel Drivers.
 * [halfempty][91]: fast, parallel test case minimization tool.
+* [Healer][190]: kernel fuzzer inspired by Syzkaller.
 * [Honggfuzz][39]: evolutionary, feedback-driven fuzzing based on code coverage.
 * [krf][92]: kernelspace syscall interceptor and randomized faulter.
 * [LibAFL][95]: fuzzing library.
@@ -167,13 +177,15 @@ My personal awesome list of interesting repos, libraries and tools.
 ## Malwares
 
 * Packers:
-  * [UPC][154]: free, portable, extendable, high-performance executable packer.
+  * [UPX][154]: free, portable, extendable, high-performance executable packer.
 * [Pafish][97]: testing tool that uses different techniques to detect virtual
   machines and malware analysis environments.
 
 ## Misc
 
 * [OpenSK][67]: open-source implementation for security keys written in Rust.
+* [Polypyus][191]: locate functions in raw binaries by extracting known functions
+  from similar binaries.
 
 ## Networking
 
@@ -193,6 +205,8 @@ My personal awesome list of interesting repos, libraries and tools.
   * [leaf][132]: versatile and efficient proxy framework.
   * [mitmproxy][40]: interactive HTTPS proxy.
   * [ngrok][170]: introspected tunnels to localhost.
+  * [rathole][183]: lightweight and high-performance reverse proxy for NAT
+    traversal, written in Rust.
   * [socat][134]: relay for bidirectional data transfer.
 * Remote/Reverse Shells:
   * [GTRS][142]: Google Translator Reverse Shell.
@@ -206,6 +220,8 @@ My personal awesome list of interesting repos, libraries and tools.
     terminal.
 * Tunnelling:
   * [clash][164]: rule-based tunnel in Go.
+  * [dog-tunnel][179]: p2p tunnel.
+    * [kcp][180]: a Fast and Reliable ARQ Protocol.
   * [gost][165]: a simple tunnel written in golang.
   * [gsocket][130]: connect like there is no firewall. Securely.
   * [ssf][133]: Secure Socket Funneling.
@@ -223,8 +239,11 @@ My personal awesome list of interesting repos, libraries and tools.
     user.
   * [pupy][135]: cross-platform remote administration and post-exploitation
     tool.
+  * [sliver][184]: Adversary Emulation Framework.
   * [pwncat][143]: reverse and bind shell handler.
   * [Stitch][161]: python Remote Administration Tool.
+  * [TheFatRat][182]: generate backdoor and easy tool to post exploitation
+    attack.
 
 ## Programming Languages
 
@@ -257,6 +276,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [crates.io][44]: Rust community's crate registry.
   * [Embedded Rust Book][153]: introductory book about using the Rust
     Programming Language on "Bare Metal" embedded systems.
+  * [Raspberrypi OS Tutorials][186]: learn to write an embedded OS in Rust.
   * [Rustonomicon][150]: awful details that you need to understand when writing
     Unsafe Rust programs.
   * [Rust Reference][151]: primary reference for the Rust programming language.
@@ -297,6 +317,16 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Zephyr][50]: mall, scalable, real-time operating system (RTOS).
   * [Docs][51]: zephyt project documentation.
 
+## Sandboxing
+
+* [nano][176]: kernel designed to run one and only one application in a
+  virtualized environment.
+* [gvisor][174]: application Kernel for Containers.
+* [Firecracker][175]: secure and fast microVMs for serverless computing.
+* [ops][178]: build and run nanos unikernels.
+* [RustyHermit][189]: rust-based, lightweight unikernel.
+* [sandboxed-api][177]: generates sandboxes for C/C++ libraries automatically.
+
 ## Tracing, Hooking and Instrumentation
 
 * [bcc][118]: rools for BPF-based Linux IO analysis, networking, monitoring, and
@@ -312,6 +342,8 @@ My personal awesome list of interesting repos, libraries and tools.
 ## Trusted Execution Environment
 
 * [OP-TEE][54]: Open Portable Trusted Execution Environment.
+  * [TrustedFirmware][188]:  reference implementation of secure software for
+    Armv8-A, Armv9-A and Armv8-M.
   * [Docs][55]: official OP-TEE documentation.
 
 [1]: https://github.com/radareorg/radare2
@@ -487,3 +519,23 @@ My personal awesome list of interesting repos, libraries and tools.
 [171]: https://github.com/cilium/tetragon
 [172]: https://github.com/cilium/ebpf
 [173]: https://bumblebee.io/EN
+[174]: https://github.com/google/gvisor
+[175]: https://github.com/firecracker-microvm/firecracker
+[176]: https://github.com/nanovms/nanos
+[177]: https://github.com/google/sandboxed-api
+[178]: https://github.com/nanovms/ops
+[179]: https://github.com/vzex/dog-tunnel
+[180]: https://github.com/skywind3000/kcp
+[181]: https://github.com/anderspitman/awesome-tunneling.git
+[182]: https://github.com/screetsec/TheFatRat
+[183]: https://github.com/rapiz1/rathole
+[184]: https://github.com/BishopFox/sliver
+[185]: https://www.cvedetails.com/
+[186]: https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+[187]: https://github.com/unicorn-engine/unicorn
+[188]: https://www.trustedfirmware.org/
+[189]: https://github.com/hermitcore/rusty-hermit
+[190]: https://github.com/SunHao-0/healer
+[191]: https://github.com/seemoo-lab/polypyus
+[192]: https://github.com/seemoo-lab/frankenstein
+[193]: https://github.com/seemoo-lab/internalblue
