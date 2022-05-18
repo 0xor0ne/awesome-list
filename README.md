@@ -32,8 +32,6 @@ My personal awesome list of interesting repos, libraries and tools.
 * [eBPF][25]: curated list of awesome projects related to eBPF.
 * [Docker][30]: curated list of Docker resources and projects.
 * [Embedded][20]: curated list of awesome embedded programming.
-* [Linux Kernel Exploitation][21]: collection of links related to Linux kernel
-  security and exploitation.
 * [Linux Rootkits][29]: list of rootkits for the Linux kernel.
 * [Malware Analysis][34]: malware analysis tools and resources.
 * [IoT][19]: list of great resources about IoT Framework, Library, OS, Platforms.
@@ -49,6 +47,10 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Blogs
 
+* [a13xp0p0v][197]: exploit development and vulnerability research (mostly
+  Linux).
+* [Connof McGarr][196]: exploit development and vulnerability research (mostly
+  Windows).
 * [GitHub Security Lab][137]: GitHub security research.
 * [ir0nstone][56]: binary exploitation notes.
 * [malwareMustDie][116]: white-hat security research workgroup.
@@ -57,6 +59,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Nightmare][13]: intro to binary exploitation / reverse engineering course
   based around ctf challenges.
 * [Phrack][75]: e-zine written by and for hackers.
+* [Project Zero][198]: news and updates from the Project Zero team at Google.
 * [Rust OSDev][68]: rhis Month in Rust OSDev.
 * [System Overlord][46]: security engineering, research, and general hacking.
 * [tmp.out][76]: ELF research group.
@@ -72,7 +75,9 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Databases
 
+* [0day.today][195]: exploits database.
 * [CVE Details][185]: security vulnerability datasource.
+* [ExploitAlert][194]: exploits found on the internet.
 * [ExploitDB][112]: the exploit database.
 * [iot-malware][117]: source code of samples leaked online.
 * [MalwareBazaar][111]: sharing malware samples with the infosec community.
@@ -104,9 +109,12 @@ My personal awesome list of interesting repos, libraries and tools.
   further full-stack debugging.
 * [InternalBlue][193]: bluetooth experimentation framework for Broadcom and
   Cypress chips.
+* [LLP University][202]: Low Level Programming University.
 * [Low level][48]: misc documentation about low level development.
 * [NexMon][49]: C-based Firmware Patching Framework for Broadcom/Cypress WiFi
   Chips.
+* [OS Kernel Lab][203]: OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32.
+* [OWASP-FSTM][201]: OWASP Firmware Security Testing Methodology.
 
 ## Emulators and Dynamic Analysis
 
@@ -127,6 +135,9 @@ My personal awesome list of interesting repos, libraries and tools.
 * [cwe_ckecker][101]: finds vulnerable patterns in binary executables.
 * [how2heap][47]: repository for learning various heap exploitation techniques.
 * [libc-database][69]: database of libc offsets to simplify exploitation.
+* [Linux Kernel Exploit][199]: links related to Linux kernel exploitation.
+* [Linux Kernel Exploitation][21]: collection of links related to Linux kernel
+  security and exploitation.
 * [one_gadget][70]: tool for finding one gadget RCE in libc.so.6.
 * [pwntools][71]: framework and exploit development library.
 * [ROPGadget][159]: search your gadgets on your binaries to facilitate your ROP
@@ -231,9 +242,10 @@ My personal awesome list of interesting repos, libraries and tools.
 * [BDF][145]: The Backdoor Factory.
 * [GTFOBins][147]: curated list of Unix binaries that can be used to bypass
   local security restrictions.
-* [traitor][168]: automatic Linux privesc via exploitation of low-hanging fruit.
+* [Linux Exploit Suggester][200]: Linux privilege escalation auditing tool.
 * [PayloadAllTheThings][123]: list of useful payloads and bypass for Web
   Application Security and Pentest/CTF.
+* [traitor][168]: automatic Linux privesc via exploitation of low-hanging fruit.
 * Post-exploitation:
   * [Emp3r0r][163]: Linux/Windows post-exploitation framework made by linux
     user.
@@ -539,3 +551,13 @@ My personal awesome list of interesting repos, libraries and tools.
 [191]: https://github.com/seemoo-lab/polypyus
 [192]: https://github.com/seemoo-lab/frankenstein
 [193]: https://github.com/seemoo-lab/internalblue
+[194]: https://www.exploitalert.com/browse-exploit.html
+[195]: https://0day.today/
+[196]: https://connormcgarr.github.io/
+[197]: https://a13xp0p0v.github.io/
+[198]: https://googleprojectzero.blogspot.com/
+[199]: https://github.com/SecWiki/linux-kernel-exploits
+[200]: https://github.com/mzet-/linux-exploit-suggester
+[201]: https://github.com/scriptingxss/owasp-fstm
+[202]: https://github.com/gurugio/lowlevelprogramming-university
+[203]: https://github.com/chyyuu/os_kernel_lab
