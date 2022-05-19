@@ -102,7 +102,10 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Embedded and IoT
 
+* [Binwalk][208]: firmware Analysis Tool.
 * [FACT][100]: Firmware Analysis and Comparison Tool.
+* [Firmwalker][207]: Script for searching the extracted firmware file system for
+  goodies.
 * [Flashrom][74]: utility for detecting, reading, writing, verifying and erasing
   flash chips.
 * [Frankenstein][192]: Broadcom and Cypress firmware emulation for fuzzing and
@@ -304,6 +307,9 @@ My personal awesome list of interesting repos, libraries and tools.
 ## Reverse Engineering
 
 * [Angr][109]: user-friendly binary analysis platform.
+* [BinDiff][204]: compare executables by identifying identical and similar
+  functions.
+* [BinExport][205]: export disassemblies into Protocol Buffers.
 * [CAPA][73]: tool to identify capabilities in executable files.
   * [lancelot-flirt][103]: library for parsing, compiling, and matching Fast
     Library Identification and Recognition Technology (FLIRT) signatures.
@@ -315,6 +321,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * {ELFKickers][156]: collection of programs that access and manipulate ELF
   files.
 * [FLOSS][102]: FLARE Obfuscated String Solver.
+* [Ghidra][206]: software reverse engineering (SRE) framework.
 * [Radare2][1]: UNIX-like reverse engineering framework and command-line
   toolset.
   * [Book][98]: radare2 official book.
@@ -561,3 +568,8 @@ My personal awesome list of interesting repos, libraries and tools.
 [201]: https://github.com/scriptingxss/owasp-fstm
 [202]: https://github.com/gurugio/lowlevelprogramming-university
 [203]: https://github.com/chyyuu/os_kernel_lab
+[204]: https://www.zynamics.com/bindiff.html
+[205]: https://github.com/google/binexport
+[206]: https://github.com/NationalSecurityAgency/ghidra
+[207]: https://github.com/craigz28/firmwalker
+[208]: https://github.com/ReFirmLabs/binwalk
