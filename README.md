@@ -32,6 +32,10 @@ My personal awesome list of interesting repos, libraries and tools.
 * [eBPF][25]: curated list of awesome projects related to eBPF.
 * [Docker][30]: curated list of Docker resources and projects.
 * [Embedded][20]: curated list of awesome embedded programming.
+* [Embedded and IoT][209]: curated list of awesome embedded and IoT security
+  resources.
+* [Embedded Rust][211]: list of resources for Embedded and Low-level development
+  in the Rust programming language.
 * [Linux Rootkits][29]: list of rootkits for the Linux kernel.
 * [Malware Analysis][34]: malware analysis tools and resources.
 * [IoT][19]: list of great resources about IoT Framework, Library, OS, Platforms.
@@ -103,6 +107,8 @@ My personal awesome list of interesting repos, libraries and tools.
 ## Embedded and IoT
 
 * [Binwalk][208]: firmware Analysis Tool.
+* [Buildroot][213]: simple, efficient and easy-to-use tool to generate embedded
+  Linux systems through cross-compilation.
 * [FACT][100]: Firmware Analysis and Comparison Tool.
 * [Firmwalker][207]: Script for searching the extracted firmware file system for
   goodies.
@@ -116,6 +122,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Low level][48]: misc documentation about low level development.
 * [NexMon][49]: C-based Firmware Patching Framework for Broadcom/Cypress WiFi
   Chips.
+* [OpenOCD][212]: Open On-Chip Debugger.
 * [OS Kernel Lab][203]: OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32.
 * [OWASP-FSTM][201]: OWASP Firmware Security Testing Methodology.
 
@@ -333,6 +340,7 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [FreeRTOS][140]: open source, real-time operating system for microcontrollers.
 * [MangooseOS][139]: IoT operating system and networking library.
+* [Tock][210]: secure embedded operating system for microcontrollers.
 * [Zephyr][50]: mall, scalable, real-time operating system (RTOS).
   * [Docs][51]: zephyt project documentation.
 
@@ -573,3 +581,8 @@ My personal awesome list of interesting repos, libraries and tools.
 [206]: https://github.com/NationalSecurityAgency/ghidra
 [207]: https://github.com/craigz28/firmwalker
 [208]: https://github.com/ReFirmLabs/binwalk
+[209]: https://github.com/fkie-cad/awesome-embedded-and-iot-security
+[210]: https://github.com/tock/tock
+[211]: https://github.com/rust-embedded/awesome-embedded-rust
+[212]: https://sourceforge.net/p/openocd/code/ci/master/tree/
+[213]: https://buildroot.org/
