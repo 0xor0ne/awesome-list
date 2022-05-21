@@ -5,7 +5,7 @@ My personal awesome list of interesting repos, libraries and tools.
 ## Contents
 
 * [Awesome Lists](#awesome-lists)
-* [Blogs](#blogs)
+* [Blogs ad Tutorials](#blogs-and-tutorials)
 * [Compilers and Toolchains](#compilers-and-toolchains)
 * [Databases](#databases)
 * [Debuggers](#debuggers)
@@ -49,14 +49,18 @@ My personal awesome list of interesting repos, libraries and tools.
   and services.
 * [Vim][32]: all things vim.
 
-## Blogs
+## Blogs and Tutorials
 
 * [a13xp0p0v][197]: exploit development and vulnerability research (mostly
   Linux).
+* [Arch Wiki][217]: official Arch wiki.
 * [Connof McGarr][196]: exploit development and vulnerability research (mostly
   Windows).
+* [Gentoo Wiki][216]: official Gentoo wiki.
 * [GitHub Security Lab][137]: GitHub security research.
 * [ir0nstone][56]: binary exploitation notes.
+* [Linux From Scratch][215]: with step-by-step instructions for building your
+  own custom Linux system.
 * [malwareMustDie][116]: white-hat security research workgroup.
 * [Malware traffic analysis][157]: source for packet capture (pcap) files and
   malware samples.
@@ -204,6 +208,7 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Misc
 
+* [CoreUtils][214]: Cross-platform Rust rewrite of the GNU coreutils.
 * [OpenSK][67]: open-source implementation for security keys written in Rust.
 * [Polypyus][191]: locate functions in raw binaries by extracting known functions
   from similar binaries.
@@ -295,6 +300,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Rust][41]: secure system programming language.
   * [Book][42]: introductory book about Rust.
   * [Cargo Book][129]: official cargo book.
+  * [Clippy][218]: lints to catch common mistakes and improve your Rust code.
   * [crates.io][44]: Rust community's crate registry.
   * [Embedded Rust Book][153]: introductory book about using the Rust
     Programming Language on "Bare Metal" embedded systems.
@@ -586,3 +592,8 @@ My personal awesome list of interesting repos, libraries and tools.
 [211]: https://github.com/rust-embedded/awesome-embedded-rust
 [212]: https://sourceforge.net/p/openocd/code/ci/master/tree/
 [213]: https://buildroot.org/
+[214]: https://github.com/uutils/coreutils
+[215]: https://www.linuxfromscratch.org/
+[216]: https://wiki.gentoo.org/wiki/Main_Page
+[217]: https://wiki.archlinux.org/
+[218]: https://github.com/rust-lang/rust-clippy
