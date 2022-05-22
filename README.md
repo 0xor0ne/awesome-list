@@ -71,6 +71,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Rust OSDev][68]: rhis Month in Rust OSDev.
 * [System Overlord][46]: security engineering, research, and general hacking.
 * [tmp.out][76]: ELF research group.
+* [Zero Day Initiative][220]: encourage the reporting of 0-day vulnerabilities
+  privately to the affected vendors.
 
 ## Compilers and Toolchains
 
@@ -201,7 +203,11 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Malwares
 
+* Log Cleaners:
+  * [Moonwalk][221]: Cover your tracks during Linux Exploitation by leaving zero
+    traces on system logs and filesystem timestamps.
 * Packers:
+  * [oxide][219]: PoC packer written in Rust.
   * [UPX][154]: free, portable, extendable, high-performance executable packer.
 * [Pafish][97]: testing tool that uses different techniques to detect virtual
   machines and malware analysis environments.
@@ -597,3 +603,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [216]: https://wiki.gentoo.org/wiki/Main_Page
 [217]: https://wiki.archlinux.org/
 [218]: https://github.com/rust-lang/rust-clippy
+[219]: https://github.com/frank2/oxide
+[220]: https://www.zerodayinitiative.com/blog
+[221]: https://github.com/mufeedvh/moonwalk
