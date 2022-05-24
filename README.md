@@ -51,6 +51,8 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Blogs and Tutorials
 
+* [0x00sec][236]: malware, Reverse Engineering, and Computer Science.
+* [0x434b][235]: low level adventures.
 * [a13xp0p0v][197]: exploit development and vulnerability research (mostly
   Linux).
 * [Arch Wiki][217]: official Arch wiki.
@@ -98,6 +100,8 @@ My personal awesome list of interesting repos, libraries and tools.
 ## Debuggers
 
 * [GDB][26]: GNU Project Debugger.
+  * [gdb-dashboard][229]: modular visual interface for GDB in Python.
+  * [gdbgui][230]: browser-based frontend to gdb.
   * [GEF][27]: plugin with set of commands to assis exploit developers and
     reverse-engineers.
 * [Scout][110]: instruction based research debugger.
@@ -115,9 +119,12 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Binwalk][208]: firmware Analysis Tool.
 * [Buildroot][213]: simple, efficient and easy-to-use tool to generate embedded
   Linux systems through cross-compilation.
+* [EMBA][224]: firmware security analyzer.
 * [FACT][100]: Firmware Analysis and Comparison Tool.
 * [Firmwalker][207]: Script for searching the extracted firmware file system for
   goodies.
+* [Firmware mod kit][225]: collection of scripts and utilities to extract and
+  rebuild linux based firmware images.
 * [Flashrom][74]: utility for detecting, reading, writing, verifying and erasing
   flash chips.
 * [Frankenstein][192]: Broadcom and Cypress firmware emulation for fuzzing and
@@ -178,6 +185,8 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [Defence Map][22]: relationships between vulnerability classes, exploitation
   techniques, bug detection mechanisms, and defence technologies.
+* [kconfig-hardened-check][234]: tool for checking the security hardening
+  options of the Linux kernel.
 * [Kernel documentation][12]: official linux kernel documentation.
 * [kernel.org][11]: linux kernel archives.
 * [linux-insides][77]: a book about linux kernel and its insides.
@@ -246,6 +255,8 @@ My personal awesome list of interesting repos, libraries and tools.
   * [icmpsh][136]: reverse ICMP shell.
   * [Platypus][144]: modern multiple reverse shell sessions manager written in
     go.
+  * [rpty][228]: tricking shells into interactive mode when local PTY's are not
+    available.
   * [rsg][146]: tool to generate various ways to do a reverse shell.
   * [tunshell][121]: remote shell into ephemeral environments.
   * [wash][131]: a cloud-native shell for bringing remote infrastructure to your
@@ -318,6 +329,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [std][43]: standard library documentation.
   * [This Week In Rust][148]: handpicked Rust updates, delivered to your inbox.
   * Libraries:
+    * [Aya][222]: eBPF library for the Rust programming language.
     * [Goblin][99]: cross-platform binary parsing crate, written in Rust.
     * [redbpf][119]: Rust library for building and running BPF/eBPF modules.
     * [redhook][96]: dynamic function call interposition / hooking (LD_PRELOAD)
@@ -332,15 +344,21 @@ My personal awesome list of interesting repos, libraries and tools.
 * [CAPA][73]: tool to identify capabilities in executable files.
   * [lancelot-flirt][103]: library for parsing, compiling, and matching Fast
     Library Identification and Recognition Technology (FLIRT) signatures.
+* [Capstone Engine][223]: disassembly/disassembler framework.
 * [CyberChef][155]: web app for encryption, encoding, compression and data
   analysis.
 * [Diffware][52]: configurable tool providing a summary of the changes between
   two files or directories
   * [Diffoscope][53]: directory differ.
-* {ELFKickers][156]: collection of programs that access and manipulate ELF
+* [ELFKickers][156]: collection of programs that access and manipulate ELF
   files.
+* [flare-emu][226]: easy to use and flexible interface for scripting emulation
+  tasks.
 * [FLOSS][102]: FLARE Obfuscated String Solver.
+* [fq][227]: jq for binary formats.
 * [Ghidra][206]: software reverse engineering (SRE) framework.
+* [Kaitai Struct][231]: declarative language to generate binary data parsers.
+* [Keystone Engine][232]: assembler framework.
 * [Radare2][1]: UNIX-like reverse engineering framework and command-line
   toolset.
   * [Book][98]: radare2 official book.
@@ -375,6 +393,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Frida][36]: instrumentation toolkit for developers, reverse-engineers, and
   security researchers.
 * [LIEF][158]: library to Instrument Executable Formats.
+* [ltrace][233]: intercepts and records both the dynamic library calls and
+  signals.
 * [QDBI][88]: a Dynamic Binary Instrumentation framework based on LLVM.
 * [Tracee][24]: Linux Runtime Security and Forensics using eBPF.
 
@@ -606,3 +626,18 @@ My personal awesome list of interesting repos, libraries and tools.
 [219]: https://github.com/frank2/oxide
 [220]: https://www.zerodayinitiative.com/blog
 [221]: https://github.com/mufeedvh/moonwalk
+[222]: https://github.com/aya-rs/aya
+[223]: https://github.com/capstone-engine/capstone
+[224]: https://github.com/e-m-b-a/emba
+[225]: https://github.com/rampageX/firmware-mod-kit
+[226]: https://github.com/mandiant/flare-emu
+[227]: https://github.com/wader/fq
+[228]: https://github.com/TimeToogo/remote-pty
+[229]: https://github.com/cyrus-and/gdb-dashboard
+[230]: https://github.com/cs01/gdbgui
+[231]: https://github.com/kaitai-io/kaitai_struct
+[232]: https://github.com/keystone-engine/keystone
+[233]: https://gitlab.com/cespedes/ltrace
+[234]: https://github.com/a13xp0p0v/kconfig-hardened-check
+[235]: https://0x434b.dev/
+[236]: https://0x00sec.org/
