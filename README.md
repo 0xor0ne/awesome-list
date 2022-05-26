@@ -1,4 +1,4 @@
-# My Awesome List
+# My Awesome Lis
 
 My personal awesome list of interesting repos, libraries and tools.
 
@@ -136,6 +136,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [NexMon][49]: C-based Firmware Patching Framework for Broadcom/Cypress WiFi
   Chips.
 * [OpenOCD][212]: Open On-Chip Debugger.
+* [OpenWRT][239]: Linux operating system targeting embedded devices.
 * [OS Kernel Lab][203]: OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32.
 * [OWASP-FSTM][201]: OWASP Firmware Security Testing Methodology.
 
@@ -224,9 +225,18 @@ My personal awesome list of interesting repos, libraries and tools.
 ## Misc
 
 * [CoreUtils][214]: Cross-platform Rust rewrite of the GNU coreutils.
+* [klgrth][245]: pastebin alternative.
 * [OpenSK][67]: open-source implementation for security keys written in Rust.
+* [Pastebin][242]: store any text online for easy sharing.
 * [Polypyus][191]: locate functions in raw binaries by extracting known functions
   from similar binaries.
+* [Solana][240]: Blockchain for fast, secure, scalable, decentralized apps and
+  marketplaces.
+* [temp.sh][246]: alternative to transfer.sh.
+* [transfer.sh][243]: easy file sharing from the command line.
+* [uhr][237]: Universal Radio Hacker.
+* [ZeroBin][244]: open source online pastebin where the server has zero
+  knowledge of pasted data.
 
 ## Networking
 
@@ -274,6 +284,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [BDF][145]: The Backdoor Factory.
 * [GTFOBins][147]: curated list of Unix binaries that can be used to bypass
   local security restrictions.
+* [HashCat][238]: password recovery utility.
 * [Linux Exploit Suggester][200]: Linux privilege escalation auditing tool.
 * [PayloadAllTheThings][123]: list of useful payloads and bypass for Web
   Application Security and Pentest/CTF.
@@ -331,6 +342,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * Libraries:
     * [Aya][222]: eBPF library for the Rust programming language.
     * [Goblin][99]: cross-platform binary parsing crate, written in Rust.
+    * [libp2p][241]: Rust Implementation of the libp2p networking stack.
     * [redbpf][119]: Rust library for building and running BPF/eBPF modules.
     * [redhook][96]: dynamic function call interposition / hooking (LD_PRELOAD)
       for Rust.
@@ -641,3 +653,13 @@ My personal awesome list of interesting repos, libraries and tools.
 [234]: https://github.com/a13xp0p0v/kconfig-hardened-check
 [235]: https://0x434b.dev/
 [236]: https://0x00sec.org/
+[237]: https://github.com/jopohl/urh
+[238]: https://github.com/hashcat/hashcat
+[239]: https://openwrt.org/start
+[240]: https://github.com/solana-labs/solana
+[241]: https://github.com/libp2p/rust-libp2p
+[242]: https://pastebin.com/
+[243]: https://transfer.sh/
+[244]: https://zerobin.net/
+[245]: https://www.klgrth.io/
+[246]: https://temp.sh/
