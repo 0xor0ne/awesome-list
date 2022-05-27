@@ -166,6 +166,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [pwntools][71]: framework and exploit development library.
 * [ROPGadget][159]: search your gadgets on your binaries to facilitate your ROP
   exploitation.
+* [ropr][247]: fast multithreaded ROP Gadget finder.
 * [Ropper][160]: find gadgets to build rop chains for different architectures.
 
 ## Fuzzing
@@ -401,6 +402,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [bcc][118]: rools for BPF-based Linux IO analysis, networking, monitoring, and
   more.
 * [bpftrace][120]: high-level tracing language for Linux eBPF.
+* [cannoli][248]: high-performance QEMU memory and instruction tracing.
 * [DynamoRIO][23]: runtime code manipulation system.
 * [Frida][36]: instrumentation toolkit for developers, reverse-engineers, and
   security researchers.
@@ -663,3 +665,5 @@ My personal awesome list of interesting repos, libraries and tools.
 [244]: https://zerobin.net/
 [245]: https://www.klgrth.io/
 [246]: https://temp.sh/
+[247]: https://github.com/Ben-Lichtman/ropr
+[248]: https://github.com/MarginResearch/cannoli
