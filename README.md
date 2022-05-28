@@ -104,6 +104,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [gdbgui][230]: browser-based frontend to gdb.
   * [GEF][27]: plugin with set of commands to assis exploit developers and
     reverse-engineers.
+* [rr][253]: Record and Replay Framework.
 * [Scout][110]: instruction based research debugger.
 
 ## eBPF
@@ -217,6 +218,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * Log Cleaners:
   * [Moonwalk][221]: Cover your tracks during Linux Exploitation by leaving zero
     traces on system logs and filesystem timestamps.
+* Obfuscation:
+  * [Bashfuscator][256]: configurable and extendable Bash obfuscation framework.
 * Packers:
   * [oxide][219]: PoC packer written in Rust.
   * [UPX][154]: free, portable, extendable, high-performance executable packer.
@@ -236,6 +239,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [temp.sh][246]: alternative to transfer.sh.
 * [transfer.sh][243]: easy file sharing from the command line.
 * [uhr][237]: Universal Radio Hacker.
+* [wabt][255]: WebAssembly Binary Toolkit.
 * [ZeroBin][244]: open source online pastebin where the server has zero
   knowledge of pasted data.
 
@@ -372,11 +376,15 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Ghidra][206]: software reverse engineering (SRE) framework.
 * [Kaitai Struct][231]: declarative language to generate binary data parsers.
 * [Keystone Engine][232]: assembler framework.
+* [McSema][249]: Framework for lifting program binaries to LLVM bitcode.
+* [Metasm][250]: a free assembler / disassembler / compiler.
+* [Miasm][251]: reverse engineering framework in Python.
 * [Radare2][1]: UNIX-like reverse engineering framework and command-line
   toolset.
   * [Book][98]: radare2 official book.
   * [Cutter][3]: GUI based on [Rizin][2].
   * [Rizin][2]: radare2 fork.
+* [RetDec][252]: retargetable machine-code decompiler based on LLVM.
 * [Yara][72]: pattern matching swiss knife for malware researchers.
 
 ## RTOS
@@ -410,6 +418,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [ltrace][233]: intercepts and records both the dynamic library calls and
   signals.
 * [QDBI][88]: a Dynamic Binary Instrumentation framework based on LLVM.
+* [strace][254]: diagnostic, debugging and instructional userspace utility for
+  Linux.
 * [Tracee][24]: Linux Runtime Security and Forensics using eBPF.
 
 ## Trusted Execution Environment
@@ -667,3 +677,11 @@ My personal awesome list of interesting repos, libraries and tools.
 [246]: https://temp.sh/
 [247]: https://github.com/Ben-Lichtman/ropr
 [248]: https://github.com/MarginResearch/cannoli
+[249]: https://github.com/lifting-bits/mcsema
+[250]: https://github.com/jjyg/metasm
+[251]: https://github.com/cea-sec/miasm
+[252]: https://github.com/avast/retdec
+[253]: https://github.com/rr-debugger/rr
+[254]: https://github.com/strace/strace
+[255]: https://github.com/WebAssembly/wabt
+[256]: https://github.com/Bashfuscator/Bashfuscator
