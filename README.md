@@ -234,6 +234,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Pastebin][242]: store any text online for easy sharing.
 * [Polypyus][191]: locate functions in raw binaries by extracting known functions
   from similar binaries.
+* [pspy][264]: monitor linux processes without root permissions.
 * [Solana][240]: Blockchain for fast, secure, scalable, decentralized apps and
   marketplaces.
 * [temp.sh][246]: alternative to transfer.sh.
@@ -255,12 +256,15 @@ My personal awesome list of interesting repos, libraries and tools.
   * [nmap][4]: utility for network scanning and discovery and security auditing
   * [RustScan][5]: quick port scanner implemented in rust.
   * [skanuvaty][7]: fast DNS/network/port scanner.
+  * [ZGrab2][266]: fast, modular application-layer network scanner.
   * [ZMap][6]: fast single packet network scanner.
 * Proxies:
   * [frp][169]: fast reverse proxy.
   * [leaf][132]: versatile and efficient proxy framework.
   * [mitmproxy][40]: interactive HTTPS proxy.
   * [ngrok][170]: introspected tunnels to localhost.
+  * [Proxiechain][263]: a tool that forces any TCP connection made by any given
+    application to follow through proxies.
   * [rathole][183]: lightweight and high-performance reverse proxy for NAT
     traversal, written in Rust.
   * [socat][134]: relay for bidirectional data transfer.
@@ -291,12 +295,17 @@ My personal awesome list of interesting repos, libraries and tools.
   local security restrictions.
 * [HashCat][238]: password recovery utility.
 * [Linux Exploit Suggester][200]: Linux privilege escalation auditing tool.
+* [LOLBAS][260]: Living Off The Land Binaries, Scripts and Libraries.
+* [Metasploit Framework][262]: penetration testing framework.
+  * [Venom][265]: metasploit Shellcode generator/compiller.
 * [PayloadAllTheThings][123]: list of useful payloads and bypass for Web
   Application Security and Pentest/CTF.
 * [traitor][168]: automatic Linux privesc via exploitation of low-hanging fruit.
 * Post-exploitation:
+  * [C2 matrix][258]: C2 frameworks comparison.
   * [Emp3r0r][163]: Linux/Windows post-exploitation framework made by linux
     user.
+  * [empire][259]: PowerShell and Python 3.x post-exploitation framework.
   * [pupy][135]: cross-platform remote administration and post-exploitation
     tool.
   * [sliver][184]: Adversary Emulation Framework.
@@ -304,6 +313,8 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Stitch][161]: python Remote Administration Tool.
   * [TheFatRat][182]: generate backdoor and easy tool to post exploitation
     attack.
+  * [veil][261]: generate metasploit payloads that bypass common anti-virus
+    solutions.
 
 ## Programming Languages
 
@@ -384,6 +395,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Book][98]: radare2 official book.
   * [Cutter][3]: GUI based on [Rizin][2].
   * [Rizin][2]: radare2 fork.
+* [REMnux][257]: Linux toolkit for reverse-engineering.
 * [RetDec][252]: retargetable machine-code decompiler based on LLVM.
 * [Yara][72]: pattern matching swiss knife for malware researchers.
 
@@ -685,3 +697,13 @@ My personal awesome list of interesting repos, libraries and tools.
 [254]: https://github.com/strace/strace
 [255]: https://github.com/WebAssembly/wabt
 [256]: https://github.com/Bashfuscator/Bashfuscator
+[257]: https://remnux.org/
+[258]: https://www.thec2matrix.com/
+[259]: https://github.com/BC-SECURITY/Empire
+[260]: https://lolbas-project.github.io/
+[261]: https://github.com/Veil-Framework/Veil
+[262]: https://github.com/rapid7/metasploit-framework
+[263]: https://github.com/haad/proxychains
+[264]: https://github.com/DominicBreuker/pspy
+[265]: https://github.com/r00t-3xp10it/venom
+[266]: https://github.com/zmap/zgrab2
