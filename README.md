@@ -267,6 +267,7 @@ My personal awesome list of interesting repos, libraries and tools.
     application to follow through proxies.
   * [rathole][183]: lightweight and high-performance reverse proxy for NAT
     traversal, written in Rust.
+  * [Shadowsocks][267]: fast tunnel proxy that helps you bypass firewalls.
   * [socat][134]: relay for bidirectional data transfer.
 * Remote/Reverse Shells:
   * [GTRS][142]: Google Translator Reverse Shell.
@@ -416,6 +417,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [ops][178]: build and run nanos unikernels.
 * [RustyHermit][189]: rust-based, lightweight unikernel.
 * [sandboxed-api][177]: generates sandboxes for C/C++ libraries automatically.
+* [Unikraft][268]:  automated system for building specialized OSes known as
+  unikernels.
 
 ## Tracing, Hooking and Instrumentation
 
@@ -707,3 +710,5 @@ My personal awesome list of interesting repos, libraries and tools.
 [264]: https://github.com/DominicBreuker/pspy
 [265]: https://github.com/r00t-3xp10it/venom
 [266]: https://github.com/zmap/zgrab2
+[267]: https://github.com/shadowsocks/shadowsocks-rust
+[268]: https://github.com/unikraft/unikraft
