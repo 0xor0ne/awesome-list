@@ -36,10 +36,12 @@ My personal awesome list of interesting repos, libraries and tools.
   resources.
 * [Embedded Rust][211]: list of resources for Embedded and Low-level development
   in the Rust programming language.
+* [IoT Security 101][273]: curated list of IoT Security Resources.
 * [Linux Rootkits][29]: list of rootkits for the Linux kernel.
-* [Malware Analysis][34]: malware analysis tools and resources.
 * [IoT][19]: list of great resources about IoT Framework, Library, OS, Platforms.
 * [Golang][105]: curated list of awesome Go frameworks, libraries and software.
+* [Malware Analysis][34]: malware analysis tools and resources.
+* [Network stuff][281]: resources about network security.
 * [Raspberry Pi][33]: Raspberry Pi tools, projects, images and resources.
 * [RAT][162]: RAT And C&C Resources.
 * [Reverse Engineering][35]: reversing resources.
@@ -60,6 +62,8 @@ My personal awesome list of interesting repos, libraries and tools.
   Windows).
 * [Gentoo Wiki][216]: official Gentoo wiki.
 * [GitHub Security Lab][137]: GitHub security research.
+* [How to exploit a double free][272]:  exploit a double free vulnerability in
+  2021.
 * [ir0nstone][56]: binary exploitation notes.
 * [Linux From Scratch][215]: with step-by-step instructions for building your
   own custom Linux system.
@@ -169,6 +173,7 @@ My personal awesome list of interesting repos, libraries and tools.
   exploitation.
 * [ropr][247]: fast multithreaded ROP Gadget finder.
 * [Ropper][160]: find gadgets to build rop chains for different architectures.
+* [weggli][270]: fast and robust semantic search tool for C and C++ codebases.
 
 ## Fuzzing
 
@@ -282,12 +287,21 @@ My personal awesome list of interesting repos, libraries and tools.
   * [wash][131]: a cloud-native shell for bringing remote infrastructure to your
     terminal.
 * Tunnelling:
+  * [bore][276]: simple CLI tool for making tunnels to localhost.
+  * [chisel][274]: fast TCP/UDP tunnel over HTTP.
   * [clash][164]: rule-based tunnel in Go.
   * [dog-tunnel][179]: p2p tunnel.
     * [kcp][180]: a Fast and Reliable ARQ Protocol.
   * [gost][165]: a simple tunnel written in golang.
   * [gsocket][130]: connect like there is no firewall. Securely.
+  * [icmptunnel][278]: tunnel your IP traffic through ICMP echo and reply
+    packets.
+  * [iodine][277]:  tunnel IPv4 data through a DNS server.
+  * [pingtunnel][279]: tool that send TCP/UDP traffic over ICMP.
   * [ssf][133]: Secure Socket Funneling.
+  * [Stowaway][280]: Multi-hop Proxy Tool for pentesters.
+  * [udp2raw][275]: tunnel which Turns UDP Traffic into Encrypted
+    UDP/FakeTCP/ICMP Traffic.
 
 ## Penetration testing
 
@@ -339,6 +353,8 @@ My personal awesome list of interesting repos, libraries and tools.
   * Libraries:
     * [libaco][104]: blazing fast and lightweight C asymmetric coroutine
       library.
+    * [libdill][269]: structured concurrency in C.
+    * [sc][271]: common libraries and data structures for C.
 * [Go][106]: open source programming language supported by Google.
   * [Docs][107]: official documentation.
   * [pkg.go.dev][108]: packages documentation.
@@ -712,3 +728,16 @@ My personal awesome list of interesting repos, libraries and tools.
 [266]: https://github.com/zmap/zgrab2
 [267]: https://github.com/shadowsocks/shadowsocks-rust
 [268]: https://github.com/unikraft/unikraft
+[269]: https://github.com/sustrik/libdill
+[270]: https://github.com/googleprojectzero/weggli
+[271]: https://github.com/tezc/sc
+[272]: https://github.com/stong/how-to-exploit-a-double-free
+[273]: https://github.com/V33RU/IoTSecurity101
+[274]: https://github.com/jpillora/chisel
+[275]: https://github.com/wangyu-/udp2raw
+[276]: https://github.com/ekzhang/bore
+[277]: https://github.com/yarrick/iodine
+[278]: https://github.com/DhavalKapil/icmptunnel
+[279]: https://github.com/esrrhs/pingtunnel
+[280]: https://github.com/ph4ntonn/Stowaway
+[281]: https://github.com/alphaSeclab/awesome-network-stuff/blob/master/Readme_en.md
