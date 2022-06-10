@@ -36,6 +36,8 @@ My personal awesome list of interesting repos, libraries and tools.
   resources.
 * [Embedded Rust][211]: list of resources for Embedded and Low-level development
   in the Rust programming language.
+* [Executable Packing][284]: curated list of awesome resources related to
+  executable packing.
 * [IoT Security 101][273]: curated list of IoT Security Resources.
 * [Linux Rootkits][29]: list of rootkits for the Linux kernel.
 * [IoT][19]: list of great resources about IoT Framework, Library, OS, Platforms.
@@ -57,11 +59,19 @@ My personal awesome list of interesting repos, libraries and tools.
 * [0x434b][235]: low level adventures.
 * [a13xp0p0v][197]: exploit development and vulnerability research (mostly
   Linux).
+* [Alex Plaskett][288]: Random Security Research.
+* [Andrey Konovalov][297]: uzzers, exploits, and mitigations for Linux and
+  Android kernels..{
 * [Arch Wiki][217]: official Arch wiki.
 * [Connof McGarr][196]: exploit development and vulnerability research (mostly
   Windows).
 * [Gentoo Wiki][216]: official Gentoo wiki.
 * [GitHub Security Lab][137]: GitHub security research.
+* [Google Security Blog][291]: latest news and insights from Google on security.
+* [Google Security Research][295]: ecurity advisories and their accompanying
+  proof-of-concepts related to research conducted at Google.
+* [grsecurity blog][296]: blog from GRSecurity.
+* [Grapl Security Blog][289]: blog from Grapl security.
 * [How to exploit a double free][272]:  exploit a double free vulnerability in
   2021.
 * [ir0nstone][56]: binary exploitation notes.
@@ -77,6 +87,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Rust OSDev][68]: rhis Month in Rust OSDev.
 * [System Overlord][46]: security engineering, research, and general hacking.
 * [tmp.out][76]: ELF research group.
+* [Will's Root][290]: Pentesting, CTFs and Writeups.
 * [Zero Day Initiative][220]: encourage the reporting of 0-day vulnerabilities
   privately to the affected vendors.
 
@@ -152,6 +163,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [EMUX][9]: Firmware Emulation Framework.
 * [Firmadyne][63]: platform for emulation and dynamic analysis of Linux-based
   firmware.
+  * [scraper][287]: firmwares scraper.
 * [QEMU][28]: open source machine emulator and virtualizer.
 * [Panda][64]: platform for Architecture-Neutral Dynamic Analysis.
 * [Qiling][10]: Qiling Advanced Binary Emulation Framework.
@@ -161,7 +173,11 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Exploit Development
 
+* [CodeQL][293]: semantic code analysis engine.
+  * [Use case example][294]: One day short of a full chain.
 * [cwe_ckecker][101]: finds vulnerable patterns in binary executables.
+* [Exploit mitigations][292]: knowledge base of exploit mitigations available
+  across numerous operating systems.
 * [how2heap][47]: repository for learning various heap exploitation techniques.
 * [libc-database][69]: database of libc offsets to simplify exploitation.
 * [Linux Kernel Exploit][199]: links related to Linux kernel exploitation.
@@ -223,6 +239,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * Log Cleaners:
   * [Moonwalk][221]: Cover your tracks during Linux Exploitation by leaving zero
     traces on system logs and filesystem timestamps.
+* [Malware Source Code][283]: collection of malware source code for a variety of
+  platforms.
 * Obfuscation:
   * [Bashfuscator][256]: configurable and extendable Bash obfuscation framework.
 * Packers:
@@ -341,6 +359,7 @@ My personal awesome list of interesting repos, libraries and tools.
     * [Manuals][128]: official manuals.
   * RISC-V:
     * [Manuals][129]: official specifications.
+    * [RISC-V card][285]: unofficial assembly reference for RISC-V.
   * x86:
     * [felixcloutier.com][126]: instructions reference.
     * [Software Developer Manuals][127]: official manuals.
@@ -365,6 +384,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [crates.io][44]: Rust community's crate registry.
   * [Embedded Rust Book][153]: introductory book about using the Rust
     Programming Language on "Bare Metal" embedded systems.
+  * [Official Repository][286]: official Rust repository.
   * [Raspberrypi OS Tutorials][186]: learn to write an embedded OS in Rust.
   * [Rustonomicon][150]: awful details that you need to understand when writing
     Unsafe Rust programs.
@@ -383,6 +403,7 @@ My personal awesome list of interesting repos, libraries and tools.
 ## Reverse Engineering
 
 * [Angr][109]: user-friendly binary analysis platform.
+* [BAP][282]: binary analysis platform.
 * [BinDiff][204]: compare executables by identifying identical and similar
   functions.
 * [BinExport][205]: export disassemblies into Protocol Buffers.
@@ -741,3 +762,19 @@ My personal awesome list of interesting repos, libraries and tools.
 [279]: https://github.com/esrrhs/pingtunnel
 [280]: https://github.com/ph4ntonn/Stowaway
 [281]: https://github.com/alphaSeclab/awesome-network-stuff/blob/master/Readme_en.md
+[282]: https://github.com/BinaryAnalysisPlatform/bap
+[283]: https://github.com/vxunderground/MalwareSourceCode
+[284]: https://github.com/dhondta/awesome-executable-packing
+[285]: https://github.com/jameslzhu/riscv-card
+[286]: https://github.com/rust-lang/rust
+[287]: https://github.com/firmadyne/scraper
+[288]: https://alexplaskett.github.io/
+[289]: https://www.graplsecurity.com/blog
+[290]: https://www.willsroot.io/
+[291]: https://security.googleblog.com/
+[292]: https://github.com/nccgroup/exploit_mitigations
+[293]: https://codeql.github.com/
+[294]: https://securitylab.github.com/research/one_day_short_of_a_fullchain_android/
+[295]: https://github.com/google/security-research
+[296]: https://grsecurity.net/blog
+[297]: https://xairy.io/
