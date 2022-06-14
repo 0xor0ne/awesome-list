@@ -85,6 +85,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Phrack][75]: e-zine written by and for hackers.
 * [Project Zero][198]: news and updates from the Project Zero team at Google.
 * [Rust OSDev][68]: rhis Month in Rust OSDev.
+* [Sam4k][298]: linux, security, games and other nerdery.
 * [System Overlord][46]: security engineering, research, and general hacking.
 * [tmp.out][76]: ELF research group.
 * [Will's Root][290]: Pentesting, CTFs and Writeups.
@@ -214,6 +215,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Kernel documentation][12]: official linux kernel documentation.
 * [kernel.org][11]: linux kernel archives.
 * [linux-insides][77]: a book about linux kernel and its insides.
+* [Linux Kernel Module Cheat][305]: emulation setup to study and develop the
+  Linux kernel.
 * Rootkits:
   * [Awesome Linux Rootkits][29].
   * [Diamorphine][78]: LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and
@@ -301,6 +304,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [rpty][228]: tricking shells into interactive mode when local PTY's are not
     available.
   * [rsg][146]: tool to generate various ways to do a reverse shell.
+  * [rtty][289]: access your terminal from anywhere via the web.
   * [tunshell][121]: remote shell into ephemeral environments.
   * [wash][131]: a cloud-native shell for bringing remote infrastructure to your
     terminal.
@@ -396,9 +400,11 @@ My personal awesome list of interesting repos, libraries and tools.
     * [Aya][222]: eBPF library for the Rust programming language.
     * [Goblin][99]: cross-platform binary parsing crate, written in Rust.
     * [libp2p][241]: Rust Implementation of the libp2p networking stack.
+    * [nix][304]: rust friendly bindings to \*nix APIs.
     * [redbpf][119]: Rust library for building and running BPF/eBPF modules.
     * [redhook][96]: dynamic function call interposition / hooking (LD_PRELOAD)
       for Rust.
+    * [Rustix][303]: Safe Rust bindings to POSIX/Unix/Linux/Winsock2 syscalls.
 
 ## Reverse Engineering
 
@@ -411,6 +417,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [lancelot-flirt][103]: library for parsing, compiling, and matching Fast
     Library Identification and Recognition Technology (FLIRT) signatures.
 * [Capstone Engine][223]: disassembly/disassembler framework.
+* [cpu_rec][301]: recognize cpu instructions in an arbitrary binary file.
 * [CyberChef][155]: web app for encryption, encoding, compression and data
   analysis.
 * [Diffware][52]: configurable tool providing a summary of the changes between
@@ -441,6 +448,8 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [FreeRTOS][140]: open source, real-time operating system for microcontrollers.
 * [MangooseOS][139]: IoT operating system and networking library.
+* [ThreadX][302]: advanced real-time operating system (RTOS) designed
+  specifically for deeply embedded applications.
 * [Tock][210]: secure embedded operating system for microcontrollers.
 * [Zephyr][50]: mall, scalable, real-time operating system (RTOS).
   * [Docs][51]: zephyt project documentation.
@@ -451,6 +460,9 @@ My personal awesome list of interesting repos, libraries and tools.
   virtualized environment.
 * [gvisor][174]: application Kernel for Containers.
 * [Firecracker][175]: secure and fast microVMs for serverless computing.
+* [KAta containers][306]: standard implementation of lightweight Virtual
+  Machines (VMs) that feel and perform like containers, but provide the workload
+  isolation and security advantages of VMs.
 * [ops][178]: build and run nanos unikernels.
 * [RustyHermit][189]: rust-based, lightweight unikernel.
 * [sandboxed-api][177]: generates sandboxes for C/C++ libraries automatically.
@@ -470,6 +482,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [ltrace][233]: intercepts and records both the dynamic library calls and
   signals.
 * [QDBI][88]: a Dynamic Binary Instrumentation framework based on LLVM.
+* [S2E][300]: platform for multi-path program analysis with selective symbolic
+  execution.
 * [strace][254]: diagnostic, debugging and instructional userspace utility for
   Linux.
 * [Tracee][24]: Linux Runtime Security and Forensics using eBPF.
@@ -778,3 +792,12 @@ My personal awesome list of interesting repos, libraries and tools.
 [295]: https://github.com/google/security-research
 [296]: https://grsecurity.net/blog
 [297]: https://xairy.io/
+[298]: https://sam4k.com/
+[299]: https://github.com/zhaojh329/rtty
+[300]: https://github.com/S2E/s2e
+[301]: https://github.com/airbus-seclab/cpu_rec
+[302]: https://github.com/azure-rtos/threadx/
+[303]: https://github.com/bytecodealliance/rustix
+[304]: https://github.com/nix-rust/nix
+[305]: https://github.com/cirosantilli/linux-kernel-module-cheat
+[306]: https://github.com/kata-containers/kata-containers
