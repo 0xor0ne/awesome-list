@@ -121,6 +121,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [GEF][27]: plugin with set of commands to assis exploit developers and
     reverse-engineers.
 * [rr][253]: Record and Replay Framework.
+  * [rd][307]: reimplementation in rust.
 * [Scout][110]: instruction based research debugger.
 
 ## eBPF
@@ -386,8 +387,10 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Cargo Book][129]: official cargo book.
   * [Clippy][218]: lints to catch common mistakes and improve your Rust code.
   * [crates.io][44]: Rust community's crate registry.
+  * [Editions][309]: editions guide.
   * [Embedded Rust Book][153]: introductory book about using the Rust
     Programming Language on "Bare Metal" embedded systems.
+  * [Macros][308]: the little book of rust macros.
   * [Official Repository][286]: official Rust repository.
   * [Raspberrypi OS Tutorials][186]: learn to write an embedded OS in Rust.
   * [Rustonomicon][150]: awful details that you need to understand when writing
@@ -801,3 +804,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [304]: https://github.com/nix-rust/nix
 [305]: https://github.com/cirosantilli/linux-kernel-module-cheat
 [306]: https://github.com/kata-containers/kata-containers
+[307]: https://github.com/sidkshatriya/rd
+[308]: https://veykril.github.io/tlborm/
+[309]: https://doc.rust-lang.org/stable/edition-guide/
