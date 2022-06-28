@@ -2,7 +2,7 @@
 
 My personal awesome list of interesting repos, libraries and tools.
 
-## Contents
+## Content
 
 * [Awesome Lists](#awesome-lists)
 * [Blogs ad Tutorials](#blogs-and-tutorials)
@@ -31,6 +31,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [C][17]: A curated list of C good stuff.
 * [eBPF][25]: curated list of awesome projects related to eBPF.
 * [Docker][30]: curated list of Docker resources and projects.
+* [ELF][310]: awesome ELF resources by tmp.out.
 * [Embedded][20]: curated list of awesome embedded programming.
 * [Embedded and IoT][209]: curated list of awesome embedded and IoT security
   resources.
@@ -52,6 +53,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Tunneling][181]: ngrok alternatives and other ngrok-like tunneling software
   and services.
 * [Vim][32]: all things vim.
+* [WAF][317]: everything about web-application firewalls (WAF).
 
 ## Blogs and Tutorials
 
@@ -209,6 +211,7 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Linux Kernel
 
+* [Clang Built Linux][328]: building the Linux kernel with Clang.
 * [Defence Map][22]: relationships between vulnerability classes, exploitation
   techniques, bug detection mechanisms, and defence technologies.
 * [kconfig-hardened-check][234]: tool for checking the security hardening
@@ -218,6 +221,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [linux-insides][77]: a book about linux kernel and its insides.
 * [Linux Kernel Module Cheat][305]: emulation setup to study and develop the
   Linux kernel.
+* [LKFT][329]: Linux Kernel Functional Testing.
+* [ltp][93]: Linux Test Project.
 * Rootkits:
   * [Awesome Linux Rootkits][29].
   * [Diamorphine][78]: LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and
@@ -231,12 +236,12 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Rootkit list download][82]: list of rootkits (includes also userspace
     rootkits).
   * [Sutekh][80]: rootkit that gives a userland process root permissions.
-* [ltp][93]: Linux Test Project.
 * Rust:
   * [Linux crate][86].
   * [knock-out][87]: example of a kernel module in Rust.
   * [Rust for Linux][85]: organization for adding support for the Rust language
     to the Linux kernel.
+* [TuxSuite][330]: on-demand APIs and tools for building Linux Kernels.
 
 ## Malwares
 
@@ -332,13 +337,18 @@ My personal awesome list of interesting repos, libraries and tools.
 * [GTFOBins][147]: curated list of Unix binaries that can be used to bypass
   local security restrictions.
 * [HashCat][238]: password recovery utility.
+* [IntruderPayloads][316]: collection of Burpsuite Intruder payloads.
 * [Linux Exploit Suggester][200]: Linux privilege escalation auditing tool.
 * [LOLBAS][260]: Living Off The Land Binaries, Scripts and Libraries.
 * [Metasploit Framework][262]: penetration testing framework.
   * [Venom][265]: metasploit Shellcode generator/compiller.
 * [PayloadAllTheThings][123]: list of useful payloads and bypass for Web
   Application Security and Pentest/CTF.
+* [PayloadBox][313]: list of attack payloads.
+( [pixload][315]: set of tools for creating/injecting payload into images.
 * [traitor][168]: automatic Linux privesc via exploitation of low-hanging fruit.
+* [SecList][314]: collection of multiple types of lists used during security
+  assessments.
 * Post-exploitation:
   * [C2 matrix][258]: C2 frameworks comparison.
   * [Emp3r0r][163]: Linux/Windows post-exploitation framework made by linux
@@ -363,6 +373,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * MIPS:
     * [Manuals][128]: official manuals.
   * RISC-V:
+    * [Book assembly][312]: introduction to Assembly Programming with RISC-V.
     * [Manuals][129]: official specifications.
     * [RISC-V card][285]: unofficial assembly reference for RISC-V.
   * x86:
@@ -383,16 +394,24 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Docs][107]: official documentation.
   * [pkg.go.dev][108]: packages documentation.
 * [Rust][41]: secure system programming language.
+  * [API guidelines][319]: set of recommendations on how to design and present
+    APIs for the Rust programming.
   * [Book][42]: introductory book about Rust.
   * [Cargo Book][129]: official cargo book.
   * [Clippy][218]: lints to catch common mistakes and improve your Rust code.
-  * [crates.io][44]: Rust community's crate registry.
+  * [crates.io][44]: rust community's crate registry.
+  * [Design patterns][321]: catalogue of Rust design patterns, anti-patterns and
+    idioms.
+  * [Easy Rust][311]: rust explained using easy English.
   * [Editions][309]: editions guide.
   * [Embedded Rust Book][153]: introductory book about using the Rust
     Programming Language on "Bare Metal" embedded systems.
   * [Macros][308]: the little book of rust macros.
   * [Official Repository][286]: official Rust repository.
+  * [Performance][322]: Rust Performance Book.
   * [Raspberrypi OS Tutorials][186]: learn to write an embedded OS in Rust.
+  * [Redox OS][318]: Unix-like Operating System written in Rust.
+  * [RFCs][320]: RFCs for changes to Rust.
   * [Rustonomicon][150]: awful details that you need to understand when writing
     Unsafe Rust programs.
   * [Rust Reference][151]: primary reference for the Rust programming language.
@@ -400,6 +419,12 @@ My personal awesome list of interesting repos, libraries and tools.
   * [std][43]: standard library documentation.
   * [This Week In Rust][148]: handpicked Rust updates, delivered to your inbox.
   * Libraries:
+    * Async Runtimes:
+      * [async-std][325]: async version of the Rust standard library.
+      * [smol][326]: small and fast async runtime for Rust.
+      * [Tokio][323]: runtime for writing reliable asynchronous applications
+        with Rust.
+        * [Tutorial][324]: official Tokio tutorial.
     * [Aya][222]: eBPF library for the Rust programming language.
     * [Goblin][99]: cross-platform binary parsing crate, written in Rust.
     * [libp2p][241]: Rust Implementation of the libp2p networking stack.
@@ -442,6 +467,7 @@ My personal awesome list of interesting repos, libraries and tools.
   toolset.
   * [Book][98]: radare2 official book.
   * [Cutter][3]: GUI based on [Rizin][2].
+  * [pwntools-r2][327]: launch radare2 like a boss from pwntools in tmux.
   * [Rizin][2]: radare2 fork.
 * [REMnux][257]: Linux toolkit for reverse-engineering.
 * [RetDec][252]: retargetable machine-code decompiler based on LLVM.
@@ -807,3 +833,24 @@ My personal awesome list of interesting repos, libraries and tools.
 [307]: https://github.com/sidkshatriya/rd
 [308]: https://veykril.github.io/tlborm/
 [309]: https://doc.rust-lang.org/stable/edition-guide/
+[310]: https://github.com/tmpout/awesome-elf
+[311]: https://github.com/Dhghomon/easy_rust
+[312]: https://riscv-programming.org/book/riscv-book.html
+[313]: https://github.com/payloadbox/
+[314]: https://github.com/danielmiessler/SecLists
+[315]: https://github.com/chinarulezzz/pixload
+[316]: https://github.com/1N3/IntruderPayloads
+[317]: https://github.com/0xInfection/Awesome-WAF
+[318]: https://gitlab.redox-os.org/redox-os
+[319]: https://rust-lang.github.io/api-guidelines/about.html
+[320]: https://github.com/rust-lang/rfcs
+[321]: https://github.com/rust-unofficial/patterns
+[322]: https://github.com/nnethercote/perf-book
+[323]: https://github.com/tokio-rs/tokio
+[324]: https://tokio.rs/tokio/tutorial
+[325]: https://github.com/async-rs/async-std
+[326]: https://github.com/smol-rs/smol
+[327]: https://github.com/ps1337/pwntools-r2
+[328]: https://clangbuiltlinux.github.io/
+[329]: https://lkft.linaro.org/
+[330]: https://tuxsuite.com/
