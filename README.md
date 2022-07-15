@@ -18,7 +18,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Malwares](#malwares)
 * [Misc](#misc)
 * [Networking](#networking)
-* [Penetration Testing](#penetration-testing)
+* [Penetration Testing and Red Teaming](#penetration-testing-and-red-teaming)
 * [Programming Languages](#programming-languages)
 * [Reverse Engineering](#reverse-engineering)
 * [RTOS](#rtos)
@@ -49,6 +49,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [RAT][162]: RAT And C&C Resources.
 * [Reverse Engineering][35]: reversing resources.
 * [Rust][18]: curated list of Rust code and resources.
+* [Search engines][339]: list of search engines useful during Penetration
+  testing, Vulnerability assessments, Red Team operations, Bug Bounty and more.
 * [Shell][31]: command-line frameworks, toolkits, guides and gizmos.
 * [Tunneling][181]: ngrok alternatives and other ngrok-like tunneling software
   and services.
@@ -84,6 +86,7 @@ My personal awesome list of interesting repos, libraries and tools.
   malware samples.
 * [Nightmare][13]: intro to binary exploitation / reverse engineering course
   based around ctf challenges.
+* [Outflux][355]: @kees_cook's blog.
 * [Phrack][75]: e-zine written by and for hackers.
 * [Project Zero][198]: news and updates from the Project Zero team at Google.
 * [Rust OSDev][68]: rhis Month in Rust OSDev.
@@ -205,6 +208,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Honggfuzz][39]: evolutionary, feedback-driven fuzzing based on code coverage.
 * [krf][92]: kernelspace syscall interceptor and randomized faulter.
 * [LibAFL][95]: fuzzing library.
+* [SemGrep][343]: lightweight static analysis for many languages.
+  * [Rules][344]: Semgrep rules to facilitate vulnerability research.
 * [Syzkaller][37]: unsupervised coverage-guided kernel fuzzer.
   * [Syzbot][94]: continuously fuzzes main Linux kernel branches and
     automatically reports found bugs
@@ -223,6 +228,11 @@ My personal awesome list of interesting repos, libraries and tools.
   Linux kernel.
 * [LKFT][329]: Linux Kernel Functional Testing.
 * [ltp][93]: Linux Test Project.
+* [Mailing Lists]:
+  * [Lore kernel][351]: Linux kernel mailing lists.
+    * [Linux hardening][354]: Linux hardening.
+    * [Kernel Hardening][352]: kernel hardening.
+    * [Rust for Linux][353]: rust for Linux.
 * Rootkits:
   * [Awesome Linux Rootkits][29].
   * [Diamorphine][78]: LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and
@@ -236,6 +246,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Rootkit list download][82]: list of rootkits (includes also userspace
     rootkits).
   * [Sutekh][80]: rootkit that gives a userland process root permissions.
+  * [TripleCross][332]: Linux eBPF rootkit.
 * Rust:
   * [Linux crate][86].
   * [knock-out][87]: example of a kernel module in Rust.
@@ -283,6 +294,8 @@ My personal awesome list of interesting repos, libraries and tools.
   * [pcp][166]: peer-to-peer data transfer tool based on libp2p.
 * Misc:
   * [nebula][122]: scalable overlay networking tool.
+  * [netbird][331]: connect your devices into a single secure private
+    WireGuard®-based mesh network.
 * Network Scanners:
   * [masscan][8]: TCP port scanner, spews SYN packets asynchronously.
   * [nmap][4]: utility for network scanning and discovery and security auditing
@@ -331,13 +344,21 @@ My personal awesome list of interesting repos, libraries and tools.
   * [udp2raw][275]: tunnel which Turns UDP Traffic into Encrypted
     UDP/FakeTCP/ICMP Traffic.
 
-## Penetration testing
+## Penetration testing and Red Teaming
 
+* [ATT&CK][345]: knowledge base of adversary tactics and techniques.
 * [BDF][145]: The Backdoor Factory.
+* [Bettercap][341]: networks reconnaissance and MITM attacks.
+* [BloodHound][335]: Six Degrees of Domain Admin.
+* [CrackMapExec][336]: evaluates and exploits vulnerabilities in an active
+  directory environment.
 * [GTFOBins][147]: curated list of Unix binaries that can be used to bypass
   local security restrictions.
 * [HashCat][238]: password recovery utility.
+* [Impacket][337]: collection of Python classes for working with network
+  protocols.
 * [IntruderPayloads][316]: collection of Burpsuite Intruder payloads.
+* [LaZagne][337]: retrieve passowrds.
 * [Linux Exploit Suggester][200]: Linux privilege escalation auditing tool.
 * [LOLBAS][260]: Living Off The Land Binaries, Scripts and Libraries.
 * [Metasploit Framework][262]: penetration testing framework.
@@ -345,10 +366,13 @@ My personal awesome list of interesting repos, libraries and tools.
 * [PayloadAllTheThings][123]: list of useful payloads and bypass for Web
   Application Security and Pentest/CTF.
 * [PayloadBox][313]: list of attack payloads.
-( [pixload][315]: set of tools for creating/injecting payload into images.
+* [PEASS-ng][334]: Privilege Escalation Awesome Scripts SUITE.
+* [pixload][315]: set of tools for creating/injecting payload into images.
 * [traitor][168]: automatic Linux privesc via exploitation of low-hanging fruit.
 * [SecList][314]: collection of multiple types of lists used during security
   assessments.
+* [Sherlock][340]: hunt down social media accounts by username across social
+  networks.
 * Post-exploitation:
   * [C2 matrix][258]: C2 frameworks comparison.
   * [Emp3r0r][163]: Linux/Windows post-exploitation framework made by linux
@@ -363,6 +387,12 @@ My personal awesome list of interesting repos, libraries and tools.
     attack.
   * [veil][261]: generate metasploit payloads that bypass common anti-virus
     solutions.
+* Standards:
+  * [NIST][348]:  Framework for Improving Critical Infrastructure Cybersecurity.
+  * [OSSTMM][349]: Open Source Security Testing Methodology Manual.
+  * [PTES][350]: Penetration Testing Methodologies and Standards.
+  * [TIBER][346]: Threat Intelligence-Based Ethical Red Teaming Framework.
+  * [STG][347]: OWASP testing methodologies.
 
 ## Programming Languages
 
@@ -451,6 +481,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Diffware][52]: configurable tool providing a summary of the changes between
   two files or directories
   * [Diffoscope][53]: directory differ.
+* [DogBolt][342]: decompiler explorer.
 * [ELFKickers][156]: collection of programs that access and manipulate ELF
   files.
 * [flare-emu][226]: easy to use and flexible interface for scripting emulation
@@ -485,13 +516,15 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Sandboxing
 
-* [nano][176]: kernel designed to run one and only one application in a
-  virtualized environment.
+* [Code Sandboxing][333]: code execution isolation and containment with sandbox
+  solutions.
 * [gvisor][174]: application Kernel for Containers.
 * [Firecracker][175]: secure and fast microVMs for serverless computing.
 * [KAta containers][306]: standard implementation of lightweight Virtual
   Machines (VMs) that feel and perform like containers, but provide the workload
   isolation and security advantages of VMs.
+* [nano][176]: kernel designed to run one and only one application in a
+  virtualized environment.
 * [ops][178]: build and run nanos unikernels.
 * [RustyHermit][189]: rust-based, lightweight unikernel.
 * [sandboxed-api][177]: generates sandboxes for C/C++ libraries automatically.
@@ -854,3 +887,28 @@ My personal awesome list of interesting repos, libraries and tools.
 [328]: https://clangbuiltlinux.github.io/
 [329]: https://lkft.linaro.org/
 [330]: https://tuxsuite.com/
+[331]: https://github.com/netbirdio/netbird
+[332]: https://github.com/h3xduck/TripleCross
+[333]: https://developers.google.com/code-sandboxing
+[334]: https://github.com/carlospolop/PEASS-ng
+[335]: https://github.com/BloodHoundAD/BloodHound
+[336]: https://github.com/Porchetta-Industries/CrackMapExec
+[337]: https://github.com/AlessandroZ/LaZagne
+[338]: https://github.com/SecureAuthCorp/impacket
+[339]: https://github.com/edoardottt/awesome-hacker-search-engines
+[340]: https://github.com/sherlock-project/sherlock
+[341]: https://github.com/bettercap/bettercap
+[342]: https://dogbolt.org/
+[343]: https://github.com/returntocorp/semgrep
+[344]: https://github.com/0xdea/semgrep-rules
+[345]: https://attack.mitre.org/
+[346]: https://www.ecb.europa.eu/paym/cyber-resilience/tiber-eu/html/index.en.html
+[347]: https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies
+[348]: https://www.nist.gov/news-events/news/2018/04/nist-releases-version-11-its-popular-cybersecurity-framework
+[349]: https://www.isecom.org/research.html#content5-9d
+[350]: http://www.pentest-standard.org/index.php/Main_Page
+[351]: https://lore.kernel.org/
+[352]: https://lore.kernel.org/kernel-hardening/
+[353]: https://lore.kernel.org/rust-for-linux/
+[354]: https://lore.kernel.org/linux-hardening/
+[355]: https://outflux.net/blog/
