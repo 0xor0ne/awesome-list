@@ -1,4 +1,4 @@
-# My Awesome Lis
+# My Awesome List
 
 My personal awesome list of interesting repos, libraries and tools.
 
@@ -28,6 +28,10 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Awesome Lists
 
+* [Analysis Tools (dynamic)][372]: curated list of dynamic analysis tools for all
+  programming languages.
+* [Analysis Tools (static)][372]: curated list of static analysis (SAST) tools.
+* [BSK][362]: the book of secret knowledge.
 * [C][17]: A curated list of C good stuff.
 * [eBPF][25]: curated list of awesome projects related to eBPF.
 * [Docker][30]: curated list of Docker resources and projects.
@@ -39,6 +43,8 @@ My personal awesome list of interesting repos, libraries and tools.
   in the Rust programming language.
 * [Executable Packing][284]: curated list of awesome resources related to
   executable packing.
+* [Hacking][361]: collection of awesome lists for hackers, pentesters & security
+  researchers.
 * [IoT Security 101][273]: curated list of IoT Security Resources.
 * [Linux Rootkits][29]: list of rootkits for the Linux kernel.
 * [IoT][19]: list of great resources about IoT Framework, Library, OS, Platforms.
@@ -49,8 +55,11 @@ My personal awesome list of interesting repos, libraries and tools.
 * [RAT][162]: RAT And C&C Resources.
 * [Reverse Engineering][35]: reversing resources.
 * [Rust][18]: curated list of Rust code and resources.
+* [rust security][371]:  list of awesome projects and resources related to Rust
+  and computer security.
 * [Search engines][339]: list of search engines useful during Penetration
   testing, Vulnerability assessments, Red Team operations, Bug Bounty and more.
+* [Secure a Linux server][365]: evolving how-to guide for securing a Linux server.
 * [Shell][31]: command-line frameworks, toolkits, guides and gizmos.
 * [Tunneling][181]: ngrok alternatives and other ngrok-like tunneling software
   and services.
@@ -87,10 +96,12 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Nightmare][13]: intro to binary exploitation / reverse engineering course
   based around ctf challenges.
 * [Outflux][355]: @kees_cook's blog.
+* [OWASP CSS][364]: OWASP Cheat Sheet Series Project.
 * [Phrack][75]: e-zine written by and for hackers.
 * [Project Zero][198]: news and updates from the Project Zero team at Google.
 * [Rust OSDev][68]: rhis Month in Rust OSDev.
 * [Sam4k][298]: linux, security, games and other nerdery.
+* [School of SRE][366]: school of Sire Reliability Engineers.
 * [System Overlord][46]: security engineering, research, and general hacking.
 * [tmp.out][76]: ELF research group.
 * [Will's Root][290]: Pentesting, CTFs and Writeups.
@@ -133,8 +144,9 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [BumbleBee][173]: simplifies building eBPF tools and allows you to package,
   distribute, and run them anywhere.
-* [epbf.io][66]: official website.
 * [Cilium ebpf][172]: Pure-Go library to read, modify and load eBPF programs.
+* [epbf.io][66]: official website.
+* [pulsar][360]: runtime security framework for the IoT, powered by eBPF.
 * [tetragon][171]: eBPF-based Security Observability and Runtime Enforcement.
 
 ## Embedded and IoT
@@ -271,6 +283,7 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Misc
 
+* [Caddy][363]: fast, multi-platform web server with automatic HTTPS.
 * [CoreUtils][214]: Cross-platform Rust rewrite of the GNU coreutils.
 * [klgrth][245]: pastebin alternative.
 * [OpenSK][67]: open-source implementation for security keys written in Rust.
@@ -296,6 +309,13 @@ My personal awesome list of interesting repos, libraries and tools.
   * [nebula][122]: scalable overlay networking tool.
   * [netbird][331]: connect your devices into a single secure private
     WireGuard®-based mesh network.
+  * [netmaker][369]: makes networks with WireGuard.
+  * [tailscale][357]: zero config VPN.
+    * [tailscale github][358]: the easiest, most secure way to use WireGuard and
+      2FA.
+  * [zeek][368]: network analysis framework.
+  * [zerotier][356]: secure networks between devices.
+    * [ZeroTierOne][357]: smart ethernet switch for earth.
 * Network Scanners:
   * [masscan][8]: TCP port scanner, spews SYN packets asynchronously.
   * [nmap][4]: utility for network scanning and discovery and security auditing
@@ -349,6 +369,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [ATT&CK][345]: knowledge base of adversary tactics and techniques.
 * [BDF][145]: The Backdoor Factory.
 * [Bettercap][341]: networks reconnaissance and MITM attacks.
+  * [airgeddon][370]: multi-use bash script for Linux systems to audit wireless
+    networks.
 * [BloodHound][335]: Six Degrees of Domain Admin.
 * [CrackMapExec][336]: evaluates and exploits vulnerabilities in an active
   directory environment.
@@ -437,6 +459,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Embedded Rust Book][153]: introductory book about using the Rust
     Programming Language on "Bare Metal" embedded systems.
   * [Macros][308]: the little book of rust macros.
+  * [min-sized-rust][373]: how to minimize Rust binary size.
   * [Official Repository][286]: official Rust repository.
   * [Performance][322]: Rust Performance Book.
   * [Raspberrypi OS Tutorials][186]: learn to write an embedded OS in Rust.
@@ -538,6 +561,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [bpftrace][120]: high-level tracing language for Linux eBPF.
 * [cannoli][248]: high-performance QEMU memory and instruction tracing.
 * [DynamoRIO][23]: runtime code manipulation system.
+* [Falco][367]: cloud native runtime security tool.
 * [Frida][36]: instrumentation toolkit for developers, reverse-engineers, and
   security researchers.
 * [LIEF][158]: library to Instrument Executable Formats.
@@ -912,3 +936,22 @@ My personal awesome list of interesting repos, libraries and tools.
 [353]: https://lore.kernel.org/rust-for-linux/
 [354]: https://lore.kernel.org/linux-hardening/
 [355]: https://outflux.net/blog/
+[356]: https://www.zerotier.com/
+[357]: https://tailscale.com/
+[358]: https://github.com/zerotier/ZeroTierOne
+[359]: https://github.com/tailscale/tailscale
+[360]: https://github.com/Exein-io/pulsar
+[361]: https://github.com/Hack-with-Github/Awesome-Hacking
+[362]: https://github.com/trimstray/the-book-of-secret-knowledge
+[363]: https://github.com/caddyserver/caddy
+[364]: https://cheatsheetseries.owasp.org/
+[365]: https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+[366]: https://linkedin.github.io/school-of-sre/
+[367]: https://github.com/falcosecurity/falco
+[368]: https://github.com/zeek/zeek
+[369]: https://github.com/gravitl/netmaker
+[370]: https://github.com/v1s1t0r1sh3r3/airgeddon
+[371]: https://github.com/ex0dus-0x/awesome-rust-security
+[371]: https://github.com/analysis-tools-dev/static-analysis
+[372]: https://github.com/analysis-tools-dev/dynamic-analysis
+[373]: https://github.com/johnthagen/min-sized-rust
