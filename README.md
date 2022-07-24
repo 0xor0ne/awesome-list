@@ -30,7 +30,7 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [Analysis Tools (dynamic)][372]: curated list of dynamic analysis tools for all
   programming languages.
-* [Analysis Tools (static)][372]: curated list of static analysis (SAST) tools.
+* [Analysis Tools (static)][371]: curated list of static analysis (SAST) tools.
 * [BSK][362]: the book of secret knowledge.
 * [C][17]: A curated list of C good stuff.
 * [eBPF][25]: curated list of awesome projects related to eBPF.
@@ -45,6 +45,7 @@ My personal awesome list of interesting repos, libraries and tools.
   executable packing.
 * [Hacking][361]: collection of awesome lists for hackers, pentesters & security
   researchers.
+* [ICS Security][374]: tools, tips, tricks, and more for exploring ICS Security.
 * [IoT Security 101][273]: curated list of IoT Security Resources.
 * [Linux Rootkits][29]: list of rootkits for the Linux kernel.
 * [IoT][19]: list of great resources about IoT Framework, Library, OS, Platforms.
@@ -55,7 +56,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [RAT][162]: RAT And C&C Resources.
 * [Reverse Engineering][35]: reversing resources.
 * [Rust][18]: curated list of Rust code and resources.
-* [rust security][371]:  list of awesome projects and resources related to Rust
+* [rust security][376]:  list of awesome projects and resources related to Rust
   and computer security.
 * [Search engines][339]: list of search engines useful during Penetration
   testing, Vulnerability assessments, Red Team operations, Bug Bounty and more.
@@ -268,6 +269,7 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Malwares
 
+* [Linux Malware][377]: tracking interesting Linux (and UNIX) malware.
 * Log Cleaners:
   * [Moonwalk][221]: Cover your tracks during Linux Exploitation by leaving zero
     traces on system logs and filesystem timestamps.
@@ -462,6 +464,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [min-sized-rust][373]: how to minimize Rust binary size.
   * [Official Repository][286]: official Rust repository.
   * [Performance][322]: Rust Performance Book.
+  * [Practice][375]: easily diving into and get skilled with Rust.
   * [Raspberrypi OS Tutorials][186]: learn to write an embedded OS in Rust.
   * [Redox OS][318]: Unix-like Operating System written in Rust.
   * [RFCs][320]: RFCs for changes to Rust.
@@ -951,7 +954,10 @@ My personal awesome list of interesting repos, libraries and tools.
 [368]: https://github.com/zeek/zeek
 [369]: https://github.com/gravitl/netmaker
 [370]: https://github.com/v1s1t0r1sh3r3/airgeddon
-[371]: https://github.com/ex0dus-0x/awesome-rust-security
 [371]: https://github.com/analysis-tools-dev/static-analysis
 [372]: https://github.com/analysis-tools-dev/dynamic-analysis
 [373]: https://github.com/johnthagen/min-sized-rust
+[374]: https://github.com/ITI/ICS-Security-Tools
+[375]: https://practice.rs/why-exercise.html
+[376]: https://github.com/ex0dus-0x/awesome-rust-security
+[377]: https://github.com/timb-machine/linux-malware
