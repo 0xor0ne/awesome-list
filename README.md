@@ -220,7 +220,9 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Healer][190]: kernel fuzzer inspired by Syzkaller.
 * [Honggfuzz][39]: evolutionary, feedback-driven fuzzing based on code coverage.
 * [krf][92]: kernelspace syscall interceptor and randomized faulter.
+* [lain][381]: fuzzer framework built in Rust.
 * [LibAFL][95]: fuzzing library.
+* [onefuzz][382]: self-hosted Fuzzing-As-A-Service platform.
 * [SemGrep][343]: lightweight static analysis for many languages.
   * [Rules][344]: Semgrep rules to facilitate vulnerability research.
 * [Syzkaller][37]: unsupervised coverage-guided kernel fuzzer.
@@ -346,6 +348,7 @@ My personal awesome list of interesting repos, libraries and tools.
     available.
   * [rsg][146]: tool to generate various ways to do a reverse shell.
   * [rtty][289]: access your terminal from anywhere via the web.
+  * [rustcat][378]: modern Port listener and Reverse shell.
   * [tunshell][121]: remote shell into ephemeral environments.
   * [wash][131]: a cloud-native shell for bringing remote infrastructure to your
     terminal.
@@ -450,6 +453,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Rust][41]: secure system programming language.
   * [API guidelines][319]: set of recommendations on how to design and present
     APIs for the Rust programming.
+  * [Black Hat Rust][380]: applied offensive security with Rust.
   * [Book][42]: introductory book about Rust.
   * [Cargo Book][129]: official cargo book.
   * [Clippy][218]: lints to catch common mistakes and improve your Rust code.
@@ -462,6 +466,7 @@ My personal awesome list of interesting repos, libraries and tools.
     Programming Language on "Bare Metal" embedded systems.
   * [Macros][308]: the little book of rust macros.
   * [min-sized-rust][373]: how to minimize Rust binary size.
+  * [Offensive Rust][379]: Rust Weaponization for Red Team Engagements.
   * [Official Repository][286]: official Rust repository.
   * [Performance][322]: Rust Performance Book.
   * [Practice][375]: easily diving into and get skilled with Rust.
@@ -473,6 +478,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Rust Reference][151]: primary reference for the Rust programming language.
   * [rustup][152]: installer for the systems programming language Rust.
   * [std][43]: standard library documentation.
+  * [Windows RS][383]: Rust for Windows.
   * [This Week In Rust][148]: handpicked Rust updates, delivered to your inbox.
   * Libraries:
     * Async Runtimes:
@@ -481,6 +487,7 @@ My personal awesome list of interesting repos, libraries and tools.
       * [Tokio][323]: runtime for writing reliable asynchronous applications
         with Rust.
         * [Tutorial][324]: official Tokio tutorial.
+    * [avml][384]: Acquire Volatile Memory for Linux.
     * [Aya][222]: eBPF library for the Rust programming language.
     * [Goblin][99]: cross-platform binary parsing crate, written in Rust.
     * [libp2p][241]: Rust Implementation of the libp2p networking stack.
@@ -961,3 +968,10 @@ My personal awesome list of interesting repos, libraries and tools.
 [375]: https://practice.rs/why-exercise.html
 [376]: https://github.com/ex0dus-0x/awesome-rust-security
 [377]: https://github.com/timb-machine/linux-malware
+[378]: https://github.com/robiot/rustcat
+[379]: https://github.com/trickster0/OffensiveRust
+[380]: https://github.com/skerkour/black-hat-rust
+[381]: https://github.com/microsoft/lain
+[382]: https://github.com/microsoft/onefuzz
+[383]: https://github.com/microsoft/windows-rs
+[384]: https://github.com/microsoft/avml
