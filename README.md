@@ -2,7 +2,7 @@
 
 My personal awesome list of interesting repos, libraries and tools.
 
-## Content
+# Content
 
 * [Awesome Lists](#awesome-lists)
 * [Blogs ad Tutorials](#blogs-and-tutorials)
@@ -25,6 +25,10 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Sandboxing](#sandboxing)
 * [Tracing, Hooking and Instrumentation](#tracing-hooking-and-instrumentation)
 * [Trusted Execution Environment](#trusted-execution-environment)
+
+# In-Depth Topics
+
+* [OT/IoT Security](topics/ot_security.md)
 
 ## Awesome Lists
 
