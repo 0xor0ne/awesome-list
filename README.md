@@ -47,6 +47,7 @@ My personal awesome list of interesting repos, libraries and tools.
   in the Rust programming language.
 * [Executable Packing][284]: curated list of awesome resources related to
   executable packing.
+* [Fuzzing][388]: curated list of fuzzing resources.
 * [Hacking][361]: collection of awesome lists for hackers, pentesters & security
   researchers.
 * [ICS Security][374]: tools, tips, tricks, and more for exploring ICS Security.
@@ -179,6 +180,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [OpenWRT][239]: Linux operating system targeting embedded devices.
 * [OS Kernel Lab][203]: OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32.
 * [OWASP-FSTM][201]: OWASP Firmware Security Testing Methodology.
+* [unblob][385]: ccurate, fast, and easy-to-use extraction suite.
 
 ## Emulators and Dynamic Analysis
 
@@ -220,13 +222,17 @@ My personal awesome list of interesting repos, libraries and tools.
 * [AFLplusplus][38]: improved version of AFL.
 * [boofuzz][89]: fork and successor of the Sulley Fuzzing Framework.
 * [difuze][90]: fuzzer for Linux Kernel Drivers.
+* [Fuzzing Book][390]: tools and techniques for generating software tests.
 * [halfempty][91]: fast, parallel test case minimization tool.
 * [Healer][190]: kernel fuzzer inspired by Syzkaller.
 * [Honggfuzz][39]: evolutionary, feedback-driven fuzzing based on code coverage.
 * [krf][92]: kernelspace syscall interceptor and randomized faulter.
 * [lain][381]: fuzzer framework built in Rust.
 * [LibAFL][95]: fuzzing library.
+* [netzob][391]: Protocol Reverse Engineering, Modeling and Fuzzing.
 * [onefuzz][382]: self-hosted Fuzzing-As-A-Service platform.
+* [propfuzz][387]: Rust toolkit to combine property-based testing and fuzzing.
+* [Radamsa][386]: general purpose fuzzer.
 * [SemGrep][343]: lightweight static analysis for many languages.
   * [Rules][344]: Semgrep rules to facilitate vulnerability research.
 * [Syzkaller][37]: unsupervised coverage-guided kernel fuzzer.
@@ -293,6 +299,8 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [Caddy][363]: fast, multi-platform web server with automatic HTTPS.
 * [CoreUtils][214]: Cross-platform Rust rewrite of the GNU coreutils.
+* [foundry][389]: blazing fast, portable and modular toolkit for Ethereum
+  application development written in Rust.
 * [klgrth][245]: pastebin alternative.
 * [OpenSK][67]: open-source implementation for security keys written in Rust.
 * [Pastebin][242]: store any text online for easy sharing.
@@ -979,3 +987,10 @@ My personal awesome list of interesting repos, libraries and tools.
 [382]: https://github.com/microsoft/onefuzz
 [383]: https://github.com/microsoft/windows-rs
 [384]: https://github.com/microsoft/avml
+[385]: https://unblob.org/
+[386]: https://gitlab.com/akihe/radamsa
+[387]: https://github.com/facebookincubator/propfuzz
+[388]: https://github.com/secfigo/Awesome-Fuzzing
+[389]: https://github.com/foundry-rs/foundry
+[390]: https://github.com/uds-se/fuzzingbook
+[391]: https://github.com/netzob/netzob
