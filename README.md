@@ -170,12 +170,14 @@ My personal awesome list of interesting repos, libraries and tools.
   flash chips.
 * [Frankenstein][192]: Broadcom and Cypress firmware emulation for fuzzing and
   further full-stack debugging.
+* [FuzzWare][394]: automated, self-configuring fuzzing of firmware images.
 * [InternalBlue][193]: bluetooth experimentation framework for Broadcom and
   Cypress chips.
 * [LLP University][202]: Low Level Programming University.
 * [Low level][48]: misc documentation about low level development.
 * [NexMon][49]: C-based Firmware Patching Framework for Broadcom/Cypress WiFi
   Chips.
+* [OFRAK][393]: unpack, modify, and repack binaries.
 * [OpenOCD][212]: Open On-Chip Debugger.
 * [OpenWRT][239]: Linux operating system targeting embedded devices.
 * [OS Kernel Lab][203]: OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32.
@@ -994,3 +996,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [389]: https://github.com/foundry-rs/foundry
 [390]: https://github.com/uds-se/fuzzingbook
 [391]: https://github.com/netzob/netzob
+[392]: https://github.com/redballoonsecurity/ofrak
+[393]: https://github.com/redballoonsecurity/ofrak
+[394]: https://github.com/fuzzware-fuzzer/fuzzware

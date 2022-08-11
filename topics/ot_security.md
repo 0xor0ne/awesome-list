@@ -45,6 +45,8 @@
   * [Resources][32]: Phosphorus cybersecurity news and insights.
 * [Radiflow][29]: OT risk management.
   * [Resources][30]: Radiflow resource center.
+* [Red Balloon Security][51]: automated firmware security solutions.
+  * [Blog][52]: Red Balloon Security insights.
 * [SCADAfence][17]: OT and IoT security platform.
   * [Blog][18]: SCADAfence blog.
 * [Security Gate][13]: risk assessment, improvement and documentation platform.
@@ -114,3 +116,5 @@
 [48]: https://waterfall-security.com/blog/
 [49]: https://www.wiznucleus.com/
 [50]: https://www.wiznucleus.com/blogs/
+[51]: https://redballoonsecurity.com/
+[52]: https://redballoonsecurity.com/blog/index.html
