@@ -48,6 +48,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Executable Packing][284]: curated list of awesome resources related to
   executable packing.
 * [Fuzzing][388]: curated list of fuzzing resources.
+* [Fuzzing paper collection][397]: papers related to fuzzing, binary analysis,
+  and exploit dev.
 * [Hacking][361]: collection of awesome lists for hackers, pentesters & security
   researchers.
 * [ICS Security][374]: tools, tips, tricks, and more for exploring ICS Security.
@@ -103,6 +105,7 @@ My personal awesome list of interesting repos, libraries and tools.
   based around ctf challenges.
 * [Outflux][355]: @kees_cook's blog.
 * [OWASP CSS][364]: OWASP Cheat Sheet Series Project.
+* [Pawnyable][395]: middle to advance binary exploitation.
 * [Phrack][75]: e-zine written by and for hackers.
 * [Project Zero][198]: news and updates from the Project Zero team at Google.
 * [Rust OSDev][68]: rhis Month in Rust OSDev.
@@ -284,6 +287,7 @@ My personal awesome list of interesting repos, libraries and tools.
 ## Malwares
 
 * [Linux Malware][377]: tracking interesting Linux (and UNIX) malware.
+  * [ATT&CK mapping][396]: linux malware to ATTACK.
 * Log Cleaners:
   * [Moonwalk][221]: Cover your tracks during Linux Exploitation by leaving zero
     traces on system logs and filesystem timestamps.
@@ -470,6 +474,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Black Hat Rust][380]: applied offensive security with Rust.
   * [Book][42]: introductory book about Rust.
   * [Cargo Book][129]: official cargo book.
+  * [Cheats][398]: Rust language cheat sheet.
   * [Clippy][218]: lints to catch common mistakes and improve your Rust code.
   * [crates.io][44]: rust community's crate registry.
   * [Design patterns][321]: catalogue of Rust design patterns, anti-patterns and
@@ -999,3 +1004,7 @@ My personal awesome list of interesting repos, libraries and tools.
 [392]: https://github.com/redballoonsecurity/ofrak
 [393]: https://github.com/redballoonsecurity/ofrak
 [394]: https://github.com/fuzzware-fuzzer/fuzzware
+[395]: https://pawnyable.cafe/
+[396]: https://gist.github.com/timb-machine/05043edd6e3f71569f0e6d2fe99f5e8c
+[397]: https://github.com/0xricksanchez/paper_collection
+[398]: https://cheats.rs/
