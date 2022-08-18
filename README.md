@@ -23,6 +23,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Reverse Engineering](#reverse-engineering)
 * [RTOS](#rtos)
 * [Sandboxing](#sandboxing)
+* [Tools](#tools)
 * [Tracing, Hooking and Instrumentation](#tracing-hooking-and-instrumentation)
 * [Trusted Execution Environment](#trusted-execution-environment)
 
@@ -69,6 +70,8 @@ My personal awesome list of interesting repos, libraries and tools.
   testing, Vulnerability assessments, Red Team operations, Bug Bounty and more.
 * [Secure a Linux server][365]: evolving how-to guide for securing a Linux server.
 * [Shell][31]: command-line frameworks, toolkits, guides and gizmos.
+* [System Design][400]: learn how to design systems at scale.
+* [Tech Interview][401]: curated coding interview preparation materials.
 * [Tunneling][181]: ngrok alternatives and other ngrok-like tunneling software
   and services.
 * [Vim][32]: all things vim.
@@ -305,6 +308,8 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [Caddy][363]: fast, multi-platform web server with automatic HTTPS.
 * [CoreUtils][214]: Cross-platform Rust rewrite of the GNU coreutils.
+* [FlipperZero][402]: portable multi-tool for pentesters and geeks in a toy-like
+  body.
 * [foundry][389]: blazing fast, portable and modular toolkit for Ethereum
   application development written in Rust.
 * [klgrth][245]: pastebin alternative.
@@ -508,6 +513,7 @@ My personal awesome list of interesting repos, libraries and tools.
         * [Tutorial][324]: official Tokio tutorial.
     * [avml][384]: Acquire Volatile Memory for Linux.
     * [Aya][222]: eBPF library for the Rust programming language.
+    * [embassy][399]: framework for embedded applications.
     * [Goblin][99]: cross-platform binary parsing crate, written in Rust.
     * [libp2p][241]: Rust Implementation of the libp2p networking stack.
     * [nix][304]: rust friendly bindings to \*nix APIs.
@@ -582,6 +588,11 @@ My personal awesome list of interesting repos, libraries and tools.
 * [sandboxed-api][177]: generates sandboxes for C/C++ libraries automatically.
 * [Unikraft][268]:  automated system for building specialized OSes known as
   unikernels.
+
+## Tools
+
+* [curl][403]: command line tool and library for transferring data with URL
+  syntax.
 
 ## Tracing, Hooking and Instrumentation
 
@@ -1008,3 +1019,8 @@ My personal awesome list of interesting repos, libraries and tools.
 [396]: https://gist.github.com/timb-machine/05043edd6e3f71569f0e6d2fe99f5e8c
 [397]: https://github.com/0xricksanchez/paper_collection
 [398]: https://cheats.rs/
+[399]: https://embassy.dev/
+[400]: https://github.com/karanpratapsingh/system-design
+[401]: https://github.com/yangshun/tech-interview-handbook
+[402]: https://github.com/flipperdevices/flipperzero-firmware
+[403]: https://github.com/curl/curl
