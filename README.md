@@ -6,6 +6,7 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [Awesome Lists](#awesome-lists)
 * [Blogs ad Tutorials](#blogs-and-tutorials)
+* [BlockChains](#blockchains)
 * [Compilers and Toolchains](#compilers-and-toolchains)
 * [Databases](#databases)
 * [Debuggers](#debuggers)
@@ -64,6 +65,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [RAT][162]: RAT And C&C Resources.
 * [Reverse Engineering][35]: reversing resources.
 * [Rust][18]: curated list of Rust code and resources.
+* [Rust blockchain][405]: libraries and packages about blockchain/cryptography
+  in Rust.
 * [rust security][376]:  list of awesome projects and resources related to Rust
   and computer security.
 * [Search engines][339]: list of search engines useful during Penetration
@@ -119,6 +122,21 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Will's Root][290]: Pentesting, CTFs and Writeups.
 * [Zero Day Initiative][220]: encourage the reporting of 0-day vulnerabilities
   privately to the affected vendors.
+
+## blockchains
+
+* [Cardano][412]: proof-of-stake blockchain platform.
+* [Ethereum][406]: community-run technology powering the cryptocurrency ether
+  (ETH) and thousands of decentralized applications.
+  * [Dev Doc][407]: development documentation.
+  * [Foundry][410]: portable and modular toolkit for Ethereum application
+    development written in Rust.
+* [NEAR][411]:  layer one, sharded, proof-of-stake blockchain built with
+  usability in mind.
+* [Polkadot][409]: unites and secures a growing ecosystem of specialized
+  blockchains called parachains.
+* [Solana][408]: decentralized blockchain built to enable scalable,
+  user-friendly apps for the world.
 
 ## Compilers and Toolchains
 
@@ -224,6 +242,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [ropr][247]: fast multithreaded ROP Gadget finder.
 * [Ropper][160]: find gadgets to build rop chains for different architectures.
 * [weggli][270]: fast and robust semantic search tool for C and C++ codebases.
+* [ZDI PoCs][404]: the Zero Day Initiative Proofs-of-concept.
 
 ## Fuzzing
 
@@ -246,6 +265,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Syzkaller][37]: unsupervised coverage-guided kernel fuzzer.
   * [Syzbot][94]: continuously fuzzes main Linux kernel branches and
     automatically reports found bugs
+  * [SyzScope][413]: automatically uncover high-risk impacts given a bug with
+    only low-risk impacts.
 
 ## Linux Kernel
 
@@ -1024,3 +1045,13 @@ My personal awesome list of interesting repos, libraries and tools.
 [401]: https://github.com/yangshun/tech-interview-handbook
 [402]: https://github.com/flipperdevices/flipperzero-firmware
 [403]: https://github.com/curl/curl
+[404]: https://github.com/thezdi/PoC
+[405]: https://github.com/rust-in-blockchain/awesome-blockchain-rust
+[406]: https://ethereum.org/en/
+[407]: https://ethereum.org/en/developers/docs/
+[408]: https://solana.com/
+[409]: https://polkadot.network/
+[410]: https://github.com/foundry-rs/foundry
+[411]: https://docs.near.org/
+[412]: https://cardano.org/
+[413]: https://github.com/plummm/SyzScope

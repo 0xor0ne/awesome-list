@@ -2,7 +2,21 @@
 
 ## Content
 
+* [Awesomes](#awesomes)
+* [Blogs and News](#blogs-and-news)
 * [Companies](#companies)
+* [Guides and Best Practices](#guides-and-best-practices)
+
+## Awesomes
+
+* [ICS Security][54]: curated list of resources related to Industrial Control
+  System (ICS) security.
+* [ICS Security Tools][53]: tools, tips, tricks, and more for exploring ICS Security.
+
+## Blogs and News
+
+* [ICS/SCADA security collection][58]: a collection of resources for geting
+  started in ICS/SCADA cybersecurity.
 
 ## Companies
 
@@ -14,6 +28,8 @@
   * [Blog][38]: BAE blog.
 * [Bayshore][43]: Modular Industrial Cybersecurity Platform.
   * [Resuorces][44]: Bayshore resources.
+* [Cisco][60]: IoT security division.
+  * [Blog][61]: OT/IoT security blog.
 * [Claroty][3]: visibility, protection, and threat detection across all
   cyber-physical systems.
   * [Resource Library][4]: Claroty blog and resources.
@@ -25,6 +41,8 @@
   * [Resources][22]: Darktrace library.
 * [Dragos][7]: OT visibility, detection and response.
   * [Resources][8]: Dragos blog and resources.
+* [Expliot][55]: IoT security assessment.
+  * [Blog][56]: expliot's blog.
 * [ForcePoint][15]: cloud visibility security platform.
   * [Blog][16]: Forcepoint security insights.
 * [forescout][9]: automated cybersecurity across the digital terrain (IT, IoT,
@@ -65,6 +83,12 @@
 * [Wiz Nucleus][49]: cyber and physical security.
   * [Blog][50]: Wiz Nucleus blog.
 
+## Guides and Best Practices
+
+* [NIST ICS Security][59]: guide to Industrial Control Systems (ICS) Security by
+  NIST.
+* [OWASP IoT][57]: better understand the security issues associated with the
+  Internet of Things.
 
 [1]: https://www.nozominetworks.com/
 [2]: https://www.nozominetworks.com/labs/labs-blogs/
@@ -118,3 +142,12 @@
 [50]: https://www.wiznucleus.com/blogs/
 [51]: https://redballoonsecurity.com/
 [52]: https://redballoonsecurity.com/blog/index.html
+[53]: https://github.com/ITI/ICS-Security-Tools
+[54]: https://github.com/hslatman/awesome-industrial-control-system-security
+[55]: https://expliot.io/
+[56]: https://store.expliot.io/blogs/iot
+[57]: https://owasp.org/www-project-internet-of-things/#tab=Firmware_Analysis
+[58]: http://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/
+[59]: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r2.pdf
+[60]: https://www.cisco.com/c/en/us/solutions/internet-of-things/iot-security.html
+[61]: https://blogs.cisco.com/tag/iot-security-lab
