@@ -17,6 +17,7 @@
 
 * [ICS/SCADA security collection][58]: a collection of resources for geting
   started in ICS/SCADA cybersecurity.
+* [Attify blog][62]: Attify security blog.
 
 ## Companies
 
@@ -72,6 +73,8 @@
 * [SIGA][19]:  visibility into IoT networks and IT devices using accurate
   real-time sensors.
   * [Blog][20]: SIGA blog.
+* [Synsaber][63]: network monitoring solutions.
+  * [Blog][64]: Synsaber's blog.
 * [Tenable][23]: tenable.ot platform.
   * [Blog][24]: Tenable blog.
 * [Veracity][45]: SDN based industrial network platform.
@@ -151,3 +154,6 @@
 [59]: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r2.pdf
 [60]: https://www.cisco.com/c/en/us/solutions/internet-of-things/iot-security.html
 [61]: https://blogs.cisco.com/tag/iot-security-lab
+[62]: https://blog.attify.com/
+[63]: https://synsaber.com/
+[64]: https://synsaber.com/resources/blog/

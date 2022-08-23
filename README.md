@@ -201,12 +201,14 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Low level][48]: misc documentation about low level development.
 * [NexMon][49]: C-based Firmware Patching Framework for Broadcom/Cypress WiFi
   Chips.
+* [nvram-faker][415]: simple library to intercept calls to libnvram when running
+  embedded linux applications in emulated environments.
 * [OFRAK][393]: unpack, modify, and repack binaries.
 * [OpenOCD][212]: Open On-Chip Debugger.
 * [OpenWRT][239]: Linux operating system targeting embedded devices.
 * [OS Kernel Lab][203]: OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32.
 * [OWASP-FSTM][201]: OWASP Firmware Security Testing Methodology.
-* [unblob][385]: ccurate, fast, and easy-to-use extraction suite.
+* [unblob][385]: curate, fast, and easy-to-use extraction suite.
 
 ## Emulators and Dynamic Analysis
 
@@ -614,6 +616,8 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [curl][403]: command line tool and library for transferring data with URL
   syntax.
+* [patchelf][414]: small utility to modify the dynamic linker and RPATH of ELF
+  executables.
 
 ## Tracing, Hooking and Instrumentation
 
@@ -1055,3 +1059,5 @@ My personal awesome list of interesting repos, libraries and tools.
 [411]: https://docs.near.org/
 [412]: https://cardano.org/
 [413]: https://github.com/plummm/SyzScope
+[414]: https://github.com/NixOS/patchelf
+[415]: https://github.com/zcutlip/nvram-faker
