@@ -259,6 +259,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [lain][381]: fuzzer framework built in Rust.
 * [LibAFL][95]: fuzzing library.
 * [netzob][391]: Protocol Reverse Engineering, Modeling and Fuzzing.
+* [MATE][420]: suite of tools for interactive program analysis with a focus on
+  hunting for bugs in C and C++.
 * [onefuzz][382]: self-hosted Fuzzing-As-A-Service platform.
 * [propfuzz][387]: Rust toolkit to combine property-based testing and fuzzing.
 * [Radamsa][386]: general purpose fuzzer.
@@ -618,6 +620,11 @@ My personal awesome list of interesting repos, libraries and tools.
   syntax.
 * [patchelf][414]: small utility to modify the dynamic linker and RPATH of ELF
   executables.
+* [tcpdump][416]: command-line packet analyzer.
+* [wireshark][417]: network protocol analyzer.
+  * [tshark][418]: CLI tool for analyzing network traffic.
+  * [tshark.dev][419]: guide to working with packet captures on the
+    command-line.
 
 ## Tracing, Hooking and Instrumentation
 
@@ -1061,3 +1068,8 @@ My personal awesome list of interesting repos, libraries and tools.
 [413]: https://github.com/plummm/SyzScope
 [414]: https://github.com/NixOS/patchelf
 [415]: https://github.com/zcutlip/nvram-faker
+[416]: https://www.tcpdump.org/
+[417]: https://www.wireshark.org/
+[418]: https://www.wireshark.org/docs/man-pages/tshark.html
+[419]: https://tshark.dev/
+[420]: https://github.com/GaloisInc/MATE
