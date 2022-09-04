@@ -358,6 +358,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [croc][167]: easily and securely send things from one computer to another.
   * [pcp][166]: peer-to-peer data transfer tool based on libp2p.
 * Misc:
+  * [innernet][421]: private network system that uses WireGuard under the hood.
   * [nebula][122]: scalable overlay networking tool.
   * [netbird][331]: connect your devices into a single secure private
     WireGuard®-based mesh network.
@@ -1073,3 +1074,4 @@ My personal awesome list of interesting repos, libraries and tools.
 [418]: https://www.wireshark.org/docs/man-pages/tshark.html
 [419]: https://tshark.dev/
 [420]: https://github.com/GaloisInc/MATE
+[421]: https://github.com/tonarino/innernet
