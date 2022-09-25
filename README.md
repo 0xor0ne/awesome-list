@@ -92,6 +92,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Arch Wiki][217]: official Arch wiki.
 * [Connof McGarr][196]: exploit development and vulnerability research (mostly
   Windows).
+* [CVE North Star][428]: CVEs as North Stars in vulnerability discovery and
+  comprehension.
 * [Gentoo Wiki][216]: official Gentoo wiki.
 * [GitHub Security Lab][137]: GitHub security research.
 * [Google Security Blog][291]: latest news and insights from Google on security.
@@ -118,8 +120,10 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Sam4k][298]: linux, security, games and other nerdery.
 * [School of SRE][366]: school of Sire Reliability Engineers.
 * [System Overlord][46]: security engineering, research, and general hacking.
+* [ThePhd][423]: (c) programming.
 * [tmp.out][76]: ELF research group.
 * [Will's Root][290]: Pentesting, CTFs and Writeups.
+* [xilokar][426]: embedded development.
 * [Zero Day Initiative][220]: encourage the reporting of 0-day vulnerabilities
   privately to the affected vendors.
 
@@ -251,6 +255,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [AFLplusplus][38]: improved version of AFL.
 * [boofuzz][89]: fork and successor of the Sulley Fuzzing Framework.
 * [difuze][90]: fuzzer for Linux Kernel Drivers.
+* [ferofuzz][424]: structure-aware HTTP fuzzing library.
 * [Fuzzing Book][390]: tools and techniques for generating software tests.
 * [halfempty][91]: fast, parallel test case minimization tool.
 * [Healer][190]: kernel fuzzer inspired by Syzkaller.
@@ -266,6 +271,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Radamsa][386]: general purpose fuzzer.
 * [SemGrep][343]: lightweight static analysis for many languages.
   * [Rules][344]: Semgrep rules to facilitate vulnerability research.
+* [silifuzz][422]: finds CPU defects by fuzzing software proxies.
 * [Syzkaller][37]: unsupervised coverage-guided kernel fuzzer.
   * [Syzbot][94]: continuously fuzzes main Linux kernel branches and
     automatically reports found bugs
@@ -281,6 +287,7 @@ My personal awesome list of interesting repos, libraries and tools.
   options of the Linux kernel.
 * [Kernel documentation][12]: official linux kernel documentation.
 * [kernel.org][11]: linux kernel archives.
+* [like-gdb][425]: fully dockerized Linux kernel debugging environment.
 * [linux-insides][77]: a book about linux kernel and its insides.
 * [Linux Kernel Module Cheat][305]: emulation setup to study and develop the
   Linux kernel.
@@ -331,6 +338,7 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Misc
 
+* [Arti][427]: implementation of Tor, in Rust.
 * [Caddy][363]: fast, multi-platform web server with automatic HTTPS.
 * [CoreUtils][214]: Cross-platform Rust rewrite of the GNU coreutils.
 * [FlipperZero][402]: portable multi-tool for pentesters and geeks in a toy-like
@@ -1075,3 +1083,10 @@ My personal awesome list of interesting repos, libraries and tools.
 [419]: https://tshark.dev/
 [420]: https://github.com/GaloisInc/MATE
 [421]: https://github.com/tonarino/innernet
+[422]: https://github.com/google/silifuzz
+[423]: https://thephd.dev/
+[424]: https://github.com/epi052/feroxfuzz
+[425]: https://github.com/0xricksanchez/like-dbg
+[426]: https://blog.xilokar.info/
+[427]: https://gitlab.torproject.org/tpo/core/arti
+[428]: https://cve-north-stars.github.io/

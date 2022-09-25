@@ -73,6 +73,8 @@
 * [SIGA][19]:  visibility into IoT networks and IT devices using accurate
   real-time sensors.
   * [Blog][20]: SIGA blog.
+* [Sternum][65]: device real-time self-protection and self-monitoring
+  * [Blog][66]: Sternum's blob.
 * [Synsaber][63]: network monitoring solutions.
   * [Blog][64]: Synsaber's blog.
 * [Tenable][23]: tenable.ot platform.
@@ -157,3 +159,5 @@
 [62]: https://blog.attify.com/
 [63]: https://synsaber.com/
 [64]: https://synsaber.com/resources/blog/
+[65]: https://www.sternumiot.com/
+[66]: https://www.sternumiot.com/blog
