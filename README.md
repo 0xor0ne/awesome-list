@@ -287,6 +287,7 @@ My personal awesome list of interesting repos, libraries and tools.
   options of the Linux kernel.
 * [Kernel documentation][12]: official linux kernel documentation.
 * [kernel.org][11]: linux kernel archives.
+* [kernelci.org][432]: test system focused on the upstream Linux kernel.
 * [like-gdb][425]: fully dockerized Linux kernel debugging environment.
 * [linux-insides][77]: a book about linux kernel and its insides.
 * [Linux Kernel Module Cheat][305]: emulation setup to study and develop the
@@ -323,6 +324,9 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [Linux Malware][377]: tracking interesting Linux (and UNIX) malware.
   * [ATT&CK mapping][396]: linux malware to ATTACK.
+  * [elfloader][430]: architecture-agnostic ELF file flattener for shellcode.
+* Dumpers:
+  * [pamspy][429]: Credentials Dumper for Linux using eBPF.
 * Log Cleaners:
   * [Moonwalk][221]: Cover your tracks during Linux Exploitation by leaving zero
     traces on system logs and filesystem timestamps.
@@ -341,6 +345,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Arti][427]: implementation of Tor, in Rust.
 * [Caddy][363]: fast, multi-platform web server with automatic HTTPS.
 * [CoreUtils][214]: Cross-platform Rust rewrite of the GNU coreutils.
+* [fccid][433]: information resource for all wireless device applications filed
+  with the FCC.
 * [FlipperZero][402]: portable multi-tool for pentesters and geeks in a toy-like
   body.
 * [foundry][389]: blazing fast, portable and modular toolkit for Ethereum
@@ -348,6 +354,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [klgrth][245]: pastebin alternative.
 * [OpenSK][67]: open-source implementation for security keys written in Rust.
 * [Pastebin][242]: store any text online for easy sharing.
+* [patents][434]: patents db from Google.
 * [Polypyus][191]: locate functions in raw binaries by extracting known functions
   from similar binaries.
 * [pspy][264]: monitor linux processes without root permissions.
@@ -503,6 +510,7 @@ My personal awesome list of interesting repos, libraries and tools.
     * [libaco][104]: blazing fast and lightweight C asymmetric coroutine
       library.
     * [libdill][269]: structured concurrency in C.
+    * [linux-syscall-support][431]: low level C API for making direct Linux syscalls.
     * [sc][271]: common libraries and data structures for C.
 * [Go][106]: open source programming language supported by Google.
   * [Docs][107]: official documentation.
@@ -1090,3 +1098,9 @@ My personal awesome list of interesting repos, libraries and tools.
 [426]: https://blog.xilokar.info/
 [427]: https://gitlab.torproject.org/tpo/core/arti
 [428]: https://cve-north-stars.github.io/
+[429]: https://github.com/citronneur/pamspy
+[430]: https://github.com/gamozolabs/elfloader
+[431]: https://chromium.googlesource.com/linux-syscall-support/
+[432]: https://kernelci.org/
+[433]: https://fccid.io/
+[434]: https://patents.google.com/
