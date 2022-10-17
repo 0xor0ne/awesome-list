@@ -49,6 +49,8 @@ My personal awesome list of interesting repos, libraries and tools.
   in the Rust programming language.
 * [Executable Packing][284]: curated list of awesome resources related to
   executable packing.
+* [Firmware Security][437]: curated list of platform firmware resources
+* [FlipperZero][438]: awesome resources for the Flipper Zero device.
 * [Fuzzing][388]: curated list of fuzzing resources.
 * [Fuzzing paper collection][397]: papers related to fuzzing, binary analysis,
   and exploit dev.
@@ -88,12 +90,14 @@ My personal awesome list of interesting repos, libraries and tools.
   Linux).
 * [Alex Plaskett][288]: Random Security Research.
 * [Andrey Konovalov][297]: uzzers, exploits, and mitigations for Linux and
-  Android kernels..{
+  Android kernels.
+* [apps3c][435]: cybersecurity research focused on offensive security.
 * [Arch Wiki][217]: official Arch wiki.
 * [Connof McGarr][196]: exploit development and vulnerability research (mostly
   Windows).
 * [CVE North Star][428]: CVEs as North Stars in vulnerability discovery and
   comprehension.
+* [epi052][439]: epi's personal blog.
 * [Gentoo Wiki][216]: official Gentoo wiki.
 * [GitHub Security Lab][137]: GitHub security research.
 * [Google Security Blog][291]: latest news and insights from Google on security.
@@ -199,6 +203,9 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Frankenstein][192]: Broadcom and Cypress firmware emulation for fuzzing and
   further full-stack debugging.
 * [FuzzWare][394]: automated, self-configuring fuzzing of firmware images.
+* [HardwareAllTheThings][436]: list of useful payloads and bypasses for Hardware
+  and IOT Security.
+* [KataOS][440]: embedded OS written most enrtirely in rust.
 * [InternalBlue][193]: bluetooth experimentation framework for Broadcom and
   Cypress chips.
 * [LLP University][202]: Low Level Programming University.
@@ -352,6 +359,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [foundry][389]: blazing fast, portable and modular toolkit for Ethereum
   application development written in Rust.
 * [klgrth][245]: pastebin alternative.
+* [jless][434]: command-line JSON viewer designed for reading, exploring, and
+  searching through JSON data.
 * [OpenSK][67]: open-source implementation for security keys written in Rust.
 * [Pastebin][242]: store any text online for easy sharing.
 * [patents][434]: patents db from Google.
@@ -1104,3 +1113,10 @@ My personal awesome list of interesting repos, libraries and tools.
 [432]: https://kernelci.org/
 [433]: https://fccid.io/
 [434]: https://patents.google.com/
+[434]: https://jless.io/
+[435]: https://www.apps3c.info/
+[436]: https://swisskyrepo.github.io/HardwareAllTheThings/
+[437]: https://github.com/PreOS-Security/awesome-firmware-security
+[438]: https://github.com/djsime1/awesome-flipperzero
+[439]: https://epi052.gitlab.io/notes-to-self/
+[440]: https://github.com/AmbiML/sparrow-kata-full
