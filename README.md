@@ -352,6 +352,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Arti][427]: implementation of Tor, in Rust.
 * [Caddy][363]: fast, multi-platform web server with automatic HTTPS.
 * [CoreUtils][214]: Cross-platform Rust rewrite of the GNU coreutils.
+* [difftastic][440]: structural diff that understands syntax.
 * [fccid][433]: information resource for all wireless device applications filed
   with the FCC.
 * [FlipperZero][402]: portable multi-tool for pentesters and geeks in a toy-like
@@ -587,6 +588,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [cpu_rec][301]: recognize cpu instructions in an arbitrary binary file.
 * [CyberChef][155]: web app for encryption, encoding, compression and data
   analysis.
+* [decomp2dbg][442]: plugin to introduce interactive symbols into your debugger
+  from your decompiler.
 * [Diffware][52]: configurable tool providing a summary of the changes between
   two files or directories
   * [Diffoscope][53]: directory differ.
@@ -1120,3 +1123,5 @@ My personal awesome list of interesting repos, libraries and tools.
 [438]: https://github.com/djsime1/awesome-flipperzero
 [439]: https://epi052.gitlab.io/notes-to-self/
 [440]: https://github.com/AmbiML/sparrow-kata-full
+[441]: https://github.com/Wilfred/difftastic
+[442]: https://github.com/mahaloz/decomp2dbg
