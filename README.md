@@ -300,6 +300,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Linux Kernel Module Cheat][305]: emulation setup to study and develop the
   Linux kernel.
 * [LKFT][329]: Linux Kernel Functional Testing.
+* [lkmpg][443]: The Linux Kernel Module Programming Guide.
 * [ltp][93]: Linux Test Project.
 * [Mailing Lists]:
   * [Lore kernel][351]: Linux kernel mailing lists.
@@ -368,6 +369,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Polypyus][191]: locate functions in raw binaries by extracting known functions
   from similar binaries.
 * [pspy][264]: monitor linux processes without root permissions.
+* [sniffle][444]: sniffer for Bluetooth 5 and 4.x LE.
 * [Solana][240]: Blockchain for fast, secure, scalable, decentralized apps and
   marketplaces.
 * [temp.sh][246]: alternative to transfer.sh.
@@ -1125,3 +1127,5 @@ My personal awesome list of interesting repos, libraries and tools.
 [440]: https://github.com/AmbiML/sparrow-kata-full
 [441]: https://github.com/Wilfred/difftastic
 [442]: https://github.com/mahaloz/decomp2dbg
+[443]: https://sysprog21.github.io/lkmpg/
+[444]: https://github.com/nccgroup/Sniffle
