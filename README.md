@@ -31,6 +31,7 @@ My personal awesome list of interesting repos, libraries and tools.
 # In-Depth Topics
 
 * [OT/IoT Security](topics/ot_security.md)
+* [Wireless](topics/wireless.md)
 
 ## Awesome Lists
 
@@ -295,6 +296,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Kernel documentation][12]: official linux kernel documentation.
 * [kernel.org][11]: linux kernel archives.
 * [kernelci.org][432]: test system focused on the upstream Linux kernel.
+* [kernelconfig][445]: Linux kernel configuration entries.
 * [like-gdb][425]: fully dockerized Linux kernel debugging environment.
 * [linux-insides][77]: a book about linux kernel and its insides.
 * [Linux Kernel Module Cheat][305]: emulation setup to study and develop the
@@ -1129,3 +1131,4 @@ My personal awesome list of interesting repos, libraries and tools.
 [442]: https://github.com/mahaloz/decomp2dbg
 [443]: https://sysprog21.github.io/lkmpg/
 [444]: https://github.com/nccgroup/Sniffle
+[445]: https://www.kernelconfig.io/index.html
