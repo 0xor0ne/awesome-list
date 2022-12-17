@@ -3,8 +3,10 @@
 ## Content
 
 * [802.11](#802.11)
+* [802.15.4](#802.15.4)
 * [Bluetooth](#bluetooth)
 * [Linux](#linux)
+* [Misc](#Misc)
 * [Radio Controllers](#radio-controllers)
 * [SDR](#sdr-and-sdp)
 
@@ -26,11 +28,20 @@
   * [wifipumpkin3][29]: Powerful framework for rogue access point attack.
 * [USB-WiFi][24]: USB WiFi Adapter Information for Linux
 
+## 802.15.4
+
+* [KillerBee][31]: IEEE 802.15.4/ZigBee Security Research Toolkit.
+
 ## Bluetooth
 
+* [Awesome bluetooth security][33]: useful references for anyone working with
+  Bluetooth BR/EDR/LE or Mesh security.
+* [BLE Security Attack Defence][34]: Unveiling zero day vulnerabilities and
+  security flaws in modern Bluetooth LE stacks.
 * Tools
   * [internalblue][26]: About Bluetooth experimentation framework for Broadcom
     and Cypress chips.
+  * [Injectable firmware][35]: Custom firmware for nrf52840-dongle.
   * [Sniffle][21]: A sniffer for Bluetooth 5 and 4.x LE
 
 ## linux
@@ -40,6 +51,11 @@
 * Realtek drivers:
   * [RTL88x2BU][25]: Linux Driver for USB WiFi Adapters that are based on the
     RTL8812BU and RTL8822BU Chipset.
+
+## Misc
+
+* [Mirage][36]: powerful and modular framework dedicated to the security
+  analysis of wireless communications.
 
 ## Radio Controllers
 
@@ -62,6 +78,8 @@
     software-defined radios.
     * [liquid-dsp][13]: digital signal processing library for software-defined
       radios.
+  * [OpenOFDM][30]: Sythesizable, modular Verilog implementation of 802.11 OFDM
+    decoder.
 * Theory
   * [dspguide][23]: The Scientist and Engineer's Guide to Digital Signal
     Processing.
@@ -104,3 +122,9 @@
 [28]: https://github.com/DanMcInerney/wifijammer
 [29]: https://github.com/P0cL4bs/wifipumpkin3
 [30]: https://www.analog.com/en/education/education-library/software-defined-radio-for-engineers.html
+[31]: https://github.com/jhshi/openofdm
+[32]: https://github.com/riverloopsec/killerbee
+[33]: https://github.com/engn33r/awesome-bluetooth-security
+[34]: https://github.com/Charmve/BLE-Security-Attack-Defence
+[35]: https://github.com/RCayre/injectable-firmware
+[36]: https://github.com/RCayre/mirage

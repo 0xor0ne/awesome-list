@@ -98,6 +98,7 @@ My personal awesome list of interesting repos, libraries and tools.
   Windows).
 * [CVE North Star][428]: CVEs as North Stars in vulnerability discovery and
   comprehension.
+* [Dmitry.gr]: reverse engineering, embedded and hardware.
 * [epi052][439]: epi's personal blog.
 * [Gentoo Wiki][216]: official Gentoo wiki.
 * [GitHub Security Lab][137]: GitHub security research.
@@ -1132,3 +1133,4 @@ My personal awesome list of interesting repos, libraries and tools.
 [443]: https://sysprog21.github.io/lkmpg/
 [444]: https://github.com/nccgroup/Sniffle
 [445]: https://www.kernelconfig.io/index.html
+[446]: http://dmitry.gr/
