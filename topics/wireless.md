@@ -18,11 +18,20 @@
   * [bettercap][18]: Swiss Army knife for WiFi, Bluetooth Low Energy, wireless
     HID hijacking.
     * [GitHub][19]: source code repository.
+  * [ESP32 802.11 TX][41]: Send arbitrary IEEE 802.11 frames with Espressif's
+    ESP32.
+  * [ESP32 ESP8266 attacks][38]: Proof of Concept of ESP32/8266 Wi-Fi
+    vulnerabilties.
+  * [ESP32 Marauder][43]: suite of WiFi/Bluetooth offensive and defensive tools
+    for the ESP32.
   * [Kismet][14]: Wi-Fi, Bluetooth, RF, and more
     * [GitHub][15]: Kismet and related tools and libraries for wireless
       monitoring, transmitting, and auditing.
   * [nexmon][20]: The C-based Firmware Patching Framework for Broadcom/Cypress
     WiFi Chips.
+  * [pawnagotchi][42]:  A2C-based “AI” powered by bettercap and running on a
+    Raspberry Pi Zero W that learns from its surrounding WiFi environment in
+    order to maximize the crackable WPA key material it captures/
   * [wifijammer][28]: Continuously jam all wifi clients/routers.
   * [wifiphisher][27]: The Rogue Access Point Framework.
   * [wifipumpkin3][29]: Powerful framework for rogue access point attack.
@@ -39,9 +48,13 @@
 * [BLE Security Attack Defence][34]: Unveiling zero day vulnerabilities and
   security flaws in modern Bluetooth LE stacks.
 * Tools
+  * [btlejack][44]: Bluetooth Low Energy Swiss-army knife.
+  * [ESP32 bluetooth classic sniffer][37]: Active Bluetooth BR/EDR Sniffer/Injector
+    as cheap as any ESP32 board can get.
   * [internalblue][26]: About Bluetooth experimentation framework for Broadcom
     and Cypress chips.
   * [Injectable firmware][35]: Custom firmware for nrf52840-dongle.
+  * [nRF sniffer][40]: Bluetooth LE sniffer from nordic.
   * [Sniffle][21]: A sniffer for Bluetooth 5 and 4.x LE
 
 ## linux
@@ -54,6 +67,7 @@
 
 ## Misc
 
+* [cts.ninja][39]: CTF focused on radio signal reverse engineering
 * [Mirage][36]: powerful and modular framework dedicated to the security
   analysis of wireless communications.
 
@@ -128,3 +142,11 @@
 [34]: https://github.com/Charmve/BLE-Security-Attack-Defence
 [35]: https://github.com/RCayre/injectable-firmware
 [36]: https://github.com/RCayre/mirage
+[37]: https://github.com/Matheus-Garbelini/esp32_bluetooth_classic_sniffer
+[38]: https://github.com/Matheus-Garbelini/esp32_esp8266_attacks
+[39]: https://cts.ninja/
+[40]: https://infocenter.nordicsemi.com/index.jsp?topic=%2Fug_sniffer_ble%2FUG%2Fsniffer_ble%2Fintro.html
+[41]: https://github.com/Jeija/esp32-80211-tx
+[42]: https://pwnagotchi.ai/
+[43]: https://github.com/justcallmekoko/ESP32Marauder
+[44]: https://github.com/virtualabs/btlejack

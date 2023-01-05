@@ -46,6 +46,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Embedded][20]: curated list of awesome embedded programming.
 * [Embedded and IoT][209]: curated list of awesome embedded and IoT security
   resources.
+* [Embedded fuzzing][448]: A list of resources (papers, books, talks,
+  frameworks, tools) for understanding fuzzing for IoT/embedded devices.
 * [Embedded Rust][211]: list of resources for Embedded and Low-level development
   in the Rust programming language.
 * [Executable Packing][284]: curated list of awesome resources related to
@@ -357,6 +359,9 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Caddy][363]: fast, multi-platform web server with automatic HTTPS.
 * [CoreUtils][214]: Cross-platform Rust rewrite of the GNU coreutils.
 * [difftastic][440]: structural diff that understands syntax.
+* [esphome.io][449]: control your ESP8266/ESP32.
+* [f4pga][450]: fully open source toolchain for the development of FPGAs of
+  multiple vendors.
 * [fccid][433]: information resource for all wireless device applications filed
   with the FCC.
 * [FlipperZero][402]: portable multi-tool for pentesters and geeks in a toy-like
@@ -686,6 +691,8 @@ My personal awesome list of interesting repos, libraries and tools.
   * [TrustedFirmware][188]:  reference implementation of secure software for
     Armv8-A, Armv9-A and Armv8-M.
   * [Docs][55]: official OP-TEE documentation.
+* [TEE-reversing][447]: A curated list of public TEE resources for learning how
+  to reverse-engineer and achieve trusted code execution on ARM devices.
 
 [1]: https://github.com/radareorg/radare2
 [2]: https://github.com/rizinorg/rizin
@@ -1134,3 +1141,7 @@ My personal awesome list of interesting repos, libraries and tools.
 [444]: https://github.com/nccgroup/Sniffle
 [445]: https://www.kernelconfig.io/index.html
 [446]: http://dmitry.gr/
+[447]: https://github.com/enovella/TEE-reversing
+[448]: https://github.com/andreia-oca/awesome-embedded-fuzzing
+[449]: https://esphome.io/
+[450]: https://f4pga.org/
