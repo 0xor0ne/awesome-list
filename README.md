@@ -98,6 +98,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Arch Wiki][217]: official Arch wiki.
 * [Connof McGarr][196]: exploit development and vulnerability research (mostly
   Windows).
+* [CS6038/CS5138 Malware Analysis][451]: Introduction to Malware Analysis and
+  Reverse Engineering.
 * [CVE North Star][428]: CVEs as North Stars in vulnerability discovery and
   comprehension.
 * [Dmitry.gr]: reverse engineering, embedded and hardware.
@@ -368,6 +370,7 @@ My personal awesome list of interesting repos, libraries and tools.
   body.
 * [foundry][389]: blazing fast, portable and modular toolkit for Ethereum
   application development written in Rust.
+* [Googl Home][452]: smart home ecosystem.
 * [klgrth][245]: pastebin alternative.
 * [jless][434]: command-line JSON viewer designed for reading, exploring, and
   searching through JSON data.
@@ -550,6 +553,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Editions][309]: editions guide.
   * [Embedded Rust Book][153]: introductory book about using the Rust
     Programming Language on "Bare Metal" embedded systems.
+  * [esp-rs][454]: Rust on ESP.
   * [Macros][308]: the little book of rust macros.
   * [min-sized-rust][373]: how to minimize Rust binary size.
   * [Offensive Rust][379]: Rust Weaponization for Red Team Engagements.
@@ -679,6 +683,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [ltrace][233]: intercepts and records both the dynamic library calls and
   signals.
 * [QDBI][88]: a Dynamic Binary Instrumentation framework based on LLVM.
+* [Reverie][453]: ergonomic and safe syscall interception framework for Linux
+  (Rust).
 * [S2E][300]: platform for multi-path program analysis with selective symbolic
   execution.
 * [strace][254]: diagnostic, debugging and instructional userspace utility for
@@ -1145,3 +1151,7 @@ My personal awesome list of interesting repos, libraries and tools.
 [448]: https://github.com/andreia-oca/awesome-embedded-fuzzing
 [449]: https://esphome.io/
 [450]: https://f4pga.org/
+[451]: https://class.malware.re/
+[452]: https://developers.home.google.com/
+[453]: https://github.com/facebookexperimental/reverie
+[454]: https://github.com/esp-rs

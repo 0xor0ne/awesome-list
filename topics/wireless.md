@@ -35,6 +35,8 @@
   * [wifijammer][28]: Continuously jam all wifi clients/routers.
   * [wifiphisher][27]: The Rogue Access Point Framework.
   * [wifipumpkin3][29]: Powerful framework for rogue access point attack.
+* [esp-wifi][45]: WIP / POC for using the ESP32-C3, ESP32-S3 and ESP32 wifi
+  drivers in bare-metal Rust.
 * [USB-WiFi][24]: USB WiFi Adapter Information for Linux
 
 ## 802.15.4
@@ -150,3 +152,4 @@
 [42]: https://pwnagotchi.ai/
 [43]: https://github.com/justcallmekoko/ESP32Marauder
 [44]: https://github.com/virtualabs/btlejack
+[45]: https://github.com/esp-rs/esp-wifi
