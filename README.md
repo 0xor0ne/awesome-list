@@ -119,6 +119,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [malwareMustDie][116]: white-hat security research workgroup.
 * [Malware traffic analysis][157]: source for packet capture (pcap) files and
   malware samples.
+* [n1ght-w0lf][456]: Malware Analysis & Reverse Engineering Adventures.
 * [Nightmare][13]: intro to binary exploitation / reverse engineering course
   based around ctf challenges.
 * [Outflux][355]: @kees_cook's blog.
@@ -255,6 +256,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Linux Kernel Exploitation][21]: collection of links related to Linux kernel
   security and exploitation.
 * [one_gadget][70]: tool for finding one gadget RCE in libc.so.6.
+* [pwndocker][458]: docker environment for pwn in ctf.
+* [pwninit][457]: automate starting binary exploit challenges.
 * [pwntools][71]: framework and exploit development library.
 * [ROPGadget][159]: search your gadgets on your binaries to facilitate your ROP
   exploitation.
@@ -380,6 +383,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Polypyus][191]: locate functions in raw binaries by extracting known functions
   from similar binaries.
 * [pspy][264]: monitor linux processes without root permissions.
+* [sniffglue][455]: Secure multithreaded packet sniffer (in rust).
 * [sniffle][444]: sniffer for Bluetooth 5 and 4.x LE.
 * [Solana][240]: Blockchain for fast, secure, scalable, decentralized apps and
   marketplaces.
@@ -1155,3 +1159,7 @@ My personal awesome list of interesting repos, libraries and tools.
 [452]: https://developers.home.google.com/
 [453]: https://github.com/facebookexperimental/reverie
 [454]: https://github.com/esp-rs
+[455]: https://github.com/kpcyrd/sniffglue
+[456]: https://n1ght-w0lf.github.io
+[457]: https://github.com/io12/pwninit
+[458]: https://github.com/skysider/pwndocker

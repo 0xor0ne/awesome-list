@@ -15,6 +15,7 @@
 * Tools
   * [aircrack-ng][16]: complete suite of tools to assess WiFi network security.
     * [GitHub][17]: WiFi security auditing tools suite
+  * [airpwn-ng][46]: Packet injection for wifi.
   * [bettercap][18]: Swiss Army knife for WiFi, Bluetooth Low Energy, wireless
     HID hijacking.
     * [GitHub][19]: source code repository.
@@ -27,6 +28,10 @@
   * [Kismet][14]: Wi-Fi, Bluetooth, RF, and more
     * [GitHub][15]: Kismet and related tools and libraries for wireless
       monitoring, transmitting, and auditing.
+  * [libwifi][48]: an 802.11 (WiFi) Frame Generation and Parsing Library in C.
+    * [github repo][47]: libwifi github repository
+  * [libwifi (nukesor)][49]: rust library for parsing IEE 802.11 frames.
+  * [libwifi (vanhoefm)][50]: python and scapy scripts for Wi-Fi.
   * [nexmon][20]: The C-based Firmware Patching Framework for Broadcom/Cypress
     WiFi Chips.
   * [pawnagotchi][42]:  A2C-based “AI” powered by bettercap and running on a
@@ -153,3 +158,8 @@
 [43]: https://github.com/justcallmekoko/ESP32Marauder
 [44]: https://github.com/virtualabs/btlejack
 [45]: https://github.com/esp-rs/esp-wifi
+[46]: https://github.com/ICSec/airpwn-ng
+[47]: https://github.com/libwifi/libwifi
+[48]: https://libwifi.so/
+[49]: https://github.com/Nukesor/libwifi
+[50]: https://github.com/vanhoefm/libwifi
