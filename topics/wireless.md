@@ -55,9 +55,14 @@
 * [BLE Security Attack Defence][34]: Unveiling zero day vulnerabilities and
   security flaws in modern Bluetooth LE stacks.
 * Tools
+  * [BTLE][52]: Bluetooth Low Energy (BLE) packet sniffer and transmitter for
+    both standard and non standard (raw bit) based on Software Defined Radio
+    (SDR).
   * [btlejack][44]: Bluetooth Low Energy Swiss-army knife.
   * [ESP32 bluetooth classic sniffer][37]: Active Bluetooth BR/EDR Sniffer/Injector
     as cheap as any ESP32 board can get.
+  * [ice9-bluetooth-sniffer][51]: Wireshark Bluetooth sniffer for HackRF,
+    BladeRF, and USRP.
   * [internalblue][26]: About Bluetooth experimentation framework for Broadcom
     and Cypress chips.
   * [Injectable firmware][35]: Custom firmware for nrf52840-dongle.
@@ -163,3 +168,5 @@
 [48]: https://libwifi.so/
 [49]: https://github.com/Nukesor/libwifi
 [50]: https://github.com/vanhoefm/libwifi
+[51]: https://github.com/mikeryan/ice9-bluetooth-sniffer
+[52]: https://github.com/JiaoXianjun/BTLE

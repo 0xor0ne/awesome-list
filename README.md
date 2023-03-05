@@ -68,6 +68,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Network stuff][281]: resources about network security.
 * [Raspberry Pi][33]: Raspberry Pi tools, projects, images and resources.
 * [RAT][162]: RAT And C&C Resources.
+* [Red team cheatshett][463]: Red Team Cheatsheet in constant expansion.
 * [Reverse Engineering][35]: reversing resources.
 * [Rust][18]: curated list of Rust code and resources.
 * [Rust blockchain][405]: libraries and packages about blockchain/cryptography
@@ -251,6 +252,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Exploit mitigations][292]: knowledge base of exploit mitigations available
   across numerous operating systems.
 * [how2heap][47]: repository for learning various heap exploitation techniques.
+* [kernel-exploit-factory][459]: Linux kernel CVE exploit analysis report and
+  relative debug environment.
 * [libc-database][69]: database of libc offsets to simplify exploitation.
 * [Linux Kernel Exploit][199]: links related to Linux kernel exploitation.
 * [Linux Kernel Exploitation][21]: collection of links related to Linux kernel
@@ -301,6 +304,7 @@ My personal awesome list of interesting repos, libraries and tools.
   techniques, bug detection mechanisms, and defence technologies.
 * [kconfig-hardened-check][234]: tool for checking the security hardening
   options of the Linux kernel.
+* [kernel-security-learning][460]: Anything about kernel security.
 * [Kernel documentation][12]: official linux kernel documentation.
 * [kernel.org][11]: linux kernel archives.
 * [kernelci.org][432]: test system focused on the upstream Linux kernel.
@@ -460,7 +464,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [udp2raw][275]: tunnel which Turns UDP Traffic into Encrypted
     UDP/FakeTCP/ICMP Traffic.
 
-## Penetration testing and Red Teaming
+## Penetration Testing and Red Teaming
 
 * [ATT&CK][345]: knowledge base of adversary tactics and techniques.
 * [BDF][145]: The Backdoor Factory.
@@ -486,11 +490,12 @@ My personal awesome list of interesting repos, libraries and tools.
 * [PayloadBox][313]: list of attack payloads.
 * [PEASS-ng][334]: Privilege Escalation Awesome Scripts SUITE.
 * [pixload][315]: set of tools for creating/injecting payload into images.
-* [traitor][168]: automatic Linux privesc via exploitation of low-hanging fruit.
+* [RedTeam-Tools][461]: Tools and Techniques for Red Team
 * [SecList][314]: collection of multiple types of lists used during security
   assessments.
 * [Sherlock][340]: hunt down social media accounts by username across social
   networks.
+* [traitor][168]: automatic Linux privesc via exploitation of low-hanging fruit.
 * Post-exploitation:
   * [C2 matrix][258]: C2 frameworks comparison.
   * [Emp3r0r][163]: Linux/Windows post-exploitation framework made by linux
@@ -543,14 +548,18 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Docs][107]: official documentation.
   * [pkg.go.dev][108]: packages documentation.
 * [Rust][41]: secure system programming language.
+  * [aquascope][466]: Interactive visualizations of Rust at compile-time and run-time
   * [API guidelines][319]: set of recommendations on how to design and present
     APIs for the Rust programming.
+  * [AreWeRustYet][465]: Awesome list of "Are We *thing* Yet" for Rust
   * [Black Hat Rust][380]: applied offensive security with Rust.
   * [Book][42]: introductory book about Rust.
   * [Cargo Book][129]: official cargo book.
   * [Cheats][398]: Rust language cheat sheet.
   * [Clippy][218]: lints to catch common mistakes and improve your Rust code.
   * [crates.io][44]: rust community's crate registry.
+  * [cryptography.rs][464]: list of actively maintained, high-quality
+    cryptography libraries.
   * [Design patterns][321]: catalogue of Rust design patterns, anti-patterns and
     idioms.
   * [Easy Rust][311]: rust explained using easy English.
@@ -621,6 +630,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Ghidra][206]: software reverse engineering (SRE) framework.
 * [Kaitai Struct][231]: declarative language to generate binary data parsers.
 * [Keystone Engine][232]: assembler framework.
+* [Linux syscalls][462]: Linux kernel syscall tables
 * [McSema][249]: Framework for lifting program binaries to LLVM bitcode.
 * [Metasm][250]: a free assembler / disassembler / compiler.
 * [Miasm][251]: reverse engineering framework in Python.
@@ -1095,7 +1105,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [389]: https://github.com/foundry-rs/foundry
 [390]: https://github.com/uds-se/fuzzingbook
 [391]: https://github.com/netzob/netzob
-[392]: https://github.com/redballoonsecurity/ofrak
 [393]: https://github.com/redballoonsecurity/ofrak
 [394]: https://github.com/fuzzware-fuzzer/fuzzware
 [395]: https://pawnyable.cafe/
@@ -1163,3 +1172,11 @@ My personal awesome list of interesting repos, libraries and tools.
 [456]: https://n1ght-w0lf.github.io
 [457]: https://github.com/io12/pwninit
 [458]: https://github.com/skysider/pwndocker
+[459]: https://github.com/bsauce/kernel-exploit-factory
+[460]: https://github.com/bsauce/kernel-security-learning
+[461]: https://github.com/A-poc/RedTeam-Tools
+[462]: https://syscalls.mebeim.net/?table=arm/32/eabi/v6.2
+[463]: https://github.com/RistBS/Awesome-RedTeam-Cheatsheet
+[464]: https://cryptography.rs/
+[465]: https://github.com/UgurcanAkkok/AreWeRustYet
+[466]: https://github.com/cognitive-engineering-lab/aquascope
