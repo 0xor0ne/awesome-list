@@ -69,6 +69,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Raspberry Pi][33]: Raspberry Pi tools, projects, images and resources.
 * [RAT][162]: RAT And C&C Resources.
 * [Red team cheatshett][463]: Red Team Cheatsheet in constant expansion.
+* [Red Teaming][469]: List of Awesome Red Teaming Resources.
 * [Reverse Engineering][35]: reversing resources.
 * [Rust][18]: curated list of Rust code and resources.
 * [Rust blockchain][405]: libraries and packages about blockchain/cryptography
@@ -476,21 +477,29 @@ My personal awesome list of interesting repos, libraries and tools.
   directory environment.
 * [GTFOBins][147]: curated list of Unix binaries that can be used to bypass
   local security restrictions.
+* [HackTricks][467]: hacking trick/technique/whatever
 * [HashCat][238]: password recovery utility.
+* [Heroinn][474]: Rust cross platform C2/post-exploitation framework.
 * [Impacket][337]: collection of Python classes for working with network
   protocols.
 * [IntruderPayloads][316]: collection of Burpsuite Intruder payloads.
 * [LaZagne][337]: retrieve passowrds.
+* [Link][475]: command and control framework written in rust.
 * [Linux Exploit Suggester][200]: Linux privilege escalation auditing tool.
 * [LOLBAS][260]: Living Off The Land Binaries, Scripts and Libraries.
 * [Metasploit Framework][262]: penetration testing framework.
   * [Venom][265]: metasploit Shellcode generator/compiller.
+* [Offensive Security][472]: Tools & Interesting Things for RedTeam Ops.
 * [PayloadAllTheThings][123]: list of useful payloads and bypass for Web
   Application Security and Pentest/CTF.
 * [PayloadBox][313]: list of attack payloads.
 * [PEASS-ng][334]: Privilege Escalation Awesome Scripts SUITE.
 * [pixload][315]: set of tools for creating/injecting payload into images.
+* [Red Team Infrastructure][471]: Red Team infrastructure hardening resources.
 * [RedTeam-Tools][461]: Tools and Techniques for Red Team
+* [Red Teaming Toolkit][470]: cutting-edge open-source security tools (OST) for
+  a red teamer and threat hunter.
+* [RedTeaming-TT][468]: Red Teaming Tactics and Techniques
 * [SecList][314]: collection of multiple types of lists used during security
   assessments.
 * [Sherlock][340]: hunt down social media accounts by username across social
@@ -498,6 +507,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [traitor][168]: automatic Linux privesc via exploitation of low-hanging fruit.
 * Post-exploitation:
   * [C2 matrix][258]: C2 frameworks comparison.
+    * [Spreadsheet][473]
   * [Emp3r0r][163]: Linux/Windows post-exploitation framework made by linux
     user.
   * [empire][259]: PowerShell and Python 3.x post-exploitation framework.
@@ -1180,3 +1190,12 @@ My personal awesome list of interesting repos, libraries and tools.
 [464]: https://cryptography.rs/
 [465]: https://github.com/UgurcanAkkok/AreWeRustYet
 [466]: https://github.com/cognitive-engineering-lab/aquascope
+[467]: https://book.hacktricks.xyz/welcome/readme
+[468]: https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques
+[469]: https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+[470]: https://github.com/infosecn1nja/Red-Teaming-Toolkit
+[471]: https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
+[472]: https://github.com/bigb0sss/RedTeam-OffensiveSecurity
+[473]: https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0
+[474]: https://github.com/b23r0/Heroinn
+[475]: https://github.com/postrequest/link
