@@ -480,8 +480,12 @@ My personal awesome list of interesting repos, libraries and tools.
 * [HackTricks][467]: hacking trick/technique/whatever
 * [HashCat][238]: password recovery utility.
 * [Heroinn][474]: Rust cross platform C2/post-exploitation framework.
+* [Houdini][477]: rust library that allows you to delete your executable while
+  it's running.
 * [Impacket][337]: collection of Python classes for working with network
   protocols.
+* [Intruducer][476]: Rust crate to load a shared library into a Linux process
+  without using ptrace.
 * [IntruderPayloads][316]: collection of Burpsuite Intruder payloads.
 * [LaZagne][337]: retrieve passowrds.
 * [Link][475]: command and control framework written in rust.
@@ -1199,3 +1203,5 @@ My personal awesome list of interesting repos, libraries and tools.
 [473]: https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0
 [474]: https://github.com/b23r0/Heroinn
 [475]: https://github.com/postrequest/link
+[476]: https://github.com/vfsfitvnm/intruducer
+[477]: https://github.com/yamakadi/houdini
