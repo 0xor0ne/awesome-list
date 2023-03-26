@@ -97,6 +97,7 @@
   * [LimeSDR][3]: low cost, open source, apps-enabled software defined radio (SDR).
     * [GitHub][4]: LimeSdr software
 * Libraries
+  * [FISSURE][53]: RF and reverse engineering framework for everyone.
   * [GNU Radio][10]: development toolkit that provides signal processing blocks
     to implement software radios.
     * [GitHub][11]: the Free and Open Software Radio Ecosystem.
@@ -170,3 +171,4 @@
 [50]: https://github.com/vanhoefm/libwifi
 [51]: https://github.com/mikeryan/ice9-bluetooth-sniffer
 [52]: https://github.com/JiaoXianjun/BTLE
+[53]: https://github.com/ainfosec/FISSURE
