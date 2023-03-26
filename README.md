@@ -493,6 +493,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [LOLBAS][260]: Living Off The Land Binaries, Scripts and Libraries.
 * [Metasploit Framework][262]: penetration testing framework.
   * [Venom][265]: metasploit Shellcode generator/compiller.
+* [NoseyParker][478]: command-line program that finds secrets and sensitive
+  information in textual data and Git history.
 * [Offensive Security][472]: Tools & Interesting Things for RedTeam Ops.
 * [PayloadAllTheThings][123]: list of useful payloads and bypass for Web
   Application Security and Pentest/CTF.
@@ -1205,3 +1207,4 @@ My personal awesome list of interesting repos, libraries and tools.
 [475]: https://github.com/postrequest/link
 [476]: https://github.com/vfsfitvnm/intruducer
 [477]: https://github.com/yamakadi/houdini
+[478]: https://github.com/praetorian-inc/noseyparker
