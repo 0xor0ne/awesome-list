@@ -469,10 +469,12 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [ATT&CK][345]: knowledge base of adversary tactics and techniques.
 * [BDF][145]: The Backdoor Factory.
+* [Beshark][481]: Bash post exploitation toolkit.
 * [Bettercap][341]: networks reconnaissance and MITM attacks.
   * [airgeddon][370]: multi-use bash script for Linux systems to audit wireless
     networks.
 * [BloodHound][335]: Six Degrees of Domain Admin.
+* [ColdFire][480]: malware development library.
 * [CrackMapExec][336]: evaluates and exploits vulnerabilities in an active
   directory environment.
 * [GTFOBins][147]: curated list of Unix binaries that can be used to bypass
@@ -493,6 +495,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [LOLBAS][260]: Living Off The Land Binaries, Scripts and Libraries.
 * [Metasploit Framework][262]: penetration testing framework.
   * [Venom][265]: metasploit Shellcode generator/compiller.
+* [Neurax][479]: framework for constructing self-spreading binaries.
 * [NoseyParker][478]: command-line program that finds secrets and sensitive
   information in textual data and Git history.
 * [Offensive Security][472]: Tools & Interesting Things for RedTeam Ops.
@@ -1208,3 +1211,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [476]: https://github.com/vfsfitvnm/intruducer
 [477]: https://github.com/yamakadi/houdini
 [478]: https://github.com/praetorian-inc/noseyparker
+[479]: https://github.com/redcode-labs/neurax
+[480]: https://github.com/redcode-labs/Coldfire
+[481]: https://github.com/redcode-labs/Bashark
