@@ -6,7 +6,6 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [Awesome Lists](#awesome-lists)
 * [Blogs ad Tutorials](#blogs-and-tutorials)
-* [BlockChains](#blockchains)
 * [Compilers and Toolchains](#compilers-and-toolchains)
 * [Databases](#databases)
 * [Debuggers](#debuggers)
@@ -30,6 +29,7 @@ My personal awesome list of interesting repos, libraries and tools.
 
 # In-Depth Topics
 
+* [Blockchains and Smart Contracts](topics/web3.md)
 * [OT/IoT Security](topics/ot_security.md)
 * [Wireless](topics/wireless.md)
 
@@ -72,8 +72,6 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Red Teaming][469]: List of Awesome Red Teaming Resources.
 * [Reverse Engineering][35]: reversing resources.
 * [Rust][18]: curated list of Rust code and resources.
-* [Rust blockchain][405]: libraries and packages about blockchain/cryptography
-  in Rust.
 * [rust security][376]:  list of awesome projects and resources related to Rust
   and computer security.
 * [Search engines][339]: list of search engines useful during Penetration
@@ -139,21 +137,6 @@ My personal awesome list of interesting repos, libraries and tools.
 * [xilokar][426]: embedded development.
 * [Zero Day Initiative][220]: encourage the reporting of 0-day vulnerabilities
   privately to the affected vendors.
-
-## blockchains
-
-* [Cardano][412]: proof-of-stake blockchain platform.
-* [Ethereum][406]: community-run technology powering the cryptocurrency ether
-  (ETH) and thousands of decentralized applications.
-  * [Dev Doc][407]: development documentation.
-  * [Foundry][410]: portable and modular toolkit for Ethereum application
-    development written in Rust.
-* [NEAR][411]:  layer one, sharded, proof-of-stake blockchain built with
-  usability in mind.
-* [Polkadot][409]: unites and secures a growing ecosystem of specialized
-  blockchains called parachains.
-* [Solana][408]: decentralized blockchain built to enable scalable,
-  user-friendly apps for the world.
 
 ## Compilers and Toolchains
 
@@ -376,8 +359,6 @@ My personal awesome list of interesting repos, libraries and tools.
   with the FCC.
 * [FlipperZero][402]: portable multi-tool for pentesters and geeks in a toy-like
   body.
-* [foundry][389]: blazing fast, portable and modular toolkit for Ethereum
-  application development written in Rust.
 * [Googl Home][452]: smart home ecosystem.
 * [klgrth][245]: pastebin alternative.
 * [jless][434]: command-line JSON viewer designed for reading, exploring, and
@@ -390,8 +371,6 @@ My personal awesome list of interesting repos, libraries and tools.
 * [pspy][264]: monitor linux processes without root permissions.
 * [sniffglue][455]: Secure multithreaded packet sniffer (in rust).
 * [sniffle][444]: sniffer for Bluetooth 5 and 4.x LE.
-* [Solana][240]: Blockchain for fast, secure, scalable, decentralized apps and
-  marketplaces.
 * [temp.sh][246]: alternative to transfer.sh.
 * [transfer.sh][243]: easy file sharing from the command line.
 * [uhr][237]: Universal Radio Hacker.
@@ -972,7 +951,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [237]: https://github.com/jopohl/urh
 [238]: https://github.com/hashcat/hashcat
 [239]: https://openwrt.org/start
-[240]: https://github.com/solana-labs/solana
 [241]: https://github.com/libp2p/rust-libp2p
 [242]: https://pastebin.com/
 [243]: https://transfer.sh/
@@ -1121,7 +1099,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [386]: https://gitlab.com/akihe/radamsa
 [387]: https://github.com/facebookincubator/propfuzz
 [388]: https://github.com/secfigo/Awesome-Fuzzing
-[389]: https://github.com/foundry-rs/foundry
 [390]: https://github.com/uds-se/fuzzingbook
 [391]: https://github.com/netzob/netzob
 [393]: https://github.com/redballoonsecurity/ofrak
@@ -1136,14 +1113,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [402]: https://github.com/flipperdevices/flipperzero-firmware
 [403]: https://github.com/curl/curl
 [404]: https://github.com/thezdi/PoC
-[405]: https://github.com/rust-in-blockchain/awesome-blockchain-rust
-[406]: https://ethereum.org/en/
-[407]: https://ethereum.org/en/developers/docs/
-[408]: https://solana.com/
-[409]: https://polkadot.network/
-[410]: https://github.com/foundry-rs/foundry
-[411]: https://docs.near.org/
-[412]: https://cardano.org/
 [413]: https://github.com/plummm/SyzScope
 [414]: https://github.com/NixOS/patchelf
 [415]: https://github.com/zcutlip/nvram-faker
