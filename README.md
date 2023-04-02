@@ -2,6 +2,13 @@
 
 My personal awesome list of interesting repos, libraries and tools.
 
+# In-Depth Topics
+
+* [Blockchains and Smart Contracts](topics/web3.md)
+* [OT/IoT Security](topics/ot_security.md)
+* [Red Teaming and Offensive Security](topics/red-team-adversary-emulation.md)
+* [Wireless](topics/wireless.md)
+
 # Content
 
 * [Awesome Lists](#awesome-lists)
@@ -15,10 +22,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Exploit Development](#exploit-development)
 * [Fuzzing](#fuzzing)
 * [Linux Kernel](#linux-kernel)
-* [Malwares](#malwares)
 * [Misc](#misc)
 * [Networking](#networking)
-* [Penetration Testing and Red Teaming](#penetration-testing-and-red-teaming)
 * [Programming Languages](#programming-languages)
 * [Reverse Engineering](#reverse-engineering)
 * [RTOS](#rtos)
@@ -26,12 +31,6 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Tools](#tools)
 * [Tracing, Hooking and Instrumentation](#tracing-hooking-and-instrumentation)
 * [Trusted Execution Environment](#trusted-execution-environment)
-
-# In-Depth Topics
-
-* [Blockchains and Smart Contracts](topics/web3.md)
-* [OT/IoT Security](topics/ot_security.md)
-* [Wireless](topics/wireless.md)
 
 ## Awesome Lists
 
@@ -68,8 +67,6 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Network stuff][281]: resources about network security.
 * [Raspberry Pi][33]: Raspberry Pi tools, projects, images and resources.
 * [RAT][162]: RAT And C&C Resources.
-* [Red team cheatshett][463]: Red Team Cheatsheet in constant expansion.
-* [Red Teaming][469]: List of Awesome Red Teaming Resources.
 * [Reverse Engineering][35]: reversing resources.
 * [Rust][18]: curated list of Rust code and resources.
 * [rust security][376]:  list of awesome projects and resources related to Rust
@@ -326,26 +323,6 @@ My personal awesome list of interesting repos, libraries and tools.
     to the Linux kernel.
 * [TuxSuite][330]: on-demand APIs and tools for building Linux Kernels.
 
-## Malwares
-
-* [Linux Malware][377]: tracking interesting Linux (and UNIX) malware.
-  * [ATT&CK mapping][396]: linux malware to ATTACK.
-  * [elfloader][430]: architecture-agnostic ELF file flattener for shellcode.
-* Dumpers:
-  * [pamspy][429]: Credentials Dumper for Linux using eBPF.
-* Log Cleaners:
-  * [Moonwalk][221]: Cover your tracks during Linux Exploitation by leaving zero
-    traces on system logs and filesystem timestamps.
-* [Malware Source Code][283]: collection of malware source code for a variety of
-  platforms.
-* Obfuscation:
-  * [Bashfuscator][256]: configurable and extendable Bash obfuscation framework.
-* Packers:
-  * [oxide][219]: PoC packer written in Rust.
-  * [UPX][154]: free, portable, extendable, high-performance executable packer.
-* [Pafish][97]: testing tool that uses different techniques to detect virtual
-  machines and malware analysis environments.
-
 ## Misc
 
 * [Arti][427]: implementation of Tor, in Rust.
@@ -380,9 +357,6 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Networking
 
-* File Transfer:
-  * [croc][167]: easily and securely send things from one computer to another.
-  * [pcp][166]: peer-to-peer data transfer tool based on libp2p.
 * Misc:
   * [innernet][421]: private network system that uses WireGuard under the hood.
   * [nebula][122]: scalable overlay networking tool.
@@ -402,118 +376,6 @@ My personal awesome list of interesting repos, libraries and tools.
   * [skanuvaty][7]: fast DNS/network/port scanner.
   * [ZGrab2][266]: fast, modular application-layer network scanner.
   * [ZMap][6]: fast single packet network scanner.
-* Proxies:
-  * [frp][169]: fast reverse proxy.
-  * [leaf][132]: versatile and efficient proxy framework.
-  * [mitmproxy][40]: interactive HTTPS proxy.
-  * [ngrok][170]: introspected tunnels to localhost.
-  * [Proxiechain][263]: a tool that forces any TCP connection made by any given
-    application to follow through proxies.
-  * [rathole][183]: lightweight and high-performance reverse proxy for NAT
-    traversal, written in Rust.
-  * [Shadowsocks][267]: fast tunnel proxy that helps you bypass firewalls.
-  * [socat][134]: relay for bidirectional data transfer.
-* Remote/Reverse Shells:
-  * [GTRS][142]: Google Translator Reverse Shell.
-  * [hershell][141]: multiplatform reverse shell generator.
-  * [icmpsh][136]: reverse ICMP shell.
-  * [Platypus][144]: modern multiple reverse shell sessions manager written in
-    go.
-  * [rpty][228]: tricking shells into interactive mode when local PTY's are not
-    available.
-  * [rsg][146]: tool to generate various ways to do a reverse shell.
-  * [rtty][289]: access your terminal from anywhere via the web.
-  * [rustcat][378]: modern Port listener and Reverse shell.
-  * [tunshell][121]: remote shell into ephemeral environments.
-  * [wash][131]: a cloud-native shell for bringing remote infrastructure to your
-    terminal.
-* Tunnelling:
-  * [bore][276]: simple CLI tool for making tunnels to localhost.
-  * [chisel][274]: fast TCP/UDP tunnel over HTTP.
-  * [clash][164]: rule-based tunnel in Go.
-  * [dog-tunnel][179]: p2p tunnel.
-    * [kcp][180]: a Fast and Reliable ARQ Protocol.
-  * [gost][165]: a simple tunnel written in golang.
-  * [gsocket][130]: connect like there is no firewall. Securely.
-  * [icmptunnel][278]: tunnel your IP traffic through ICMP echo and reply
-    packets.
-  * [iodine][277]:  tunnel IPv4 data through a DNS server.
-  * [pingtunnel][279]: tool that send TCP/UDP traffic over ICMP.
-  * [ssf][133]: Secure Socket Funneling.
-  * [Stowaway][280]: Multi-hop Proxy Tool for pentesters.
-  * [udp2raw][275]: tunnel which Turns UDP Traffic into Encrypted
-    UDP/FakeTCP/ICMP Traffic.
-
-## Penetration Testing and Red Teaming
-
-* [ATT&CK][345]: knowledge base of adversary tactics and techniques.
-* [BDF][145]: The Backdoor Factory.
-* [Beshark][481]: Bash post exploitation toolkit.
-* [Bettercap][341]: networks reconnaissance and MITM attacks.
-  * [airgeddon][370]: multi-use bash script for Linux systems to audit wireless
-    networks.
-* [BloodHound][335]: Six Degrees of Domain Admin.
-* [ColdFire][480]: malware development library.
-* [CrackMapExec][336]: evaluates and exploits vulnerabilities in an active
-  directory environment.
-* [GTFOBins][147]: curated list of Unix binaries that can be used to bypass
-  local security restrictions.
-* [HackTricks][467]: hacking trick/technique/whatever
-* [HashCat][238]: password recovery utility.
-* [Heroinn][474]: Rust cross platform C2/post-exploitation framework.
-* [Houdini][477]: rust library that allows you to delete your executable while
-  it's running.
-* [Impacket][337]: collection of Python classes for working with network
-  protocols.
-* [Intruducer][476]: Rust crate to load a shared library into a Linux process
-  without using ptrace.
-* [IntruderPayloads][316]: collection of Burpsuite Intruder payloads.
-* [LaZagne][337]: retrieve passowrds.
-* [Link][475]: command and control framework written in rust.
-* [Linux Exploit Suggester][200]: Linux privilege escalation auditing tool.
-* [LOLBAS][260]: Living Off The Land Binaries, Scripts and Libraries.
-* [Metasploit Framework][262]: penetration testing framework.
-  * [Venom][265]: metasploit Shellcode generator/compiller.
-* [Neurax][479]: framework for constructing self-spreading binaries.
-* [NoseyParker][478]: command-line program that finds secrets and sensitive
-  information in textual data and Git history.
-* [Offensive Security][472]: Tools & Interesting Things for RedTeam Ops.
-* [PayloadAllTheThings][123]: list of useful payloads and bypass for Web
-  Application Security and Pentest/CTF.
-* [PayloadBox][313]: list of attack payloads.
-* [PEASS-ng][334]: Privilege Escalation Awesome Scripts SUITE.
-* [pixload][315]: set of tools for creating/injecting payload into images.
-* [Red Team Infrastructure][471]: Red Team infrastructure hardening resources.
-* [RedTeam-Tools][461]: Tools and Techniques for Red Team
-* [Red Teaming Toolkit][470]: cutting-edge open-source security tools (OST) for
-  a red teamer and threat hunter.
-* [RedTeaming-TT][468]: Red Teaming Tactics and Techniques
-* [SecList][314]: collection of multiple types of lists used during security
-  assessments.
-* [Sherlock][340]: hunt down social media accounts by username across social
-  networks.
-* [traitor][168]: automatic Linux privesc via exploitation of low-hanging fruit.
-* Post-exploitation:
-  * [C2 matrix][258]: C2 frameworks comparison.
-    * [Spreadsheet][473]
-  * [Emp3r0r][163]: Linux/Windows post-exploitation framework made by linux
-    user.
-  * [empire][259]: PowerShell and Python 3.x post-exploitation framework.
-  * [pupy][135]: cross-platform remote administration and post-exploitation
-    tool.
-  * [sliver][184]: Adversary Emulation Framework.
-  * [pwncat][143]: reverse and bind shell handler.
-  * [Stitch][161]: python Remote Administration Tool.
-  * [TheFatRat][182]: generate backdoor and easy tool to post exploitation
-    attack.
-  * [veil][261]: generate metasploit payloads that bypass common anti-virus
-    solutions.
-* Standards:
-  * [NIST][348]:  Framework for Improving Critical Infrastructure Cybersecurity.
-  * [OSSTMM][349]: Open Source Security Testing Methodology Manual.
-  * [PTES][350]: Penetration Testing Methodologies and Standards.
-  * [TIBER][346]: Threat Intelligence-Based Ethical Red Teaming Framework.
-  * [STG][347]: OWASP testing methodologies.
 
 ## Programming Languages
 
@@ -751,7 +613,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [37]: https://github.com/google/syzkaller
 [38]: https://github.com/AFLplusplus/AFLplusplus
 [39]: https://github.com/google/honggfuzz
-[40]: https://mitmproxy.org/
 [41]: https://www.rust-lang.org/
 [42]: https://doc.rust-lang.org/book/
 [43]: https://doc.rust-lang.org/std/
@@ -808,7 +669,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [94]: https://syzkaller.appspot.com/upstream
 [95]: https://github.com/AFLplusplus/LibAFL
 [96]: https://github.com/geofft/redhook
-[97]: https://github.com/a0rtega/pafish
 [98]: https://book.rada.re/
 [99]: https://github.com/m4b/goblin
 [100]: https://github.com/fkie-cad/FACT_core
@@ -832,56 +692,30 @@ My personal awesome list of interesting repos, libraries and tools.
 [118]: https://github.com/iovisor/bcc
 [119]: https://github.com/foniod/redbpf
 [120]: https://github.com/iovisor/bpftrace
-[121]: https://github.com/TimeToogo/tunshell
 [122]: https://github.com/slackhq/nebula
-[123]: https://github.com/swisskyrepo/PayloadsAllTheThings
 [124]: https://developer.arm.com/documentation/
 [125]: https://developer.arm.com/documentation/dui0068/b/ARM-Instruction-Reference
 [126]: https://www.felixcloutier.com/x86/
 [127]: https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
 [128]: https://www.mips.com/downloads/
 [129]: https://github.com/riscv
-[130]: https://github.com/hackerschoice/gsocket
-[131]: https://github.com/puppetlabs/wash
-[132]: https://github.com/eycorsican/leaf
-[133]: https://github.com/securesocketfunneling/ssf
-[134]: https://repo.or.cz/socat.git
-[135]: https://github.com/n1nj4sec/pupy
-[136]: https://github.com/bdamele/icmpsh
 [137]: https://github.blog/tag/github-security-lab/
 [138]: https://github.com/renode/renode
 [139]: https://mongoose-os.com/
 [140]: https://aws.amazon.com/freertos/
-[141]: https://github.com/lesnuages/hershell
-[142]: https://github.com/mthbernardes/GTRS
-[143]: https://github.com/calebstewart/pwncat
-[144]: https://github.com/WangYihang/Platypus
-[145]: https://github.com/secretsquirrel/the-backdoor-factory
-[146]: https://github.com/mthbernardes/rsg
-[147]: https://gtfobins.github.io/
 [148]: https://this-week-in-rust.org/
 [149]: https://doc.rust-lang.org/cargo/
 [150]: https://doc.rust-lang.org/nomicon/
 [151]: https://doc.rust-lang.org/stable/reference/
 [152]: https://rustup.rs/
 [153]: https://docs.rust-embedded.org/book/
-[154]: https://upx.github.io/
 [155]: https://github.com/gchq/CyberChef
 [156]: https://github.com/BR903/ELFkickers
 [157]: https://www.malware-traffic-analysis.net/
 [158]: https://github.com/lief-project/LIEF
 [159]: https://github.com/JonathanSalwan/ROPgadget
 [160]: https://github.com/sashs/Ropper
-[161]: https://github.com/nathanlopez/Stitch
 [162]: https://github.com/alphaSeclab/awesome-rat/blob/master/Readme_en.md
-[163]: https://github.com/jm33-m0/emp3r0r
-[164]: https://github.com/Dreamacro/clash
-[165]: https://github.com/ginuerzh/gost
-[166]: https://github.com/dennis-tra/pcp
-[167]: https://github.com/schollz/croc
-[168]: https://github.com/liamg/traitor
-[169]: https://github.com/fatedier/frp
-[170]: https://github.com/inconshreveable/ngrok
 [171]: https://github.com/cilium/tetragon
 [172]: https://github.com/cilium/ebpf
 [173]: https://bumblebee.io/EN
@@ -890,12 +724,7 @@ My personal awesome list of interesting repos, libraries and tools.
 [176]: https://github.com/nanovms/nanos
 [177]: https://github.com/google/sandboxed-api
 [178]: https://github.com/nanovms/ops
-[179]: https://github.com/vzex/dog-tunnel
-[180]: https://github.com/skywind3000/kcp
 [181]: https://github.com/anderspitman/awesome-tunneling.git
-[182]: https://github.com/screetsec/TheFatRat
-[183]: https://github.com/rapiz1/rathole
-[184]: https://github.com/BishopFox/sliver
 [185]: https://www.cvedetails.com/
 [186]: https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
 [187]: https://github.com/unicorn-engine/unicorn
@@ -911,7 +740,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [197]: https://a13xp0p0v.github.io/
 [198]: https://googleprojectzero.blogspot.com/
 [199]: https://github.com/SecWiki/linux-kernel-exploits
-[200]: https://github.com/mzet-/linux-exploit-suggester
 [201]: https://github.com/scriptingxss/owasp-fstm
 [202]: https://github.com/gurugio/lowlevelprogramming-university
 [203]: https://github.com/chyyuu/os_kernel_lab
@@ -930,16 +758,13 @@ My personal awesome list of interesting repos, libraries and tools.
 [216]: https://wiki.gentoo.org/wiki/Main_Page
 [217]: https://wiki.archlinux.org/
 [218]: https://github.com/rust-lang/rust-clippy
-[219]: https://github.com/frank2/oxide
 [220]: https://www.zerodayinitiative.com/blog
-[221]: https://github.com/mufeedvh/moonwalk
 [222]: https://github.com/aya-rs/aya
 [223]: https://github.com/capstone-engine/capstone
 [224]: https://github.com/e-m-b-a/emba
 [225]: https://github.com/rampageX/firmware-mod-kit
 [226]: https://github.com/mandiant/flare-emu
 [227]: https://github.com/wader/fq
-[228]: https://github.com/TimeToogo/remote-pty
 [229]: https://github.com/cyrus-and/gdb-dashboard
 [230]: https://github.com/cs01/gdbgui
 [231]: https://github.com/kaitai-io/kaitai_struct
@@ -949,7 +774,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [235]: https://0x434b.dev/
 [236]: https://0x00sec.org/
 [237]: https://github.com/jopohl/urh
-[238]: https://github.com/hashcat/hashcat
 [239]: https://openwrt.org/start
 [241]: https://github.com/libp2p/rust-libp2p
 [242]: https://pastebin.com/
@@ -966,40 +790,22 @@ My personal awesome list of interesting repos, libraries and tools.
 [253]: https://github.com/rr-debugger/rr
 [254]: https://github.com/strace/strace
 [255]: https://github.com/WebAssembly/wabt
-[256]: https://github.com/Bashfuscator/Bashfuscator
 [257]: https://remnux.org/
-[258]: https://www.thec2matrix.com/
-[259]: https://github.com/BC-SECURITY/Empire
-[260]: https://lolbas-project.github.io/
-[261]: https://github.com/Veil-Framework/Veil
-[262]: https://github.com/rapid7/metasploit-framework
-[263]: https://github.com/haad/proxychains
 [264]: https://github.com/DominicBreuker/pspy
-[265]: https://github.com/r00t-3xp10it/venom
 [266]: https://github.com/zmap/zgrab2
-[267]: https://github.com/shadowsocks/shadowsocks-rust
 [268]: https://github.com/unikraft/unikraft
 [269]: https://github.com/sustrik/libdill
 [270]: https://github.com/googleprojectzero/weggli
 [271]: https://github.com/tezc/sc
 [272]: https://github.com/stong/how-to-exploit-a-double-free
 [273]: https://github.com/V33RU/IoTSecurity101
-[274]: https://github.com/jpillora/chisel
-[275]: https://github.com/wangyu-/udp2raw
-[276]: https://github.com/ekzhang/bore
-[277]: https://github.com/yarrick/iodine
-[278]: https://github.com/DhavalKapil/icmptunnel
-[279]: https://github.com/esrrhs/pingtunnel
-[280]: https://github.com/ph4ntonn/Stowaway
 [281]: https://github.com/alphaSeclab/awesome-network-stuff/blob/master/Readme_en.md
 [282]: https://github.com/BinaryAnalysisPlatform/bap
-[283]: https://github.com/vxunderground/MalwareSourceCode
 [284]: https://github.com/dhondta/awesome-executable-packing
 [285]: https://github.com/jameslzhu/riscv-card
 [286]: https://github.com/rust-lang/rust
 [287]: https://github.com/firmadyne/scraper
 [288]: https://alexplaskett.github.io/
-[289]: https://www.graplsecurity.com/blog
 [290]: https://www.willsroot.io/
 [291]: https://security.googleblog.com/
 [292]: https://github.com/nccgroup/exploit_mitigations
@@ -1023,10 +829,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [310]: https://github.com/tmpout/awesome-elf
 [311]: https://github.com/Dhghomon/easy_rust
 [312]: https://riscv-programming.org/book/riscv-book.html
-[313]: https://github.com/payloadbox/
-[314]: https://github.com/danielmiessler/SecLists
-[315]: https://github.com/chinarulezzz/pixload
-[316]: https://github.com/1N3/IntruderPayloads
 [317]: https://github.com/0xInfection/Awesome-WAF
 [318]: https://gitlab.redox-os.org/redox-os
 [319]: https://rust-lang.github.io/api-guidelines/about.html
@@ -1044,23 +846,11 @@ My personal awesome list of interesting repos, libraries and tools.
 [331]: https://github.com/netbirdio/netbird
 [332]: https://github.com/h3xduck/TripleCross
 [333]: https://developers.google.com/code-sandboxing
-[334]: https://github.com/carlospolop/PEASS-ng
-[335]: https://github.com/BloodHoundAD/BloodHound
-[336]: https://github.com/Porchetta-Industries/CrackMapExec
-[337]: https://github.com/AlessandroZ/LaZagne
 [338]: https://github.com/SecureAuthCorp/impacket
 [339]: https://github.com/edoardottt/awesome-hacker-search-engines
-[340]: https://github.com/sherlock-project/sherlock
-[341]: https://github.com/bettercap/bettercap
 [342]: https://dogbolt.org/
 [343]: https://github.com/returntocorp/semgrep
 [344]: https://github.com/0xdea/semgrep-rules
-[345]: https://attack.mitre.org/
-[346]: https://www.ecb.europa.eu/paym/cyber-resilience/tiber-eu/html/index.en.html
-[347]: https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies
-[348]: https://www.nist.gov/news-events/news/2018/04/nist-releases-version-11-its-popular-cybersecurity-framework
-[349]: https://www.isecom.org/research.html#content5-9d
-[350]: http://www.pentest-standard.org/index.php/Main_Page
 [351]: https://lore.kernel.org/
 [352]: https://lore.kernel.org/kernel-hardening/
 [353]: https://lore.kernel.org/rust-for-linux/
@@ -1080,15 +870,12 @@ My personal awesome list of interesting repos, libraries and tools.
 [367]: https://github.com/falcosecurity/falco
 [368]: https://github.com/zeek/zeek
 [369]: https://github.com/gravitl/netmaker
-[370]: https://github.com/v1s1t0r1sh3r3/airgeddon
 [371]: https://github.com/analysis-tools-dev/static-analysis
 [372]: https://github.com/analysis-tools-dev/dynamic-analysis
 [373]: https://github.com/johnthagen/min-sized-rust
 [374]: https://github.com/ITI/ICS-Security-Tools
 [375]: https://practice.rs/why-exercise.html
 [376]: https://github.com/ex0dus-0x/awesome-rust-security
-[377]: https://github.com/timb-machine/linux-malware
-[378]: https://github.com/robiot/rustcat
 [379]: https://github.com/trickster0/OffensiveRust
 [380]: https://github.com/skerkour/black-hat-rust
 [381]: https://github.com/microsoft/lain
@@ -1104,7 +891,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [393]: https://github.com/redballoonsecurity/ofrak
 [394]: https://github.com/fuzzware-fuzzer/fuzzware
 [395]: https://pawnyable.cafe/
-[396]: https://gist.github.com/timb-machine/05043edd6e3f71569f0e6d2fe99f5e8c
 [397]: https://github.com/0xricksanchez/paper_collection
 [398]: https://cheats.rs/
 [399]: https://embassy.dev/
@@ -1129,8 +915,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [426]: https://blog.xilokar.info/
 [427]: https://gitlab.torproject.org/tpo/core/arti
 [428]: https://cve-north-stars.github.io/
-[429]: https://github.com/citronneur/pamspy
-[430]: https://github.com/gamozolabs/elfloader
 [431]: https://chromium.googlesource.com/linux-syscall-support/
 [432]: https://kernelci.org/
 [433]: https://fccid.io/
@@ -1162,24 +946,8 @@ My personal awesome list of interesting repos, libraries and tools.
 [458]: https://github.com/skysider/pwndocker
 [459]: https://github.com/bsauce/kernel-exploit-factory
 [460]: https://github.com/bsauce/kernel-security-learning
-[461]: https://github.com/A-poc/RedTeam-Tools
 [462]: https://syscalls.mebeim.net/?table=arm/32/eabi/v6.2
-[463]: https://github.com/RistBS/Awesome-RedTeam-Cheatsheet
 [464]: https://cryptography.rs/
 [465]: https://github.com/UgurcanAkkok/AreWeRustYet
 [466]: https://github.com/cognitive-engineering-lab/aquascope
-[467]: https://book.hacktricks.xyz/welcome/readme
-[468]: https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques
-[469]: https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
-[470]: https://github.com/infosecn1nja/Red-Teaming-Toolkit
-[471]: https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
-[472]: https://github.com/bigb0sss/RedTeam-OffensiveSecurity
-[473]: https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0
-[474]: https://github.com/b23r0/Heroinn
-[475]: https://github.com/postrequest/link
-[476]: https://github.com/vfsfitvnm/intruducer
-[477]: https://github.com/yamakadi/houdini
-[478]: https://github.com/praetorian-inc/noseyparker
 [479]: https://github.com/redcode-labs/neurax
-[480]: https://github.com/redcode-labs/Coldfire
-[481]: https://github.com/redcode-labs/Bashark
