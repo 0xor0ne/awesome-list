@@ -79,6 +79,7 @@
 
 ## Misc
 
+* [Awesome CTS][54]: curated list of Capture The Signal CTF related stuff.
 * [cts.ninja][39]: CTF focused on radio signal reverse engineering
 * [Mirage][36]: powerful and modular framework dedicated to the security
   analysis of wireless communications.
@@ -172,3 +173,4 @@
 [51]: https://github.com/mikeryan/ice9-bluetooth-sniffer
 [52]: https://github.com/JiaoXianjun/BTLE
 [53]: https://github.com/ainfosec/FISSURE
+[54]: https://github.com/BlackVS/Awesome-CTS
