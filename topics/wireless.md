@@ -83,6 +83,8 @@
 * [cts.ninja][39]: CTF focused on radio signal reverse engineering
 * [Mirage][36]: powerful and modular framework dedicated to the security
   analysis of wireless communications.
+* [Signal Identification Guide][55]: help identify radio signals through example
+  sounds and waterfall images.
 
 ## Radio Controllers
 
@@ -174,3 +176,4 @@
 [52]: https://github.com/JiaoXianjun/BTLE
 [53]: https://github.com/ainfosec/FISSURE
 [54]: https://github.com/BlackVS/Awesome-CTS
+[55]: https://www.sigidwiki.com/wiki/Signal_Identification_Guide
