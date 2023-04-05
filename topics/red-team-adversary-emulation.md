@@ -11,6 +11,7 @@ simulation) with a focus on Linux environments.
 * [Malwares](#malwares)
 * [Networking](#networking)
 * [Resources](#resources)
+* [Rootkits](#rootkits)
 * [Tools](#tools)
 
 ## Backdoors
@@ -143,6 +144,23 @@ simulation) with a focus on Linux environments.
   * [TIBER][51]: Threat Intelligence-Based Ethical Red Teaming Framework.
   * [STG][52]: OWASP testing methodologies.
 
+## Rootkits
+
+* Kernel
+  * [Awesome Linux Rootkits][101].
+  * [Diamorphine][102]: LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and
+    ARM64.
+  * [Pinkit][103]: LKM rootkit that executes a reverse TCP netcat shell with root
+    privileges.
+  * [Reptile][104]: LKM Linux rootkit.
+  * [Research rootkit][105]: LibZeroEvil & the Research Rootkit project.
+  * [Rootkit][106]: rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and
+    2.6.32), both i386 and amd64.
+  * [Rootkit list download][107]: list of rootkits (includes also userspace
+    rootkits).
+  * [Sutekh][108]: rootkit that gives a userland process root permissions.
+  * [TripleCross][109]: Linux eBPF rootkit.
+
 ## Tools
 
 * [airgeddon][7]: multi-use bash script for Linux systems to audit wireless
@@ -163,6 +181,11 @@ simulation) with a focus on Linux environments.
 * [pixload][30]: set of tools for creating/injecting payload into images.
 * [Sherlock][36]: hunt down social media accounts by username across social
   networks.
+* SSH weaponization:
+  * [reverse-ssh][99]: Statically-linked ssh server with reverse shell
+  * [reverse_ssh][100]: SSH based reverse shell.
+  * [sshimpanzee][98]: static reverse ssh server
+    functionality.
 * [traitor][37]: automatic Linux privesc via exploitation of low-hanging fruit.
 
 
@@ -263,3 +286,15 @@ simulation) with a focus on Linux environments.
 [95]: https://github.com/wangyu-/udp2raw
 [96]: https://github.com/creaktive/tsh
 [97]: https://github.com/0xor0ne/recmd
+[98]: https://github.com/lexfo/sshimpanzee
+[99]: https://github.com/Fahrj/reverse-ssh
+[100]: https://github.com/NHAS/reverse_ssh
+[101]: https://github.com/milabs/awesome-linux-rootkits
+[102]: https://github.com/m0nad/Diamorphine
+[103]: https://github.com/PinkP4nther/Pinkit
+[104]: https://github.com/f0rb1dd3n/Reptile
+[105]: https://github.com/NoviceLive/research-rootkit
+[106]: https://github.com/nurupo/rootkit
+[107]: https://github.com/d30sa1/RootKits-List-Download
+[108]: https://github.com/PinkP4nther/Sutekh
+[109]: https://github.com/h3xduck/TripleCross

@@ -60,7 +60,6 @@ My personal awesome list of interesting repos, libraries and tools.
   researchers.
 * [ICS Security][374]: tools, tips, tricks, and more for exploring ICS Security.
 * [IoT Security 101][273]: curated list of IoT Security Resources.
-* [Linux Rootkits][29]: list of rootkits for the Linux kernel.
 * [IoT][19]: list of great resources about IoT Framework, Library, OS, Platforms.
 * [Golang][105]: curated list of awesome Go frameworks, libraries and software.
 * [Malware Analysis][34]: malware analysis tools and resources.
@@ -302,20 +301,6 @@ My personal awesome list of interesting repos, libraries and tools.
     * [Linux hardening][354]: Linux hardening.
     * [Kernel Hardening][352]: kernel hardening.
     * [Rust for Linux][353]: rust for Linux.
-* Rootkits:
-  * [Awesome Linux Rootkits][29].
-  * [Diamorphine][78]: LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and
-    ARM64.
-  * [Pinkit][81]: LKM rootkit that executes a reverse TCP netcat shell with root
-    privileges.
-  * [Reptile][79]: LKM Linux rootkit.
-  * [Research rootkit][84]: LibZeroEvil & the Research Rootkit project.
-  * [Rootkit][83]: rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and
-    2.6.32), both i386 and amd64.
-  * [Rootkit list download][82]: list of rootkits (includes also userspace
-    rootkits).
-  * [Sutekh][80]: rootkit that gives a userland process root permissions.
-  * [TripleCross][332]: Linux eBPF rootkit.
 * Rust:
   * [Linux crate][86].
   * [knock-out][87]: example of a kernel module in Rust.
@@ -602,7 +587,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [26]: https://www.sourceware.org/gdb/
 [27]: https://github.com/hugsy/gef
 [28]: https://www.qemu.org/
-[29]: https://github.com/milabs/awesome-linux-rootkits
 [30]: https://github.com/veggiemonk/awesome-docker
 [31]: https://github.com/alebcay/awesome-shell
 [32]: https://github.com/mhinz/vim-galore
@@ -650,13 +634,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [75]: http://www.phrack.org/
 [76]: https://tmpout.sh/#
 [77]: https://0xax.gitbooks.io/linux-insides/content/
-[78]: https://github.com/m0nad/Diamorphine
-[79]: https://github.com/f0rb1dd3n/Reptile
-[80]: https://github.com/PinkP4nther/Sutekh
-[81]: https://github.com/PinkP4nther/Pinkit
-[82]: https://github.com/d30sa1/RootKits-List-Download
-[83]: https://github.com/nurupo/rootkit
-[84]: https://github.com/NoviceLive/research-rootkit
 [85]: https://github.com/Rust-for-Linux
 [86]: https://crates.io/crates/linux
 [87]: https://github.com/jbaublitz/knock-out
@@ -844,7 +821,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [329]: https://lkft.linaro.org/
 [330]: https://tuxsuite.com/
 [331]: https://github.com/netbirdio/netbird
-[332]: https://github.com/h3xduck/TripleCross
 [333]: https://developers.google.com/code-sandboxing
 [338]: https://github.com/SecureAuthCorp/impacket
 [339]: https://github.com/edoardottt/awesome-hacker-search-engines
