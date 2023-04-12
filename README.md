@@ -39,6 +39,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Analysis Tools (static)][371]: curated list of static analysis (SAST) tools.
 * [BSK][362]: the book of secret knowledge.
 * [C][17]: A curated list of C good stuff.
+* [ChatGPT prompts][480]: ChatGPT prompt curation to use ChatGPT better.
 * [eBPF][25]: curated list of awesome projects related to eBPF.
 * [Docker][30]: curated list of Docker resources and projects.
 * [ELF][310]: awesome ELF resources by tmp.out.
@@ -927,3 +928,4 @@ My personal awesome list of interesting repos, libraries and tools.
 [465]: https://github.com/UgurcanAkkok/AreWeRustYet
 [466]: https://github.com/cognitive-engineering-lab/aquascope
 [479]: https://github.com/redcode-labs/neurax
+[480]: https://github.com/f/awesome-chatgpt-prompts

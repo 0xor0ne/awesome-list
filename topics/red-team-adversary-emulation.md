@@ -9,6 +9,7 @@ simulation) with a focus on Linux environments.
 * [C2 Frameworks](#c2-frameworks)
 * [Libraries](#libraries)
 * [Malwares](#malwares)
+* [Misc](#misc)
 * [Networking](#networking)
 * [Resources](#resources)
 * [Rootkits](#rootkits)
@@ -68,6 +69,10 @@ simulation) with a focus on Linux environments.
   * [UPX][61]: free, portable, extendable, high-performance executable packer.
 * [Pafish][62]: testing tool that uses different techniques to detect virtual
   machines and malware analysis environments.
+
+## Misc
+
+* [antiscan][111]: scan service similar to virustotal
 
 ## Networking
 
@@ -160,6 +165,8 @@ simulation) with a focus on Linux environments.
     rootkits).
   * [Sutekh][108]: rootkit that gives a userland process root permissions.
   * [TripleCross][109]: Linux eBPF rootkit.
+* Resources
+  * [xcellerator][110]: Linux kernel rootkit series
 
 ## Tools
 
@@ -298,3 +305,5 @@ simulation) with a focus on Linux environments.
 [107]: https://github.com/d30sa1/RootKits-List-Download
 [108]: https://github.com/PinkP4nther/Sutekh
 [109]: https://github.com/h3xduck/TripleCross
+[110]: https://xcellerator.github.io/tags/rootkit/
+[111]: https://antiscan.me

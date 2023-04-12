@@ -12,6 +12,19 @@
 
 ## 802.11
 
+* Attacks:
+  * KRACK attack:
+    * [paper][57]: Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2
+    * [scripts][58]: scripts to test if clients or access points (APs) are
+      affected by the KRACK attack.
+    * [website][56]: Key Reinstallation Attacks
+  * [ICMP redirects][62]: Man-in-the-Middle Attacks without Rogue AP: When WPAs
+    Meet ICMP Redirects.
+  * MacStealer:
+    * [paper][59]: Framing Frames: Bypassing Wi-Fi Encryption by Manipulating
+      Transmit Queues.
+    * [repository][61]: est Wi-Fi networks for client isolation bypasses.
+    * [wifi-framing][60]: Repository for the Framing Frames publication
 * Tools
   * [aircrack-ng][16]: complete suite of tools to assess WiFi network security.
     * [GitHub][17]: WiFi security auditing tools suite
@@ -177,3 +190,10 @@
 [53]: https://github.com/ainfosec/FISSURE
 [54]: https://github.com/BlackVS/Awesome-CTS
 [55]: https://www.sigidwiki.com/wiki/Signal_Identification_Guide
+[56]: https://www.krackattacks.com
+[57]: https://papers.mathyvanhoef.com/ccs2017.pdf
+[58]: https://github.com/vanhoefm/krackattacks-scripts
+[59]: https://papers.mathyvanhoef.com/usenix2023-wifi.pdf
+[60]: https://github.com/domienschepers/wifi-framing
+[61]: https://github.com/vanhoefm/macstealer
+[62]: https://csis.gmu.edu/ksun/publications/WiFi_Interception_SP23.pdf
