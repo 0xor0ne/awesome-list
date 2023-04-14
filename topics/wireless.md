@@ -94,6 +94,9 @@
 
 * [Awesome CTS][54]: curated list of Capture The Signal CTF related stuff.
 * [cts.ninja][39]: CTF focused on radio signal reverse engineering
+* FCC
+  * [fccid.io]: Searchable FCC ID Database
+  * [Official FCC ID][63] 
 * [Mirage][36]: powerful and modular framework dedicated to the security
   analysis of wireless communications.
 * [Signal Identification Guide][55]: help identify radio signals through example
@@ -127,6 +130,8 @@
   * [dspguide][23]: The Scientist and Engineer's Guide to Digital Signal
     Processing.
   * [pysdr][22]: A Guide to SDR and DSP using Python.
+  * [rtl-sdr][65]: RTL-SDR (RTL2832U) and software defined radio news and
+    projects.
   * [sdre][30]: Software-Defined Radio for Engineers.
 * Tools
   * [sdrangel][8]: SDR Rx/Tx software
@@ -197,3 +202,6 @@
 [60]: https://github.com/domienschepers/wifi-framing
 [61]: https://github.com/vanhoefm/macstealer
 [62]: https://csis.gmu.edu/ksun/publications/WiFi_Interception_SP23.pdf
+[63]: https://www.fcc.gov/oet/ea/fccid
+[64]: https://fccid.io
+[65]: https://www.rtl-sdr.com

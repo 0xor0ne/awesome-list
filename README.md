@@ -65,6 +65,9 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Golang][105]: curated list of awesome Go frameworks, libraries and software.
 * [Malware Analysis][34]: malware analysis tools and resources.
 * [Network stuff][281]: resources about network security.
+* [Prompt Engineering][481]: hand-curated resources for Prompt Engineering.
+* [Prompt Engineering Guides][482]: guides, papers, lecture, notebooks and
+  resources for prompt engineering.
 * [Raspberry Pi][33]: Raspberry Pi tools, projects, images and resources.
 * [RAT][162]: RAT And C&C Resources.
 * [Reverse Engineering][35]: reversing resources.
@@ -929,3 +932,5 @@ My personal awesome list of interesting repos, libraries and tools.
 [466]: https://github.com/cognitive-engineering-lab/aquascope
 [479]: https://github.com/redcode-labs/neurax
 [480]: https://github.com/f/awesome-chatgpt-prompts
+[481]: https://github.com/promptslab/Awesome-Prompt-Engineering
+[482]: https://github.com/dair-ai/Prompt-Engineering-Guide
