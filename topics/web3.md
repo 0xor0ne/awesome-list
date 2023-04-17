@@ -101,6 +101,7 @@
 * [polkadot.network][4]: Polkadot official website
 * [Documentation][39]: official documentation
 * [GitHub][40]: Parity Technologies organization
+* [Substrate][58]: next-generation framework for blockchains
 
 ### Polygon
 
@@ -192,3 +193,4 @@
 [55]: https://newsletter.blockthreat.io
 [56]: https://weekinethereumnews.com
 [57]: https://thedailygwei.substack.com
+[58]: https://substrate.io

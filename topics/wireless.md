@@ -2,16 +2,25 @@
 
 ## Content
 
+* [3GPP](#3gpp)
 * [802.11](#802.11)
 * [802.15.4](#802.15.4)
 * [Bluetooth](#bluetooth)
+* [IoT](#iot)
 * [Linux](#linux)
 * [Misc](#Misc)
 * [Radio Controllers](#radio-controllers)
 * [SDR](#sdr-and-sdp)
+* [Z-Wave](#z-wave)
+
+## 3GPP
+
+* [Specifications][71]
 
 ## 802.11
 
+* [Wi-Fi Alliance][66]
+  * [Specification][67]
 * Attacks:
   * KRACK attack:
     * [paper][57]: Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2
@@ -63,6 +72,8 @@
 
 ## Bluetooth
 
+* [bluetooth.com][69]
+  * [Specifications][70]
 * [Awesome bluetooth security][33]: useful references for anyone working with
   Bluetooth BR/EDR/LE or Mesh security.
 * [BLE Security Attack Defence][34]: Unveiling zero day vulnerabilities and
@@ -81,6 +92,15 @@
   * [Injectable firmware][35]: Custom firmware for nrf52840-dongle.
   * [nRF sniffer][40]: Bluetooth LE sniffer from nordic.
   * [Sniffle][21]: A sniffer for Bluetooth 5 and 4.x LE
+
+## IoT
+
+* [csa-iot.org][72]: Connectivity Standards Alliance
+  * [Specifications][74]
+* [Matter][73]
+* [Thread][76]
+  * [Specifications][77]
+* [ZigBee][75]
 
 ## linux
 
@@ -137,6 +157,11 @@
   * [sdrangel][8]: SDR Rx/Tx software
   * [SDRPlusPlusA][7]: Cross-Platform SDR Software
   * [urh][9]: Universal Radio Hacker
+
+## Z-Wave
+
+* [z-wave alliance][68]
+* [z-wave.com][67]
 
 
 [0]: https://wireless.wiki.kernel.org/
@@ -205,3 +230,15 @@
 [63]: https://www.fcc.gov/oet/ea/fccid
 [64]: https://fccid.io
 [65]: https://www.rtl-sdr.com
+[66]: https://www.wi-fi.org
+[67]: https://www.wi-fi.org/discover-wi-fi/specifications
+[68]: https://z-wavealliance.org
+[69]: https://www.bluetooth.com
+[70]: https://www.bluetooth.com/specifications/specs/
+[71]: https://www.3gpp.org/specifications-technologies
+[72]: https://csa-iot.org
+[73]: https://csa-iot.org/all-solutions/matter/
+[74]: https://csa-iot.org/developer-resource/specifications-download-request/
+[75]: https://csa-iot.org/all-solutions/zigbee/
+[76]: https://www.threadgroup.org
+[77]: https://www.threadgroup.org/support#specifications

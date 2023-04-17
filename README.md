@@ -346,6 +346,11 @@ My personal awesome list of interesting repos, libraries and tools.
 
 ## Networking
 
+* Illustrated Connections:
+  * [DTLS][484]
+  * [QUIC][483]
+  * [TLS 1.2][486]
+  * [TLS 1.3][485]
 * Misc:
   * [innernet][421]: private network system that uses WireGuard under the hood.
   * [nebula][122]: scalable overlay networking tool.
@@ -934,3 +939,7 @@ My personal awesome list of interesting repos, libraries and tools.
 [480]: https://github.com/f/awesome-chatgpt-prompts
 [481]: https://github.com/promptslab/Awesome-Prompt-Engineering
 [482]: https://github.com/dair-ai/Prompt-Engineering-Guide
+[483]: https://quic.xargs.org
+[484]: https://dtls.xargs.org
+[485]: https://tls13.xargs.org
+[486]: https://tls12.xargs.org
