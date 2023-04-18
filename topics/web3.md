@@ -35,6 +35,18 @@
 
 ## DeFi
 
+* DEXs
+  * [DyDx][64]
+    * [GitHub][65]
+  * [PancakeSwap][61]
+    * [GitHub][62]
+  * [Sundaeswap][66]
+    * [GitHub][67]
+  * [Uniswap][59]
+    * [GitHub][60]
+* [RENQ][63]:  connect all isolated blockchains and establish a cross-chain
+  asset exchange network.
+
 ## Exchanges
 
 * [Binance][9]
@@ -194,3 +206,12 @@
 [56]: https://weekinethereumnews.com
 [57]: https://thedailygwei.substack.com
 [58]: https://substrate.io
+[59]: https://uniswap.org
+[60]: https://github.com/Uniswap
+[61]: https://pancakeswap.finance
+[62]: https://github.com/pancakeswap
+[63]: https://renq.io
+[64]: https://dydx.exchange
+[65]: https://github.com/dydxprotocol/
+[66]: https://sundaeswap.finance
+[67]: https://github.com/SundaeSwap-finance
