@@ -8,6 +8,7 @@
 * [Bluetooth](#bluetooth)
 * [IoT](#iot)
 * [Linux](#linux)
+* [Microcontrollers Vendors](#microcontrollers-vendors)
 * [Misc](#Misc)
 * [Radio Controllers](#radio-controllers)
 * [SDR](#sdr-and-sdp)
@@ -109,6 +110,25 @@
 * Realtek drivers:
   * [RTL88x2BU][25]: Linux Driver for USB WiFi Adapters that are based on the
     RTL8812BU and RTL8822BU Chipset.
+
+## Microcontrollers Vendors
+
+* [Espressif][78] 
+  * [Github][81]
+* [Silicon Labs][82]
+  * [GitHub][83]
+* [Microchip][90]
+  * [GitHub][91]
+* [Nordic][79]
+  * [GitHub][80]
+* [NXP][84]
+  * [GitHub][85]
+* [Renesas][92]
+  * [GitHub][93]
+* [STMicroelectronics][88]
+  * [GitHub][89]
+* [Texas Instruments][86]
+  * [GitHub][87]
 
 ## Misc
 
@@ -242,3 +262,19 @@
 [75]: https://csa-iot.org/all-solutions/zigbee/
 [76]: https://www.threadgroup.org
 [77]: https://www.threadgroup.org/support#specifications
+[78]: https://www.espressif.com/en
+[79]: https://www.nordicsemi.com
+[80]: https://github.com/NordicSemiconductor
+[81]: https://github.com/espressif
+[82]: https://www.silabs.com
+[83]: https://github.com/SiliconLabs
+[84]: https://www.nxp.com
+[85]: https://github.com/NXP
+[86]: https://www.ti.com
+[87]: https://github.com/TexasInstruments
+[88]: https://www.st.com/content/st_com/en.html
+[89]: https://github.com/STMicroelectronics
+[90]: https://www.microchip.com
+[91]: https://github.com/MicrochipTech
+[92]: https://www.renesas.com/us/en
+[93]: https://github.com/renesas
