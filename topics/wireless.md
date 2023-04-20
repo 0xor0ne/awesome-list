@@ -98,8 +98,10 @@
 
 * [csa-iot.org][72]: Connectivity Standards Alliance
   * [Specifications][74]
+* [Home Assistant][97]: Open source home automation
 * [Matter][73]
 * [Thread][76]
+  * [OpenThread][96]: open-source implementation of Thread
   * [Specifications][77]
 * [ZigBee][75]
 
@@ -113,6 +115,8 @@
 
 ## Microcontrollers Vendors
 
+* [Bouffalo Labs][94]
+  * [GitHub][95]
 * [Espressif][78] 
   * [Github][81]
 * [Silicon Labs][82]
@@ -278,3 +282,7 @@
 [91]: https://github.com/MicrochipTech
 [92]: https://www.renesas.com/us/en
 [93]: https://github.com/renesas
+[94]: https://www.bouffalolab.com
+[95]: https://github.com/bouffalolab
+[96]: https://openthread.io
+[97]: https://www.home-assistant.io/
