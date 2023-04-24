@@ -2,11 +2,14 @@
 
 # Content
 
-* [Data Gathering](#data-gathering)
+* [Bug Bounties](#bug-bounties)
 * [CTF](#ctf)
+* [Data Gathering](#data-gathering)
 * [DeFi](#defi)
+* [Development](#development)
 * [Exchanges](#exchanges)
 * [Misc](#misc)
+* [News](#news)
 * [Platforms](#platforms)
   * [Bitcoin](#bitcoin)
   * [Cardano](#cardano)
@@ -18,13 +21,13 @@
 * [Rust](#rust)
 * [Security](#security)
 * [Services](#services)
+* [Solidity](#solidity)
 * [Wallets](#wallets)
 
-## Data Gathering
+## Bug Bounties
 
-* [Blockcypher][21]: blockchains live data
-* [BscScan][45]: BNB smart chain explorer
-* [CoinMarketCap][1]: price-tracking for cryptoassets.
+* [Code4Arena][83]: public/private auditing platform
+* [Immunefi][82]: bug bounties platform for web3
 
 ## CTF
 
@@ -32,6 +35,16 @@
 * [Damn Vulnerable DeFi][51]: The offensive security playground for the
   decentralized finances.
 * [Paradigm][52]: Official repository for Paradigm CTF 2021
+
+## Data Gathering
+
+* [Blockcypher][21]: blockchains live data
+* [BscScan][45]: BNB smart chain explorer
+* [CoinCodex][95]: cryptoassets tracking
+* [CoinGecko][93]: price-tracking for cryptoassets.
+* [CoinMarketCal][96]: crypto assets calendar.
+* [CoinMarketCap][1]: price-tracking for cryptoassets.
+* [DexTools][81]: DeFi gateway
 
 ## DeFi
 
@@ -46,6 +59,14 @@
     * [GitHub][60]
 * [RENQ][63]:  connect all isolated blockchains and establish a cross-chain
   asset exchange network.
+
+## Development
+
+* [Foundry][34]: portable and modular toolkit for Ethereum application
+  development written in Rust.
+* [HardHat][87]: development environment to compile, deploy, test, and debug
+  your Ethereum software.
+* [Truffle suite][86]: suite of tools for smart contract development.
 
 ## Exchanges
 
@@ -66,10 +87,22 @@
   and more.
 * [BlockThreat][55]: The latest in blockchain, DeFi and exchange threat
   intelligence.
+* [CryptoLinks][99]: links to useful stuff in crypto world
 * [CryptoZombies][47]: blockchains and DApps courses.
 * [Rekt][54]: crypto finance news
 * [The Daily Gwei][57]: Daily commentary on the Ethereum ecosystem.
 * [Week in Ethereum][56]: weekly ethereum newsletter
+
+## News
+
+* [Bankless][90]: newsletter and podcast
+* [BeInCrypto][91]: crypto news and crypto-focused reviews.
+* [CoinDesk][88]: crypto media outlet
+* [CoinDoo][98]: educational guides, reviews, and blockchain technologies.
+* [Crypto.news][97]: cryptocurrency news today & live price indexes.
+* [Decrypt][89]: cryptocurrency news
+* [TheBlock][92]: crypto news and in-depth research reports.
+* [TradingView][94]
 
 ## Platforms
 
@@ -137,10 +170,32 @@
 ## Security
 
 * [Immunefi][53]: Web3 bug bounty platform
+* Smart Contract Auditing:
+  * Companies:
+    * [Certora][79]
+    * [Chainsecurity][80]
+    * [Consensys][71]
+    * [Cyfrin][68]
+    * [dedaub][74]
+    * [alborn][77]
+    * [MixBytes][76]
+    * [OpenZeppelin][70]
+    * [Sherlock][78]
+    * [Sigmaprime][75]
+    * [Spearbit][72]
+    * [Trailofbits][69]
+    * [Trust-Security][73]
 
 ## Services
 
 * [Plutus][18]: visa debit card
+
+## Solidity
+
+* [Soliditylang][85]: statically-typed curly-braces programming language
+  designed for developing smart contracts that run on Ethereum.
+* [Awesome solidity][84]: curated list of awesome Solidity resources, libraries,
+  tools and more.
 
 ## Wallets
 
@@ -181,7 +236,7 @@
 [31]: https://docs.cardano.org
 [32]: https://developers.cardano.org
 [33]: https://github.com/cardano-foundation
-[34]: https://github.com/foundry-rs/foundry
+[34]: https://github.com/foundry-rs
 [35]: https://github.com/rust-in-blockchain/awesome-blockchain-rust
 [36]: https://near.org
 [37]: https://github.com/near
@@ -215,3 +270,35 @@
 [65]: https://github.com/dydxprotocol/
 [66]: https://sundaeswap.finance
 [67]: https://github.com/SundaeSwap-finance
+[68]: https://www.cyfrin.io
+[69]: https://www.trailofbits.com/services/software-assurance/
+[70]: https://www.openzeppelin.com
+[71]: https://consensys.net/diligence/
+[72]: https://spearbit.com
+[73]: https://www.trust-security.xyz
+[74]: https://dedaub.com
+[75]: https://sigmaprime.io
+[76]: https://mixbytes.io
+[77]: https://www.halborn.com
+[78]: https://www.sherlock.xyz
+[79]: https://www.certora.com
+[80]: https://chainsecurity.com
+[81]: https://www.dextools.io/app/en
+[82]: https://immunefi.com
+[83]: https://code4rena.com
+[84]: https://github.com/bkrem/awesome-solidity
+[85]: https://soliditylang.org
+[86]: https://trufflesuite.com
+[87]: https://github.com/NomicFoundation/hardhat
+[88]: https://www.coindesk.com
+[89]: https://decrypt.co
+[90]: https://www.bankless.com
+[91]: https://beincrypto.com
+[92]: https://www.theblock.co
+[93]: https://www.coingecko.com
+[94]: https://www.tradingview.com/markets/cryptocurrencies/?offer_id=10&aff_id=8116
+[95]: https://coincodex.com
+[96]: https://coinmarketcal.com/en/
+[97]: https://crypto.news
+[98]: https://coindoo.com
+[99]: https://cryptolinks.com
