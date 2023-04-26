@@ -27,6 +27,8 @@
 ## Bug Bounties
 
 * [Code4Arena][83]: public/private auditing platform
+  * [Reports][102]: audit reports
+* [Hackenproof][140]: Bug Bounty Platform for Crypto Projects.
 * [Immunefi][82]: bug bounties platform for web3
 
 ## CTF
@@ -34,7 +36,9 @@
 * [Capture the Ether][50]: The game of the Ethereum Smart Contract security
 * [Damn Vulnerable DeFi][51]: The offensive security playground for the
   decentralized finances.
-* [Paradigm][52]: Official repository for Paradigm CTF 2021
+* [Ethernaut][139]: Web3/Solidity based wargame
+* [Paradigm][138]: Paradigm CTF
+  * [Paradigm21][52]: Official repository for Paradigm CTF 2021
 
 ## Data Gathering
 
@@ -62,10 +66,12 @@
 
 ## Development
 
+* [Alchemy][125]: web3 development platform.
 * [Foundry][34]: portable and modular toolkit for Ethereum application
   development written in Rust.
 * [HardHat][87]: development environment to compile, deploy, test, and debug
   your Ethereum software.
+* [remix-project][126]: toolset for contract development.
 * [Truffle suite][86]: suite of tools for smart contract development.
 
 ## Exchanges
@@ -87,8 +93,13 @@
   and more.
 * [BlockThreat][55]: The latest in blockchain, DeFi and exchange threat
   intelligence.
+* [Consensys][130]: Company producing various important tools in the crypto
+  industry.
 * [CryptoLinks][99]: links to useful stuff in crypto world
+* [CryptoList][132]: curated collection of blockchain & cryptocurrency
+  resources.
 * [CryptoZombies][47]: blockchains and DApps courses.
+* [Investopedia][100]: investments learning.
 * [Rekt][54]: crypto finance news
 * [The Daily Gwei][57]: Daily commentary on the Ethereum ecosystem.
 * [Week in Ethereum][56]: weekly ethereum newsletter
@@ -105,6 +116,18 @@
 * [TradingView][94]
 
 ## Platforms
+
+### AAVE
+
+* [aave.com][115]: official AAVE website
+  * [Documentation][117]: Developers' portal
+  * [GitHub][116]: AAVE organization
+
+### Arbitrum
+
+* [arbitrum.io][112]: official Arbitrum website
+  * [Documentation][113]: developers' portal
+  * [GitHub][114]: Arbitrum organization
 
 ### Bitcoin
 
@@ -123,17 +146,36 @@
 * [Documentation][31]: official documentation
 * [GitHub][33]: cardano organization
 
+### Compaund
+
+* [compaund.finance][121]: official compaund website
+  * [Documentation][122]: developers' portal
+  * [GitHub][123]: compaund organization
+
+### Cosmos
+
+* [cosmos.network][106]: official Cosmos website
+  * [Documentation][108]: official documentation
+  * [GitHub][107] Cosmos organization
+
 ### Ethereum
 
 * [ethereum.org][3]: Ethereum official website
 * [Awesome][29]: Awesome Ethereum Resources
 * [Consensys][48]: smart contracts best practices.
+* [DeFi Roadmap][133]: DeFi Developer roadmap.
 * [Documentation][26]: developers official documentation
 * [GitHub][28]: Ethereum organization
 * [Learning][27]: official learning guides
 * [Mastering Ethereum][46]: book for developers, offering a guide to the
   operation and use of the Ethereum.
 * [Secureum][49]: Ethereum and Solidity quizzes and answers by @0xTaylor
+
+### MakerDAO
+
+* [makerdao.com][118]: official MakerDAO website
+  * [Documentation][119]: Developers' portal
+  * [GitHub][120]: MakerDAO organization
 
 ### NEAR
 
@@ -160,6 +202,12 @@
 * [Documentation][43]: official documentation
 * [GitHub][44]: Solana organization
 
+### Tezos
+
+* [tezos.com][109]: official Tezos website
+  * [Documentation][110]: developers' portal
+  * [GitHub][111]: Tezos organization
+
 ## Rust
 
 * [awesome-blockchain-rust][35]: libraries and packages about
@@ -169,15 +217,18 @@
 
 ## Security
 
+* [Echidna][134]: ethereum smart contract fuzzer
 * [Immunefi][53]: Web3 bug bounty platform
+* [Mythrill][131]: security analysis tool for EVM bytecode.
 * Smart Contract Auditing:
   * Companies:
+    * [alborn][77]
     * [Certora][79]
     * [Chainsecurity][80]
     * [Consensys][71]
     * [Cyfrin][68]
     * [dedaub][74]
-    * [alborn][77]
+    * [Hydnsec][101]
     * [MixBytes][76]
     * [OpenZeppelin][70]
     * [Sherlock][78]
@@ -185,6 +236,10 @@
     * [Spearbit][72]
     * [Trailofbits][69]
     * [Trust-Security][73]
+* [Smart Contracts best practives][136]: smart contract best practices by
+  Consensys.
+* [verified-smart-contracts][127]: smart contracts which are formally verified.
+* [Web3Bugs][124]: demystifying Exploitable Bugs in Smart Contracts
 
 ## Services
 
@@ -196,11 +251,20 @@
   designed for developing smart contracts that run on Ethereum.
 * [Awesome solidity][84]: curated list of awesome Solidity resources, libraries,
   tools and more.
+* [Course - python ed.][137]: Ultimate Solidity, Blockchain, and Smart Contract.
+* [Patterns][135]: ompilation of patterns and best practices for the smart
+  contract programming language Solidity.
 
 ## Wallets
 
+* [AdaLite][105]: Cardano wallet
 * [Bitcoin][20]: Bitcoin wallets helper
 * [Ethereum][25]: wallet finder for Ethereum
+* Harware:
+  * [Ledger][104]
+  * [Trezor][103]
+* [Metamask][128]: crypto wallet and gateway to DApps
+  * [GitHub][129]: Metamask organization
 
 [0]: https://bitcoin.org/en/
 [1]: https://coinmarketcap.com
@@ -302,3 +366,44 @@
 [97]: https://crypto.news
 [98]: https://coindoo.com
 [99]: https://cryptolinks.com
+[100]: https://academy.investopedia.com
+[101]: https://hydnsec.com
+[102]: https://code4rena.com/reports/
+[103]: https://trezor.io
+[104]: https://www.ledger.com
+[105]: https://adalite.io
+[106]: https://cosmos.network
+[107]: https://github.com/cosmos
+[108]: https://docs.cosmos.network/main
+[109]: https://tezos.com
+[110]: https://tezos.com/developers/
+[111]: https://github.com/tezos
+[112]: https://arbitrum.io
+[113]: https://developer.arbitrum.io
+[114]: https://github.com/OffchainLabs
+[115]: https://aave.com
+[116]: https://github.com/aave
+[117]: https://docs.aave.com/hub/
+[118]: https://makerdao.com/en/
+[119]: https://docs.makerdao.com
+[120]: https://github.com/makerdao
+[121]: https://compound.finance
+[122]: https://docs.compound.finance
+[123]: https://github.com/compound-finance
+[124]: https://github.com/ZhangZhuoSJTU/Web3Bugs
+[125]: https://www.alchemy.com
+[126]: https://remix-project.org
+[127]: https://github.com/runtimeverification/verified-smart-contracts
+[128]: https://metamask.io
+[129]: https://github.com/MetaMask
+[130]: https://consensys.net
+[131]: https://github.com/ConsenSys/mythril
+[132]: https://github.com/coinpride/CryptoList
+[133]: https://github.com/OffcierCia/DeFi-Developer-Road-Map
+[134]: https://github.com/crytic/echidna
+[135]: https://github.com/fravoll/solidity-patterns
+[136]: https://github.com/ConsenSys/smart-contract-best-practices
+[137]: https://github.com/smartcontractkit/full-blockchain-solidity-course-py
+[138]: https://ctf.paradigm.xyz
+[139]: https://ethernaut.openzeppelin.com
+[140]: https://hackenproof.com
