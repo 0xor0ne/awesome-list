@@ -6,6 +6,7 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [Blockchains and Smart Contracts](topics/web3.md)
 * [OT/IoT Security](topics/ot_security.md)
+* [Linux Kernel](topics/linux_kernel.md)
 * [Red Teaming and Offensive Security](topics/red-team-adversary-emulation.md)
 * [Wireless](topics/wireless.md)
 
@@ -21,7 +22,6 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Emulators And Dynamic Analysis](#emulators-and-dynamic-analysis)
 * [Exploit Development](#exploit-development)
 * [Fuzzing](#fuzzing)
-* [Linux Kernel](#linux-kernel)
 * [Misc](#misc)
 * [Networking](#networking)
 * [Programming Languages](#programming-languages)
@@ -280,37 +280,6 @@ My personal awesome list of interesting repos, libraries and tools.
     automatically reports found bugs
   * [SyzScope][413]: automatically uncover high-risk impacts given a bug with
     only low-risk impacts.
-
-## Linux Kernel
-
-* [Clang Built Linux][328]: building the Linux kernel with Clang.
-* [Defence Map][22]: relationships between vulnerability classes, exploitation
-  techniques, bug detection mechanisms, and defence technologies.
-* [kconfig-hardened-check][234]: tool for checking the security hardening
-  options of the Linux kernel.
-* [kernel-security-learning][460]: Anything about kernel security.
-* [Kernel documentation][12]: official linux kernel documentation.
-* [kernel.org][11]: linux kernel archives.
-* [kernelci.org][432]: test system focused on the upstream Linux kernel.
-* [kernelconfig][445]: Linux kernel configuration entries.
-* [like-gdb][425]: fully dockerized Linux kernel debugging environment.
-* [linux-insides][77]: a book about linux kernel and its insides.
-* [Linux Kernel Module Cheat][305]: emulation setup to study and develop the
-  Linux kernel.
-* [LKFT][329]: Linux Kernel Functional Testing.
-* [lkmpg][443]: The Linux Kernel Module Programming Guide.
-* [ltp][93]: Linux Test Project.
-* [Mailing Lists]:
-  * [Lore kernel][351]: Linux kernel mailing lists.
-    * [Linux hardening][354]: Linux hardening.
-    * [Kernel Hardening][352]: kernel hardening.
-    * [Rust for Linux][353]: rust for Linux.
-* Rust:
-  * [Linux crate][86].
-  * [knock-out][87]: example of a kernel module in Rust.
-  * [Rust for Linux][85]: organization for adding support for the Rust language
-    to the Linux kernel.
-* [TuxSuite][330]: on-demand APIs and tools for building Linux Kernels.
 
 ## Misc
 
@@ -579,8 +548,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [8]: https://github.com/robertdavidgraham/masscan
 [9]: https://github.com/therealsaumil/emux
 [10]: https://github.com/qilingframework/qiling
-[11]: https://kernel.org/
-[12]: https://www.kernel.org/doc/html/latest/index.html
 [13]: https://guyinatuxedo.github.io/index.html
 [14]: https://gcc.gnu.org/
 [15]: https://clang.llvm.org/
@@ -590,7 +557,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [19]: https://github.com/phodal/awesome-iot
 [20]: https://github.com/nhivp/Awesome-Embedded
 [21]: https://github.com/xairy/linux-kernel-exploitation
-[22]: https://github.com/a13xp0p0v/linux-kernel-defence-map
 [23]: https://github.com/DynamoRIO/dynamorio
 [24]: https://github.com/aquasecurity/tracee
 [25]: https://github.com/zoidbergwill/awesome-ebpf
@@ -643,16 +609,11 @@ My personal awesome list of interesting repos, libraries and tools.
 [74]: https://github.com/flashrom/flashrom
 [75]: http://www.phrack.org/
 [76]: https://tmpout.sh/#
-[77]: https://0xax.gitbooks.io/linux-insides/content/
-[85]: https://github.com/Rust-for-Linux
-[86]: https://crates.io/crates/linux
-[87]: https://github.com/jbaublitz/knock-out
 [88]: https://github.com/QBDI/QBDI
 [89]: https://github.com/jtpereyda/boofuzz
 [90]: https://github.com/ucsb-seclab/difuze
 [91]: https://github.com/googleprojectzero/halfempty
 [92]: https://github.com/trailofbits/krf
-[93]: https://github.com/linux-test-project/ltp
 [94]: https://syzkaller.appspot.com/upstream
 [95]: https://github.com/AFLplusplus/LibAFL
 [96]: https://github.com/geofft/redhook
@@ -757,7 +718,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [231]: https://github.com/kaitai-io/kaitai_struct
 [232]: https://github.com/keystone-engine/keystone
 [233]: https://gitlab.com/cespedes/ltrace
-[234]: https://github.com/a13xp0p0v/kconfig-hardened-check
 [235]: https://0x434b.dev/
 [236]: https://0x00sec.org/
 [237]: https://github.com/jopohl/urh
@@ -808,7 +768,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [302]: https://github.com/azure-rtos/threadx/
 [303]: https://github.com/bytecodealliance/rustix
 [304]: https://github.com/nix-rust/nix
-[305]: https://github.com/cirosantilli/linux-kernel-module-cheat
 [306]: https://github.com/kata-containers/kata-containers
 [307]: https://github.com/sidkshatriya/rd
 [308]: https://veykril.github.io/tlborm/
@@ -827,9 +786,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [325]: https://github.com/async-rs/async-std
 [326]: https://github.com/smol-rs/smol
 [327]: https://github.com/ps1337/pwntools-r2
-[328]: https://clangbuiltlinux.github.io/
-[329]: https://lkft.linaro.org/
-[330]: https://tuxsuite.com/
 [331]: https://github.com/netbirdio/netbird
 [333]: https://developers.google.com/code-sandboxing
 [338]: https://github.com/SecureAuthCorp/impacket
@@ -837,10 +793,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [342]: https://dogbolt.org/
 [343]: https://github.com/returntocorp/semgrep
 [344]: https://github.com/0xdea/semgrep-rules
-[351]: https://lore.kernel.org/
-[352]: https://lore.kernel.org/kernel-hardening/
-[353]: https://lore.kernel.org/rust-for-linux/
-[354]: https://lore.kernel.org/linux-hardening/
 [355]: https://outflux.net/blog/
 [356]: https://www.zerotier.com/
 [357]: https://tailscale.com/
@@ -897,12 +849,10 @@ My personal awesome list of interesting repos, libraries and tools.
 [422]: https://github.com/google/silifuzz
 [423]: https://thephd.dev/
 [424]: https://github.com/epi052/feroxfuzz
-[425]: https://github.com/0xricksanchez/like-dbg
 [426]: https://blog.xilokar.info/
 [427]: https://gitlab.torproject.org/tpo/core/arti
 [428]: https://cve-north-stars.github.io/
 [431]: https://chromium.googlesource.com/linux-syscall-support/
-[432]: https://kernelci.org/
 [433]: https://fccid.io/
 [434]: https://patents.google.com/
 [434]: https://jless.io/
@@ -914,9 +864,7 @@ My personal awesome list of interesting repos, libraries and tools.
 [440]: https://github.com/AmbiML/sparrow-kata-full
 [441]: https://github.com/Wilfred/difftastic
 [442]: https://github.com/mahaloz/decomp2dbg
-[443]: https://sysprog21.github.io/lkmpg/
 [444]: https://github.com/nccgroup/Sniffle
-[445]: https://www.kernelconfig.io/index.html
 [446]: http://dmitry.gr/
 [447]: https://github.com/enovella/TEE-reversing
 [448]: https://github.com/andreia-oca/awesome-embedded-fuzzing
@@ -931,7 +879,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [457]: https://github.com/io12/pwninit
 [458]: https://github.com/skysider/pwndocker
 [459]: https://github.com/bsauce/kernel-exploit-factory
-[460]: https://github.com/bsauce/kernel-security-learning
 [462]: https://syscalls.mebeim.net/?table=arm/32/eabi/v6.2
 [464]: https://cryptography.rs/
 [465]: https://github.com/UgurcanAkkok/AreWeRustYet

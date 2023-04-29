@@ -73,8 +73,6 @@ simulation) with a focus on Linux environments.
 ## Misc
 
 * [antiscan][111]: scan service similar to virustotal
-* [kasld][112]: collection of various techniques to infer the Linux kernel base
-  virtual address as an unprivileged local user.
 
 ## Networking
 
@@ -309,4 +307,3 @@ simulation) with a focus on Linux environments.
 [109]: https://github.com/h3xduck/TripleCross
 [110]: https://xcellerator.github.io/tags/rootkit/
 [111]: https://antiscan.me
-[112]: https://github.com/bcoles/kasld
