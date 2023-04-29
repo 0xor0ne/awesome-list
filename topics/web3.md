@@ -33,6 +33,8 @@
 
 ## CTF
 
+* [blocksec-ctfs][141]: curated list of blockchain security Capture the Flag
+  (CTF) competitions.
 * [Capture the Ether][50]: The game of the Ethereum Smart Contract security
 * [Damn Vulnerable DeFi][51]: The offensive security playground for the
   decentralized finances.
@@ -48,6 +50,7 @@
 * [CoinGecko][93]: price-tracking for cryptoassets.
 * [CoinMarketCal][96]: crypto assets calendar.
 * [CoinMarketCap][1]: price-tracking for cryptoassets.
+* [CoinStats][144]: crypto and wallet tracking.
 * [DexTools][81]: DeFi gateway
 
 ## DeFi
@@ -71,6 +74,7 @@
   development written in Rust.
 * [HardHat][87]: development environment to compile, deploy, test, and debug
   your Ethereum software.
+* [Infura][142]: blockchains API and development tools.
 * [remix-project][126]: toolset for contract development.
 * [Truffle suite][86]: suite of tools for smart contract development.
 
@@ -99,6 +103,7 @@
 * [CryptoList][132]: curated collection of blockchain & cryptocurrency
   resources.
 * [CryptoZombies][47]: blockchains and DApps courses.
+* [Flashbots][143]: development organization formed to mitigate MEV
 * [Investopedia][100]: investments learning.
 * [Rekt][54]: crypto finance news
 * [The Daily Gwei][57]: Daily commentary on the Ethereum ecosystem.
@@ -407,3 +412,7 @@
 [138]: https://ctf.paradigm.xyz
 [139]: https://ethernaut.openzeppelin.com
 [140]: https://hackenproof.com
+[141]: https://github.com/blockthreat/blocksec-ctfs
+[142]: https://www.infura.io
+[143]: https://www.flashbots.net
+[144]: https://coinstats.app

@@ -329,6 +329,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [klgrth][245]: pastebin alternative.
 * [jless][434]: command-line JSON viewer designed for reading, exploring, and
   searching through JSON data.
+* [makefiletutorial][487]: makefile tutorial
 * [OpenSK][67]: open-source implementation for security keys written in Rust.
 * [Pastebin][242]: store any text online for easy sharing.
 * [patents][434]: patents db from Google.
@@ -943,3 +944,4 @@ My personal awesome list of interesting repos, libraries and tools.
 [484]: https://dtls.xargs.org
 [485]: https://tls13.xargs.org
 [486]: https://tls12.xargs.org
+[487]: https://makefiletutorial.com
