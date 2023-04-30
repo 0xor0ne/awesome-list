@@ -14,6 +14,19 @@
 
 ## Blog and Awesomes
 
+* Linux rootkit series by Xcellerator
+  * [Introduction and Workflow][51]
+  * [Ftrace and Function Hooking][52]
+  * [A Backdoor to Root][53]
+  * [Backdooring PRNGs by Interfering with Char Devices][54]
+  * [Hiding Kernel Modules from Userspace][55]
+  * [Hiding Directories][56]
+  * [Hiding Processes][57]
+  * [Hiding Open Ports][58]
+  * [Hiding Logged In Users (Modifying File Contents Without Touching Disk)][59]
+  * [A Dive into the Kernel Component of Drovorub][60]
+  * [New Methods for Kernel 5.7+][61]
+
 ## Exploitation
 
 * [kasld][1]: collection of various techniques to infer the Linux kernel base
@@ -85,6 +98,7 @@
 * [Awesome Linux Rootkits][2].
 * [Diamorphine][3]: LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and
   ARM64.
+* [Drovorub][50]: Analysis of Drovorub
 * [Pinkit][4]: LKM rootkit that executes a reverse TCP netcat shell with root
   privileges.
 * [Reptile][5]: LKM Linux rootkit.
@@ -154,3 +168,15 @@
 [47]: https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/
 [48]: https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/
 [49]: https://github.com/Rust-for-Linux/linux
+[50]: https://access.redhat.com/articles/5320961
+[51]: https://xcellerator.github.io/posts/linux_rootkits_01/
+[52]: https://xcellerator.github.io/posts/linux_rootkits_02/
+[53]: https://xcellerator.github.io/posts/linux_rootkits_03/
+[54]: https://xcellerator.github.io/posts/linux_rootkits_04/
+[55]: https://xcellerator.github.io/posts/linux_rootkits_05/
+[56]: https://xcellerator.github.io/posts/linux_rootkits_06/
+[57]: https://xcellerator.github.io/posts/linux_rootkits_07/
+[58]: https://xcellerator.github.io/posts/linux_rootkits_08/
+[59]: https://xcellerator.github.io/posts/linux_rootkits_09/
+[60]: https://xcellerator.github.io/posts/linux_rootkits_10/
+[61]: https://xcellerator.github.io/posts/linux_rootkits_11/
