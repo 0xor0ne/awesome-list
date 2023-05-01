@@ -11,13 +11,21 @@
 * [Misc](#misc)
 * [News](#news)
 * [Platforms](#platforms)
+  * [AAVE](#aave)
+  * [Arbitrum](#arbitrum)
+  * [Avalanche](#avalanche)
   * [Bitcoin](#bitcoin)
+  * [BNB](#bnb)
   * [Cardano](#cardano)
+  * [ChainLink](#chainlink)
   * [Ethereum](#ethereum)
+  * [Monero](#monero)
   * [NEAR](#near)
   * [Polkadot](#polkadot)
   * [Polygon](#polygon)
   * [Solana](#solana)
+  * [Tezos](#tezos)
+  * [Tron][#tron]
 * [Rust](#rust)
 * [Security](#security)
 * [Services](#services)
@@ -134,6 +142,12 @@
   * [Documentation][113]: developers' portal
   * [GitHub][114]: Arbitrum organization
 
+### Avalanche
+
+* [avax.network][152]: avalanche official website
+  * [Documentation][153]: developers' portal
+  * [GitHub][154]: avalanche organization
+
 ### Bitcoin
 
 * [bitcoin.org][0]: Bitcoin official website
@@ -144,12 +158,24 @@
 * [mempool][22]: Bitcoin blockchains exploration
 * [wiki][19]: Bitcoin official wiki.
 
+### BNB
+
+* [bnbchain.org][158]: BNB official website
+  * [Documentation][159]: Developers hub
+  * [gitHub][160]: BNB organization
+
 ### Cardano
 
 * [cardano.org][2]: Cardano official website
 * [Developer portal][32]: official documentation for developer
 * [Documentation][31]: official documentation
 * [GitHub][33]: cardano organization
+
+### ChainLink
+
+* [chain.link][149]: ChainLink official website
+  * [Documentation][150]: Developers' portal
+  * [GitHub][151]: chainlink organization
 
 ### Compaund
 
@@ -170,11 +196,18 @@
 * [Consensys][48]: smart contracts best practices.
 * [DeFi Roadmap][133]: DeFi Developer roadmap.
 * [Documentation][26]: developers official documentation
+* [EIP][145]: Ethereum Improvement Proposals
 * [GitHub][28]: Ethereum organization
 * [Learning][27]: official learning guides
 * [Mastering Ethereum][46]: book for developers, offering a guide to the
   operation and use of the Ethereum.
 * [Secureum][49]: Ethereum and Solidity quizzes and answers by @0xTaylor
+
+### Monero
+
+* [monero][146]: Monero official website
+  * [Documentation][148]: Developers guides
+  * [GitHub][147]: Monero organization
 
 ### MakerDAO
 
@@ -212,6 +245,12 @@
 * [tezos.com][109]: official Tezos website
   * [Documentation][110]: developers' portal
   * [GitHub][111]: Tezos organization
+
+### Tron
+
+* [tron.network][155]: tron official website
+  * [Documentation][156]: Developers hub
+  * [GitHub][157]: TRON organization
 
 ## Rust
 
@@ -416,3 +455,19 @@
 [142]: https://www.infura.io
 [143]: https://www.flashbots.net
 [144]: https://coinstats.app
+[145]: https://eips.ethereum.org
+[146]: https://www.getmonero.org
+[147]: https://github.com/monero-project
+[148]: https://www.getmonero.org/resources/developer-guides/
+[149]: https://chain.link
+[150]: https://chain.link/developer-resources
+[151]: https://github.com/smartcontractkit
+[152]: https://www.avax.network
+[153]: https://www.avax.network/developers
+[154]: https://github.com/ava-labs
+[155]: https://tron.network
+[156]: https://developers.tron.network
+[157]: https://github.com/tronprotocol
+[158]: https://www.bnbchain.org/en
+[159]: https://docs.bnbchain.org/docs/overview
+[160]: https://github.com/bnb-chain
