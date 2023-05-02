@@ -92,6 +92,7 @@
   * [Lore kernel][37]: Linux kernel mailing lists.
     * [Linux hardening][38]: Linux hardening.
     * [Kernel Hardening][39]: kernel hardening.
+* [mebeim][62]: Linux kernel syscall tables.
 
 ## Rootkits
 
@@ -180,3 +181,4 @@
 [59]: https://xcellerator.github.io/posts/linux_rootkits_09/
 [60]: https://xcellerator.github.io/posts/linux_rootkits_10/
 [61]: https://xcellerator.github.io/posts/linux_rootkits_11/
+[62]: https://syscalls.mebeim.net/?table=x86/64/x64/v6.2

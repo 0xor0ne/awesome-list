@@ -12,6 +12,7 @@
 * [News](#news)
 * [Platforms](#platforms)
   * [AAVE](#aave)
+  * [Aptos](#aptos)
   * [Arbitrum](#arbitrum)
   * [Avalanche](#avalanche)
   * [Bitcoin](#bitcoin)
@@ -21,11 +22,13 @@
   * [Ethereum](#ethereum)
   * [Monero](#monero)
   * [NEAR](#near)
+  * [Optimism](#optimism)
   * [Polkadot](#polkadot)
   * [Polygon](#polygon)
   * [Solana](#solana)
+  * [SUI](#sui)
   * [Tezos](#tezos)
-  * [Tron][#tron]
+  * [Tron](#tron)
 * [Rust](#rust)
 * [Security](#security)
 * [Services](#services)
@@ -47,8 +50,9 @@
 * [Damn Vulnerable DeFi][51]: The offensive security playground for the
   decentralized finances.
 * [Ethernaut][139]: Web3/Solidity based wargame
-* [Paradigm][138]: Paradigm CTF
+* [Paradigm][163]:
   * [Paradigm21][52]: Official repository for Paradigm CTF 2021
+  * [CTF][138]: Paradigm CTF
 
 ## Data Gathering
 
@@ -63,6 +67,7 @@
 
 ## DeFi
 
+* [Instadapp][167]: DeFi infrastructure
 * DEXs
   * [DyDx][64]
     * [GitHub][65]
@@ -72,12 +77,14 @@
     * [GitHub][67]
   * [Uniswap][59]
     * [GitHub][60]
-* [RENQ][63]:  connect all isolated blockchains and establish a cross-chain
-  asset exchange network.
+* [ParaSwap][171]: DeFi aggregator
 
 ## Development
 
 * [Alchemy][125]: web3 development platform.
+* [Brownie][174]: Python-based development and testing framework for smart
+  contracts targeting the Ethereum Virtual Machine.
+* [dapptools][175]: Dapp, Seth, Hevm, and more
 * [Foundry][34]: portable and modular toolkit for Ethereum application
   development written in Rust.
 * [HardHat][87]: development environment to compile, deploy, test, and debug
@@ -111,8 +118,10 @@
 * [CryptoList][132]: curated collection of blockchain & cryptocurrency
   resources.
 * [CryptoZombies][47]: blockchains and DApps courses.
+* [Dapp-Learning][176]: learning project for developers at all stages.
 * [Flashbots][143]: development organization formed to mitigate MEV
 * [Investopedia][100]: investments learning.
+* [Ledger accademy][172]: web3 guides from Ledger
 * [Rekt][54]: crypto finance news
 * [The Daily Gwei][57]: Daily commentary on the Ethereum ecosystem.
 * [Week in Ethereum][56]: weekly ethereum newsletter
@@ -136,6 +145,12 @@
   * [Documentation][117]: Developers' portal
   * [GitHub][116]: AAVE organization
 
+### Aptos
+
+* [aptoslabs.com][180]: aptos official website
+  * [Documentation][181]: Developers hub
+  * [gitHub][182]: Aptos organization
+
 ### Arbitrum
 
 * [arbitrum.io][112]: official Arbitrum website
@@ -146,6 +161,7 @@
 
 * [avax.network][152]: avalanche official website
   * [Documentation][153]: developers' portal
+  * [Explorer][178]: Avalanche explorer
   * [GitHub][154]: avalanche organization
 
 ### Bitcoin
@@ -197,6 +213,7 @@
 * [DeFi Roadmap][133]: DeFi Developer roadmap.
 * [Documentation][26]: developers official documentation
 * [EIP][145]: Ethereum Improvement Proposals
+* [ethresear.ch][161]: semi public forum for Ethereum research.
 * [GitHub][28]: Ethereum organization
 * [Learning][27]: official learning guides
 * [Mastering Ethereum][46]: book for developers, offering a guide to the
@@ -221,6 +238,12 @@
 * [Developers documentation][38]: official documentation for developers
 * [GitHub][37]: NEAR organization
 
+### Optimism
+
+* [optimism.io][168]: Optimism official website
+  * [Documentation][169]: Developers hub
+  *[ GitHub][170]: Optimism organization
+
 ### Polkadot
 
 * [polkadot.network][4]: Polkadot official website
@@ -231,14 +254,22 @@
 ### Polygon
 
 * [polygon.technology][5]: Polygon official website
-* [Documentation][41]: official documentation
-* [GitHub][42]: polygon organization
+  * [Documentation][41]: official documentation
+  * [GitHub][42]: polygon organization
 
 ### Solana
 
 * [solana.com][6]: solana official website
-* [Documentation][43]: official documentation
-* [GitHub][44]: Solana organization
+  * [Anchor][186]: Solana Sealevel Framework
+  * [Documentation][43]: official documentation
+  * [Explorer][178]: Solana explorer
+  * [GitHub][44]: Solana organization
+
+### SUI
+
+* [sui.io][183]: SUI official website
+  * [Documentation][185]: Developers portal
+  * [GitHub]: SUI organization
 
 ### Tezos
 
@@ -258,9 +289,13 @@
   blockchain/cryptography in Rust.
 * [Foundry][34]: portable and modular toolkit for Ethereum application
   development written in Rust.
+* [Lighthouse][164]: Ethereum consensus client in Rust
+* [reth][162]: Modular, contributor-friendly and blazing-fast implementation of
+  the Ethereum protocol, in Rust.
 
 ## Security
 
+* [DefiHackLabs][177]: reproduce DeFi hacked incidents using Foundry
 * [Echidna][134]: ethereum smart contract fuzzer
 * [Immunefi][53]: Web3 bug bounty platform
 * [Mythrill][131]: security analysis tool for EVM bytecode.
@@ -298,10 +333,12 @@
 * [Course - python ed.][137]: Ultimate Solidity, Blockchain, and Smart Contract.
 * [Patterns][135]: ompilation of patterns and best practices for the smart
   contract programming language Solidity.
+* [Solidity by Example][173]: an introduction to Solidity with simple examples.
 
 ## Wallets
 
 * [AdaLite][105]: Cardano wallet
+* [Argent][166]: L2 ethereum wallet
 * [Bitcoin][20]: Bitcoin wallets helper
 * [Ethereum][25]: wallet finder for Ethereum
 * Harware:
@@ -309,6 +346,7 @@
   * [Trezor][103]
 * [Metamask][128]: crypto wallet and gateway to DApps
   * [GitHub][129]: Metamask organization
+* [RabbyIo][165]: multi chain wallet
 
 [0]: https://bitcoin.org/en/
 [1]: https://coinmarketcap.com
@@ -373,7 +411,6 @@
 [60]: https://github.com/Uniswap
 [61]: https://pancakeswap.finance
 [62]: https://github.com/pancakeswap
-[63]: https://renq.io
 [64]: https://dydx.exchange
 [65]: https://github.com/dydxprotocol/
 [66]: https://sundaeswap.finance
@@ -471,3 +508,29 @@
 [158]: https://www.bnbchain.org/en
 [159]: https://docs.bnbchain.org/docs/overview
 [160]: https://github.com/bnb-chain
+[161]: https://ethresear.ch
+[162]: https://github.com/paradigmxyz/reth
+[163]: https://www.paradigm.xyz
+[164]: https://github.com/sigp/lighthouse
+[165]: https://rabby.io
+[166]: https://www.argent.xyz
+[167]: https://instadapp.io
+[168]: https://www.optimism.io
+[169]: https://community.optimism.io
+[170]: https://github.com/ethereum-optimism
+[171]: https://www.paraswap.io
+[172]: https://www.ledger.com/academy
+[173]: https://solidity-by-example.org
+[174]: https://github.com/eth-brownie/brownie
+[175]: https://github.com/dapphub/dapptools
+[176]: https://github.com/Dapp-Learning-DAO/Dapp-Learning
+[177]: https://github.com/SunWeb3Sec/DeFiHackLabs
+[178]: https://explorer.solana.com
+[179]: https://subnets.avax.network
+[180]: https://aptoslabs.com
+[181]: https://aptos.dev
+[182]: https://github.com/aptos-labs
+[183]: https://sui.io
+[184]: https://github.com/MystenLabs
+[185]: https://sui.io/developers
+[186]: https://github.com/coral-xyz/anchor
