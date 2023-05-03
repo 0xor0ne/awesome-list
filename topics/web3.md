@@ -247,9 +247,11 @@
 ### Polkadot
 
 * [polkadot.network][4]: Polkadot official website
-* [Documentation][39]: official documentation
-* [GitHub][40]: Parity Technologies organization
-* [Substrate][58]: next-generation framework for blockchains
+    * [Documentation][39]: official documentation
+    * [GitHub][40]: Parity Technologies organization
+    * [Kusama][187]: canary network for polkadot
+      * [Documentation][188]: Developers portal
+    * [Substrate][58]: next-generation framework for blockchains
 
 ### Polygon
 
@@ -534,3 +536,5 @@
 [184]: https://github.com/MystenLabs
 [185]: https://sui.io/developers
 [186]: https://github.com/coral-xyz/anchor
+[187]: https://kusama.network
+[188]: https://guide.kusama.network/docs/kusama-getting-started

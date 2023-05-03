@@ -71,6 +71,7 @@
 
 ## Resources
 
+* [Bootlin courses][66]: Linux related courses from bootlin
 * [Defence Map][24]: relationships between vulnerability classes, exploitation
   techniques, bug detection mechanisms, and defence technologies.
 * [Elixir][40]: Linux kernel source code cross reference.
@@ -78,13 +79,18 @@
   options of the Linux kernel.
 * [kernel-security-learning][26]: Anything about kernel security.
 * [Kernel documentation][27]: official linux kernel documentation.
+* [Kernel map][67]: interactive map of Linux kernel sources.
 * [kernel.org][28]: linux kernel archives.
 * [kernelci.org][29]: test system focused on the upstream Linux kernel.
 * [kernelconfig][30]: Linux kernel configuration entries.
 * [like-gdb][31]: fully dockerized Linux kernel debugging environment.
 * [linux-insides][32]: a book about linux kernel and its insides.
+* [Linux Kernel Labs][63]: lectures and labs on Linux Kernel.
 * [Linux Kernel Module Cheat][33]: emulation setup to study and develop the
   Linux kernel.
+* [Linux Kernel Workshop][65]: learn linux kernel programming.
+* [Linux Weekly News][64]: site dedicated to producing the best coverage from
+  within the Linux and free software development communities.
 * [LKFT][34]: Linux Kernel Functional Testing.
 * [lkmpg][35]: The Linux Kernel Module Programming Guide.
 * [ltp][36]: Linux Test Project.
@@ -116,6 +122,8 @@
 * [Getting started][45]: official documentation for getting started with Rust
   and Linux kernel.
 * [knock-out][44]: example of a kernel module in Rust.
+* [out-of-tree][68]: basic template for an out-of-tree Linux kernel module
+  written in Rust.
 * [Rust for Linux][43]: organization for adding support for the Rust language
   to the Linux kernel.
 * [Rust for Linux mailing list][41]: rust for Linux mailing list
@@ -182,3 +190,9 @@
 [60]: https://xcellerator.github.io/posts/linux_rootkits_10/
 [61]: https://xcellerator.github.io/posts/linux_rootkits_11/
 [62]: https://syscalls.mebeim.net/?table=x86/64/x64/v6.2
+[63]: https://linux-kernel-labs.github.io/refs/heads/master/
+[64]: https://lwn.net
+[65]: https://lkw.readthedocs.io/en/latest/index.html
+[66]: https://bootlin.com/training/
+[67]: https://makelinux.github.io/kernel/map/
+[68]: https://github.com/Rust-for-Linux/rust-out-of-tree-module
