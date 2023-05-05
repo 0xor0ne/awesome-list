@@ -2,7 +2,7 @@
 
 ## Content
 
-* [Blog and Awesomes](#blog-and-awesomes)
+* [Blogs and Awesomes](#blogs-awesomes-and-learning)
 * [Exploitation](#exploitation)
 * [Fuzzing](#fuzzing)
 * [Misc](#misc)
@@ -12,8 +12,9 @@
 * [Rootkits](#rootkits)
 * [Rust](#rust)
 
-## Blog and Awesomes
+## Blogs, Awesomes and learning
 
+* [How did I approach making linux LKM rootkit, “reveng_rtkit” ?][70]
 * Linux rootkit series by Xcellerator
   * [Introduction and Workflow][51]
   * [Ftrace and Function Hooking][52]
@@ -110,6 +111,7 @@
   privileges.
 * [Reptile][5]: LKM Linux rootkit.
 * [Research rootkit][6]: LibZeroEvil & the Research Rootkit project.
+* [Reveng_rtkit][69]: Linux Loadable Kernel Module (LKM) based rootkit (ring-0).
 * [Rootkit][7]: rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and
   2.6.32), both i386 and amd64.
 * [Rootkit list download][8]: list of rootkits (includes also userspace
@@ -127,6 +129,7 @@
 * [Rust for Linux][43]: organization for adding support for the Rust language
   to the Linux kernel.
 * [Rust for Linux mailing list][41]: rust for Linux mailing list
+* [Rust Kernel Programming (blog)][71]
 
 [1]: https://github.com/bcoles/kasld
 [2]: https://github.com/milabs/awesome-linux-rootkits
@@ -196,3 +199,6 @@
 [66]: https://bootlin.com/training/
 [67]: https://makelinux.github.io/kernel/map/
 [68]: https://github.com/Rust-for-Linux/rust-out-of-tree-module
+[69]: https://github.com/reveng007/reveng_rtkit
+[70]: https://reveng007.github.io/blog/2022/03/08/reveng_rkit_detailed.html
+[71]: https://coderjoshdk.github.io/posts/Rust-Kernel-Programming.html

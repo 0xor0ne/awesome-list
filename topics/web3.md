@@ -20,6 +20,7 @@
   * [Cardano](#cardano)
   * [ChainLink](#chainlink)
   * [Ethereum](#ethereum)
+  * [Fantom](#fantom)
   * [Monero](#monero)
   * [NEAR](#near)
   * [Optimism](#optimism)
@@ -108,6 +109,8 @@
 
 ## Misc
 
+* [Academic Smart Contract Papers][193]: curated Smart Contract related academic
+  papers.
 * [Awesome web3][30]: curated list of awesome Web3 resources, libraries, tools
   and more.
 * [BlockThreat][55]: The latest in blockchain, DeFi and exchange threat
@@ -220,6 +223,12 @@
   operation and use of the Ethereum.
 * [Secureum][49]: Ethereum and Solidity quizzes and answers by @0xTaylor
 
+### Fantom
+
+* [fantom.foundation][189]: official fantom website
+  * [Documentation][191]: Developers portal
+  * [GitHub][190]: Fantom organization
+
 ### Monero
 
 * [monero][146]: Monero official website
@@ -287,6 +296,7 @@
 
 ## Rust
 
+* [artemis][192]: modular, and fast framework for writing MEV bots in Rust.
 * [awesome-blockchain-rust][35]: libraries and packages about
   blockchain/cryptography in Rust.
 * [Foundry][34]: portable and modular toolkit for Ethereum application
@@ -538,3 +548,8 @@
 [186]: https://github.com/coral-xyz/anchor
 [187]: https://kusama.network
 [188]: https://guide.kusama.network/docs/kusama-getting-started
+[189]: https://fantom.foundation
+[190]: https://github.com/Fantom-Foundation
+[191]: https://docs.fantom.foundation
+[192]: https://github.com/paradigmxyz/artemis
+[193]: https://github.com/hzysvilla/Academic_Smart_Contract_Papers
