@@ -59,17 +59,25 @@
 
 * [Blockcypher][21]: blockchains live data
 * [BscScan][45]: BNB smart chain explorer
+* [Bubblemaps][196]: blockchain data visualization
 * [CoinCodex][95]: cryptoassets tracking
 * [CoinGecko][93]: price-tracking for cryptoassets.
 * [CoinMarketCal][96]: crypto assets calendar.
 * [CoinMarketCap][1]: price-tracking for cryptoassets.
 * [CoinStats][144]: crypto and wallet tracking.
+* [CryptoWatch][211]: charting and technical analysis tool.
 * [DexTools][81]: DeFi gateway
+* [LunarCrush][198]: crypto data
+* [tokensniffer][197]: smart contract scam scanner.
+* [tradingview][210]: charting and technical analysis tool.
 
 ## DeFi
 
+* [Developer Roadmap][208]: DeFi Developer roadmap
 * [Instadapp][167]: DeFi infrastructure
 * DEXs
+  * [Curve][201]
+    * [GitHub][202]
   * [DyDx][64]
     * [GitHub][65]
   * [PancakeSwap][61]
@@ -78,7 +86,10 @@
     * [GitHub][67]
   * [Uniswap][59]
     * [GitHub][60]
+* [openocean][203]: decentralized crypto trading solution
 * [ParaSwap][171]: DeFi aggregator
+* [Ultimate DeFi research][207]: Collection of DeFI & Blockchain researches and
+  tools.
 
 ## Development
 
@@ -91,6 +102,7 @@
 * [HardHat][87]: development environment to compile, deploy, test, and debug
   your Ethereum software.
 * [Infura][142]: blockchains API and development tools.
+* [Openzeppelin-contracts][195]: library for secure smart contract development.
 * [remix-project][126]: toolset for contract development.
 * [Truffle suite][86]: suite of tools for smart contract development.
 
@@ -117,16 +129,19 @@
   intelligence.
 * [Consensys][130]: Company producing various important tools in the crypto
   industry.
+* [Crypto Reading List][209]: curated list for getting up to speed on crypto.
 * [CryptoLinks][99]: links to useful stuff in crypto world
 * [CryptoList][132]: curated collection of blockchain & cryptocurrency
   resources.
 * [CryptoZombies][47]: blockchains and DApps courses.
 * [Dapp-Learning][176]: learning project for developers at all stages.
+* [debank][200]: whales and defi tracking
 * [Flashbots][143]: development organization formed to mitigate MEV
 * [Investopedia][100]: investments learning.
 * [Ledger accademy][172]: web3 guides from Ledger
 * [Rekt][54]: crypto finance news
 * [The Daily Gwei][57]: Daily commentary on the Ethereum ecosystem.
+* [useweb3][194]: platform for developers to explore and learn about Web3.
 * [Week in Ethereum][56]: weekly ethereum newsletter
 
 ## News
@@ -157,6 +172,7 @@
 ### Arbitrum
 
 * [arbitrum.io][112]: official Arbitrum website
+  * [arbiscan][199]: arbitrum transaction tracker.
   * [Documentation][113]: developers' portal
   * [GitHub][114]: Arbitrum organization
 
@@ -175,6 +191,7 @@
 * [lightning][7]:  "layer 2" payment protocol originally layered on top of
   Bitcoin.
 * [mempool][22]: Bitcoin blockchains exploration
+* [Stacks][206]: Bitcoin layer for smart contracts
 * [wiki][19]: Bitcoin official wiki.
 
 ### BNB
@@ -311,6 +328,9 @@
 * [Echidna][134]: ethereum smart contract fuzzer
 * [Immunefi][53]: Web3 bug bounty platform
 * [Mythrill][131]: security analysis tool for EVM bytecode.
+* [On chain investigations][205]: nvestigate crypto hacks and security
+  incidents.
+* [QuillAudit][204]: Auditor roadmap
 * Smart Contract Auditing:
   * Companies:
     * [alborn][77]
@@ -553,3 +573,21 @@
 [191]: https://docs.fantom.foundation
 [192]: https://github.com/paradigmxyz/artemis
 [193]: https://github.com/hzysvilla/Academic_Smart_Contract_Papers
+[194]: https://www.useweb3.xyz
+[195]: https://github.com/OpenZeppelin/openzeppelin-contracts
+[196]: https://bubblemaps.io
+[197]: https://tokensniffer.com
+[198]: https://lunarcrush.com
+[199]: https://arbiscan.io
+[200]: https://debank.com/more
+[201]: https://curve.fi/#/ethereum/swap
+[202]: https://github.com/curvefi/curve-contract
+[203]: https://openocean.ws
+[204]: https://github.com/Quillhash/QuillAudit_Auditor_Roadmap
+[205]: https://github.com/OffcierCia/On-Chain-Investigations-Tools-List
+[206]: https://github.com/stacks-network/stacks
+[207]: https://github.com/OffcierCia/ultimate-defi-research-base
+[208]: https://github.com/OffcierCia/DeFi-Developer-Road-Map
+[209]: https://jumpcrypto.github.io/crypto-reading-list/
+[210]: https://www.tradingview.com/chart/?offer_id=10&aff_id=10306
+[211]: https://cryptowat.ch/charts/KRAKEN:BTC-USD
