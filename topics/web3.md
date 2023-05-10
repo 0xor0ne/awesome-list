@@ -50,6 +50,7 @@
 * [Capture the Ether][50]: The game of the Ethereum Smart Contract security
 * [Damn Vulnerable DeFi][51]: The offensive security playground for the
   decentralized finances.
+* [Puzzlebox][212]: a CTF from Dragonfly
 * [Ethernaut][139]: Web3/Solidity based wargame
 * [Paradigm][163]:
   * [Paradigm21][52]: Official repository for Paradigm CTF 2021
@@ -140,6 +141,7 @@
 * [Investopedia][100]: investments learning.
 * [Ledger accademy][172]: web3 guides from Ledger
 * [Rekt][54]: crypto finance news
+* [Tendermint][213]: BFT Consensus
 * [The Daily Gwei][57]: Daily commentary on the Ethereum ecosystem.
 * [useweb3][194]: platform for developers to explore and learn about Web3.
 * [Week in Ethereum][56]: weekly ethereum newsletter
@@ -591,3 +593,5 @@
 [209]: https://jumpcrypto.github.io/crypto-reading-list/
 [210]: https://www.tradingview.com/chart/?offer_id=10&aff_id=10306
 [211]: https://cryptowat.ch/charts/KRAKEN:BTC-USD
+[212]: https://ctf.dragonfly.xyz
+[213]: https://github.com/tendermint

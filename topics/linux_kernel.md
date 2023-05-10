@@ -27,6 +27,7 @@
   * [Hiding Logged In Users (Modifying File Contents Without Touching Disk)][59]
   * [A Dive into the Kernel Component of Drovorub][60]
   * [New Methods for Kernel 5.7+][61]
+* [Writing a simple rootkit for linux][87]
 
 ## Exploitation
 
@@ -34,6 +35,7 @@
   virtual address as an unprivileged local user.
 * [kernel-exploit-factory][16]: Linux kernel CVE exploit analysis report and
   relative debug environment.
+* [Linux Exploit Suggester][83]: Linux privilege escalation auditing tool
 * [Linux Kernel Exploit][17]: links related to Linux kernel exploitation.
 * [Linux Kernel Exploitation][18]: collection of links related to Linux kernel
   security and exploitation.
@@ -50,7 +52,10 @@
 ## Misc
 
 * [Clang Built Linux][23]: building the Linux kernel with Clang.
+* [lowlevelprogramming-university][82]: How to be low-level programmer
 * [TuxSuite][42]: on-demand APIs and tools for building Linux Kernels.
+* [vmlinux-to-elf][86]: tool to recover a fully analyzable .ELF from a raw
+  kernel.
 
 ## Toolchains and Cross-compilation
 
@@ -85,10 +90,13 @@
 * [kernelci.org][29]: test system focused on the upstream Linux kernel.
 * [kernelconfig][30]: Linux kernel configuration entries.
 * [like-gdb][31]: fully dockerized Linux kernel debugging environment.
+* [Linux lab][85]: create a Docker and QEMU based Linux development Lab to
+  easier the learning.
 * [linux-insides][32]: a book about linux kernel and its insides.
 * [Linux Kernel Labs][63]: lectures and labs on Linux Kernel.
 * [Linux Kernel Module Cheat][33]: emulation setup to study and develop the
   Linux kernel.
+* [Linux Kernel Wiki][84]: linux kernel wiki (in chinese)
 * [Linux Kernel Workshop][65]: learn linux kernel programming.
 * [Linux Weekly News][64]: site dedicated to producing the best coverage from
   within the Linux and free software development communities.
@@ -103,19 +111,31 @@
 
 ## Rootkits
 
+* [1337kit][81]: 64-bit LKM Rootkit builder based on yaml prescription.
 * [Awesome Linux Rootkits][2].
+* [brokepkg][77]: LKM rootkit working in Linux Kernels 2.6.x/3.x/4.x/5.x
+* [Brootus][76]: educational Linux Kernel Rootkit.
 * [Diamorphine][3]: LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and
   ARM64.
 * [Drovorub][50]: Analysis of Drovorub
+* [enyelkm][78]: LKM rootkit for Linux x86 with the 2.6 kerne
+* [KoviD][79]: Kernel rk
+* [linux-rootkit][80]: Remote Linux Loadable Kernel Module (LKM) rootkit (For
+  Linux Kernels 5.x).
+* [linux-rootkits][75]: collection of Linux kernel rootkits found across the
+  internet taken and put together.
 * [Pinkit][4]: LKM rootkit that executes a reverse TCP netcat shell with root
   privileges.
+* [Red Blue Teams][72]: Linux Rootkits (4.x Kernel)
 * [Reptile][5]: LKM Linux rootkit.
 * [Research rootkit][6]: LibZeroEvil & the Research Rootkit project.
 * [Reveng_rtkit][69]: Linux Loadable Kernel Module (LKM) based rootkit (ring-0).
+* [rkduck][73]: Linux v4.x.x Rootkit
 * [Rootkit][7]: rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and
   2.6.32), both i386 and amd64.
 * [Rootkit list download][8]: list of rootkits (includes also userspace
   rootkits).
+* [rootkitkev][74]: Rootkit Development tutorial series.
 * [Sutekh][9]: rootkit that gives a userland process root permissions.
 * [TripleCross][10]: Linux eBPF rootkit.
 
@@ -202,3 +222,19 @@
 [69]: https://github.com/reveng007/reveng_rtkit
 [70]: https://reveng007.github.io/blog/2022/03/08/reveng_rkit_detailed.html
 [71]: https://coderjoshdk.github.io/posts/Rust-Kernel-Programming.html
+[72]: https://github.com/pentesteracademy/linux-rootkits-red-blue-teams/tree/master
+[73]: https://github.com/QuokkaLight/rkduck
+[74]: https://github.com/SourceCodeDeleted/rootkitdev-linux/tree/master
+[75]: https://github.com/R3x/linux-rootkits
+[76]: https://github.com/dsmatter/brootus
+[77]: https://github.com/R3tr074/brokepkg
+[78]: https://github.com/therealdreg/enyelkm
+[79]: https://github.com/carloslack/KoviD
+[80]: https://github.com/Zhang1933/linux-rootkit
+[81]: https://github.com/lukasbalazik123/1337kit
+[82]: https://github.com/gurugio/lowlevelprogramming-university
+[83]: https://github.com/The-Z-Labs/linux-exploit-suggester
+[84]: https://github.com/0voice/linux_kernel_wiki
+[85]: https://github.com/tinyclub/linux-lab
+[86]: https://github.com/marin-m/vmlinux-to-elf
+[87]: https://0x00sec.org/t/writing-a-simple-rootkit-for-linux/29034
