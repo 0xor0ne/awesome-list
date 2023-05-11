@@ -136,6 +136,7 @@
 * [Rootkit list download][8]: list of rootkits (includes also userspace
   rootkits).
 * [rootkitkev][74]: Rootkit Development tutorial series.
+* [Satan][88]: x86 Linux Kernel rootkit for Debian 9 
 * [Sutekh][9]: rootkit that gives a userland process root permissions.
 * [TripleCross][10]: Linux eBPF rootkit.
 
@@ -238,3 +239,4 @@
 [85]: https://github.com/tinyclub/linux-lab
 [86]: https://github.com/marin-m/vmlinux-to-elf
 [87]: https://0x00sec.org/t/writing-a-simple-rootkit-for-linux/29034
+[88]: https://github.com/aesophor/satan

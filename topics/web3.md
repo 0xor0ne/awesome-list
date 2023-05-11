@@ -27,8 +27,10 @@
   * [Polkadot](#polkadot)
   * [Polygon](#polygon)
   * [Solana](#solana)
+  * [Synthetix](#synthetix)
   * [SUI](#sui)
   * [Tezos](#tezos)
+  * [TheGraph](#thegraph)
   * [Tron](#tron)
 * [Rust](#rust)
 * [Security](#security)
@@ -89,8 +91,10 @@
     * [GitHub][60]
 * [openocean][203]: decentralized crypto trading solution
 * [ParaSwap][171]: DeFi aggregator
+* [Ribbon][215]: decentralized options vaults and lending
 * [Ultimate DeFi research][207]: Collection of DeFI & Blockchain researches and
   tools.
+* [Yearn][214]: decentralized suite of financial products.
 
 ## Development
 
@@ -295,6 +299,12 @@
   * [Explorer][178]: Solana explorer
   * [GitHub][44]: Solana organization
 
+### Synthetix
+
+* [synthetix.io][219]: synthetix official website
+  * [Documentation][221]: Developers portal
+  * [GitHub][220]: synthetix organization
+
 ### SUI
 
 * [sui.io][183]: SUI official website
@@ -306,6 +316,12 @@
 * [tezos.com][109]: official Tezos website
   * [Documentation][110]: developers' portal
   * [GitHub][111]: Tezos organization
+
+### TheGraph
+
+* [thegraph.com][216]: The Graph official website
+  * [Documentation][218]: Developers hub
+  * [GitHub][217]: The Graph organization
 
 ### Tron
 
@@ -595,3 +611,11 @@
 [211]: https://cryptowat.ch/charts/KRAKEN:BTC-USD
 [212]: https://ctf.dragonfly.xyz
 [213]: https://github.com/tendermint
+[214]: https://yearn.finance
+[215]: https://www.ribbon.finance
+[216]: https://thegraph.com/en/
+[217]: https://github.com/graphprotocol
+[218]: https://thegraph.com/docs/en/
+[219]: https://synthetix.io
+[220]: https://github.com/Synthetixio
+[221]: https://docs.synthetix.io/synthetix-protocol/welcome-to-synthetix
