@@ -69,10 +69,13 @@
 * [CoinMarketCap][1]: price-tracking for cryptoassets.
 * [CoinStats][144]: crypto and wallet tracking.
 * [CryptoWatch][211]: charting and technical analysis tool.
+* [Defillama][230]: TVL aggregator for DeFi.
 * [DexTools][81]: DeFi gateway
+* [Dune][222]: crypto data dashboards.
 * [LunarCrush][198]: crypto data
 * [tokensniffer][197]: smart contract scam scanner.
 * [tradingview][210]: charting and technical analysis tool.
+* [Ultrasound][223]: ethereum info
 
 ## DeFi
 
@@ -141,10 +144,13 @@
 * [CryptoZombies][47]: blockchains and DApps courses.
 * [Dapp-Learning][176]: learning project for developers at all stages.
 * [debank][200]: whales and defi tracking
+* [DeFi Developer Accademy][233]: videos on defi programming
 * [Flashbots][143]: development organization formed to mitigate MEV
 * [Investopedia][100]: investments learning.
 * [Ledger accademy][172]: web3 guides from Ledger
 * [Rekt][54]: crypto finance news
+* [Smart Contracts Course][232]: introduction to core concepts in blockchains.
+* [Smart Contract Programmer][231]: education about smart contracts.
 * [Tendermint][213]: BFT Consensus
 * [The Daily Gwei][57]: Daily commentary on the Ethereum ecosystem.
 * [useweb3][194]: platform for developers to explore and learn about Web3.
@@ -234,16 +240,19 @@
 ### Ethereum
 
 * [ethereum.org][3]: Ethereum official website
-* [Awesome][29]: Awesome Ethereum Resources
-* [Consensys][48]: smart contracts best practices.
-* [DeFi Roadmap][133]: DeFi Developer roadmap.
-* [Documentation][26]: developers official documentation
-* [EIP][145]: Ethereum Improvement Proposals
-* [ethresear.ch][161]: semi public forum for Ethereum research.
-* [GitHub][28]: Ethereum organization
-* [Learning][27]: official learning guides
-* [Mastering Ethereum][46]: book for developers, offering a guide to the
-  operation and use of the Ethereum.
+  * [Awesome][29]: Awesome Ethereum Resources
+  * [Consensys][48]: smart contracts best practices.
+  * [DeFi Roadmap][133]: DeFi Developer roadmap.
+  * [Documentation][26]: developers official documentation
+  * [EIP][145]: Ethereum Improvement Proposals
+  * [ethresear.ch][161]: semi public forum for Ethereum research.
+  * [GitHub][28]: Ethereum organization
+  * [Learning][27]: official learning guides
+  * [Mastering Ethereum][46]: book for developers, offering a guide to the
+    operation and use of the Ethereum.
+* [Ganache][228]: ool for creating a local blockchain for fast Ethereum
+  development.
+  * [Ganache-ui][229]: Personal blockchain for Ethereum development. 
 * [Secureum][49]: Ethereum and Solidity quizzes and answers by @0xTaylor
 
 ### Fantom
@@ -343,8 +352,14 @@
 ## Security
 
 * [DefiHackLabs][177]: reproduce DeFi hacked incidents using Foundry
+* [DefiVulnLabs][226]: learn common smart contract vulnerabilities using
+  Foundry.
 * [Echidna][134]: ethereum smart contract fuzzer
 * [Immunefi][53]: Web3 bug bounty platform
+* [Immunefi writeups list][224]: curation of all(most) immunefi bug bounty
+  writeups I could find.
+* [Learn EVM Attacks][225]: Learn & Contribute on previously exploited
+  vulnerabilities across several EVM projects.
 * [Mythrill][131]: security analysis tool for EVM bytecode.
 * [On chain investigations][205]: nvestigate crypto hacks and security
   incidents.
@@ -369,6 +384,8 @@
   Consensys.
 * [verified-smart-contracts][127]: smart contracts which are formally verified.
 * [Web3Bugs][124]: demystifying Exploitable Bugs in Smart Contracts
+* [Web3 Security Library][227]: Information about web3 security and programming
+  tutorials/tools.
 
 ## Services
 
@@ -619,3 +636,15 @@
 [219]: https://synthetix.io
 [220]: https://github.com/Synthetixio
 [221]: https://docs.synthetix.io/synthetix-protocol/welcome-to-synthetix
+[222]: https://dune.com/home
+[223]: https://ultrasound.money
+[224]: https://github.com/sayan011/Immunefi-bug-bounty-writeups-list
+[225]: https://github.com/coinspect/learn-evm-attacks
+[226]: https://github.com/SunWeb3Sec/DeFiVulnLabs
+[227]: https://github.com/immunefi-team/Web3-Security-Library?utm_source=immunefi
+[228]: https://github.com/trufflesuite/ganache
+[229]: https://github.com/trufflesuite/ganache-ui
+[230]: https://defillama.com
+[231]: https://www.youtube.com/@smartcontractprogrammer
+[232]: https://www.youtube.com/watch?v=M576WGiDBdQ
+[233]: https://www.youtube.com/@DeFiDeveloperAcademy

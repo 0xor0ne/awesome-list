@@ -185,6 +185,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Buildroot][213]: simple, efficient and easy-to-use tool to generate embedded
   Linux systems through cross-compilation.
 * [EMBA][224]: firmware security analyzer.
+  * [Embark][488]:  firmware security scanning environment.
 * [FACT][100]: Firmware Analysis and Comparison Tool.
 * [Firmwalker][207]: Script for searching the extracted firmware file system for
   goodies.
@@ -892,3 +893,4 @@ My personal awesome list of interesting repos, libraries and tools.
 [485]: https://tls13.xargs.org
 [486]: https://tls12.xargs.org
 [487]: https://makefiletutorial.com
+[488]: https://github.com/e-m-b-a/embark
