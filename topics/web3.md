@@ -63,6 +63,7 @@
 * [Blockcypher][21]: blockchains live data
 * [BscScan][45]: BNB smart chain explorer
 * [Bubblemaps][196]: blockchain data visualization
+* [CoinCap][234]: market cap info.
 * [CoinCodex][95]: cryptoassets tracking
 * [CoinGecko][93]: price-tracking for cryptoassets.
 * [CoinMarketCal][96]: crypto assets calendar.
@@ -648,3 +649,4 @@
 [231]: https://www.youtube.com/@smartcontractprogrammer
 [232]: https://www.youtube.com/watch?v=M576WGiDBdQ
 [233]: https://www.youtube.com/@DeFiDeveloperAcademy
+[234]: https://coincap.io

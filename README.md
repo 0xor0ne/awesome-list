@@ -425,6 +425,7 @@ My personal awesome list of interesting repos, libraries and tools.
     * [redhook][96]: dynamic function call interposition / hooking (LD_PRELOAD)
       for Rust.
     * [Rustix][303]: Safe Rust bindings to POSIX/Unix/Linux/Winsock2 syscalls.
+    * [tui][489]: terminal user interfaces and dashboards using Rust.
 
 ## Reverse Engineering
 
@@ -894,3 +895,4 @@ My personal awesome list of interesting repos, libraries and tools.
 [486]: https://tls12.xargs.org
 [487]: https://makefiletutorial.com
 [488]: https://github.com/e-m-b-a/embark
+[489]: https://github.com/fdehau/tui-rs
