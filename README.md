@@ -37,6 +37,9 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Analysis Tools (dynamic)][372]: curated list of dynamic analysis tools for all
   programming languages.
 * [Analysis Tools (static)][371]: curated list of static analysis (SAST) tools.
+* [Bash][491]: curated list of delightful Bash scripts and resources
+* [Bash OneLiners][494]: collection of handy Bash One-Liners.
+* [Bash Handbook][495]: for those who wanna learn Bash.
 * [BSK][362]: the book of secret knowledge.
 * [C][17]: A curated list of C good stuff.
 * [ChatGPT prompts][480]: ChatGPT prompt curation to use ChatGPT better.
@@ -64,10 +67,14 @@ My personal awesome list of interesting repos, libraries and tools.
 * [IoT][19]: list of great resources about IoT Framework, Library, OS, Platforms.
 * [Golang][105]: curated list of awesome Go frameworks, libraries and software.
 * [Malware Analysis][34]: malware analysis tools and resources.
+* [Modern Unix][493]: collection of modern/faster/saner alternatives to common
+  unix commands.
+* [NeoVim][497]: collections of awesome neovim plugins.
 * [Network stuff][281]: resources about network security.
 * [Prompt Engineering][481]: hand-curated resources for Prompt Engineering.
 * [Prompt Engineering Guides][482]: guides, papers, lecture, notebooks and
   resources for prompt engineering.
+* [Pure Bash][492]: collection of pure bash alternatives to external processes.
 * [Raspberry Pi][33]: Raspberry Pi tools, projects, images and resources.
 * [RAT][162]: RAT And C&C Resources.
 * [Reverse Engineering][35]: reversing resources.
@@ -80,6 +87,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Shell][31]: command-line frameworks, toolkits, guides and gizmos.
 * [System Design][400]: learn how to design systems at scale.
 * [Tech Interview][401]: curated coding interview preparation materials.
+* [The Art of Command Line][496]: Master the command line.
 * [Tunneling][181]: ngrok alternatives and other ngrok-like tunneling software
   and services.
 * [Vim][32]: all things vim.
@@ -425,6 +433,7 @@ My personal awesome list of interesting repos, libraries and tools.
     * [redhook][96]: dynamic function call interposition / hooking (LD_PRELOAD)
       for Rust.
     * [Rustix][303]: Safe Rust bindings to POSIX/Unix/Linux/Winsock2 syscalls.
+    * [teloxide][490]: Telegram bots framework for Rust.
     * [tui][489]: terminal user interfaces and dashboards using Rust.
 
 ## Reverse Engineering
@@ -896,3 +905,11 @@ My personal awesome list of interesting repos, libraries and tools.
 [487]: https://makefiletutorial.com
 [488]: https://github.com/e-m-b-a/embark
 [489]: https://github.com/fdehau/tui-rs
+[490]: https://github.com/teloxide/teloxide
+[491]: https://github.com/awesome-lists/awesome-bash
+[492]: https://github.com/dylanaraps/pure-bash-bible
+[493]: https://github.com/ibraheemdev/modern-unix
+[494]: https://github.com/onceupon/Bash-Oneliner
+[495]: https://github.com/denysdovhan/bash-handbook
+[496]: https://github.com/jlevy/the-art-of-command-line
+[497]: https://github.com/rockerBOO/awesome-neovim
