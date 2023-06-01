@@ -28,6 +28,8 @@ simulation) with a focus on Linux environments.
 * [Emp3r0r][41]: Linux/Windows post-exploitation framework made by linux
   user.
 * [empire][39]: PowerShell and Python 3.x post-exploitation framework.
+* [Havoc][112]: modern and malleable post-exploitation command and control
+  framework.
 * [Heroinn][15]: Rust cross platform C2/post-exploitation framework.
 * [Link][20]: command and control framework written in rust.
 * [pupy][42]: cross-platform remote administration and post-exploitation
@@ -307,3 +309,4 @@ simulation) with a focus on Linux environments.
 [109]: https://github.com/h3xduck/TripleCross
 [110]: https://xcellerator.github.io/tags/rootkit/
 [111]: https://antiscan.me
+[112]: https://github.com/HavocFramework/Havoc
