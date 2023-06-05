@@ -14,7 +14,11 @@
 
 ## Blogs, Awesomes and learning
 
+* [build linux][89]: short tutorial about building Linux based operating
+  systems.
 * [How did I approach making linux LKM rootkit, “reveng_rtkit” ?][70]
+* [Linux kernel programming][90]: code repository for Linux Kernel Programming,
+  published by Packt.
 * Linux rootkit series by Xcellerator
   * [Introduction and Workflow][51]
   * [Ftrace and Function Hooking][52]
@@ -43,6 +47,7 @@
 ## Fuzzing
 
 * [difuze][19]: fuzzer for Linux Kernel Drivers.
+* [healer][92]: Kernel fuzzer inspired by Syzkaller.
 * [Syzkaller][20]: unsupervised coverage-guided kernel fuzzer.
   * [Syzbot][21]: continuously fuzzes main Linux kernel branches and
     automatically reports found bugs
@@ -78,6 +83,7 @@
 ## Resources
 
 * [Bootlin courses][66]: Linux related courses from bootlin
+  * [Training material][94]: embedded Linux and kernel training materials.
 * [Defence Map][24]: relationships between vulnerability classes, exploitation
   techniques, bug detection mechanisms, and defence technologies.
 * [Elixir][40]: Linux kernel source code cross reference.
@@ -93,6 +99,7 @@
 * [Linux lab][85]: create a Docker and QEMU based Linux development Lab to
   easier the learning.
 * [linux-insides][32]: a book about linux kernel and its insides.
+* [Linux kernel CVEs][93]: Tracking CVEs for the linux Kernel
 * [Linux Kernel Labs][63]: lectures and labs on Linux Kernel.
 * [Linux Kernel Module Cheat][33]: emulation setup to study and develop the
   Linux kernel.
@@ -137,6 +144,7 @@
   rootkits).
 * [rootkitkev][74]: Rootkit Development tutorial series.
 * [Satan][88]: x86 Linux Kernel rootkit for Debian 9 
+* [spy][91]: Linux kernel mode debugfs keylogger.
 * [Sutekh][9]: rootkit that gives a userland process root permissions.
 * [TripleCross][10]: Linux eBPF rootkit.
 
@@ -240,3 +248,9 @@
 [86]: https://github.com/marin-m/vmlinux-to-elf
 [87]: https://0x00sec.org/t/writing-a-simple-rootkit-for-linux/29034
 [88]: https://github.com/aesophor/satan
+[89]: https://github.com/MichielDerhaeg/build-linux
+[90]: https://github.com/PacktPublishing/Linux-Kernel-Programming
+[91]: https://github.com/jarun/spy
+[92]: https://github.com/SunHao-0/healer
+[93]: https://github.com/nluedtke/linux_kernel_cves
+[94]: https://github.com/bootlin/training-materials
