@@ -400,6 +400,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Embedded Rust Book][153]: introductory book about using the Rust
     Programming Language on "Bare Metal" embedded systems.
   * [esp-rs][454]: Rust on ESP.
+  * [How to learn modern Rust][498]: guide to rust adventurer.
   * [Macros][308]: the little book of rust macros.
   * [min-sized-rust][373]: how to minimize Rust binary size.
   * [Offensive Rust][379]: Rust Weaponization for Red Team Engagements.
@@ -425,6 +426,7 @@ My personal awesome list of interesting repos, libraries and tools.
         * [Tutorial][324]: official Tokio tutorial.
     * [avml][384]: Acquire Volatile Memory for Linux.
     * [Aya][222]: eBPF library for the Rust programming language.
+    * [cbindgen][499]: project for generating C bindings from Rust code.
     * [embassy][399]: framework for embedded applications.
     * [Goblin][99]: cross-platform binary parsing crate, written in Rust.
     * [libp2p][241]: Rust Implementation of the libp2p networking stack.
@@ -433,6 +435,8 @@ My personal awesome list of interesting repos, libraries and tools.
     * [redhook][96]: dynamic function call interposition / hooking (LD_PRELOAD)
       for Rust.
     * [Rustix][303]: Safe Rust bindings to POSIX/Unix/Linux/Winsock2 syscalls.
+    * [rust-bindgen][500]: Automatically generates Rust FFI bindings to C (and
+      some C++) libraries.
     * [teloxide][490]: Telegram bots framework for Rust.
     * [tui][489]: terminal user interfaces and dashboards using Rust.
 
@@ -913,3 +917,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [495]: https://github.com/denysdovhan/bash-handbook
 [496]: https://github.com/jlevy/the-art-of-command-line
 [497]: https://github.com/rockerBOO/awesome-neovim
+[498]: https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust
+[499]: https://github.com/mozilla/cbindgen
+[500]: https://github.com/rust-lang/rust-bindgen
