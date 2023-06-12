@@ -410,6 +410,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Raspberrypi OS Tutorials][186]: learn to write an embedded OS in Rust.
   * [Redox OS][318]: Unix-like Operating System written in Rust.
   * [RFCs][320]: RFCs for changes to Rust.
+  * [Rust to Assembly][501]: Understanding the Inner Workings of Rust.
   * [Rustonomicon][150]: awful details that you need to understand when writing
     Unsafe Rust programs.
   * [Rust Reference][151]: primary reference for the Rust programming language.
@@ -920,3 +921,4 @@ My personal awesome list of interesting repos, libraries and tools.
 [498]: https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust
 [499]: https://github.com/mozilla/cbindgen
 [500]: https://github.com/rust-lang/rust-bindgen
+[501]: https://eventhelix.com/rust/
