@@ -268,6 +268,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [boofuzz][89]: fork and successor of the Sulley Fuzzing Framework.
 * [difuze][90]: fuzzer for Linux Kernel Drivers.
 * [ferofuzz][424]: structure-aware HTTP fuzzing library.
+* [fuzzTest][502]: testing framework for writing and executing fuzz tests
+  (replaces libfuzzer).
 * [Fuzzing Book][390]: tools and techniques for generating software tests.
 * [halfempty][91]: fast, parallel test case minimization tool.
 * [Healer][190]: kernel fuzzer inspired by Syzkaller.
@@ -410,6 +412,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Raspberrypi OS Tutorials][186]: learn to write an embedded OS in Rust.
   * [Redox OS][318]: Unix-like Operating System written in Rust.
   * [RFCs][320]: RFCs for changes to Rust.
+  * [Rust by Example][503]: collection of runnable examples.
   * [Rust to Assembly][501]: Understanding the Inner Workings of Rust.
   * [Rustonomicon][150]: awful details that you need to understand when writing
     Unsafe Rust programs.
@@ -922,3 +925,5 @@ My personal awesome list of interesting repos, libraries and tools.
 [499]: https://github.com/mozilla/cbindgen
 [500]: https://github.com/rust-lang/rust-bindgen
 [501]: https://eventhelix.com/rust/
+[502]: https://github.com/google/fuzztest
+[503]: https://doc.rust-lang.org/stable/rust-by-example/index.html
