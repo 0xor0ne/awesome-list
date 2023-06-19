@@ -283,6 +283,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [onefuzz][382]: self-hosted Fuzzing-As-A-Service platform.
 * [propfuzz][387]: Rust toolkit to combine property-based testing and fuzzing.
 * [Radamsa][386]: general purpose fuzzer.
+* [Rusty-Radamsa][504]: Radamsa fuzzer ported to rust lang.
 * [SemGrep][343]: lightweight static analysis for many languages.
   * [Rules][344]: Semgrep rules to facilitate vulnerability research.
 * [silifuzz][422]: finds CPU defects by fuzzing software proxies.
@@ -389,6 +390,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * [AreWeRustYet][465]: Awesome list of "Are We *thing* Yet" for Rust
   * [Black Hat Rust][380]: applied offensive security with Rust.
   * [Book][42]: introductory book about Rust.
+  * [Book (Brown univ)][505]: Rust book experiment.
   * [Cargo Book][129]: official cargo book.
   * [Cheats][398]: Rust language cheat sheet.
   * [Clippy][218]: lints to catch common mistakes and improve your Rust code.
@@ -927,3 +929,5 @@ My personal awesome list of interesting repos, libraries and tools.
 [501]: https://eventhelix.com/rust/
 [502]: https://github.com/google/fuzztest
 [503]: https://doc.rust-lang.org/stable/rust-by-example/index.html
+[504]: https://github.com/microsoft/rusty-radamsa
+[505]: https://rust-book.cs.brown.edu/
