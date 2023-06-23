@@ -265,22 +265,29 @@ My personal awesome list of interesting repos, libraries and tools.
 ## Fuzzing
 
 * [AFLplusplus][38]: improved version of AFL.
+* [afl-training][508]: Exercises to learn how to fuzz with American Fuzzy Lop.
 * [boofuzz][89]: fork and successor of the Sulley Fuzzing Framework.
+* [cargo-fuzz][507]: Command line helpers for fuzzing.
 * [difuze][90]: fuzzer for Linux Kernel Drivers.
 * [ferofuzz][424]: structure-aware HTTP fuzzing library.
 * [fuzzTest][502]: testing framework for writing and executing fuzz tests
   (replaces libfuzzer).
+* [fuzzing101][510]: step by step fuzzing tutorial.
 * [Fuzzing Book][390]: tools and techniques for generating software tests.
+* [FuzzingPaper][506]: Recent Fuzzing Papers
 * [halfempty][91]: fast, parallel test case minimization tool.
 * [Healer][190]: kernel fuzzer inspired by Syzkaller.
 * [Honggfuzz][39]: evolutionary, feedback-driven fuzzing based on code coverage.
 * [krf][92]: kernelspace syscall interceptor and randomized faulter.
 * [lain][381]: fuzzer framework built in Rust.
 * [LibAFL][95]: fuzzing library.
+* [libfuzzer][511]: in-process, coverage-guided, evolutionary fuzzing engine
+  * [Tutorial][512]: learn how to use libFuzzer.
 * [netzob][391]: Protocol Reverse Engineering, Modeling and Fuzzing.
 * [MATE][420]: suite of tools for interactive program analysis with a focus on
   hunting for bugs in C and C++.
 * [onefuzz][382]: self-hosted Fuzzing-As-A-Service platform.
+* [papers collection][509]: Academic papers related to fuzzing.
 * [propfuzz][387]: Rust toolkit to combine property-based testing and fuzzing.
 * [Radamsa][386]: general purpose fuzzer.
 * [Rusty-Radamsa][504]: Radamsa fuzzer ported to rust lang.
@@ -931,3 +938,10 @@ My personal awesome list of interesting repos, libraries and tools.
 [503]: https://doc.rust-lang.org/stable/rust-by-example/index.html
 [504]: https://github.com/microsoft/rusty-radamsa
 [505]: https://rust-book.cs.brown.edu/
+[506]: https://github.com/wcventure/FuzzingPaper
+[507]: https://github.com/rust-fuzz/cargo-fuzz
+[508]: https://github.com/mykter/afl-training
+[509]: https://github.com/0xricksanchez/paper_collection
+[510]: https://github.com/antonio-morales/Fuzzing101
+[511]: https://llvm.org/docs/LibFuzzer.html
+[512]: https://github.com/google/fuzzing/blob/master/tutorial/libFuzzerTutorial.md
