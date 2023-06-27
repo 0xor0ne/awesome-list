@@ -270,6 +270,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [cargo-fuzz][507]: Command line helpers for fuzzing.
 * [difuze][90]: fuzzer for Linux Kernel Drivers.
 * [ferofuzz][424]: structure-aware HTTP fuzzing library.
+* [fuzzing][513]: Tutorials, examples, discussions, research proposals, and
+  other resources related to fuzzing.
 * [fuzzTest][502]: testing framework for writing and executing fuzz tests
   (replaces libfuzzer).
 * [fuzzing101][510]: step by step fuzzing tutorial.
@@ -278,11 +280,13 @@ My personal awesome list of interesting repos, libraries and tools.
 * [halfempty][91]: fast, parallel test case minimization tool.
 * [Healer][190]: kernel fuzzer inspired by Syzkaller.
 * [Honggfuzz][39]: evolutionary, feedback-driven fuzzing based on code coverage.
+* [iCicle][515]: grey-box firmware fuzzing
 * [krf][92]: kernelspace syscall interceptor and randomized faulter.
 * [lain][381]: fuzzer framework built in Rust.
 * [LibAFL][95]: fuzzing library.
 * [libfuzzer][511]: in-process, coverage-guided, evolutionary fuzzing engine
   * [Tutorial][512]: learn how to use libFuzzer.
+* [libfuzzer (rust)][514]: Rust bindings and utilities for LLVM’s libFuzzer.
 * [netzob][391]: Protocol Reverse Engineering, Modeling and Fuzzing.
 * [MATE][420]: suite of tools for interactive program analysis with a focus on
   hunting for bugs in C and C++.
@@ -291,6 +295,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [propfuzz][387]: Rust toolkit to combine property-based testing and fuzzing.
 * [Radamsa][386]: general purpose fuzzer.
 * [Rusty-Radamsa][504]: Radamsa fuzzer ported to rust lang.
+* [Safirefuzz][516]: same-Architecture Firmware Rehosting and Fuzzing.
 * [SemGrep][343]: lightweight static analysis for many languages.
   * [Rules][344]: Semgrep rules to facilitate vulnerability research.
 * [silifuzz][422]: finds CPU defects by fuzzing software proxies.
@@ -945,3 +950,7 @@ My personal awesome list of interesting repos, libraries and tools.
 [510]: https://github.com/antonio-morales/Fuzzing101
 [511]: https://llvm.org/docs/LibFuzzer.html
 [512]: https://github.com/google/fuzzing/blob/master/tutorial/libFuzzerTutorial.md
+[513]: https://github.com/google/fuzzing
+[514]: https://github.com/rust-fuzz/libfuzzer
+[515]: https://github.com/icicle-emu/icicle
+[516]: https://github.com/pr0me/SAFIREFUZZ
