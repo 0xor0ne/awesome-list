@@ -265,11 +265,14 @@ My personal awesome list of interesting repos, libraries and tools.
 ## Fuzzing
 
 * [AFLplusplus][38]: improved version of AFL.
+  * [Grammar-mutator][519]: A grammar-based custom mutator for AFL++.
 * [afl-training][508]: Exercises to learn how to fuzz with American Fuzzy Lop.
 * [boofuzz][89]: fork and successor of the Sulley Fuzzing Framework.
 * [cargo-fuzz][507]: Command line helpers for fuzzing.
 * [difuze][90]: fuzzer for Linux Kernel Drivers.
 * [ferofuzz][424]: structure-aware HTTP fuzzing library.
+* [fuzzable][518]: Framework for Automating Fuzzable Target Discovery with
+  Static Analysis.
 * [fuzzing][513]: Tutorials, examples, discussions, research proposals, and
   other resources related to fuzzing.
 * [fuzzTest][502]: testing framework for writing and executing fuzz tests
@@ -287,6 +290,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [libfuzzer][511]: in-process, coverage-guided, evolutionary fuzzing engine
   * [Tutorial][512]: learn how to use libFuzzer.
 * [libfuzzer (rust)][514]: Rust bindings and utilities for LLVM’s libFuzzer.
+* [Nautilus][520]: A grammar based feedback Fuzzer.
 * [netzob][391]: Protocol Reverse Engineering, Modeling and Fuzzing.
 * [MATE][420]: suite of tools for interactive program analysis with a focus on
   hunting for bugs in C and C++.
@@ -485,6 +489,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [FLOSS][102]: FLARE Obfuscated String Solver.
 * [fq][227]: jq for binary formats.
 * [Ghidra][206]: software reverse engineering (SRE) framework.
+  * [Sekiryu][517]: comprehensive toolkit for Ghidra headless.
 * [Kaitai Struct][231]: declarative language to generate binary data parsers.
 * [Keystone Engine][232]: assembler framework.
 * [Linux syscalls][462]: Linux kernel syscall tables
@@ -954,3 +959,7 @@ My personal awesome list of interesting repos, libraries and tools.
 [514]: https://github.com/rust-fuzz/libfuzzer
 [515]: https://github.com/icicle-emu/icicle
 [516]: https://github.com/pr0me/SAFIREFUZZ
+[517]: https://github.com/20urc3/Sekiryu
+[518]: https://github.com/ex0dus-0x/fuzzable
+[519]: https://github.com/AFLplusplus/Grammar-Mutator
+[520]: https://github.com/nautilus-fuzz/nautilus
