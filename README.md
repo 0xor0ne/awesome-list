@@ -271,6 +271,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [cargo-fuzz][507]: Command line helpers for fuzzing.
 * [difuze][90]: fuzzer for Linux Kernel Drivers.
 * [ferofuzz][424]: structure-aware HTTP fuzzing library.
+* [fuzz-introspector][523]: introspect, extend and optimise fuzzers.
 * [fuzzable][518]: Framework for Automating Fuzzable Target Discovery with
   Static Analysis.
 * [fuzzing][513]: Tutorials, examples, discussions, research proposals, and
@@ -295,6 +296,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [MATE][420]: suite of tools for interactive program analysis with a focus on
   hunting for bugs in C and C++.
 * [onefuzz][382]: self-hosted Fuzzing-As-A-Service platform.
+* [oss-fuzz][521]: continuous fuzzing for open source software.
+  * [Documentation][522]
 * [papers collection][509]: Academic papers related to fuzzing.
 * [propfuzz][387]: Rust toolkit to combine property-based testing and fuzzing.
 * [Radamsa][386]: general purpose fuzzer.
@@ -963,3 +966,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [518]: https://github.com/ex0dus-0x/fuzzable
 [519]: https://github.com/AFLplusplus/Grammar-Mutator
 [520]: https://github.com/nautilus-fuzz/nautilus
+[521]: https://github.com/google/oss-fuzz
+[522]: https://google.github.io/oss-fuzz/
+[523]: https://github.com/ossf/fuzz-introspector
