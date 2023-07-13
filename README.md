@@ -267,6 +267,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [AFLplusplus][38]: improved version of AFL.
   * [Grammar-mutator][519]: A grammar-based custom mutator for AFL++.
 * [afl-training][508]: Exercises to learn how to fuzz with American Fuzzy Lop.
+* [Arbitrary][524]: Generating structured data from arbitrary, unstructured input.
 * [boofuzz][89]: fork and successor of the Sulley Fuzzing Framework.
 * [cargo-fuzz][507]: Command line helpers for fuzzing.
 * [difuze][90]: fuzzer for Linux Kernel Drivers.
@@ -969,3 +970,4 @@ My personal awesome list of interesting repos, libraries and tools.
 [521]: https://github.com/google/oss-fuzz
 [522]: https://google.github.io/oss-fuzz/
 [523]: https://github.com/ossf/fuzz-introspector
+[524]: https://github.com/rust-fuzz/arbitrary/
