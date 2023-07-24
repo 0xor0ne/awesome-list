@@ -35,6 +35,8 @@
       Transmit Queues.
     * [repository][61]: est Wi-Fi networks for client isolation bypasses.
     * [wifi-framing][60]: Repository for the Framing Frames publication
+* [IEEE]:
+  * [Working Group][98]
 * Tools
   * [aircrack-ng][16]: complete suite of tools to assess WiFi network security.
     * [GitHub][17]: WiFi security auditing tools suite
@@ -286,3 +288,4 @@
 [95]: https://github.com/bouffalolab
 [96]: https://openthread.io
 [97]: https://www.home-assistant.io/
+[98]: https://www.ieee802.org/11/
