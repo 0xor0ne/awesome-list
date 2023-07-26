@@ -19,6 +19,7 @@
 * [How did I approach making linux LKM rootkit, “reveng_rtkit” ?][70]
 * [Linux kernel programming][90]: code repository for Linux Kernel Programming,
   published by Packt.
+* [man pages][95]: manual pages for GNU/Linux
 * Linux rootkit series by Xcellerator
   * [Introduction and Workflow][51]
   * [Ftrace and Function Hooking][52]
@@ -254,3 +255,4 @@
 [92]: https://github.com/SunHao-0/healer
 [93]: https://github.com/nluedtke/linux_kernel_cves
 [94]: https://github.com/bootlin/training-materials
+[95]: https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/

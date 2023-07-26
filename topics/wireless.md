@@ -50,9 +50,14 @@
     vulnerabilties.
   * [ESP32 Marauder][43]: suite of WiFi/Bluetooth offensive and defensive tools
     for the ESP32.
+  * [esp32-wifi-penetration-tool][104]: Exploring possibilities of ESP32
+    platform to attack on nearby Wi-Fi networks.
+  * [FreeRADIUS][99]: open source RADIUS server.
+  * [hostapd][100]: user space daemon for access points.
   * [Kismet][14]: Wi-Fi, Bluetooth, RF, and more
     * [GitHub][15]: Kismet and related tools and libraries for wireless
       monitoring, transmitting, and auditing.
+  * [iw][101]: nl80211 based CLI configuration utility for wireless devices.
   * [libwifi][48]: an 802.11 (WiFi) Frame Generation and Parsing Library in C.
     * [github repo][47]: libwifi github repository
   * [libwifi (nukesor)][49]: rust library for parsing IEE 802.11 frames.
@@ -62,9 +67,15 @@
   * [pawnagotchi][42]:  A2C-based “AI” powered by bettercap and running on a
     Raspberry Pi Zero W that learns from its surrounding WiFi environment in
     order to maximize the crackable WPA key material it captures/
+  * [pi-pwnbox-rogueap][103]: Rogue AP based on Raspberry Pi
+  * [WEF][106]: Wi-Fi Exploitation Framework.
+  * [wifi-cracking][105]: Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and
+    Aircrack-ng/Hashcat.
   * [wifijammer][28]: Continuously jam all wifi clients/routers.
   * [wifiphisher][27]: The Rogue Access Point Framework.
   * [wifipumpkin3][29]: Powerful framework for rogue access point attack.
+  * [wifite2][102]: script for auditing wireless networks.
+  * [wpa_supplicant][100]: supplicant for 802.11
 * [esp-wifi][45]: WIP / POC for using the ESP32-C3, ESP32-S3 and ESP32 wifi
   drivers in bare-metal Rust.
 * [USB-WiFi][24]: USB WiFi Adapter Information for Linux
@@ -289,3 +300,11 @@
 [96]: https://openthread.io
 [97]: https://www.home-assistant.io/
 [98]: https://www.ieee802.org/11/
+[99]: https://freeradius.org
+[100]: https://w1.fi/cgit/hostap/
+[101]: https://git.kernel.org/pub/scm/linux/kernel/git/jberg/iw.git
+[102]: https://github.com/derv82/wifite2
+[103]: https://github.com/koutto/pi-pwnbox-rogueap
+[104]: https://github.com/risinek/esp32-wifi-penetration-tool
+[105]: https://github.com/brannondorsey/wifi-cracking
+[106]: https://github.com/D3Ext/WEF
