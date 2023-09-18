@@ -93,6 +93,8 @@
 * [BLE Security Attack Defence][34]: Unveiling zero day vulnerabilities and
   security flaws in modern Bluetooth LE stacks.
 * Tools
+  * [ble-fuzzing][107]: Stateful Black-Box Fuzzing of BLE Devices Using Automata
+  Learning
   * [BTLE][52]: Bluetooth Low Energy (BLE) packet sniffer and transmitter for
     both standard and non standard (raw bit) based on Software Defined Radio
     (SDR).
@@ -308,3 +310,4 @@
 [104]: https://github.com/risinek/esp32-wifi-penetration-tool
 [105]: https://github.com/brannondorsey/wifi-cracking
 [106]: https://github.com/D3Ext/WEF
+[107]: https://git.ist.tugraz.at/apferscher/ble-fuzzing
