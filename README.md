@@ -472,6 +472,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [BAP][282]: binary analysis platform.
 * [BinDiff][204]: compare executables by identifying identical and similar
   functions.
+  * [Source code][525]: source code of BinDiff
 * [BinExport][205]: export disassemblies into Protocol Buffers.
 * [CAPA][73]: tool to identify capabilities in executable files.
   * [lancelot-flirt][103]: library for parsing, compiling, and matching Fast
@@ -971,3 +972,4 @@ My personal awesome list of interesting repos, libraries and tools.
 [522]: https://google.github.io/oss-fuzz/
 [523]: https://github.com/ossf/fuzz-introspector
 [524]: https://github.com/rust-fuzz/arbitrary/
+[525]: https://github.com/google/bindiff/tree/main
