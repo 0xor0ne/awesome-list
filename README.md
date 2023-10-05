@@ -5,6 +5,7 @@ My personal awesome list of interesting repos, libraries and tools.
 # In-Depth Topics
 
 * [Blockchains and Smart Contracts](topics/web3.md)
+* [Exploitation](topics/exploitation.md)
 * [OT/IoT Security](topics/ot_security.md)
 * [Linux Kernel](topics/linux_kernel.md)
 * [Red Teaming and Offensive Security](topics/red-team-adversary-emulation.md)
