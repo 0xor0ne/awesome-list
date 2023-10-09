@@ -5,6 +5,7 @@ My personal awesome list of interesting repos, libraries and tools.
 # In-Depth Topics
 
 * [Blockchains and Smart Contracts](topics/web3.md)
+* [Cyber Security Content](topics/cybersec.md)
 * [Exploitation](topics/exploitation.md)
 * [OT/IoT Security](topics/ot_security.md)
 * [Linux Kernel](topics/linux_kernel.md)
