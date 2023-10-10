@@ -4,14 +4,20 @@
 
 * [2023](#2023)
 * [2022](#2022)
+* [2021](#2021)
+* [2018](#2018)
+* [2016](#2016)
 * [Other](#other)
 
 ## 2023
 
 * ["Analysis on legit tools abused in human operated ransomware"][4]
 * ["Behind the Shield: Unmasking Scudos's Defenses"][8]
+* ["Debugger Ghidra Class"][28]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
+* ["Hacking Brightway scooters: A case study"][29]
 * ["Hardware Hacking to Bypass BIOS Passwords"][5]
+* ["Learn Makefiles With the tastiest examples"][24]
 * "Lord Of The Ring0":
   * [Part 1][10]
   * [Part 2][11]
@@ -27,6 +33,24 @@
 
 * ["Turning Google smart speakers into wiretaps for $100k"][18]
 
+## 2021
+
+* "Linux Kernel Exploitation":
+  * ["Debugging the Kernel with QEMU"][25]
+  * ["Smashing Stack Overflows in the Kernel"][26]
+  * ["Controlling RIP and Escalating privileges via Stack Overflow"][27]
+
+## 2018
+
+* "CVE-2017-11176: A step-by-step Linux Kernel exploitation":
+  * [Part 1][19]
+  * [Part 2][20]
+  * [Part 3][21]
+  * [Part 4][22]
+
+## 2016
+
+* ["Implementation of Signal Handling"][23]
 
 ## Other
 
@@ -54,3 +78,14 @@
 [16]: https://blog.lexfo.fr/sshimpanzee.html
 [17]: https://syscalls.mebeim.net/?table=x86/64/x64/v6.5
 [18]: https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html
+[19]: https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html
+[20]: https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part2.html
+[21]: https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html
+[22]: https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part4.html
+[23]: http://courses.cms.caltech.edu/cs124/lectures-wi2016/CS124Lec15.pdf
+[24]: https://makefiletutorial.com
+[25]: https://blog.k3170makan.com/2020/11/linux-kernel-exploitation-0x0-debugging.html
+[26]: http://blog.k3170makan.com/2020/11/linux-kernel-exploitation-0x1-smashing.html
+[27]: https://blog.k3170makan.com/2021/01/linux-kernel-exploitation-0x2.html
+[28]: https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Debugger
+[29]: https://robocoffee.de/?p=436
