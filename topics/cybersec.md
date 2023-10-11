@@ -15,6 +15,7 @@
 * ["Behind the Shield: Unmasking Scudos's Defenses"][8]
 * ["Debugger Ghidra Class"][28]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
+* ["Fortinet Series 3 — CVE-2022–42475 SSLVPN exploit strategy"][32]
 * ["Hacking Brightway scooters: A case study"][29]
 * ["Hardware Hacking to Bypass BIOS Passwords"][5]
 * ["Learn Makefiles With the tastiest examples"][24]
@@ -25,12 +26,26 @@
   * [Part 4][13]
   * [Part 5][14]
 * ["Low-Level Software Security for Compiler Developers"][15]
+* "mast1c0re"
+  * ["Introduction – Exploiting the PS4 and PS5 through a game save"][38]
+  * ["Part 1 – Modifying PS2 game save files"][39]
+  * ["Part 2 – Arbitrary PS2 code execution"][40]
+  * ["Part 3 – Escaping the emulator"][41]
+* ["OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept"][42]
+* ["Red vs. Blue: Kerberos Ticket Times, Checksums, and You!"][30]
+* ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][31]
 * ["The Linux Kernel Module Programming Guide"][3]
 * ["Sshimpanzee"][16]
 * ["Your not so "Home Office" - SOHO Hacking at Pwn2Own"][5]
+* ["UNCONTAINED: Uncovering Container Confusion in the Linux Kernel"][37]
 
 ## 2022
 
+* "Netgear Orbi":
+  * ["orbi hunting 0x0: introduction, uart access, recon"][33]
+  * ["orbi hunting 0x1: crashes in soap-api"][34]
+  * ["nday exploit: netgear orbi unauthenticated command injection (cve-2020-27861)"][35]
+* ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
 * ["Turning Google smart speakers into wiretaps for $100k"][18]
 
 ## 2021
@@ -89,3 +104,16 @@
 [27]: https://blog.k3170makan.com/2021/01/linux-kernel-exploitation-0x2.html
 [28]: https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Debugger
 [29]: https://robocoffee.de/?p=436
+[30]: https://www.trustedsec.com/blog/red-vs-blue-kerberos-ticket-times-checksums-and-you
+[31]: https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet
+[32]: https://medium.com/@INTfinitySG/fortinet-series-3-cve-2022-42475-sslvpn-exploit-strategy-2578597f892f
+[33]: http://blog.coffinsec.com/research/2022/06/12/orbi-hunting-0-intro-uart.html
+[34]: http://blog.coffinsec.com/research/2022/06/19/orbi-hunting-1-soap-api-crashes.html
+[35]: http://blog.coffinsec.com/research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html
+[36]: https://starlabs.sg/blog/2023/06-the-old-the-new-and-the-bypass-one-clickopen-redirect-to-own-samsung-s22-at-pwn2own-2022/
+[37]: https://download.vusec.net/papers/uncontained_sec23.pdf
+[38]: https://mccaulay.co.uk/mast1c0re-introduction-exploiting-the-ps4-and-ps5-through-a-gamesave/
+[39]: https://mccaulay.co.uk/mast1c0re-part-1-modifying-ps2-game-save-files/
+[40]: https://mccaulay.co.uk/mast1c0re-part-2-arbitrary-ps2-code-execution/
+[41]: https://mccaulay.co.uk/mast1c0re-part-3-escaping-the-emulator/
+[42]: https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/
