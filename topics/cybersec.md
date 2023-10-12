@@ -11,14 +11,24 @@
 
 ## 2023
 
+* ["A Deep Dive into Penetration Testing of macOS Applications (Part 1)"][49]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
 * ["Behind the Shield: Unmasking Scudos's Defenses"][8]
 * ["Debugger Ghidra Class"][28]
+* ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
+* ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
+* ["Executing Arbitrary Code & Executables in Read-Only FileSystems"][52]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
 * ["Fortinet Series 3 — CVE-2022–42475 SSLVPN exploit strategy"][32]
+* "Fuzzing Farm":
+  * ["Fuzzing GEGL with fuzzuf"][43]
+  * ["Evaluating Performance of Fuzzer"][44]
+  * ["Patch Analysis and PoC Development"][45]
+  * ["Hunting and Exploiting 0-day [CVE-2022-24834]"][46]
 * ["Hacking Brightway scooters: A case study"][29]
 * ["Hardware Hacking to Bypass BIOS Passwords"][5]
 * ["Learn Makefiles With the tastiest examples"][24]
+* ["Linux Shellcode 101: From Hell to Shell"][53]
 * "Lord Of The Ring0":
   * [Part 1][10]
   * [Part 2][11]
@@ -33,7 +43,9 @@
   * ["Part 3 – Escaping the emulator"][41]
 * ["OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept"][42]
 * ["Red vs. Blue: Kerberos Ticket Times, Checksums, and You!"][30]
+* ["Revisiting CVE-2017-11176"][48]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][31]
+* ["The art of fuzzing-A Step-by-Step Guide to Coverage-Guided Fuzzing with LibFuzzer"][54]
 * ["The Linux Kernel Module Programming Guide"][3]
 * ["Sshimpanzee"][16]
 * ["Your not so "Home Office" - SOHO Hacking at Pwn2Own"][5]
@@ -66,6 +78,7 @@
 ## 2016
 
 * ["Implementation of Signal Handling"][23]
+* ["Understanding and Hardening Linux Containers"][50]
 
 ## Other
 
@@ -117,3 +130,15 @@
 [40]: https://mccaulay.co.uk/mast1c0re-part-2-arbitrary-ps2-code-execution/
 [41]: https://mccaulay.co.uk/mast1c0re-part-3-escaping-the-emulator/
 [42]: https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/
+[43]: https://ricercasecurity.blogspot.com/2023/07/fuzzing-farm-1-fuzzing-gegl-with-fuzzuf.html
+[44]: https://ricercasecurity.blogspot.com/2023/07/fuzzing-farm-2-evaluating-performance.html
+[45]: https://ricercasecurity.blogspot.com/2023/07/fuzzing-farm-3-patch-analysis-and-poc.html
+[46]: https://ricercasecurity.blogspot.com/2023/07/fuzzing-farm-4-hunting-and-exploiting-0.html
+[47]: https://boschko.ca/qemu-emulating-firmware/
+[48]: https://labs.bluefrostsecurity.de/revisiting-cve-2017-11176
+[49]: https://www.cyberark.com/resources/threat-research-blog/a-deep-dive-into-penetration-testing-of-macos-applications-part-1
+[50]: https://research.nccgroup.com/wp-content/uploads/episerver-images/assets/ad04beb697a64e3ea20579e5bf604b4e/ad04beb697a64e3ea20579e5bf604b4e.pdf
+[51]: https://yanglingxi1993.github.io/dirty_pagetable/dirty_pagetable.html
+[52]: https://labs.withsecure.com/publications/executing-arbitrary-code-executables-in-read-only-filesystems
+[53]: https://axcheron.github.io/linux-shellcode-101-from-hell-to-shell/
+[54]: https://aviii.hashnode.dev/the-art-of-fuzzing-a-step-by-step-guide-to-coverage-guided-fuzzing-with-libfuzzer
