@@ -5,6 +5,7 @@
 * [2023](#2023)
 * [2022](#2022)
 * [2021](#2021)
+* [2020](#2020)
 * [2018](#2018)
 * [2016](#2016)
 * [Other](#other)
@@ -44,12 +45,15 @@
 * ["OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept"][42]
 * ["Red vs. Blue: Kerberos Ticket Times, Checksums, and You!"][30]
 * ["Revisiting CVE-2017-11176"][48]
+* ["Shambles: The Next-Generation IoT Reverse Engineering Tool to Discover 0-Day Vulnerabilities"][55]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][31]
+* ["The art of Fuzzing: Introduction"][57]
 * ["The art of fuzzing-A Step-by-Step Guide to Coverage-Guided Fuzzing with LibFuzzer"][54]
 * ["The Linux Kernel Module Programming Guide"][3]
 * ["Sshimpanzee"][16]
 * ["Your not so "Home Office" - SOHO Hacking at Pwn2Own"][5]
 * ["UNCONTAINED: Uncovering Container Confusion in the Linux Kernel"][37]
+* ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
 
 ## 2022
 
@@ -66,6 +70,10 @@
   * ["Debugging the Kernel with QEMU"][25]
   * ["Smashing Stack Overflows in the Kernel"][26]
   * ["Controlling RIP and Escalating privileges via Stack Overflow"][27]
+
+## 2020
+
+* ["NTLM Relay"][56]
 
 ## 2018
 
@@ -142,3 +150,7 @@
 [52]: https://labs.withsecure.com/publications/executing-arbitrary-code-executables-in-read-only-filesystems
 [53]: https://axcheron.github.io/linux-shellcode-101-from-hell-to-shell/
 [54]: https://aviii.hashnode.dev/the-art-of-fuzzing-a-step-by-step-guide-to-coverage-guided-fuzzing-with-libfuzzer
+[55]: https://boschko.ca/shambles/
+[56]: https://en.hackndo.com/ntlm-relay/
+[57]: https://bushido-sec.com/index.php/2023/06/19/the-art-of-fuzzing/
+[58]: https://offsec.almond.consulting/windows-msiexec-eop-cve-2020-0911.html
