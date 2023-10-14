@@ -18,6 +18,7 @@
 * ["Debugger Ghidra Class"][28]
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
 * ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
+* ["ESP32-C3 Wireless Adventure A Comprehensive Guide to IoT"][69]
 * ["Executing Arbitrary Code & Executables in Read-Only FileSystems"][52]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
 * ["Fortinet Series 3 — CVE-2022–42475 SSLVPN exploit strategy"][32]
@@ -28,7 +29,9 @@
   * ["Hunting and Exploiting 0-day [CVE-2022-24834]"][46]
 * ["Hacking Brightway scooters: A case study"][29]
 * ["Hardware Hacking to Bypass BIOS Passwords"][5]
+* ["Introduction to SELinux"][59]
 * ["Learn Makefiles With the tastiest examples"][24]
+* ["Linux rootkits explained – Part 1: Dynamic linker hijacking"][60]
 * ["Linux Shellcode 101: From Hell to Shell"][53]
 * "Lord Of The Ring0":
   * [Part 1][10]
@@ -57,10 +60,18 @@
 
 ## 2022
 
+* ["exploiting CVE-2019-2215"][61]
+* "Hunting for Persistence in Linux"
+  * [Part 1][64]
+  * [Part 2][65]
+  * [Part 3][66]
+  * [Part 4][67]
+  * [Part 5][68]
 * "Netgear Orbi":
   * ["orbi hunting 0x0: introduction, uart access, recon"][33]
   * ["orbi hunting 0x1: crashes in soap-api"][34]
   * ["nday exploit: netgear orbi unauthenticated command injection (cve-2020-27861)"][35]
+* ["nday exploit: libinput format string bug, canary leak exploit (cve-2022-1215)"][63]
 * ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
 * ["Turning Google smart speakers into wiretaps for $100k"][18]
 
@@ -95,6 +106,7 @@
   * ["A hands-on approach to symmetric-key encryption"][1]
   * ["Asymmetric-Key Encryption and Digital Signatures in Practice"][2]
 * ["Linux Syscalls Reference"][17]
+* ["mjsxj09cm Recovering Firmware And Backdooring"][62]
 
 [0]: https://sergioprado.blog/introduction-to-encryption-for-embedded-linux-developers/
 [1]: https://sergioprado.blog/a-hands-on-approach-to-symmetric-key-encryption/
@@ -154,3 +166,14 @@
 [56]: https://en.hackndo.com/ntlm-relay/
 [57]: https://bushido-sec.com/index.php/2023/06/19/the-art-of-fuzzing/
 [58]: https://offsec.almond.consulting/windows-msiexec-eop-cve-2020-0911.html
+[59]: https://github.blog/2023-07-05-introduction-to-selinux/
+[60]: https://www.wiz.io/blog/linux-rootkits-explained-part-1-dynamic-linker-hijacking
+[61]: https://cutesmilee.github.io/kernel/linux/android/2022/02/17/cve-2019-2215_writeup.html
+[62]: https://whiterose-infosec.super.site/mjsxj09cm-recovering-firmware-and-backdooring
+[63]: http://blog.coffinsec.com/nday/2022/08/04/CVE-2022-1215-libinput-fmt-canary-leak.html
+[64]: https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/
+[65]: https://pberba.github.io/security/2021/11/23/linux-threat-hunting-for-persistence-account-creation-manipulation/
+[66]: https://pberba.github.io/security/2022/01/30/linux-threat-hunting-for-persistence-systemd-timers-cron/
+[67]: https://pberba.github.io/security/2022/02/06/linux-threat-hunting-for-persistence-initialization-scripts-and-shell-configuration/
+[68]: https://pberba.github.io/security/2022/02/07/linux-threat-hunting-for-persistence-systemd-generators/
+[69]: https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf
