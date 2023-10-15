@@ -15,12 +15,16 @@
 * ["A Deep Dive into Penetration Testing of macOS Applications (Part 1)"][49]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
 * ["Behind the Shield: Unmasking Scudos's Defenses"][8]
+* ["CVE-2023-2008 - Analyzing and exploiting a bug in the udmabuf driver"][72]
 * ["Debugger Ghidra Class"][28]
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
 * ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
+* ["EPF: Evil Packet Filter"][73]
 * ["ESP32-C3 Wireless Adventure A Comprehensive Guide to IoT"][69]
 * ["Executing Arbitrary Code & Executables in Read-Only FileSystems"][52]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
+* ["Finding Gadgets for CPU Side-Channels with Static Analysis Tools"][75]
+* ["For Science! - Using an Unimpressive Bug in EDK II to Do Some Fun Exploitation"][70]
 * ["Fortinet Series 3 — CVE-2022–42475 SSLVPN exploit strategy"][32]
 * "Fuzzing Farm":
   * ["Fuzzing GEGL with fuzzuf"][43]
@@ -29,6 +33,7 @@
   * ["Hunting and Exploiting 0-day [CVE-2022-24834]"][46]
 * ["Hacking Brightway scooters: A case study"][29]
 * ["Hardware Hacking to Bypass BIOS Passwords"][5]
+* ["Intercepting Allocations with the Global Allocator"][79]
 * ["Introduction to SELinux"][59]
 * ["Learn Makefiles With the tastiest examples"][24]
 * ["Linux rootkits explained – Part 1: Dynamic linker hijacking"][60]
@@ -45,21 +50,26 @@
   * ["Part 1 – Modifying PS2 game save files"][39]
   * ["Part 2 – Arbitrary PS2 code execution"][40]
   * ["Part 3 – Escaping the emulator"][41]
+* ["Obscure Windows File Types"][74]
 * ["OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept"][42]
 * ["Red vs. Blue: Kerberos Ticket Times, Checksums, and You!"][30]
+* ["Retreading The AMLogic A113X TrustZone Exploit Process"][77]
 * ["Revisiting CVE-2017-11176"][48]
 * ["Shambles: The Next-Generation IoT Reverse Engineering Tool to Discover 0-Day Vulnerabilities"][55]
+* ["Shell in the Ghost: Ghostscript CVE-2023-28879 writeup"][76]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][31]
 * ["The art of Fuzzing: Introduction"][57]
 * ["The art of fuzzing-A Step-by-Step Guide to Coverage-Guided Fuzzing with LibFuzzer"][54]
 * ["The Linux Kernel Module Programming Guide"][3]
 * ["Sshimpanzee"][16]
+* ["Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was"][80]
 * ["Your not so "Home Office" - SOHO Hacking at Pwn2Own"][5]
 * ["UNCONTAINED: Uncovering Container Confusion in the Linux Kernel"][37]
 * ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
 
 ## 2022
 
+* ["Dumping the Amlogic A113X Bootrom"][78]
 * ["exploiting CVE-2019-2215"][61]
 * "Hunting for Persistence in Linux"
   * [Part 1][64]
@@ -101,6 +111,7 @@
 
 ## Other
 
+* ["Advanced binary fuzzing using AFL++-QEMU and libprotobuf: a practical case of grammar-aware in-memory persistent fuzzing"][71]
 * "Introduction to encryption for embedded Linux"
   * ["Introduction to encryption for embedded Linux developers"][0]
   * ["A hands-on approach to symmetric-key encryption"][1]
@@ -177,3 +188,14 @@
 [67]: https://pberba.github.io/security/2022/02/06/linux-threat-hunting-for-persistence-initialization-scripts-and-shell-configuration/
 [68]: https://pberba.github.io/security/2022/02/07/linux-threat-hunting-for-persistence-systemd-generators/
 [69]: https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf
+[70]: https://blog.quarkslab.com/for-science-using-an-unimpressive-bug-in-edk-ii-to-do-some-fun-exploitation.html
+[71]: https://airbus-seclab.github.io/AFLplusplus-blogpost/
+[72]: https://labs.bluefrostsecurity.de/blog/cve-2023-2008.html
+[73]: https://cs.brown.edu/~vpk/papers/epf.atc23.pdf
+[74]: https://remyhax.xyz/posts/obscure-win-files/
+[75]: https://github.com/google/security-research/tree/master/pocs/cpus/spectre-gadgets
+[76]: https://offsec.almond.consulting/ghostscript-cve-2023-28879.html
+[77]: https://boredpentester.com/retreading-the-amlogic-a113x-trustzone-exploit-process/
+[78]: https://haxx.in/posts/dumping-the-amlogic-a113x-bootrom/
+[79]: https://bd103.github.io/blog/2023-06-27-global-allocators
+[80]: https://labs.watchtowr.com/xortigate-or-cve-2023-27997/
