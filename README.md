@@ -485,6 +485,8 @@ My personal awesome list of interesting repos, libraries and tools.
   analysis.
 * [decomp2dbg][442]: plugin to introduce interactive symbols into your debugger
   from your decompiler.
+* [Diffing (quarkslab)][526]: resources on binary diffing which is handy for
+  reverse-engineering.
 * [Diffware][52]: configurable tool providing a summary of the changes between
   two files or directories
   * [Diffoscope][53]: directory differ.
@@ -975,3 +977,4 @@ My personal awesome list of interesting repos, libraries and tools.
 [523]: https://github.com/ossf/fuzz-introspector
 [524]: https://github.com/rust-fuzz/arbitrary/
 [525]: https://github.com/google/bindiff/tree/main
+[526]: http://diffing.quarkslab.com
