@@ -15,9 +15,11 @@
 * ["A Deep Dive into Penetration Testing of macOS Applications (Part 1)"][49]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
 * ["Behind the Shield: Unmasking Scudos's Defenses"][8]
+* ["Breaking the Code - Exploiting and Examining CVE-2023-1829 in cls_tcindex Classifier Vulnerability"][81]
 * ["CVE-2023-2008 - Analyzing and exploiting a bug in the udmabuf driver"][72]
 * ["Debugger Ghidra Class"][28]
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
+* ["Drone Security and Fault Injection Attacks"][82]
 * ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
 * ["EPF: Evil Packet Filter"][73]
 * ["ESP32-C3 Wireless Adventure A Comprehensive Guide to IoT"][69]
@@ -31,6 +33,7 @@
   * ["Evaluating Performance of Fuzzer"][44]
   * ["Patch Analysis and PoC Development"][45]
   * ["Hunting and Exploiting 0-day [CVE-2022-24834]"][46]
+* ["Hacking Amazon's eero 6 (part 1)"][86]
 * ["Hacking Brightway scooters: A case study"][29]
 * ["Hardware Hacking to Bypass BIOS Passwords"][5]
 * ["Intercepting Allocations with the Global Allocator"][79]
@@ -87,6 +90,10 @@
 
 ## 2021
 
+* "Learning Linux Kernel Exploitation":
+  * [Part 1][83]
+  * [Part 2][84]
+  * [Part 3][85]
 * "Linux Kernel Exploitation":
   * ["Debugging the Kernel with QEMU"][25]
   * ["Smashing Stack Overflows in the Kernel"][26]
@@ -199,3 +206,9 @@
 [78]: https://haxx.in/posts/dumping-the-amlogic-a113x-bootrom/
 [79]: https://bd103.github.io/blog/2023-06-27-global-allocators
 [80]: https://labs.watchtowr.com/xortigate-or-cve-2023-27997/
+[81]: https://starlabs.sg/blog/2023/06-breaking-the-code-exploiting-and-examining-cve-2023-1829-in-cls_tcindex-classifier-vulnerability/
+[82]: https://act-on.ioactive.com/acton/attachment/34793/f-b1aa96d0-bd78-4518-bae3-2889aae340de/1/-/-/-/-/DroneSec-GGonzalez.pdf
+[83]: https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/
+[84]: https://lkmidas.github.io/posts/20210128-linux-kernel-pwn-part-2/
+[85]: https://lkmidas.github.io/posts/20210205-linux-kernel-pwn-part-3/
+[86]: https://markuta.com/eero-6-hacking-part-1/
