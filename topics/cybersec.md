@@ -14,8 +14,10 @@
 
 * ["A Deep Dive into Penetration Testing of macOS Applications (Part 1)"][49]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
+* ["Bee-yond Capacity: Unauthenticated RCE in Extreme Networks/Aerohive Wireless APs - CVE-2023-35803"][91]
 * ["Behind the Shield: Unmasking Scudos's Defenses"][8]
 * ["Breaking the Code - Exploiting and Examining CVE-2023-1829 in cls_tcindex Classifier Vulnerability"][81]
+* ["Coffee: A COFF loader made in Rust"][93]
 * ["CVE-2023-2008 - Analyzing and exploiting a bug in the udmabuf driver"][72]
 * ["Debugger Ghidra Class"][28]
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
@@ -25,9 +27,11 @@
 * ["ESP32-C3 Wireless Adventure A Comprehensive Guide to IoT"][69]
 * ["Executing Arbitrary Code & Executables in Read-Only FileSystems"][52]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
+* ["Finding bugs in C code with Multi-Level IR and VAST"][92]
 * ["Finding Gadgets for CPU Side-Channels with Static Analysis Tools"][75]
 * ["For Science! - Using an Unimpressive Bug in EDK II to Do Some Fun Exploitation"][70]
 * ["Fortinet Series 3 — CVE-2022–42475 SSLVPN exploit strategy"][32]
+* ["Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues"][90]
 * "Fuzzing Farm":
   * ["Fuzzing GEGL with fuzzuf"][43]
   * ["Evaluating Performance of Fuzzer"][44]
@@ -62,6 +66,7 @@
 * ["Shell in the Ghost: Ghostscript CVE-2023-28879 writeup"][76]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][31]
 * ["The art of Fuzzing: Introduction"][57]
+* ["The art of fuzzing: Windows Binaries"][89]
 * ["The art of fuzzing-A Step-by-Step Guide to Coverage-Guided Fuzzing with LibFuzzer"][54]
 * ["The Linux Kernel Module Programming Guide"][3]
 * ["Sshimpanzee"][16]
@@ -101,6 +106,7 @@
 
 ## 2020
 
+* ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
 * ["NTLM Relay"][56]
 
 ## 2018
@@ -110,6 +116,7 @@
   * [Part 2][20]
   * [Part 3][21]
   * [Part 4][22]
+* ["eMMC Data Recovery from Damaged Smartphone"][88]
 
 ## 2016
 
@@ -212,3 +219,10 @@
 [84]: https://lkmidas.github.io/posts/20210128-linux-kernel-pwn-part-2/
 [85]: https://lkmidas.github.io/posts/20210205-linux-kernel-pwn-part-3/
 [86]: https://markuta.com/eero-6-hacking-part-1/
+[87]: https://riverloopsecurity.com/blog/2020/03/hw-101-emmc/
+[88]: https://dangerouspayload.com/2018/10/24/emmc-data-recovery-from-damaged-smartphone/
+[89]: https://bushido-sec.com/index.php/2023/06/25/the-art-of-fuzzing-windows-binaries/
+[90]: https://papers.mathyvanhoef.com/usenix2023-wifi.pdf
+[91]: https://research.aurainfosec.io/pentest/bee-yond-capacity/
+[92]: https://blog.trailofbits.com/2023/06/15/finding-bugs-with-mlir-and-vast/
+[93]: https://labs.hakaioffsec.com/coffee-a-coff-loader-made-in-rust/
