@@ -14,11 +14,14 @@
 
 * ["A Deep Dive into Penetration Testing of macOS Applications (Part 1)"][49]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
+* ["Back to the Future with Platform Security"][97]
+* ["Bash Privileged-Mode Vulnerabilities in Parallel Desktop and CDPATH Handling in MacOS"][100]
 * ["Bee-yond Capacity: Unauthenticated RCE in Extreme Networks/Aerohive Wireless APs - CVE-2023-35803"][91]
 * ["Behind the Shield: Unmasking Scudos's Defenses"][8]
 * ["Breaking the Code - Exploiting and Examining CVE-2023-1829 in cls_tcindex Classifier Vulnerability"][81]
 * ["Coffee: A COFF loader made in Rust"][93]
 * ["CVE-2023-2008 - Analyzing and exploiting a bug in the udmabuf driver"][72]
+* ["CVE-2023-26258 – Remote Code Execution in ArcServe UDP Backup"][99]
 * ["Debugger Ghidra Class"][28]
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
 * ["Drone Security and Fault Injection Attacks"][82]
@@ -30,6 +33,7 @@
 * ["Finding bugs in C code with Multi-Level IR and VAST"][92]
 * ["Finding Gadgets for CPU Side-Channels with Static Analysis Tools"][75]
 * ["For Science! - Using an Unimpressive Bug in EDK II to Do Some Fun Exploitation"][70]
+* ["FortiNAC - Just a few more RCEs"][95]
 * ["Fortinet Series 3 — CVE-2022–42475 SSLVPN exploit strategy"][32]
 * ["Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues"][90]
 * "Fuzzing Farm":
@@ -59,11 +63,13 @@
   * ["Part 3 – Escaping the emulator"][41]
 * ["Obscure Windows File Types"][74]
 * ["OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept"][42]
+* ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
 * ["Red vs. Blue: Kerberos Ticket Times, Checksums, and You!"][30]
 * ["Retreading The AMLogic A113X TrustZone Exploit Process"][77]
 * ["Revisiting CVE-2017-11176"][48]
 * ["Shambles: The Next-Generation IoT Reverse Engineering Tool to Discover 0-Day Vulnerabilities"][55]
 * ["Shell in the Ghost: Ghostscript CVE-2023-28879 writeup"][76]
+* ["SRE deep dive into Linux Page Cache"][94]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][31]
 * ["The art of Fuzzing: Introduction"][57]
 * ["The art of fuzzing: Windows Binaries"][89]
@@ -103,6 +109,7 @@
   * ["Debugging the Kernel with QEMU"][25]
   * ["Smashing Stack Overflows in the Kernel"][26]
   * ["Controlling RIP and Escalating privileges via Stack Overflow"][27]
+* ["Recovering a Full PEM Private key when Half of it is Redacted"][96]
 
 ## 2020
 
@@ -226,3 +233,10 @@
 [91]: https://research.aurainfosec.io/pentest/bee-yond-capacity/
 [92]: https://blog.trailofbits.com/2023/06/15/finding-bugs-with-mlir-and-vast/
 [93]: https://labs.hakaioffsec.com/coffee-a-coff-loader-made-in-rust/
+[94]: https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/
+[95]: https://frycos.github.io/vulns4free/2023/06/18/fortinac.html
+[96]: https://blog.cryptohack.org/twitter-secrets
+[97]: https://labs.ioactive.com/2023/06/back-to-future-with-platform-security.html
+[98]: https://www.wiz.io/blog/pyloose-first-python-based-fileless-attack-on-cloud-workloads
+[99]: https://www.mdsec.co.uk/2023/06/cve-2023-26258-remote-code-execution-in-arcserve-udp-backup/
+[100]: https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos
