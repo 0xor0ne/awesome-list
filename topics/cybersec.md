@@ -44,6 +44,13 @@
 * ["Hacking Amazon's eero 6 (part 1)"][86]
 * ["Hacking Brightway scooters: A case study"][29]
 * ["Hardware Hacking to Bypass BIOS Passwords"][5]
+* "How I Hacked my Car":
+  * [Part 1][101]
+  * [Part 2][102]
+  * [Part 3][103]
+  * [Part 4][104]
+  * [Part 5][105]
+  * [Part 6][106]
 * ["Intercepting Allocations with the Global Allocator"][79]
 * ["Introduction to SELinux"][59]
 * ["Learn Makefiles With the tastiest examples"][24]
@@ -240,3 +247,9 @@
 [98]: https://www.wiz.io/blog/pyloose-first-python-based-fileless-attack-on-cloud-workloads
 [99]: https://www.mdsec.co.uk/2023/06/cve-2023-26258-remote-code-execution-in-arcserve-udp-backup/
 [100]: https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos
+[101]: https://programmingwithstyle.com/posts/howihackedmycar/
+[102]: https://programmingwithstyle.com/posts/howihackedmycarpart2/
+[103]: https://programmingwithstyle.com/posts/howihackedmycarpart3/
+[104]: https://programmingwithstyle.com/posts/howihackedmycarpart4/
+[105]: https://programmingwithstyle.com/posts/howihackedmycarpart5/
+[106]: https://programmingwithstyle.com/posts/myhackedcarisdoomed/
