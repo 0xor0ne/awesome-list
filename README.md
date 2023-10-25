@@ -381,6 +381,7 @@ My personal awesome list of interesting repos, libraries and tools.
   * ARM:
     * [Docs][124]: official documentation.
     * [Instructions Reference][125]: official instruction reference.
+    * [A Guide to ARM64 / AArch64 Assembly on Linux][527]
   * MIPS:
     * [Manuals][128]: official manuals.
   * RISC-V:
@@ -978,3 +979,4 @@ My personal awesome list of interesting repos, libraries and tools.
 [524]: https://github.com/rust-fuzz/arbitrary/
 [525]: https://github.com/google/bindiff/tree/main
 [526]: http://diffing.quarkslab.com
+[527]: https://modexp.wordpress.com/2018/10/30/arm64-assembly/
