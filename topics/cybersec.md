@@ -14,6 +14,15 @@
 
 * ["A Deep Dive into Penetration Testing of macOS Applications (Part 1)"][49]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
+* ["Analysis of VirtualBox CVE-2023-21987 and CVE-2023-21991"][119]
+* "ARM64 Reversing And Exploitation" (8ksec)
+  * [Part 1][107]
+  * [Part 2][108]
+  * [Part 3][109]
+  * [Part 4][110]
+  * [Part 5][111]
+  * [Part 6][112]
+  * [Part 7][113]
 * ["Back to the Future with Platform Security"][97]
 * ["Bash Privileged-Mode Vulnerabilities in Parallel Desktop and CDPATH Handling in MacOS"][100]
 * ["Bee-yond Capacity: Unauthenticated RCE in Extreme Networks/Aerohive Wireless APs - CVE-2023-35803"][91]
@@ -135,6 +144,12 @@
 ## 2016
 
 * ["Implementation of Signal Handling"][23]
+* "Practical Reverse Engineering"
+  * ["Digging Through the Firmware"][114]
+  * ["Scouting the Firmware"][115]
+  * ["Following the Data"][116]
+  * ["Dumping the Flash"][117]
+  * ["Digging Through the Firmware"][118]
 * ["Understanding and Hardening Linux Containers"][50]
 
 ## Other
@@ -253,3 +268,16 @@
 [104]: https://programmingwithstyle.com/posts/howihackedmycarpart4/
 [105]: https://programmingwithstyle.com/posts/howihackedmycarpart5/
 [106]: https://programmingwithstyle.com/posts/myhackedcarisdoomed/
+[107]: https://8ksec.io/arm64-reversing-and-exploitation-part-1-arm-instruction-set-simple-heap-overflow/
+[108]: https://8ksec.io/arm64-reversing-and-exploitation-part-2-use-after-free/
+[109]: https://8ksec.io/arm64-reversing-and-exploitation-part-3-a-simple-rop-chain/
+[110]: https://8ksec.io/arm64-reversing-and-exploitation-part-4-using-mprotect-to-bypass-nx-protection-8ksec-blogs/
+[111]: https://8ksec.io/arm64-reversing-and-exploitation-part-5-writing-shellcode-8ksec-blogs/
+[112]: https://8ksec.io/arm64-reversing-and-exploitation-part-6-exploiting-an-uninitialized-stack-variable-vulnerability/
+[113]: https://8ksec.io/arm64-reversing-and-exploitation-part-7-bypassing-aslr-and-nx/
+[114]: http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/
+[115]: https://jcjc-dev.com/2016/04/29/reversing-huawei-router-2-scouting-firmware/
+[116]: https://jcjc-dev.com/2016/05/23/reversing-huawei-3-sniffing/
+[117]: https://jcjc-dev.com/2016/06/08/reversing-huawei-4-dumping-flash/
+[118]: https://jcjc-dev.com/2016/12/14/reversing-huawei-5-reversing-firmware/
+[119]: https://qriousec.github.io/post/vbox-pwn2own-2023/
