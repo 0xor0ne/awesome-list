@@ -520,6 +520,9 @@ My personal awesome list of interesting repos, libraries and tools.
 
 * [FreeRTOS][140]: open source, real-time operating system for microcontrollers.
 * [MangooseOS][139]: IoT operating system and networking library.
+* [MyNewt][529]: OS to build, deploy and securely manage billions of device
+* [NuttX][528]: mature, real-time embedded operating system (RTOS)
+* [RIOT][530]: Operating System for the Internet of Things
 * [ThreadX][302]: advanced real-time operating system (RTOS) designed
   specifically for deeply embedded applications.
 * [Tock][210]: secure embedded operating system for microcontrollers.
@@ -980,3 +983,6 @@ My personal awesome list of interesting repos, libraries and tools.
 [525]: https://github.com/google/bindiff/tree/main
 [526]: http://diffing.quarkslab.com
 [527]: https://modexp.wordpress.com/2018/10/30/arm64-assembly/
+[528]: https://nuttx.apache.org
+[529]: https://mynewt.apache.org
+[530]: https://www.riot-os.org
