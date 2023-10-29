@@ -50,6 +50,12 @@
   * ["Evaluating Performance of Fuzzer"][44]
   * ["Patch Analysis and PoC Development"][45]
   * ["Hunting and Exploiting 0-day [CVE-2022-24834]"][46]
+* "Ghidra" (Craig Young):
+  * ["A Guide to Reversing Shared Objects with Ghidra"][121]
+  * ["Reversing a Simple CrackMe with Ghidra Decompiler"][122]
+  * ["Vulnerability Hunting with Ghidra"][123]
+  * ["Patching a Bug from a Ghidra Listing"][124]
+  * ["Vulnerability Analysis with Ghidra Scripting"][125]
 * ["Hacking Amazon's eero 6 (part 1)"][86]
 * ["Hacking Brightway scooters: A case study"][29]
 * ["Hardware Hacking to Bypass BIOS Passwords"][5]
@@ -112,6 +118,7 @@
   * ["orbi hunting 0x1: crashes in soap-api"][34]
   * ["nday exploit: netgear orbi unauthenticated command injection (cve-2020-27861)"][35]
 * ["nday exploit: libinput format string bug, canary leak exploit (cve-2022-1215)"][63]
+* ["Pulling MikroTik into the Limelight"][120]
 * ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
 * ["Turning Google smart speakers into wiretaps for $100k"][18]
 
@@ -281,3 +288,9 @@
 [117]: https://jcjc-dev.com/2016/06/08/reversing-huawei-4-dumping-flash/
 [118]: https://jcjc-dev.com/2016/12/14/reversing-huawei-5-reversing-firmware/
 [119]: https://qriousec.github.io/post/vbox-pwn2own-2023/
+[120]: https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/
+[121]: https://medium.com/@cy1337/a-guide-to-reversing-shared-objects-with-ghidra-cec83d5031e6
+[122]: https://medium.com/@cy1337/reversing-a-simple-crackme-with-ghidra-decompiler-5dd1b1c3c0ba
+[123]: https://medium.com/@cy1337/vulnerability-hunting-with-ghidra-fb3fc53470ba
+[124]: https://medium.com/@cy1337/patching-a-bug-from-a-ghidra-listing-8496e529224a
+[125]: https://medium.com/@cy1337/vulnerability-analysis-with-ghidra-scripting-ccf416cfa56d
