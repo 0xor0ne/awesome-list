@@ -35,6 +35,7 @@
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
 * ["Drone Security and Fault Injection Attacks"][82]
 * ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
+* ["Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers"][130]
 * ["EPF: Evil Packet Filter"][73]
 * ["ESP32-C3 Wireless Adventure A Comprehensive Guide to IoT"][69]
 * ["Executing Arbitrary Code & Executables in Read-Only FileSystems"][52]
@@ -69,6 +70,7 @@
 * ["Intercepting Allocations with the Global Allocator"][79]
 * ["Introduction to SELinux"][59]
 * ["Learn Makefiles With the tastiest examples"][24]
+* ["Linux Kernel Teaching"][131]
 * ["Linux rootkits explained – Part 1: Dynamic linker hijacking"][60]
 * ["Linux Shellcode 101: From Hell to Shell"][53]
 * "Lord Of The Ring0":
@@ -78,6 +80,9 @@
   * [Part 4][13]
   * [Part 5][14]
 * ["Low-Level Software Security for Compiler Developers"][15]
+* "Malware Reverse Engineering for Beginners":
+  * [Part 1][128]
+  * [Part 2][129]
 * "mast1c0re"
   * ["Introduction – Exploiting the PS4 and PS5 through a game save"][38]
   * ["Part 1 – Modifying PS2 game save files"][39]
@@ -121,6 +126,8 @@
 * ["Pulling MikroTik into the Limelight"][120]
 * ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
 * ["Turning Google smart speakers into wiretaps for $100k"][18]
+* ["Vulnerabilities and Hardware Teardown of GL.iNET GL-MT300N-V2 Router"][126]
+* ["Vulnerabilities in Tenda's W15Ev2 AC1200 Router"][127]
 
 ## 2021
 
@@ -294,3 +301,9 @@
 [123]: https://medium.com/@cy1337/vulnerability-hunting-with-ghidra-fb3fc53470ba
 [124]: https://medium.com/@cy1337/patching-a-bug-from-a-ghidra-listing-8496e529224a
 [125]: https://medium.com/@cy1337/vulnerability-analysis-with-ghidra-scripting-ccf416cfa56d
+[126]: https://boschko.ca/glinet-router/
+[127]: https://boschko.ca/tenda_ac1200_router/
+[128]: https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/
+[129]: https://intezer.com/blog/incident-response/malware-reverse-engineering-for-beginners-part-2/
+[130]: https://www.zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers
+[131]: https://linux-kernel-labs.github.io/refs/heads/master/index.html
