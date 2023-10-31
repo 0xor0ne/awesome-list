@@ -6,6 +6,7 @@
 * [2022](#2022)
 * [2021](#2021)
 * [2020](#2020)
+* [2019](#2019)
 * [2018](#2018)
 * [2016](#2016)
 * [Other](#other)
@@ -13,6 +14,7 @@
 ## 2023
 
 * ["A Deep Dive into Penetration Testing of macOS Applications (Part 1)"][49]
+* ["Abusing undocumented features to spoof PE section headers"][139]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
 * ["Analysis of VirtualBox CVE-2023-21987 and CVE-2023-21991"][119]
 * "ARM64 Reversing And Exploitation" (8ksec)
@@ -94,6 +96,7 @@
 * ["Red vs. Blue: Kerberos Ticket Times, Checksums, and You!"][30]
 * ["Retreading The AMLogic A113X TrustZone Exploit Process"][77]
 * ["Revisiting CVE-2017-11176"][48]
+* ["Rust to Assembly: Understanding the Inner Workings of Rust"][134]
 * ["Shambles: The Next-Generation IoT Reverse Engineering Tool to Discover 0-Day Vulnerabilities"][55]
 * ["Shell in the Ghost: Ghostscript CVE-2023-28879 writeup"][76]
 * ["SRE deep dive into Linux Page Cache"][94]
@@ -118,6 +121,9 @@
   * [Part 3][66]
   * [Part 4][67]
   * [Part 5][68]
+* "Hacking Some More Secure USB Flash Drives":
+  * [Part 1][132]
+  * [Part 2][133]
 * "Netgear Orbi":
   * ["orbi hunting 0x0: introduction, uart access, recon"][33]
   * ["orbi hunting 0x1: crashes in soap-api"][34]
@@ -145,6 +151,14 @@
 
 * ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
 * ["NTLM Relay"][56]
+
+## 2019
+
+* "Executable and Linkable Format 101":
+  * ["Sections and Segments"][135]
+  * ["Symbols"][136]
+  * ["Relocations"][137]
+  * ["Dynamic Linking"][138]
 
 ## 2018
 
@@ -307,3 +321,11 @@
 [129]: https://intezer.com/blog/incident-response/malware-reverse-engineering-for-beginners-part-2/
 [130]: https://www.zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers
 [131]: https://linux-kernel-labs.github.io/refs/heads/master/index.html
+[132]: https://blog.syss.com/posts/hacking-usb-flash-drives-part-1/
+[133]: https://blog.syss.com/posts/hacking-usb-flash-drives-part-2/
+[134]: https://eventhelix.com/rust/
+[135]: https://intezer.com/blog/research/executable-linkable-format-101-part1-sections-segments/
+[136]: https://intezer.com/blog/malware-analysis/executable-linkable-format-101-part-2-symbols/
+[137]: https://intezer.com/blog/malware-analysis/executable-and-linkable-format-101-part-3-relocations/
+[138]: https://intezer.com/blog/malware-analysis/executable-linkable-format-101-part-4-dynamic-linking/
+[139]: https://secret.club/2023/06/05/spoof-pe-sections.html
