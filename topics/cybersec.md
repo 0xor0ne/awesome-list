@@ -41,6 +41,7 @@
 * ["EPF: Evil Packet Filter"][73]
 * ["ESP32-C3 Wireless Adventure A Comprehensive Guide to IoT"][69]
 * ["Executing Arbitrary Code & Executables in Read-Only FileSystems"][52]
+* ["Exploit Engineering – Attacking the Linux Kernel"][146]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
 * ["Finding bugs in C code with Multi-Level IR and VAST"][92]
 * ["Finding Gadgets for CPU Side-Channels with Static Analysis Tools"][75]
@@ -69,6 +70,8 @@
   * [Part 4][104]
   * [Part 5][105]
   * [Part 6][106]
+* ["How To Secure A Linux Server"][140]
+* ["In-depth analysis on Valorant’s Guarded Regions"][141]
 * ["Intercepting Allocations with the Global Allocator"][79]
 * ["Introduction to SELinux"][59]
 * ["Learn Makefiles With the tastiest examples"][24]
@@ -114,6 +117,7 @@
 ## 2022
 
 * ["Dumping the Amlogic A113X Bootrom"][78]
+* ["Embedded Systems Security and TrustZone"][145]
 * ["exploiting CVE-2019-2215"][61]
 * "Hunting for Persistence in Linux"
   * [Part 1][64]
@@ -146,6 +150,10 @@
   * ["Smashing Stack Overflows in the Kernel"][26]
   * ["Controlling RIP and Escalating privileges via Stack Overflow"][27]
 * ["Recovering a Full PEM Private key when Half of it is Redacted"][96]
+* "Reverse Engineering Bare-Metal Firmware":
+  * [Part 1][142]
+  * [Part 2][143]
+  * [Part 3][144]
 
 ## 2020
 
@@ -329,3 +337,10 @@
 [137]: https://intezer.com/blog/malware-analysis/executable-and-linkable-format-101-part-3-relocations/
 [138]: https://intezer.com/blog/malware-analysis/executable-linkable-format-101-part-4-dynamic-linking/
 [139]: https://secret.club/2023/06/05/spoof-pe-sections.html
+[140]: https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+[141]: https://reversing.info/posts/guardedregions/
+[142]: https://ragnarsecurity.medium.com/reverse-engineering-bare-metal-kernel-images-part-2-6a52a4afa3ef
+[143]: https://ragnarsecurity.medium.com/reverse-engineering-bare-metal-kernel-images-part-2-6a52a4afa3ef
+[144]: https://medium.com/geekculture/reverse-engineering-bare-metal-firmware-part-3-analyzing-arm-assembly-and-exploiting-3b2dbe219f19
+[145]: https://embeddedsecurity.io
+[146]: https://research.nccgroup.com/2023/05/23/offensivecon-2023-exploit-engineering-attacking-the-linux-kernel/
