@@ -38,6 +38,7 @@
 * ["Drone Security and Fault Injection Attacks"][82]
 * ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
 * ["Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers"][130]
+* ["Exploiting null-dereferences in the Linux kernel"][148]
 * ["EPF: Evil Packet Filter"][73]
 * ["ESP32-C3 Wireless Adventure A Comprehensive Guide to IoT"][69]
 * ["Executing Arbitrary Code & Executables in Read-Only FileSystems"][52]
@@ -63,6 +64,11 @@
 * ["Hacking Amazon's eero 6 (part 1)"][86]
 * ["Hacking Brightway scooters: A case study"][29]
 * ["Hardware Hacking to Bypass BIOS Passwords"][5]
+* "How NATs Work":
+  * [Part 1][152]
+  * [Part 2][153]
+  * [Part 3][154]
+  * [Part 4][155]
 * "How I Hacked my Car":
   * [Part 1][101]
   * [Part 2][102]
@@ -98,6 +104,10 @@
 * ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
 * ["Red vs. Blue: Kerberos Ticket Times, Checksums, and You!"][30]
 * ["Retreading The AMLogic A113X TrustZone Exploit Process"][77]
+* "DualShock4 Reverse Engineering":
+  * [Part 1][149]
+  * [Part 3][150]
+  * [Part 3][151]
 * ["Revisiting CVE-2017-11176"][48]
 * ["Rust to Assembly: Understanding the Inner Workings of Rust"][134]
 * ["Shambles: The Next-Generation IoT Reverse Engineering Tool to Discover 0-Day Vulnerabilities"][55]
@@ -154,6 +164,7 @@
   * [Part 1][142]
   * [Part 2][143]
   * [Part 3][144]
+* ["Reverse Engineering Yaesu FT-70D Firmware Encryption"][147]
 
 ## 2020
 
@@ -344,3 +355,12 @@
 [144]: https://medium.com/geekculture/reverse-engineering-bare-metal-firmware-part-3-analyzing-arm-assembly-and-exploiting-3b2dbe219f19
 [145]: https://embeddedsecurity.io
 [146]: https://research.nccgroup.com/2023/05/23/offensivecon-2023-exploit-engineering-attacking-the-linux-kernel/
+[147]: https://landaire.net/reversing-yaesu-firmware-encryption/
+[148]: https://googleprojectzero.blogspot.com/2023/01/exploiting-null-dereferences-in-linux.html
+[149]: https://blog.the.al/2023/01/01/ds4-reverse-engineering.html
+[150]: https://blog.the.al/2023/01/02/ds4-reverse-engineering-part-2.html
+[151]: https://blog.the.al/2023/01/03/ds4-reverse-engineering-part-3.html
+[152]: https://educatedguesswork.org/posts/nat-part-1/
+[153]: https://educatedguesswork.org/posts/nat-part-2/
+[154]: https://educatedguesswork.org/posts/nat-part-3/
+[155]: https://educatedguesswork.org/posts/nat-part-4/
