@@ -14,6 +14,7 @@
 ## 2023
 
 * ["A Deep Dive into Penetration Testing of macOS Applications (Part 1)"][49]
+* ["A Red-Teamer diaries"][156]
 * ["Abusing undocumented features to spoof PE section headers"][139]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
 * ["Analysis of VirtualBox CVE-2023-21987 and CVE-2023-21991"][119]
@@ -80,10 +81,12 @@
 * ["In-depth analysis on Valorant’s Guarded Regions"][141]
 * ["Intercepting Allocations with the Global Allocator"][79]
 * ["Introduction to SELinux"][59]
+* ["Kernel Exploit Factory"][159]
 * ["Learn Makefiles With the tastiest examples"][24]
 * ["Linux Kernel Teaching"][131]
 * ["Linux rootkits explained – Part 1: Dynamic linker hijacking"][60]
 * ["Linux Shellcode 101: From Hell to Shell"][53]
+* ["Local Privilege Escalation on the DJI RM500 Smart Controller"][160]
 * "Lord Of The Ring0":
   * [Part 1][10]
   * [Part 2][11]
@@ -151,6 +154,9 @@
 
 ## 2021
 
+* "Digging into Linux namespaces":
+  * [Part 1][157]
+  * [Part 2][158]
 * "Learning Linux Kernel Exploitation":
   * [Part 1][83]
   * [Part 2][84]
@@ -168,6 +174,7 @@
 
 ## 2020
 
+* ["Exception(al) Failure - Breaking the STM32F1 Read-Out Protection"][161]
 * ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
 * ["NTLM Relay"][56]
 
@@ -364,3 +371,9 @@
 [153]: https://educatedguesswork.org/posts/nat-part-2/
 [154]: https://educatedguesswork.org/posts/nat-part-3/
 [155]: https://educatedguesswork.org/posts/nat-part-4/
+[156]: https://github.com/ihebski/A-Red-Teamer-diaries
+[157]: https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html
+[158]: https://blog.quarkslab.com/digging-into-linux-namespaces-part-2.html
+[159]: https://github.com/bsauce/kernel-exploit-factory
+[160]: https://icanhack.nl/blog/dji-rm500-privilege-escalation/
+[161]: https://blog.zapb.de/stm32f1-exceptional-failure/
