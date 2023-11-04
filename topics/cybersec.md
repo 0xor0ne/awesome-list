@@ -36,6 +36,7 @@
 * ["CVE-2023-26258 – Remote Code Execution in ArcServe UDP Backup"][99]
 * ["Debugger Ghidra Class"][28]
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
+* ["Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”"][164]
 * ["Drone Security and Fault Injection Attacks"][82]
 * ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
 * ["Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers"][130]
@@ -84,6 +85,7 @@
 * ["Kernel Exploit Factory"][159]
 * ["Learn Makefiles With the tastiest examples"][24]
 * ["Linux Kernel Teaching"][131]
+* ["Linux Malware: Defense Evasion Techniques"][165]
 * ["Linux rootkits explained – Part 1: Dynamic linker hijacking"][60]
 * ["Linux Shellcode 101: From Hell to Shell"][53]
 * ["Local Privilege Escalation on the DJI RM500 Smart Controller"][160]
@@ -104,6 +106,7 @@
   * ["Part 3 – Escaping the emulator"][41]
 * ["Obscure Windows File Types"][74]
 * ["OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept"][42]
+* ["Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500"][166]
 * ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
 * ["Red vs. Blue: Kerberos Ticket Times, Checksums, and You!"][30]
 * ["Retreading The AMLogic A113X TrustZone Exploit Process"][77]
@@ -129,6 +132,8 @@
 
 ## 2022
 
+* ["CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF"][168]
+* ["DirtyCred Remastered: how to turn an UAF into Privilege Escalation"][167]
 * ["Dumping the Amlogic A113X Bootrom"][78]
 * ["Embedded Systems Security and TrustZone"][145]
 * ["exploiting CVE-2019-2215"][61]
@@ -147,6 +152,9 @@
   * ["nday exploit: netgear orbi unauthenticated command injection (cve-2020-27861)"][35]
 * ["nday exploit: libinput format string bug, canary leak exploit (cve-2022-1215)"][63]
 * ["Pulling MikroTik into the Limelight"][120]
+* "Reversing embedded device bootloader (U-Boot)":
+  * [Part 1][162]
+  * [Part 2][163]
 * ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
 * ["Turning Google smart speakers into wiretaps for $100k"][18]
 * ["Vulnerabilities and Hardware Teardown of GL.iNET GL-MT300N-V2 Router"][126]
@@ -377,3 +385,10 @@
 [159]: https://github.com/bsauce/kernel-exploit-factory
 [160]: https://icanhack.nl/blog/dji-rm500-privilege-escalation/
 [161]: https://blog.zapb.de/stm32f1-exceptional-failure/
+[162]: https://www.shielder.com/blog/2022/03/reversing-embedded-device-bootloader-u-boot-p.1/
+[163]: https://www.shielder.com/blog/2022/03/reversing-embedded-device-bootloader-u-boot-p.2/
+[164]: https://securityintelligence.com/x-force/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/
+[165]: https://mutur4.github.io/posts/linux-malware-development/edr/
+[166]: https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/
+[167]: https://exploiter.dev/blog/2022/CVE-2022-2602.html
+[168]: https://blog.hacktivesecurity.com/index.php/2022/12/21/cve-2022-2602-dirtycred-file-exploitation-applied-on-an-io_uring-uaf/
