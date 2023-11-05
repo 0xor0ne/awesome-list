@@ -46,6 +46,7 @@
 * ["Executing Arbitrary Code & Executables in Read-Only FileSystems"][52]
 * ["Exploit Engineering – Attacking the Linux Kernel"][146]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
+* ["Finding and exploiting process killer drivers with LOL for 3000$"][172]
 * ["Finding bugs in C code with Multi-Level IR and VAST"][92]
 * ["Finding Gadgets for CPU Side-Channels with Static Analysis Tools"][75]
 * ["For Science! - Using an Unimpressive Bug in EDK II to Do Some Fun Exploitation"][70]
@@ -79,11 +80,13 @@
   * [Part 5][105]
   * [Part 6][106]
 * ["How To Secure A Linux Server"][140]
+* ["Icicle: A Re-designed Emulator for Grey-Box Firmware Fuzzing"][171]
 * ["In-depth analysis on Valorant’s Guarded Regions"][141]
 * ["Intercepting Allocations with the Global Allocator"][79]
 * ["Introduction to SELinux"][59]
 * ["Kernel Exploit Factory"][159]
 * ["Learn Makefiles With the tastiest examples"][24]
+* [linux-re-101][169]
 * ["Linux Kernel Teaching"][131]
 * ["Linux Malware: Defense Evasion Techniques"][165]
 * ["Linux rootkits explained – Part 1: Dynamic linker hijacking"][60]
@@ -104,6 +107,7 @@
   * ["Part 1 – Modifying PS2 game save files"][39]
   * ["Part 2 – Arbitrary PS2 code execution"][40]
   * ["Part 3 – Escaping the emulator"][41]
+* ["Meterpreter vs Modern EDR(s)"][170]
 * ["Obscure Windows File Types"][74]
 * ["OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept"][42]
 * ["Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500"][166]
@@ -392,3 +396,7 @@
 [166]: https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/
 [167]: https://exploiter.dev/blog/2022/CVE-2022-2602.html
 [168]: https://blog.hacktivesecurity.com/index.php/2022/12/21/cve-2022-2602-dirtycred-file-exploitation-applied-on-an-io_uring-uaf/
+[169]: https://github.com/michalmalik/linux-re-101
+[170]: https://redops.at/en/blog/meterpreter-vs-modern-edrs-in-2023
+[171]: https://arxiv.org/pdf/2301.13346.pdf
+[172]: https://alice.climent-pommeret.red/posts/process-killer-driver/
