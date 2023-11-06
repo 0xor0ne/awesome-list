@@ -39,6 +39,7 @@
 * ["Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”"][164]
 * ["Drone Security and Fault Injection Attacks"][82]
 * ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
+* ["Escaping the Google kCTF Container with a Data-Only Exploit"][178]
 * ["Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers"][130]
 * ["Exploiting null-dereferences in the Linux kernel"][148]
 * ["EPF: Evil Packet Filter"][73]
@@ -108,6 +109,7 @@
   * ["Part 2 – Arbitrary PS2 code execution"][40]
   * ["Part 3 – Escaping the emulator"][41]
 * ["Meterpreter vs Modern EDR(s)"][170]
+* ["MSMQ QueueJumper (RCE Vulnerability): An in-depth technical analysis"][177]
 * ["Obscure Windows File Types"][74]
 * ["OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept"][42]
 * ["Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500"][166]
@@ -136,6 +138,7 @@
 
 ## 2022
 
+* ["Blind Exploits to Rule Watchguard Firewalls"][173]
 * ["CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF"][168]
 * ["DirtyCred Remastered: how to turn an UAF into Privilege Escalation"][167]
 * ["Dumping the Amlogic A113X Bootrom"][78]
@@ -197,6 +200,8 @@
   * ["Symbols"][136]
   * ["Relocations"][137]
   * ["Dynamic Linking"][138]
+* ["Hardening Secure Boot on Embedded Devices for Hostile Environments"][175]
+* ["Pew Pew Pew: Designing Secure Boot Securely"][176]
 
 ## 2018
 
@@ -209,6 +214,7 @@
 
 ## 2016
 
+* ["Bypassing Secure Boot using Fault Injection"][174]
 * ["Implementation of Signal Handling"][23]
 * "Practical Reverse Engineering"
   * ["Digging Through the Firmware"][114]
@@ -400,3 +406,9 @@
 [170]: https://redops.at/en/blog/meterpreter-vs-modern-edrs-in-2023
 [171]: https://arxiv.org/pdf/2301.13346.pdf
 [172]: https://alice.climent-pommeret.red/posts/process-killer-driver/
+[173]: https://web.archive.org/web/20230628130110/https://www.ambionics.io/blog/hacking-watchguard-firewalls
+[174]: https://raelize.com/upload/research/2016/2016_BlackHat-EU_Bypassing-Secure-Boot-Using-Fault-Injection_NT-AS.pdf
+[175]: https://raelize.com/upload/research/2019/2019_BlueHat-IL_Hardening-Secure-Boot-on-Embedded-Devices-for-Hostile-Environments_NT-AS-CM.pdf
+[176]: https://raelize.com/upload//research/2019/2019_Designing-Secure-Boot-Securely_NT-AS.pdf
+[177]: https://securityintelligence.com/x-force/msmq-queuejumper-rce-vulnerability-technical-analysis/#
+[178]: https://h0mbre.github.io/kCTF_Data_Only_Exploit/#
