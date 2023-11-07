@@ -35,10 +35,12 @@
 * ["CVE-2023-2008 - Analyzing and exploiting a bug in the udmabuf driver"][72]
 * ["CVE-2023-26258 – Remote Code Execution in ArcServe UDP Backup"][99]
 * ["Debugger Ghidra Class"][28]
+* ["Detecting BPFDoor Backdoor Variants Abusing BPF Filters"][183]
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
 * ["Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”"][164]
 * ["Drone Security and Fault Injection Attacks"][82]
 * ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
+* ["Encrypted Doesn't Mean Authenticated: ShareFile RCE (CVE-2023-24489)"][182]
 * ["Escaping the Google kCTF Container with a Data-Only Exploit"][178]
 * ["Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers"][130]
 * ["Exploiting null-dereferences in the Linux kernel"][148]
@@ -134,6 +136,7 @@
 * ["Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was"][80]
 * ["Your not so "Home Office" - SOHO Hacking at Pwn2Own"][5]
 * ["UNCONTAINED: Uncovering Container Confusion in the Linux Kernel"][37]
+* ["Under The Hood - Disassembling of IKEA-Sonos Symfonisk Speaker Lamp"][180]
 * ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
 
 ## 2022
@@ -169,6 +172,7 @@
 
 ## 2021
 
+* ["CVE-2021–20226 a reference counting bug which leads to local privilege escalation in io_uring."][179]
 * "Digging into Linux namespaces":
   * [Part 1][157]
   * [Part 2][158]
@@ -191,6 +195,7 @@
 
 * ["Exception(al) Failure - Breaking the STM32F1 Read-Out Protection"][161]
 * ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
+* ["House of Muney - Leakless Heap Exploitation Technique"][181]
 * ["NTLM Relay"][56]
 
 ## 2019
@@ -412,3 +417,9 @@
 [176]: https://raelize.com/upload//research/2019/2019_Designing-Secure-Boot-Securely_NT-AS.pdf
 [177]: https://securityintelligence.com/x-force/msmq-queuejumper-rce-vulnerability-technical-analysis/#
 [178]: https://h0mbre.github.io/kCTF_Data_Only_Exploit/#
+[179]:
+https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a
+[180]: https://starlabs.sg/blog/2023/08-ikea-sonos-symfonisk-speaker-lamp-teardown/
+[181]: https://maxwelldulin.com/BlogPost/House-of-Muney-Heap-Exploitation
+[182]: https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/
+[183]: https://www.trendmicro.com/en_ph/research/23/g/detecting-bpfdoor-backdoor-variants-abusing-bpf-filters.html
