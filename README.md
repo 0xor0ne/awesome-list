@@ -468,6 +468,8 @@ My personal awesome list of interesting repos, libraries and tools.
       some C++) libraries.
     * [teloxide][490]: Telegram bots framework for Rust.
     * [tui][489]: terminal user interfaces and dashboards using Rust.
+* Shell:
+  * [Shell Scripting Primer][531]: shell programming guide from Apple.
 
 ## Reverse Engineering
 
@@ -986,3 +988,4 @@ My personal awesome list of interesting repos, libraries and tools.
 [528]: https://nuttx.apache.org
 [529]: https://mynewt.apache.org
 [530]: https://www.riot-os.org
+[531]: https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004268-TP40003516-SW1
