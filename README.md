@@ -502,6 +502,7 @@ My personal awesome list of interesting repos, libraries and tools.
 * [fq][227]: jq for binary formats.
 * [Ghidra][206]: software reverse engineering (SRE) framework.
   * [Sekiryu][517]: comprehensive toolkit for Ghidra headless.
+* [ghidriff][532]: Python Command-Line Ghidra Binary Diffing Engine.
 * [Kaitai Struct][231]: declarative language to generate binary data parsers.
 * [Keystone Engine][232]: assembler framework.
 * [Linux syscalls][462]: Linux kernel syscall tables
@@ -989,3 +990,4 @@ My personal awesome list of interesting repos, libraries and tools.
 [529]: https://mynewt.apache.org
 [530]: https://www.riot-os.org
 [531]: https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004268-TP40003516-SW1
+[532]: https://github.com/clearbluejar/ghidriff
