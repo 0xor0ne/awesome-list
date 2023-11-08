@@ -34,6 +34,7 @@
 * ["Coffee: A COFF loader made in Rust"][93]
 * ["CVE-2023-2008 - Analyzing and exploiting a bug in the udmabuf driver"][72]
 * ["CVE-2023-26258 – Remote Code Execution in ArcServe UDP Backup"][99]
+* ["CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent"][186]
 * ["Debugger Ghidra Class"][28]
 * ["Detecting BPFDoor Backdoor Variants Abusing BPF Filters"][183]
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
@@ -115,7 +116,9 @@
 * ["Obscure Windows File Types"][74]
 * ["OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept"][42]
 * ["Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500"][166]
+* ["prctl anon_vma_name: An Amusing Linux Kernel Heap Spray"][184]
 * ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
+* ["Racing Against the Lock: Exploiting Spinlock UAF in the Android Kernel"][185]
 * ["Red vs. Blue: Kerberos Ticket Times, Checksums, and You!"][30]
 * ["Retreading The AMLogic A113X TrustZone Exploit Process"][77]
 * "DualShock4 Reverse Engineering":
@@ -193,6 +196,9 @@
 
 ## 2020
 
+* "BGET Explained Binary Heap Exploitation on OP-TEE":
+  * [Part 1][187]
+  * [Part 2][188]
 * ["Exception(al) Failure - Breaking the STM32F1 Read-Out Protection"][161]
 * ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
 * ["House of Muney - Leakless Heap Exploitation Technique"][181]
@@ -423,3 +429,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [181]: https://maxwelldulin.com/BlogPost/House-of-Muney-Heap-Exploitation
 [182]: https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/
 [183]: https://www.trendmicro.com/en_ph/research/23/g/detecting-bpfdoor-backdoor-variants-abusing-bpf-filters.html
+[184]: https://starlabs.sg/blog/2023/07-prctl-anon_vma_name-an-amusing-heap-spray/
+[185]: https://0xkol.github.io/assets/files/Racing_Against_the_Lock__Exploiting_Spinlock_UAF_in_the_Android_Kernel.pdf
+[186]: https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt
+[187]: https://phi1010.github.io/2020-09-14-bget-exploitation/
+[188]: https://phi1010.github.io/2020-11-02-bget-exploitation-2/
