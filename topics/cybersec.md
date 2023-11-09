@@ -14,6 +14,7 @@
 ## 2023
 
 * ["A Deep Dive into Penetration Testing of macOS Applications (Part 1)"][49]
+* ["A Potholing Tour in a SoC"][189]
 * ["A Red-Teamer diaries"][156]
 * ["Abusing undocumented features to spoof PE section headers"][139]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
@@ -31,6 +32,10 @@
 * ["Bee-yond Capacity: Unauthenticated RCE in Extreme Networks/Aerohive Wireless APs - CVE-2023-35803"][91]
 * ["Behind the Shield: Unmasking Scudos's Defenses"][8]
 * ["Breaking the Code - Exploiting and Examining CVE-2023-1829 in cls_tcindex Classifier Vulnerability"][81]
+* "chonked"
+  * ["minidlna 1.3.2 http chunk parsing heap overflow (cve-2023-33476) root cause analysis"][193]
+  * ["exploiting cve-2023-33476 for remote code execution"][194]
+* ["CAN Injection: keyless car theft"][195]
 * ["Coffee: A COFF loader made in Rust"][93]
 * ["CVE-2023-2008 - Analyzing and exploiting a bug in the udmabuf driver"][72]
 * ["CVE-2023-26258 – Remote Code Execution in ArcServe UDP Backup"][99]
@@ -46,6 +51,7 @@
 * ["Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers"][130]
 * ["Exploiting null-dereferences in the Linux kernel"][148]
 * ["EPF: Evil Packet Filter"][73]
+* ["Escaping from Bhyve"][192]
 * ["ESP32-C3 Wireless Adventure A Comprehensive Guide to IoT"][69]
 * ["Executing Arbitrary Code & Executables in Read-Only FileSystems"][52]
 * ["Exploit Engineering – Attacking the Linux Kernel"][146]
@@ -144,6 +150,9 @@
 
 ## 2022
 
+* "Bypassing software update package encryption ":
+  * ["Extracting the Lexmark MC3224i printer firmware"][190]
+  * ["Exploiting the Lexmark MC3224i printer"][191]
 * ["Blind Exploits to Rule Watchguard Firewalls"][173]
 * ["CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF"][168]
 * ["DirtyCred Remastered: how to turn an UAF into Privilege Escalation"][167]
@@ -434,3 +443,10 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [186]: https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt
 [187]: https://phi1010.github.io/2020-09-14-bget-exploitation/
 [188]: https://phi1010.github.io/2020-11-02-bget-exploitation-2/
+[189]: https://eshard.com/posts/sca-attacks-on-armv8
+[190]: https://research.nccgroup.com/2022/02/17/bypassing-software-update-package-encryption-extracting-the-lexmark-mc3224i-printer-firmware-part-1/
+[191]: https://research.nccgroup.com/2022/02/18/analyzing-a-pjl-directory-traversal-vulnerability-exploiting-the-lexmark-mc3224i-printer-part-2/
+[192]: https://www.synacktiv.com/publications/escaping-from-bhyve.html
+[193]: http://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html
+[194]: http://blog.coffinsec.com/0day/2023/06/19/minidlna-cve-2023-33476-exploits.html
+[195]: https://kentindell.github.io/2023/04/03/can-injection/
