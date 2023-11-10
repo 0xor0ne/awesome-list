@@ -1,5 +1,8 @@
 # Cybersecurity Content
 
+- Go back to [Home page (awesome list)](../)
+- See also [Exploitation specific content](./exploitation.md)
+
 ## Summary
 
 * [2023](#2023)
@@ -18,6 +21,9 @@
 * ["A Red-Teamer diaries"][156]
 * ["Abusing undocumented features to spoof PE section headers"][139]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
+* "Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway":
+  * [Part 1][196]
+  * [Part 2][197]
 * ["Analysis of VirtualBox CVE-2023-21987 and CVE-2023-21991"][119]
 * "ARM64 Reversing And Exploitation" (8ksec)
   * [Part 1][107]
@@ -55,6 +61,7 @@
 * ["ESP32-C3 Wireless Adventure A Comprehensive Guide to IoT"][69]
 * ["Executing Arbitrary Code & Executables in Read-Only FileSystems"][52]
 * ["Exploit Engineering – Attacking the Linux Kernel"][146]
+* ["Exploiting MikroTik RouterOS Hardware with CVE-2023-30799"][198]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
 * ["Finding and exploiting process killer drivers with LOL for 3000$"][172]
 * ["Finding bugs in C code with Multi-Level IR and VAST"][92]
@@ -222,6 +229,7 @@
   * ["Dynamic Linking"][138]
 * ["Hardening Secure Boot on Embedded Devices for Hostile Environments"][175]
 * ["Pew Pew Pew: Designing Secure Boot Securely"][176]
+* ["Reverse-engineering Broadcom wireless chipsets"][200]
 
 ## 2018
 
@@ -235,6 +243,7 @@
 ## 2016
 
 * ["Bypassing Secure Boot using Fault Injection"][174]
+* ["munmap madness"][199]
 * ["Implementation of Signal Handling"][23]
 * "Practical Reverse Engineering"
   * ["Digging Through the Firmware"][114]
@@ -450,3 +459,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [193]: http://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html
 [194]: http://blog.coffinsec.com/0day/2023/06/19/minidlna-cve-2023-33476-exploits.html
 [195]: https://kentindell.github.io/2023/04/03/can-injection/
+[196]: https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/
+[197]: https://blog.assetnote.io/2023/07/24/citrix-rce-part-2-cve-2023-3519/
+[198]: https://vulncheck.com/blog/mikrotik-foisted-revisited
+[199]: http://tukan.farm/2016/07/27/munmap-madness/
+[200]: https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html
