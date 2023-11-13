@@ -8,7 +8,7 @@ See also the following lists dedicated to specifics sub-topics:
   dedicated to cybersecurity
 * [Exploitation](topics/exploitation.md): resources dedicatd to the world of
   binary exploitation
-* [Linux Kernel](topics/linux_kernel.md): collection of resources dedicate to
+* [Linux Kernel](topics/linux_kernel.md): collection of resources dedicated to
   Linux kernel (internals)
 
 
