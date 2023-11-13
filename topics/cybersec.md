@@ -17,6 +17,8 @@
 ## 2023
 
 * ["A Deep Dive into Penetration Testing of macOS Applications (Part 1)"][49]
+* ["A Journey Into Hacking Google Search Appliance"][203]
+* ["A new method for container escape using file-based DirtyCred"][201]
 * ["A Potholing Tour in a SoC"][189]
 * ["A Red-Teamer diaries"][156]
 * ["Abusing undocumented features to spoof PE section headers"][139]
@@ -50,6 +52,7 @@
 * ["Detecting BPFDoor Backdoor Variants Abusing BPF Filters"][183]
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
 * ["Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”"][164]
+* ["Diving Into Smart Contract Decompilation"][204]
 * ["Drone Security and Fault Injection Attacks"][82]
 * ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
 * ["Encrypted Doesn't Mean Authenticated: ShareFile RCE (CVE-2023-24489)"][182]
@@ -116,6 +119,7 @@
   * [Part 4][13]
   * [Part 5][14]
 * ["Low-Level Software Security for Compiler Developers"][15]
+* ["LPE and RCE in RenderDoc: CVE-2023-33865, CVE-2023-33864, CVE-2023-33863"][202]
 * "Malware Reverse Engineering for Beginners":
   * [Part 1][128]
   * [Part 2][129]
@@ -128,6 +132,7 @@
 * ["MSMQ QueueJumper (RCE Vulnerability): An in-depth technical analysis"][177]
 * ["Obscure Windows File Types"][74]
 * ["OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept"][42]
+* ["P2PInfect: The Rusty Peer-to-Peer Self-Replicating Worm"][206]
 * ["Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500"][166]
 * ["prctl anon_vma_name: An Amusing Linux Kernel Heap Spray"][184]
 * ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
@@ -148,6 +153,7 @@
 * ["The art of fuzzing: Windows Binaries"][89]
 * ["The art of fuzzing-A Step-by-Step Guide to Coverage-Guided Fuzzing with LibFuzzer"][54]
 * ["The Linux Kernel Module Programming Guide"][3]
+* ["The Untold Story of the BlackLotus UEFI Bootkit"][205]
 * ["Sshimpanzee"][16]
 * ["Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was"][80]
 * ["Your not so "Home Office" - SOHO Hacking at Pwn2Own"][5]
@@ -464,3 +470,9 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [198]: https://vulncheck.com/blog/mikrotik-foisted-revisited
 [199]: http://tukan.farm/2016/07/27/munmap-madness/
 [200]: https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html
+[201]: https://starlabs.sg/blog/2023/07-a-new-method-for-container-escape-using-file-based-dirtycred/
+[202]: https://www.qualys.com/2023/06/06/renderdoc/renderdoc.txt
+[203]: https://devco.re/blog/2023/07/07/a-journey-into-hacking-google-search-appliance-en/
+[204]: https://jbecker.dev/research/diving-into-decompilation
+[205]: https://binarly.io/posts/The_Untold_Story_of_the_BlackLotus_UEFI_Bootkit/index.html
+[206]: https://unit42.paloaltonetworks.com/peer-to-peer-worm-p2pinfect/
