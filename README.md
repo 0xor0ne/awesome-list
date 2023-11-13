@@ -2,15 +2,15 @@
 
 My personal awesome list of interesting repos, libraries and tools.
 
-# In-Depth Topics
+See also the following lists dedicated to specifics sub-topics:
 
-* [Blockchains and Smart Contracts](topics/web3.md)
-* [Cyber Security Content](topics/cybersec.md)
-* [Exploitation](topics/exploitation.md)
-* [OT/IoT Security](topics/ot_security.md)
-* [Linux Kernel](topics/linux_kernel.md)
-* [Red Teaming and Offensive Security](topics/red-team-adversary-emulation.md)
-* [Wireless](topics/wireless.md)
+* [Cybersecurity](topics/cybersec.md): links to blog posts, writeups and papers
+  dedicated to cybersecurity
+* [Exploitation](topics/exploitation.md): resources dedicatd to the world of
+  binary exploitation
+* [Linux Kernel](topics/linux_kernel.md): collection of resources dedicate to
+  Linux kernel (internals)
+
 
 # Content
 
@@ -33,6 +33,8 @@ My personal awesome list of interesting repos, libraries and tools.
 * [Tools](#tools)
 * [Tracing, Hooking and Instrumentation](#tracing-hooking-and-instrumentation)
 * [Trusted Execution Environment](#trusted-execution-environment)
+
+* [Other lists](#other-lists)
 
 ## Awesome Lists
 
@@ -591,6 +593,14 @@ My personal awesome list of interesting repos, libraries and tools.
   * [Docs][55]: official OP-TEE documentation.
 * [TEE-reversing][447]: A curated list of public TEE resources for learning how
   to reverse-engineer and achieve trusted code execution on ARM devices.
+
+# Other Lists
+
+* [Blockchains and Smart Contracts](topics/web3.md)
+* [OT/IoT Security](topics/ot_security.md)
+* [Red Teaming and Offensive Security](topics/red-team-adversary-emulation.md)
+* [Wireless](topics/wireless.md)
+
 
 [1]: https://github.com/radareorg/radare2
 [2]: https://github.com/rizinorg/rizin
