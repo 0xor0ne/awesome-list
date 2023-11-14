@@ -131,8 +131,15 @@
 * ["Meterpreter vs Modern EDR(s)"][170]
 * ["MSMQ QueueJumper (RCE Vulnerability): An in-depth technical analysis"][177]
 * ["Obscure Windows File Types"][74]
+* "OPC UA Deep Dive Series":
+  * [Part 1][211]
+  * [Part 2][212]
+  * [Part 3][213]
+  * [Part 4][214]
+  * [Part 5][215]
 * ["OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept"][42]
 * ["P2PInfect: The Rusty Peer-to-Peer Self-Replicating Worm"][206]
+* ["P4wnP1-LTE"][209]
 * ["Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500"][166]
 * ["prctl anon_vma_name: An Amusing Linux Kernel Heap Spray"][184]
 * ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
@@ -157,15 +164,18 @@
 * ["Sshimpanzee"][16]
 * ["Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was"][80]
 * ["Your not so "Home Office" - SOHO Hacking at Pwn2Own"][5]
+* ["Unauthenticated RCE on a RIGOL oscilloscope"][210]
 * ["UNCONTAINED: Uncovering Container Confusion in the Linux Kernel"][37]
 * ["Under The Hood - Disassembling of IKEA-Sonos Symfonisk Speaker Lamp"][180]
 * ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
+* ["Zenbleed"][207]
 
 ## 2022
 
 * "Bypassing software update package encryption ":
   * ["Extracting the Lexmark MC3224i printer firmware"][190]
   * ["Exploiting the Lexmark MC3224i printer"][191]
+* ["Bypassing vtable Check in glibc File Structures"][208]
 * ["Blind Exploits to Rule Watchguard Firewalls"][173]
 * ["CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF"][168]
 * ["DirtyCred Remastered: how to turn an UAF into Privilege Escalation"][167]
@@ -190,6 +200,7 @@
 * "Reversing embedded device bootloader (U-Boot)":
   * [Part 1][162]
   * [Part 2][163]
+* ["Reverse engineering integrity checks in Black Ops 3"][220]
 * ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
 * ["Turning Google smart speakers into wiretaps for $100k"][18]
 * ["Vulnerabilities and Hardware Teardown of GL.iNET GL-MT300N-V2 Router"][126]
@@ -236,6 +247,11 @@
 * ["Hardening Secure Boot on Embedded Devices for Hostile Environments"][175]
 * ["Pew Pew Pew: Designing Secure Boot Securely"][176]
 * ["Reverse-engineering Broadcom wireless chipsets"][200]
+* "Virtualization Internals":
+  * [Part 1][216]
+  * [Part 2][217]
+  * [Part 3][218]
+  * [Part 4][219]
 
 ## 2018
 
@@ -476,3 +492,17 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [204]: https://jbecker.dev/research/diving-into-decompilation
 [205]: https://binarly.io/posts/The_Untold_Story_of_the_BlackLotus_UEFI_Bootkit/index.html
 [206]: https://unit42.paloaltonetworks.com/peer-to-peer-worm-p2pinfect/
+[207]: http://lock.cmpxchg8b.com/zenbleed.html
+[208]: https://blog.kylebot.net/2022/10/22/angry-FSROP/
+[209]: https://sensepost.com/blog/2023/p4wnp1-lte/
+[210]: https://tortel.li/post/insecure-scope/
+[211]: https://claroty.com/team82/research/opc-ua-deep-dive-history-of-the-opc-ua-protocol
+[212]: https://claroty.com/team82/research/opc-deep-dive-part-2-what-is-opc-ua
+[213]: https://claroty.com/team82/research/opc-ua-deep-dive-part-3-exploring-the-opc-ua-protocol
+[214]: https://claroty.com/team82/research/opc-ua-deep-dive-series-part-4-targeting-core-opc-ua-components
+[215]: https://claroty.com/team82/research/opc-ua-deep-dive-series-part-5-inside-team82-s-research-methodology
+[216]: https://docs.saferwall.com/blog/virtualization-internals-part-1-intro-to-virtualization/
+[217]: https://docs.saferwall.com/blog/virtualization-internals-part-2-vmware-and-virtualization-using-binary-translation/
+[218]: https://docs.saferwall.com/blog/virtualization-internals-part-3-xen-and-paravirtualization/
+[219]: https://docs.saferwall.com/blog/virtualization-internals-part-4-qemu/
+[220]: https://web.archive.org/web/20230522230748/https://momo5502.com/posts/2022-11-17-reverse-engineering-integrity-checks-in-black-ops-3/
