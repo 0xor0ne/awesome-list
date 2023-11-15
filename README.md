@@ -131,6 +131,7 @@ See also the following lists dedicated to specifics sub-topics:
 * [malwareMustDie][116]: white-hat security research workgroup.
 * [Malware traffic analysis][157]: source for packet capture (pcap) files and
   malware samples.
+* [maxwelldulin][533]: exploitation blog posts (heap)
 * [n1ght-w0lf][456]: Malware Analysis & Reverse Engineering Adventures.
 * [Nightmare][13]: intro to binary exploitation / reverse engineering course
   based around ctf challenges.
@@ -1001,3 +1002,4 @@ See also the following lists dedicated to specifics sub-topics:
 [530]: https://www.riot-os.org
 [531]: https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004268-TP40003516-SW1
 [532]: https://github.com/clearbluejar/ghidriff
+[533]: https://maxwelldulin.com/Blog
