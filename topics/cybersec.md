@@ -109,6 +109,10 @@
 * [linux-re-101][169]
 * ["Linux Kernel Teaching"][131]
 * ["Linux Malware: Defense Evasion Techniques"][165]
+* "Linux Red Team":
+  * ["Exploitation Techniques"][222]
+  * ["Privilege Escalation Techniques"][223]
+  * ["Persistence Techniques"][224]
 * ["Linux rootkits explained – Part 1: Dynamic linker hijacking"][60]
 * ["Linux Shellcode 101: From Hell to Shell"][53]
 * ["Local Privilege Escalation on the DJI RM500 Smart Controller"][160]
@@ -201,6 +205,7 @@
   * [Part 1][162]
   * [Part 2][163]
 * ["Reverse engineering integrity checks in Black Ops 3"][220]
+* ["Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later"][226]
 * ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
 * ["Turning Google smart speakers into wiretaps for $100k"][18]
 * ["Vulnerabilities and Hardware Teardown of GL.iNET GL-MT300N-V2 Router"][126]
@@ -282,8 +287,10 @@
   * ["Introduction to encryption for embedded Linux developers"][0]
   * ["A hands-on approach to symmetric-key encryption"][1]
   * ["Asymmetric-Key Encryption and Digital Signatures in Practice"][2]
+* ["Linux Kernel map"][225]
 * ["Linux Syscalls Reference"][17]
 * ["mjsxj09cm Recovering Firmware And Backdooring"][62]
+* ["Satellite Hacking Demystified(RTC0007)"][221]
 
 [0]: https://sergioprado.blog/introduction-to-encryption-for-embedded-linux-developers/
 [1]: https://sergioprado.blog/a-hands-on-approach-to-symmetric-key-encryption/
@@ -506,3 +513,9 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [218]: https://docs.saferwall.com/blog/virtualization-internals-part-3-xen-and-paravirtualization/
 [219]: https://docs.saferwall.com/blog/virtualization-internals-part-4-qemu/
 [220]: https://web.archive.org/web/20230522230748/https://momo5502.com/posts/2022-11-17-reverse-engineering-integrity-checks-in-black-ops-3/
+[221]: https://redteamrecipe.com/Satellite-Hacking-Demystified/
+[222]: https://www.linode.com/docs/guides/linux-red-team-exploitation-techniques/
+[223]: https://www.linode.com/docs/guides/linux-red-team-privilege-escalation-techniques/
+[224]: https://www.linode.com/docs/guides/linux-red-team-persistence-techniques/
+[225]: https://makelinux.github.io/kernel/map/
+[226]: https://xcellerator.github.io/posts/tetsuji/
