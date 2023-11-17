@@ -11,6 +11,7 @@
 * [2020](#2020)
 * [2019](#2019)
 * [2018](#2018)
+* [2017](#2017)
 * [2016](#2016)
 * [Other](#other)
 
@@ -155,6 +156,7 @@
   * [Part 3][150]
   * [Part 3][151]
 * ["Revisiting CVE-2017-11176"][48]
+* ["Rust Binary Analysis, Feature by Feature"][231]
 * ["Rust to Assembly: Understanding the Inner Workings of Rust"][134]
 * ["Shambles: The Next-Generation IoT Reverse Engineering Tool to Discover 0-Day Vulnerabilities"][55]
 * ["Shell in the Ghost: Ghostscript CVE-2023-28879 writeup"][76]
@@ -163,6 +165,7 @@
 * ["The art of Fuzzing: Introduction"][57]
 * ["The art of fuzzing: Windows Binaries"][89]
 * ["The art of fuzzing-A Step-by-Step Guide to Coverage-Guided Fuzzing with LibFuzzer"][54]
+* ["The Dragon Who Sold His camaro: Analyzing Custom Router Implant"][228]
 * ["The Linux Kernel Module Programming Guide"][3]
 * ["The Untold Story of the BlackLotus UEFI Bootkit"][205]
 * ["Sshimpanzee"][16]
@@ -200,6 +203,7 @@
   * ["orbi hunting 0x1: crashes in soap-api"][34]
   * ["nday exploit: netgear orbi unauthenticated command injection (cve-2020-27861)"][35]
 * ["nday exploit: libinput format string bug, canary leak exploit (cve-2022-1215)"][63]
+* ["Port knocking from the scratch"][227]
 * ["Pulling MikroTik into the Limelight"][120]
 * "Reversing embedded device bootloader (U-Boot)":
   * [Part 1][162]
@@ -241,6 +245,7 @@
 * ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
 * ["House of Muney - Leakless Heap Exploitation Technique"][181]
 * ["NTLM Relay"][56]
+* ["SSHD Injection and Password Harvesting"][230]
 
 ## 2019
 
@@ -266,6 +271,10 @@
   * [Part 3][21]
   * [Part 4][22]
 * ["eMMC Data Recovery from Damaged Smartphone"][88]
+
+## 2017
+
+* ["Linux ptrace introduction AKA injecting into sshd for fun"][229]
 
 ## 2016
 
@@ -519,3 +528,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [224]: https://www.linode.com/docs/guides/linux-red-team-persistence-techniques/
 [225]: https://makelinux.github.io/kernel/map/
 [226]: https://xcellerator.github.io/posts/tetsuji/
+[227]: https://antonio-cooler.gitbook.io/coolervoid-tavern/port-knocking-from-the-scratch
+[228]: https://research.checkpoint.com/2023/the-dragon-who-sold-his-camaro-analyzing-custom-router-implant/
+[229]: https://blog.xpnsec.com/linux-process-injection-aka-injecting-into-sshd-for-fun/
+[230]: https://jm33.me/sshd-injection-and-password-harvesting.html
+[231]: https://research.checkpoint.com/2023/rust-binary-analysis-feature-by-feature/
