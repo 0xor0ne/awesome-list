@@ -40,6 +40,7 @@
 * ["Bash Privileged-Mode Vulnerabilities in Parallel Desktop and CDPATH Handling in MacOS"][100]
 * ["Bee-yond Capacity: Unauthenticated RCE in Extreme Networks/Aerohive Wireless APs - CVE-2023-35803"][91]
 * ["Behind the Shield: Unmasking Scudos's Defenses"][8]
+* ["Breaking Fortinet Firmware Encryption"][233]
 * ["Breaking the Code - Exploiting and Examining CVE-2023-1829 in cls_tcindex Classifier Vulnerability"][81]
 * "chonked"
   * ["minidlna 1.3.2 http chunk parsing heap overflow (cve-2023-33476) root cause analysis"][193]
@@ -74,6 +75,7 @@
 * ["FortiNAC - Just a few more RCEs"][95]
 * ["Fortinet Series 3 — CVE-2022–42475 SSLVPN exploit strategy"][32]
 * ["Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues"][90]
+* ["From C, with inline assembly, to shellcode"][235]
 * "Fuzzing Farm":
   * ["Fuzzing GEGL with fuzzuf"][43]
   * ["Evaluating Performance of Fuzzer"][44]
@@ -217,6 +219,7 @@
 
 ## 2021
 
+* ["Breaking 64 bit aslr on Linux x86-64"][234]
 * ["CVE-2021–20226 a reference counting bug which leads to local privilege escalation in io_uring."][179]
 * "Digging into Linux namespaces":
   * [Part 1][157]
@@ -274,6 +277,7 @@
 
 ## 2017
 
+* ["HiSilicon DVR hack"][236]
 * ["Linux ptrace introduction AKA injecting into sshd for fun"][229]
 
 ## 2016
@@ -296,6 +300,7 @@
   * ["Introduction to encryption for embedded Linux developers"][0]
   * ["A hands-on approach to symmetric-key encryption"][1]
   * ["Asymmetric-Key Encryption and Digital Signatures in Practice"][2]
+* ["Debugger Ghidra Class"][232]
 * ["Linux Kernel map"][225]
 * ["Linux Syscalls Reference"][17]
 * ["mjsxj09cm Recovering Firmware And Backdooring"][62]
@@ -533,3 +538,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [229]: https://blog.xpnsec.com/linux-process-injection-aka-injecting-into-sshd-for-fun/
 [230]: https://jm33.me/sshd-injection-and-password-harvesting.html
 [231]: https://research.checkpoint.com/2023/rust-binary-analysis-feature-by-feature/
+[232]: https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Debugger
+[233]: https://bishopfox.com/blog/breaking-fortinet-firmware-encryption
+[234]: https://github.com/nick0ve/how-to-bypass-aslr-on-linux-x86_64
+[235]: https://steve-s.gitbook.io/0xtriboulet/just-malicious/from-c-with-inline-assembly-to-shellcode
+[236]: https://github.com/tothi/pwn-hisilicon-dvr/tree/42d8325e68fdb075fe27df8a269932f9fa9601a6
