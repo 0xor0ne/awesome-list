@@ -23,6 +23,7 @@
 * ["A Potholing Tour in a SoC"][189]
 * ["A Red-Teamer diaries"][156]
 * ["Abusing undocumented features to spoof PE section headers"][139]
+* ["All cops are broadcasting: TETRA under scrutiny"][237]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
 * "Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway":
   * [Part 1][196]
@@ -181,6 +182,7 @@
 
 ## 2022
 
+* ["Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu"][238]
 * "Bypassing software update package encryption ":
   * ["Extracting the Lexmark MC3224i printer firmware"][190]
   * ["Exploiting the Lexmark MC3224i printer"][191]
@@ -205,6 +207,7 @@
   * ["orbi hunting 0x1: crashes in soap-api"][34]
   * ["nday exploit: netgear orbi unauthenticated command injection (cve-2020-27861)"][35]
 * ["nday exploit: libinput format string bug, canary leak exploit (cve-2022-1215)"][63]
+* ["Overview of GLIBC heap exploitation techniques"][239]
 * ["Port knocking from the scratch"][227]
 * ["Pulling MikroTik into the Limelight"][120]
 * "Reversing embedded device bootloader (U-Boot)":
@@ -543,3 +546,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [234]: https://github.com/nick0ve/how-to-bypass-aslr-on-linux-x86_64
 [235]: https://steve-s.gitbook.io/0xtriboulet/just-malicious/from-c-with-inline-assembly-to-shellcode
 [236]: https://github.com/tothi/pwn-hisilicon-dvr/tree/42d8325e68fdb075fe27df8a269932f9fa9601a6
+[237]: https://uploads-ssl.webflow.com/64a2900ed5e9bb672af9b2ed/64d42fcc2e3fdcf3d323f3d9_All_cops_are_broadcasting_TETRA_under_scrutiny.pdf
+[238]: https://fredericb.info/2022/06/breaking-secure-boot-on-google-nest-hub-2nd-gen-to-run-ubuntu.html
+[239]: https://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/
