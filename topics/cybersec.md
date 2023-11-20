@@ -91,6 +91,7 @@
 * ["Hacking Amazon's eero 6 (part 1)"][86]
 * ["Hacking Brightway scooters: A case study"][29]
 * ["Hardware Hacking to Bypass BIOS Passwords"][5]
+* ["How a simple K-TypeConfusion took me 3 months long to create a exploit? [HEVD] - Windows 11 (build 22621)"][240]
 * "How NATs Work":
   * [Part 1][152]
   * [Part 2][153]
@@ -202,6 +203,7 @@
 * "Hacking Some More Secure USB Flash Drives":
   * [Part 1][132]
   * [Part 2][133]
+* ["Linux Kernel Exploit (CVE-2022–32250) with mqueue"][242]
 * "Netgear Orbi":
   * ["orbi hunting 0x0: introduction, uart access, recon"][33]
   * ["orbi hunting 0x1: crashes in soap-api"][34]
@@ -298,6 +300,7 @@
 
 ## Other
 
+* ["A Noobs Guide to ARM Exploitation"][241]
 * ["Advanced binary fuzzing using AFL++-QEMU and libprotobuf: a practical case of grammar-aware in-memory persistent fuzzing"][71]
 * "Introduction to encryption for embedded Linux"
   * ["Introduction to encryption for embedded Linux developers"][0]
@@ -549,3 +552,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [237]: https://uploads-ssl.webflow.com/64a2900ed5e9bb672af9b2ed/64d42fcc2e3fdcf3d323f3d9_All_cops_are_broadcasting_TETRA_under_scrutiny.pdf
 [238]: https://fredericb.info/2022/06/breaking-secure-boot-on-google-nest-hub-2nd-gen-to-run-ubuntu.html
 [239]: https://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/
+[240]: https://wafzsucks.medium.com/how-a-simple-k-typeconfusion-took-me-3-months-long-to-create-a-exploit-f643c94d445f
+[241]: https://ad2001.gitbook.io/a-noobs-guide-to-arm-exploitation/
+[242]: https://blog.theori.io/linux-kernel-exploit-cve-2022-32250-with-mqueue-a8468f32aab5
