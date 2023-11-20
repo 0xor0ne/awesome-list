@@ -505,6 +505,8 @@ See also the following lists dedicated to specifics sub-topics:
 * [fq][227]: jq for binary formats.
 * [Ghidra][206]: software reverse engineering (SRE) framework.
   * [Sekiryu][517]: comprehensive toolkit for Ghidra headless.
+* [Ghidralligator][534]: multi-architecture pcode emulator based on the Ghidra
+libsla.
 * [ghidriff][532]: Python Command-Line Ghidra Binary Diffing Engine.
 * [Kaitai Struct][231]: declarative language to generate binary data parsers.
 * [Keystone Engine][232]: assembler framework.
@@ -1003,3 +1005,4 @@ See also the following lists dedicated to specifics sub-topics:
 [531]: https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004268-TP40003516-SW1
 [532]: https://github.com/clearbluejar/ghidriff
 [533]: https://maxwelldulin.com/Blog
+[534]: https://github.com/airbus-cyber/ghidralligator
