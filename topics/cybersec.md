@@ -109,6 +109,7 @@
 * ["In-depth analysis on Valorant’s Guarded Regions"][141]
 * ["Intercepting Allocations with the Global Allocator"][79]
 * ["Introduction to SELinux"][59]
+* ["JTAG 'Hacking' the Original Xbox in 2023"][244]
 * ["Kernel Exploit Factory"][159]
 * ["Learn Makefiles With the tastiest examples"][24]
 * [linux-re-101][169]
@@ -216,6 +217,7 @@
   * [Part 1][162]
   * [Part 2][163]
 * ["Reverse engineering integrity checks in Black Ops 3"][220]
+* ["Reverse engineering thermal printers"][245]
 * ["Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later"][226]
 * ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
 * ["Turning Google smart speakers into wiretaps for $100k"][18]
@@ -262,6 +264,7 @@
   * ["Symbols"][136]
   * ["Relocations"][137]
   * ["Dynamic Linking"][138]
+* ["Hacking microcontroller firmware through a USB"][243]
 * ["Hardening Secure Boot on Embedded Devices for Hostile Environments"][175]
 * ["Pew Pew Pew: Designing Secure Boot Securely"][176]
 * ["Reverse-engineering Broadcom wireless chipsets"][200]
@@ -308,6 +311,7 @@
   * ["Asymmetric-Key Encryption and Digital Signatures in Practice"][2]
 * ["Debugger Ghidra Class"][232]
 * ["Linux Kernel map"][225]
+* ["Linux Insides"][246]
 * ["Linux Syscalls Reference"][17]
 * ["mjsxj09cm Recovering Firmware And Backdooring"][62]
 * ["Satellite Hacking Demystified(RTC0007)"][221]
@@ -555,3 +559,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [240]: https://wafzsucks.medium.com/how-a-simple-k-typeconfusion-took-me-3-months-long-to-create-a-exploit-f643c94d445f
 [241]: https://ad2001.gitbook.io/a-noobs-guide-to-arm-exploitation/
 [242]: https://blog.theori.io/linux-kernel-exploit-cve-2022-32250-with-mqueue-a8468f32aab5
+[243]: https://securelist.com/hacking-microcontroller-firmware-through-a-usb/89919/
+[244]: https://blog.ret2.io/2023/08/09/jtag-hacking-the-original-xbox-2023/
+[245]: https://wes4m.io/posts/epson_rev/
+[246]: https://0xax.gitbooks.io/linux-insides/content/
