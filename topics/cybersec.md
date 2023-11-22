@@ -181,6 +181,7 @@
 * ["Under The Hood - Disassembling of IKEA-Sonos Symfonisk Speaker Lamp"][180]
 * ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
 * ["Zenbleed"][207]
+* ["Zero Effort Private Key Compromise: Abusing SSH-Agent For Lateral Movement"]248[]
 
 ## 2022
 
@@ -193,6 +194,7 @@
 * ["CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF"][168]
 * ["DirtyCred Remastered: how to turn an UAF into Privilege Escalation"][167]
 * ["Dumping the Amlogic A113X Bootrom"][78]
+* ["Dynamic analysis of firmware components in IoT devices"][250]
 * ["Embedded Systems Security and TrustZone"][145]
 * ["exploiting CVE-2019-2215"][61]
 * "Hunting for Persistence in Linux"
@@ -254,6 +256,7 @@
 * ["Exception(al) Failure - Breaking the STM32F1 Read-Out Protection"][161]
 * ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
 * ["House of Muney - Leakless Heap Exploitation Technique"][181]
+* ["My Methods To Achieve Persistence In Linux Systems"][247]
 * ["NTLM Relay"][56]
 * ["SSHD Injection and Password Harvesting"][230]
 
@@ -315,6 +318,7 @@
 * ["Linux Syscalls Reference"][17]
 * ["mjsxj09cm Recovering Firmware And Backdooring"][62]
 * ["Satellite Hacking Demystified(RTC0007)"][221]
+* ["VSS: Beginners Guide to Building a Hardware Hacking Lab"][249]
 
 [0]: https://sergioprado.blog/introduction-to-encryption-for-embedded-linux-developers/
 [1]: https://sergioprado.blog/a-hands-on-approach-to-symmetric-key-encryption/
@@ -563,3 +567,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [244]: https://blog.ret2.io/2023/08/09/jtag-hacking-the-original-xbox-2023/
 [245]: https://wes4m.io/posts/epson_rev/
 [246]: https://0xax.gitbooks.io/linux-insides/content/
+[247]: https://flaviu.io/advanced-persistent-threat/
+[248]: https://grahamhelton.com/blog/ssh_agent/
+[249]: https://voidstarsec.com/hw-hacking-lab/vss-lab-guide]
+[250]: https://ics-cert.kaspersky.com/publications/reports/2022/07/06/dynamic-analysis-of-firmware-components-in-iot-devices/
