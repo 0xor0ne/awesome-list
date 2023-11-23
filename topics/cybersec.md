@@ -52,6 +52,7 @@
 * ["CVE-2023-26258 – Remote Code Execution in ArcServe UDP Backup"][99]
 * ["CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent"][186]
 * ["Debugger Ghidra Class"][28]
+* ["Deep Lateral Movement in OT Networks: When is a Perimeter not a Perimeter?"][253]
 * ["Detecting BPFDoor Backdoor Variants Abusing BPF Filters"][183]
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
 * ["Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”"][164]
@@ -141,6 +142,7 @@
 * ["Meterpreter vs Modern EDR(s)"][170]
 * ["MSMQ QueueJumper (RCE Vulnerability): An in-depth technical analysis"][177]
 * ["Obscure Windows File Types"][74]
+* ["Old Bug, Shallow Bug: Exploiting Ubuntu at Pwn2own Vancouver 2023"][254]
 * "OPC UA Deep Dive Series":
   * [Part 1][211]
   * [Part 2][212]
@@ -233,6 +235,7 @@
 * "Digging into Linux namespaces":
   * [Part 1][157]
   * [Part 2][158]
+* ["Fire of Salvation Writeup: Utilizing msg_msg Objects for Arbitrary Read and Arbitrary Write in the Linux Kernel"][252]
 * "Learning Linux Kernel Exploitation":
   * [Part 1][83]
   * [Part 2][84]
@@ -247,6 +250,7 @@
   * [Part 2][143]
   * [Part 3][144]
 * ["Reverse Engineering Yaesu FT-70D Firmware Encryption"][147]
+* ["Wall Of Perdition: Utilizing msg_msg Objects For Arbitrary Read And Arbitrary Write In The Linux Kernel"][251]
 
 ## 2020
 
@@ -571,3 +575,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [248]: https://grahamhelton.com/blog/ssh_agent/
 [249]: https://voidstarsec.com/hw-hacking-lab/vss-lab-guide]
 [250]: https://ics-cert.kaspersky.com/publications/reports/2022/07/06/dynamic-analysis-of-firmware-components-in-iot-devices/
+[251]: https://syst3mfailure.io/wall-of-perdition/
+[252]: https://www.willsroot.io/2021/08/corctf-2021-fire-of-salvation-writeup.html
+[253]: https://www.forescout.com/resources/l1-lateral-movement-reportg
+[254]: https://www.synacktiv.com/en/publications/old-bug-shallow-bug-exploiting-ubuntu-at-pwn2own-vancouver-2023
