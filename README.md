@@ -179,6 +179,8 @@ See also the following lists dedicated to specifics sub-topics:
   * [gdbgui][230]: browser-based frontend to gdb.
   * [GEF][27]: plugin with set of commands to assis exploit developers and
     reverse-engineers.
+  * [pwndbg][537]: Exploit Development and Reverse Engineering with GDB Made
+  Easy.
 * [rr][253]: Record and Replay Framework.
   * [rd][307]: reimplementation in rust.
 * [Scout][110]: instruction based research debugger.
@@ -409,6 +411,8 @@ See also the following lists dedicated to specifics sub-topics:
 * [Go][106]: open source programming language supported by Google.
   * [Docs][107]: official documentation.
   * [pkg.go.dev][108]: packages documentation.
+* [Python][535]: official website
+  * [Docs][536]: official documentation
 * [Rust][41]: secure system programming language.
   * [aquascope][466]: Interactive visualizations of Rust at compile-time and run-time
   * [API guidelines][319]: set of recommendations on how to design and present
@@ -1006,3 +1010,6 @@ libsla.
 [532]: https://github.com/clearbluejar/ghidriff
 [533]: https://maxwelldulin.com/Blog
 [534]: https://github.com/airbus-cyber/ghidralligator
+[535]: https://www.python.org
+[536]: https://www.python.org/doc/
+[537]: https://github.com/pwndbg/pwndbg
