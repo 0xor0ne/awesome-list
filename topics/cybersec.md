@@ -21,6 +21,7 @@
 * ["A Journey Into Hacking Google Search Appliance"][203]
 * ["A new method for container escape using file-based DirtyCred"][201]
 * ["A Potholing Tour in a SoC"][189]
+* ["A Race to Report a TOCTOU: Analysis of a Bug Collision in Intel SMM"][255]
 * ["A Red-Teamer diaries"][156]
 * ["Abusing undocumented features to spoof PE section headers"][139]
 * ["All cops are broadcasting: TETRA under scrutiny"][237]
@@ -108,6 +109,7 @@
 * ["How To Secure A Linux Server"][140]
 * ["Icicle: A Re-designed Emulator for Grey-Box Firmware Fuzzing"][171]
 * ["In-depth analysis on Valorant’s Guarded Regions"][141]
+* ["Intel BIOS Advisory – Memory Corruption in HID Drivers "][257]
 * ["Intercepting Allocations with the Global Allocator"][79]
 * ["Introduction to SELinux"][59]
 * ["JTAG 'Hacking' the Original Xbox in 2023"][244]
@@ -168,6 +170,7 @@
 * ["Shambles: The Next-Generation IoT Reverse Engineering Tool to Discover 0-Day Vulnerabilities"][55]
 * ["Shell in the Ghost: Ghostscript CVE-2023-28879 writeup"][76]
 * ["SRE deep dive into Linux Page Cache"][94]
+* ["Stepping Insyde System Management Mode"][256]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][31]
 * ["The art of Fuzzing: Introduction"][57]
 * ["The art of fuzzing: Windows Binaries"][89]
@@ -322,6 +325,7 @@
 * ["Linux Syscalls Reference"][17]
 * ["mjsxj09cm Recovering Firmware And Backdooring"][62]
 * ["Satellite Hacking Demystified(RTC0007)"][221]
+* ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][258]
 * ["VSS: Beginners Guide to Building a Hardware Hacking Lab"][249]
 
 [0]: https://sergioprado.blog/introduction-to-encryption-for-embedded-linux-developers/
@@ -579,3 +583,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [252]: https://www.willsroot.io/2021/08/corctf-2021-fire-of-salvation-writeup.html
 [253]: https://www.forescout.com/resources/l1-lateral-movement-reportg
 [254]: https://www.synacktiv.com/en/publications/old-bug-shallow-bug-exploiting-ubuntu-at-pwn2own-vancouver-2023
+[255]: https://research.nccgroup.com/2023/03/15/a-race-to-report-a-toctou-analysis-of-a-bug-collision-in-intel-smm/
+[256]: https://research.nccgroup.com/2023/04/11/stepping-insyde-system-management-mode/
+[257]: https://research.nccgroup.com/2023/08/08/intel-bios-advisory-memory-corruption-in-hid-drivers/
+[258]: https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet
