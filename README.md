@@ -174,6 +174,7 @@ See also the following lists dedicated to specifics sub-topics:
 
 ## Debuggers
 
+* [drgn][538]: Programmable debugger
 * [GDB][26]: GNU Project Debugger.
   * [gdb-dashboard][229]: modular visual interface for GDB in Python.
   * [gdbgui][230]: browser-based frontend to gdb.
@@ -1013,3 +1014,4 @@ libsla.
 [535]: https://www.python.org
 [536]: https://www.python.org/doc/
 [537]: https://github.com/pwndbg/pwndbg
+[538]: https://github.com/osandov/drgn
