@@ -18,6 +18,7 @@
 ## 2023
 
 * ["A Deep Dive into Penetration Testing of macOS Applications (Part 1)"][49]
+* ["A look at CVE-2023-29360, a beautiful logical LPE vuln"][260]
 * ["A Journey Into Hacking Google Search Appliance"][203]
 * ["A new method for container escape using file-based DirtyCred"][201]
 * ["A Potholing Tour in a SoC"][189]
@@ -44,6 +45,7 @@
 * ["Behind the Shield: Unmasking Scudos's Defenses"][8]
 * ["Breaking Fortinet Firmware Encryption"][233]
 * ["Breaking the Code - Exploiting and Examining CVE-2023-1829 in cls_tcindex Classifier Vulnerability"][81]
+* ["Breaking Secure Boot on the Silicon Labs Gecko platform"][262]
 * "chonked"
   * ["minidlna 1.3.2 http chunk parsing heap overflow (cve-2023-33476) root cause analysis"][193]
   * ["exploiting cve-2023-33476 for remote code execution"][194]
@@ -169,6 +171,7 @@
 * ["Rust to Assembly: Understanding the Inner Workings of Rust"][134]
 * ["Shambles: The Next-Generation IoT Reverse Engineering Tool to Discover 0-Day Vulnerabilities"][55]
 * ["Shell in the Ghost: Ghostscript CVE-2023-28879 writeup"][76]
+* ["Shifting boundaries: Exploiting an Integer Overflow in Apple Safari"][261]
 * ["SRE deep dive into Linux Page Cache"][94]
 * ["Stepping Insyde System Management Mode"][256]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][31]
@@ -186,10 +189,11 @@
 * ["Under The Hood - Disassembling of IKEA-Sonos Symfonisk Speaker Lamp"][180]
 * ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
 * ["Zenbleed"][207]
-* ["Zero Effort Private Key Compromise: Abusing SSH-Agent For Lateral Movement"]248[]
+* ["Zero Effort Private Key Compromise: Abusing SSH-Agent For Lateral Movement"][248]
 
 ## 2022
 
+* ["ttacking Titan M with Only One Byte"][259]
 * ["Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu"][238]
 * "Bypassing software update package encryption ":
   * ["Extracting the Lexmark MC3224i printer firmware"][190]
@@ -587,3 +591,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [256]: https://research.nccgroup.com/2023/04/11/stepping-insyde-system-management-mode/
 [257]: https://research.nccgroup.com/2023/08/08/intel-bios-advisory-memory-corruption-in-hid-drivers/
 [258]: https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet
+[259]: https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html
+[260]: https://big5-sec.github.io/posts/CVE-2023-29360-analysis/
+[261]: https://blog.exodusintel.com/2023/07/20/shifting-boundaries-exploiting-an-integer-overflow-in-apple-safari/
+[262]: https://blog.quarkslab.com/breaking-secure-boot-on-the-silicon-labs-gecko-platform.html
