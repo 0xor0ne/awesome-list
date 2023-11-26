@@ -145,6 +145,7 @@
   * ["Part 3 – Escaping the emulator"][41]
 * ["Meterpreter vs Modern EDR(s)"][170]
 * ["MSMQ QueueJumper (RCE Vulnerability): An in-depth technical analysis"][177]
+* ["NVMe: New Vulnerabilities Made Easy"][264]
 * ["Obscure Windows File Types"][74]
 * ["Old Bug, Shallow Bug: Exploiting Ubuntu at Pwn2own Vancouver 2023"][254]
 * "OPC UA Deep Dive Series":
@@ -193,7 +194,7 @@
 
 ## 2022
 
-* ["ttacking Titan M with Only One Byte"][259]
+* ["Attacking Titan M with Only One Byte"][259]
 * ["Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu"][238]
 * "Bypassing software update package encryption ":
   * ["Extracting the Lexmark MC3224i printer firmware"][190]
@@ -216,6 +217,7 @@
   * [Part 1][132]
   * [Part 2][133]
 * ["Linux Kernel Exploit (CVE-2022–32250) with mqueue"][242]
+* ["Missing Manuals - io_uring worker pool"][265]
 * "Netgear Orbi":
   * ["orbi hunting 0x0: introduction, uart access, recon"][33]
   * ["orbi hunting 0x1: crashes in soap-api"][34]
@@ -329,6 +331,7 @@
 * ["Linux Syscalls Reference"][17]
 * ["mjsxj09cm Recovering Firmware And Backdooring"][62]
 * ["Satellite Hacking Demystified(RTC0007)"][221]
+* [TEE Reversing][263]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][258]
 * ["VSS: Beginners Guide to Building a Hardware Hacking Lab"][249]
 
@@ -595,3 +598,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [260]: https://big5-sec.github.io/posts/CVE-2023-29360-analysis/
 [261]: https://blog.exodusintel.com/2023/07/20/shifting-boundaries-exploiting-an-integer-overflow-in-apple-safari/
 [262]: https://blog.quarkslab.com/breaking-secure-boot-on-the-silicon-labs-gecko-platform.html
+[263]: https://github.com/enovella/TEE-reversing
+[264]: https://www.cyberark.com/resources/all-blog-posts/nvme-new-vulnerabilities-made-easy
+[265]: https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/
