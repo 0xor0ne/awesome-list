@@ -39,6 +39,7 @@
   * [Part 5][111]
   * [Part 6][112]
   * [Part 7][113]
+* ["Audio with embedded Linux training"][267]
 * ["Back to the Future with Platform Security"][97]
 * ["Bash Privileged-Mode Vulnerabilities in Parallel Desktop and CDPATH Handling in MacOS"][100]
 * ["Bee-yond Capacity: Unauthenticated RCE in Extreme Networks/Aerohive Wireless APs - CVE-2023-35803"][91]
@@ -60,6 +61,7 @@
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
 * ["Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”"][164]
 * ["Diving Into Smart Contract Decompilation"][204]
+* ["Diving into Starlink's User Terminal Firmware"][268]
 * ["Drone Security and Fault Injection Attacks"][82]
 * ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
 * ["Encrypted Doesn't Mean Authenticated: ShareFile RCE (CVE-2023-24489)"][182]
@@ -207,6 +209,7 @@
 * ["Dynamic analysis of firmware components in IoT devices"][250]
 * ["Embedded Systems Security and TrustZone"][145]
 * ["exploiting CVE-2019-2215"][61]
+* ["How The Tables Have Turned: An analysis of two new Linux vulnerabilities in nf_tables"][266]
 * "Hunting for Persistence in Linux"
   * [Part 1][64]
   * [Part 2][65]
@@ -601,3 +604,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [263]: https://github.com/enovella/TEE-reversing
 [264]: https://www.cyberark.com/resources/all-blog-posts/nvme-new-vulnerabilities-made-easy
 [265]: https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/
+[266]: https://blog.dbouman.nl/2022/04/02/How-The-Tables-Have-Turned-CVE-2022-1015-1016/
+[267]: https://bootlin.com/doc/training/audio/audio-slides.pdf
+[268]: https://blog.quarkslab.com//starlink.html
