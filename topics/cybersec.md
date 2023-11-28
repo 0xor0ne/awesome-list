@@ -146,6 +146,7 @@
   * ["Part 2 – Arbitrary PS2 code execution"][40]
   * ["Part 3 – Escaping the emulator"][41]
 * ["Meterpreter vs Modern EDR(s)"][170]
+* ["mTLS: When certificate authentication is done wrong"][270]
 * ["MSMQ QueueJumper (RCE Vulnerability): An in-depth technical analysis"][177]
 * ["NVMe: New Vulnerabilities Made Easy"][264]
 * ["Obscure Windows File Types"][74]
@@ -175,6 +176,7 @@
 * ["Shambles: The Next-Generation IoT Reverse Engineering Tool to Discover 0-Day Vulnerabilities"][55]
 * ["Shell in the Ghost: Ghostscript CVE-2023-28879 writeup"][76]
 * ["Shifting boundaries: Exploiting an Integer Overflow in Apple Safari"][261]
+* ["Smashing the state machine: the true potential of web race conditions"][271]
 * ["SRE deep dive into Linux Page Cache"][94]
 * ["Stepping Insyde System Management Mode"][256]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][31]
@@ -208,6 +210,7 @@
 * ["Dumping the Amlogic A113X Bootrom"][78]
 * ["Dynamic analysis of firmware components in IoT devices"][250]
 * ["Embedded Systems Security and TrustZone"][145]
+* ["Exploiting CSN.1 Bugs in MediaTek Basebands"][272]
 * ["exploiting CVE-2019-2215"][61]
 * ["How The Tables Have Turned: An analysis of two new Linux vulnerabilities in nf_tables"][266]
 * "Hunting for Persistence in Linux"
@@ -219,6 +222,7 @@
 * "Hacking Some More Secure USB Flash Drives":
   * [Part 1][132]
   * [Part 2][133]
+* ["Linux Kernel: Exploiting a Netfilter Use-after-Free in kmalloc-cg"][269]
 * ["Linux Kernel Exploit (CVE-2022–32250) with mqueue"][242]
 * ["Missing Manuals - io_uring worker pool"][265]
 * "Netgear Orbi":
@@ -607,3 +611,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [266]: https://blog.dbouman.nl/2022/04/02/How-The-Tables-Have-Turned-CVE-2022-1015-1016/
 [267]: https://bootlin.com/doc/training/audio/audio-slides.pdf
 [268]: https://blog.quarkslab.com//starlink.html
+[269]: https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/
+[270]: https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/
+[271]: https://portswigger.net/research/smashing-the-state-machine
+[272]: https://labs.taszk.io/articles/post/mtk_baseband_csn1_exploitation/
