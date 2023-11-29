@@ -21,6 +21,7 @@
 * ["A look at CVE-2023-29360, a beautiful logical LPE vuln"][260]
 * ["A Journey Into Hacking Google Search Appliance"][203]
 * ["A new method for container escape using file-based DirtyCred"][201]
+* ["A Pain in the NAS: Exploiting Cloud Connectivity to PWN your NAS: Synology DS920+ Edition"][273]
 * ["A Potholing Tour in a SoC"][189]
 * ["A Race to Report a TOCTOU: Analysis of a Bug Collision in Intel SMM"][255]
 * ["A Red-Teamer diaries"][156]
@@ -75,6 +76,10 @@
 * ["Exploit Engineering – Attacking the Linux Kernel"][146]
 * ["Exploiting MikroTik RouterOS Hardware with CVE-2023-30799"][198]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
+* "Fantastic Rootkits: And Where To Find Them":
+  * [Part 1][275]
+  * [Part 2][276]
+  * [Part 3][277]
 * ["Finding and exploiting process killer drivers with LOL for 3000$"][172]
 * ["Finding bugs in C code with Multi-Level IR and VAST"][92]
 * ["Finding Gadgets for CPU Side-Channels with Static Analysis Tools"][75]
@@ -233,6 +238,7 @@
 * ["Overview of GLIBC heap exploitation techniques"][239]
 * ["Port knocking from the scratch"][227]
 * ["Pulling MikroTik into the Limelight"][120]
+* ["Researching Xiaomi’s Tee to Get to Chinese Money"][274]
 * "Reversing embedded device bootloader (U-Boot)":
   * [Part 1][162]
   * [Part 2][163]
@@ -615,3 +621,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [270]: https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/
 [271]: https://portswigger.net/research/smashing-the-state-machine
 [272]: https://labs.taszk.io/articles/post/mtk_baseband_csn1_exploitation/
+[273]: https://claroty.com/team82/research/a-pain-in-the-nas-exploiting-cloud-connectivity-to-pwn-your-nas-synology-ds920-edition
+[274]: https://research.checkpoint.com/2022/researching-xiaomis-tee/
+[275]: https://www.cyberark.com/resources/all-blog-posts/fantastic-rootkits-and-where-to-find-them-part-1
+[276]: https://www.cyberark.com/resources/all-blog-posts/fantastic-rootkits-and-where-to-find-them-part-2
+[277]: https://www.cyberark.com/resources/threat-research-blog/fantastic-rootkits-and-where-to-find-them-part-3-arm-edition
