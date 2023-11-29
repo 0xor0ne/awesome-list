@@ -370,6 +370,8 @@ See also the following lists dedicated to specifics sub-topics:
   * [tailscale][357]: zero config VPN.
     * [tailscale github][358]: the easiest, most secure way to use WireGuard and
       2FA.
+  * [scapy][539]: Python-based interactive packet manipulation program &
+  library.
   * [zeek][368]: network analysis framework.
   * [zerotier][356]: secure networks between devices.
     * [ZeroTierOne][357]: smart ethernet switch for earth.
@@ -1015,3 +1017,4 @@ libsla.
 [536]: https://www.python.org/doc/
 [537]: https://github.com/pwndbg/pwndbg
 [538]: https://github.com/osandov/drgn
+[539]: https://github.com/secdev/scapy
