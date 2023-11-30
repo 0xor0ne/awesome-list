@@ -55,6 +55,7 @@
 * ["Coffee: A COFF loader made in Rust"][93]
 * ["CVE-2023-2008 - Analyzing and exploiting a bug in the udmabuf driver"][72]
 * ["CVE-2023-26258 – Remote Code Execution in ArcServe UDP Backup"][99]
+* ["CVE-2023-36844 And Friends: RCE In Juniper Devices"][281]
 * ["CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent"][186]
 * ["Debugger Ghidra Class"][28]
 * ["Deep Lateral Movement in OT Networks: When is a Perimeter not a Perimeter?"][253]
@@ -165,6 +166,7 @@
 * ["OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept"][42]
 * ["P2PInfect: The Rusty Peer-to-Peer Self-Replicating Worm"][206]
 * ["P4wnP1-LTE"][209]
+* ["Patches, Collisions, and Root Shells: A Pwn2Own Adventure"][278]
 * ["Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500"][166]
 * ["prctl anon_vma_name: An Amusing Linux Kernel Heap Spray"][184]
 * ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
@@ -283,6 +285,9 @@
 * ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
 * ["House of Muney - Leakless Heap Exploitation Technique"][181]
 * ["My Methods To Achieve Persistence In Linux Systems"][247]
+* "nRF52 Debug Resurrection":
+  * [Part 1][279]
+  * [Part 2][280]
 * ["NTLM Relay"][56]
 * ["SSHD Injection and Password Harvesting"][230]
 
@@ -626,3 +631,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [275]: https://www.cyberark.com/resources/all-blog-posts/fantastic-rootkits-and-where-to-find-them-part-1
 [276]: https://www.cyberark.com/resources/all-blog-posts/fantastic-rootkits-and-where-to-find-them-part-2
 [277]: https://www.cyberark.com/resources/threat-research-blog/fantastic-rootkits-and-where-to-find-them-part-3-arm-edition
+[278]: https://www.sonarsource.com/blog/patches-collisions-and-root-shells-a-pwn2own-adventure/
+[279]: https://limitedresults.com/2020/06/nrf52-debug-resurrection-approtect-bypass/
+[280]: https://limitedresults.com/2020/06/nrf52-debug-resurrection-approtect-bypass-part-2/
+[281]: https://labs.watchtowr.com/cve-2023-36844-and-friends-rce-in-juniper-firewalls/
