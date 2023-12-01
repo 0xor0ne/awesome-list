@@ -68,6 +68,7 @@
 * ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
 * ["Encrypted Doesn't Mean Authenticated: ShareFile RCE (CVE-2023-24489)"][182]
 * ["Escaping the Google kCTF Container with a Data-Only Exploit"][178]
+* ["Exploitation of Openfire CVE-2023-32315"][283]
 * ["Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers"][130]
 * ["Exploiting null-dereferences in the Linux kernel"][148]
 * ["EPF: Evil Packet Filter"][73]
@@ -192,6 +193,7 @@
 * ["The art of fuzzing-A Step-by-Step Guide to Coverage-Guided Fuzzing with LibFuzzer"][54]
 * ["The Dragon Who Sold His camaro: Analyzing Custom Router Implant"][228]
 * ["The Linux Kernel Module Programming Guide"][3]
+* ["The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders"][284]
 * ["The Untold Story of the BlackLotus UEFI Bootkit"][205]
 * ["Sshimpanzee"][16]
 * ["Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was"][80]
@@ -238,6 +240,7 @@
   * ["nday exploit: netgear orbi unauthenticated command injection (cve-2020-27861)"][35]
 * ["nday exploit: libinput format string bug, canary leak exploit (cve-2022-1215)"][63]
 * ["Overview of GLIBC heap exploitation techniques"][239]
+* ["pipe_buffer arbitrary read write"][282]
 * ["Port knocking from the scratch"][227]
 * ["Pulling MikroTik into the Limelight"][120]
 * ["Researching Xiaomi’s Tee to Get to Chinese Money"][274]
@@ -635,3 +638,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [279]: https://limitedresults.com/2020/06/nrf52-debug-resurrection-approtect-bypass/
 [280]: https://limitedresults.com/2020/06/nrf52-debug-resurrection-approtect-bypass-part-2/
 [281]: https://labs.watchtowr.com/cve-2023-36844-and-friends-rce-in-juniper-firewalls/
+[282]: https://www.interruptlabs.co.uk/articles/pipe-buffer
+[283]: https://vulncheck.com/blog/openfire-cve-2023-32315
+[284]: https://wrv.github.io/h26forge.pdf
