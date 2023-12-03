@@ -147,6 +147,7 @@
 * "Malware Reverse Engineering for Beginners":
   * [Part 1][128]
   * [Part 2][129]
+* ["Man-in-the-Middle Attacks without Rogue AP: When WPAs Meet ICMP Redirects"][285]
 * "mast1c0re"
   * ["Introduction – Exploiting the PS4 and PS5 through a game save"][38]
   * ["Part 1 – Modifying PS2 game save files"][39]
@@ -241,6 +242,10 @@
 * ["nday exploit: libinput format string bug, canary leak exploit (cve-2022-1215)"][63]
 * ["Overview of GLIBC heap exploitation techniques"][239]
 * ["pipe_buffer arbitrary read write"][282]
+* "Pixel 6 Bootloader"
+  * ["Booting up"][286]
+  * ["Emulation, ROP"][287]
+  * ["Exploitation"][288]
 * ["Port knocking from the scratch"][227]
 * ["Pulling MikroTik into the Limelight"][120]
 * ["Researching Xiaomi’s Tee to Get to Chinese Money"][274]
@@ -641,3 +646,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [282]: https://www.interruptlabs.co.uk/articles/pipe-buffer
 [283]: https://vulncheck.com/blog/openfire-cve-2023-32315
 [284]: https://wrv.github.io/h26forge.pdf
+[285]: https://csis.gmu.edu/ksun/publications/WiFi_Interception_SP23.pdf
+[286]: https://eshard.com/posts/pixel6_bootloader
+[287]: https://eshard.com/posts/pixel6bootloader-2
+[288]: https://eshard.com/posts/pixel6_bootloader_3
