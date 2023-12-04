@@ -58,6 +58,7 @@
 * ["CVE-2023-36844 And Friends: RCE In Juniper Devices"][281]
 * ["CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent"][186]
 * ["Debugger Ghidra Class"][28]
+* ["Debugging D-Link: Emulating firmware and hacking hardware"][290]
 * ["Deep Lateral Movement in OT Networks: When is a Perimeter not a Perimeter?"][253]
 * ["Detecting BPFDoor Backdoor Variants Abusing BPF Filters"][183]
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
@@ -222,6 +223,7 @@
 * ["Embedded Systems Security and TrustZone"][145]
 * ["Exploiting CSN.1 Bugs in MediaTek Basebands"][272]
 * ["exploiting CVE-2019-2215"][61]
+* ["Fortigate - Authentication Bypass Lead to Full Device Takeover"][291]
 * ["How The Tables Have Turned: An analysis of two new Linux vulnerabilities in nf_tables"][266]
 * "Hunting for Persistence in Linux"
   * [Part 1][64]
@@ -309,6 +311,7 @@
 * ["Hacking microcontroller firmware through a USB"][243]
 * ["Hardening Secure Boot on Embedded Devices for Hostile Environments"][175]
 * ["Pew Pew Pew: Designing Secure Boot Securely"][176]
+* ["Pwn the ESP32 Secure Boot"][289]
 * ["Reverse-engineering Broadcom wireless chipsets"][200]
 * "Virtualization Internals":
   * [Part 1][216]
@@ -650,3 +653,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [286]: https://eshard.com/posts/pixel6_bootloader
 [287]: https://eshard.com/posts/pixel6bootloader-2
 [288]: https://eshard.com/posts/pixel6_bootloader_3
+[289]: https://limitedresults.com/2019/09/pwn-the-esp32-secure-boot/
+[290]: https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware
+[291]: https://labs.hakaioffsec.com/fortigate-authentication-bypass/
