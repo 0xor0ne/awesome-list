@@ -25,6 +25,7 @@
 * ["A Potholing Tour in a SoC"][189]
 * ["A Race to Report a TOCTOU: Analysis of a Bug Collision in Intel SMM"][255]
 * ["A Red-Teamer diaries"][156]
+* ["A story about tampering EDRs"][293]
 * ["Abusing undocumented features to spoof PE section headers"][139]
 * ["All cops are broadcasting: TETRA under scrutiny"][237]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
@@ -209,6 +210,10 @@
 
 ## 2022
 
+* "A journey into IoT":
+  * ["Chip identification, BUSSide, and I2C"][294]
+  * ["Discover components and ports"][295]
+  * ["Firmware dump and analysis"][296]
 * ["Attacking Titan M with Only One Byte"][259]
 * ["Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu"][238]
 * "Bypassing software update package encryption ":
@@ -216,6 +221,7 @@
   * ["Exploiting the Lexmark MC3224i printer"][191]
 * ["Bypassing vtable Check in glibc File Structures"][208]
 * ["Blind Exploits to Rule Watchguard Firewalls"][173]
+* ["BPFDoor - An Evasive Linux Backdoor Technical Analysis"][292]
 * ["CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF"][168]
 * ["DirtyCred Remastered: how to turn an UAF into Privilege Escalation"][167]
 * ["Dumping the Amlogic A113X Bootrom"][78]
@@ -656,3 +662,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [289]: https://limitedresults.com/2019/09/pwn-the-esp32-secure-boot/
 [290]: https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware
 [291]: https://labs.hakaioffsec.com/fortigate-authentication-bypass/
+[292]: https://sandflysecurity.com/blog/bpfdoor-an-evasive-linux-backdoor-technical-analysis/
+[293]: https://redops.at/blog/a-story-about-tampering-edrs
+[294]: https://security.humanativaspa.it/a-journey-into-iot-chip-identification-busside-and-i2c/
+[295]: https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-1-discover-components-and-ports/
+[296]: https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-2-firmware-dump-and-analysis/
