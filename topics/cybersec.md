@@ -42,6 +42,7 @@
   * [Part 6][112]
   * [Part 7][113]
 * ["Audio with embedded Linux training"][267]
+* ["Automating C2 Infrastructure with Terraform, Nebula, Caddy and Cobalt Strike"][300]
 * ["Back to the Future with Platform Security"][97]
 * ["Bash Privileged-Mode Vulnerabilities in Parallel Desktop and CDPATH Handling in MacOS"][100]
 * ["Bee-yond Capacity: Unauthenticated RCE in Extreme Networks/Aerohive Wireless APs - CVE-2023-35803"][91]
@@ -171,6 +172,8 @@
 * ["P2PInfect: The Rusty Peer-to-Peer Self-Replicating Worm"][206]
 * ["P4wnP1-LTE"][209]
 * ["Patches, Collisions, and Root Shells: A Pwn2Own Adventure"][278]
+* ["Patch Tuesday -> exploit Wednesday: Pwning windows ancillary function driver for WinSock (afd.sys) in 24 hours"][297]
+* ["Persistence Techniques That Persist"][299]
 * ["Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500"][166]
 * ["prctl anon_vma_name: An Amusing Linux Kernel Heap Spray"][184]
 * ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
@@ -356,6 +359,7 @@
 
 * ["A Noobs Guide to ARM Exploitation"][241]
 * ["Advanced binary fuzzing using AFL++-QEMU and libprotobuf: a practical case of grammar-aware in-memory persistent fuzzing"][71]
+* ["Advanced Compilers: The Self-Guided Online Course"][298]
 * "Introduction to encryption for embedded Linux"
   * ["Introduction to encryption for embedded Linux developers"][0]
   * ["A hands-on approach to symmetric-key encryption"][1]
@@ -667,3 +671,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [294]: https://security.humanativaspa.it/a-journey-into-iot-chip-identification-busside-and-i2c/
 [295]: https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-1-discover-components-and-ports/
 [296]: https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-2-firmware-dump-and-analysis/
+[297]: https://securityintelligence.com/x-force/patch-tuesday-exploit-wednesday-pwning-windows-ancillary-function-driver-winsock/
+[298]: https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/
+[299]: https://www.cyberark.com/resources/threat-research-blog/persistence-techniques-that-persist
+[300]: https://blog.malicious.group/automating-c2-infrastructure-with-terraform-nebula-caddy-and-cobalt-strike/
