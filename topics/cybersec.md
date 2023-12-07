@@ -197,6 +197,7 @@
 * ["The art of Fuzzing: Introduction"][57]
 * ["The art of fuzzing: Windows Binaries"][89]
 * ["The art of fuzzing-A Step-by-Step Guide to Coverage-Guided Fuzzing with LibFuzzer"][54]
+* ["The Blitz Tutorial Lab on Fuzzing with AFL++"][303]
 * ["The Dragon Who Sold His camaro: Analyzing Custom Router Implant"][228]
 * ["The Linux Kernel Module Programming Guide"][3]
 * ["The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders"][284]
@@ -336,10 +337,12 @@
   * [Part 3][21]
   * [Part 4][22]
 * ["eMMC Data Recovery from Damaged Smartphone"][88]
+* ["My journey towards Reverse Engineering a Smart Band — Bluetooth-LE RE"][302]
 
 ## 2017
 
 * ["HiSilicon DVR hack"][236]
+* ["How I Reverse Engineered and Exploited a Smart Massager"][301]
 * ["Linux ptrace introduction AKA injecting into sshd for fun"][229]
 
 ## 2016
@@ -675,3 +678,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [298]: https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/
 [299]: https://www.cyberark.com/resources/threat-research-blog/persistence-techniques-that-persist
 [300]: https://blog.malicious.group/automating-c2-infrastructure-with-terraform-nebula-caddy-and-cobalt-strike/
+[301]: https://medium.com/@arunmag/how-i-reverse-engineered-and-exploited-a-smart-massager-ee7c9f21bf33
+[302]: https://medium.com/@arunmag/my-journey-towards-reverse-engineering-a-smart-band-bluetooth-le-re-d1dea00e4de2
+[303]: https://research.checkpoint.com/2023/the-blitz-tutorial-lab-on-fuzzing-with-afl/
