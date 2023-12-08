@@ -288,12 +288,14 @@
   * ["Debugging the Kernel with QEMU"][25]
   * ["Smashing Stack Overflows in the Kernel"][26]
   * ["Controlling RIP and Escalating privileges via Stack Overflow"][27]
+* ["New Old Bugs in the Linux Kernel"][305]
 * ["Recovering a Full PEM Private key when Half of it is Redacted"][96]
 * "Reverse Engineering Bare-Metal Firmware":
   * [Part 1][142]
   * [Part 2][143]
   * [Part 3][144]
 * ["Reverse Engineering Yaesu FT-70D Firmware Encryption"][147]
+* ["The Oddest Place You Will Ever Find PAC"][306]
 * ["Wall Of Perdition: Utilizing msg_msg Objects For Arbitrary Read And Arbitrary Write In The Linux Kernel"][251]
 
 ## 2020
@@ -363,6 +365,7 @@
 * ["A Noobs Guide to ARM Exploitation"][241]
 * ["Advanced binary fuzzing using AFL++-QEMU and libprotobuf: a practical case of grammar-aware in-memory persistent fuzzing"][71]
 * ["Advanced Compilers: The Self-Guided Online Course"][298]
+* ["ARM TrustZone: pivoting to the secure world"][304]
 * "Introduction to encryption for embedded Linux"
   * ["Introduction to encryption for embedded Linux developers"][0]
   * ["A hands-on approach to symmetric-key encryption"][1]
@@ -681,3 +684,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [301]: https://medium.com/@arunmag/how-i-reverse-engineered-and-exploited-a-smart-massager-ee7c9f21bf33
 [302]: https://medium.com/@arunmag/my-journey-towards-reverse-engineering-a-smart-band-bluetooth-le-re-d1dea00e4de2
 [303]: https://research.checkpoint.com/2023/the-blitz-tutorial-lab-on-fuzzing-with-afl/
+[304]: https://blog.thalium.re/posts/pivoting_to_the_secure_world/
+[305]: https://blog.grimm-co.com/2021/03/new-old-bugs-in-linux-kernel.html
+[306]: https://blog.ret2.io/2021/06/16/intro-to-pac-arm64/
