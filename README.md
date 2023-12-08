@@ -432,6 +432,7 @@ See also the following lists dedicated to specifics sub-topics:
     cryptography libraries.
   * [Design patterns][321]: catalogue of Rust design patterns, anti-patterns and
     idioms.
+  * [docker-rust][541]: Docker official image for rust.
   * [Easy Rust][311]: rust explained using easy English.
   * [Editions][309]: editions guide.
   * [Embedded Rust Book][153]: introductory book about using the Rust
@@ -448,9 +449,17 @@ See also the following lists dedicated to specifics sub-topics:
   * [Redox OS][318]: Unix-like Operating System written in Rust.
   * [RFCs][320]: RFCs for changes to Rust.
   * [Rust by Example][503]: collection of runnable examples.
+  * [Rust Embedded][542]: Rust on Embedded Devices Working Group.
+  * [rust-musl-cross][540]: Docker images for compiling static Rust binaries
+  using musl-cross.
+  * [Rust cookbook][544]: collection of simple examples in Rust
+  * [Rust for professionals][545]: short introduction to Rust
   * [Rust to Assembly][501]: Understanding the Inner Workings of Rust.
+  * [RustBooks][547]: List of Rust books
   * [Rustonomicon][150]: awful details that you need to understand when writing
     Unsafe Rust programs.
+  * [rust-learning][546]: links to blog posts, articles, videos, etc for
+  learning Rust.
   * [Rust Reference][151]: primary reference for the Rust programming language.
   * [rustup][152]: installer for the systems programming language Rust.
   * [std][43]: standard library documentation.
@@ -470,6 +479,7 @@ See also the following lists dedicated to specifics sub-topics:
     * [Goblin][99]: cross-platform binary parsing crate, written in Rust.
     * [libp2p][241]: Rust Implementation of the libp2p networking stack.
     * [nix][304]: rust friendly bindings to \*nix APIs.
+    * [py03][543]: Rust bindings for the Python interpreter.
     * [redbpf][119]: Rust library for building and running BPF/eBPF modules.
     * [redhook][96]: dynamic function call interposition / hooking (LD_PRELOAD)
       for Rust.
@@ -1018,3 +1028,11 @@ libsla.
 [537]: https://github.com/pwndbg/pwndbg
 [538]: https://github.com/osandov/drgn
 [539]: https://github.com/secdev/scapy
+[540]: https://github.com/rust-cross/rust-musl-cross
+[541]: https://github.com/rust-lang/docker-rust
+[542]: https://github.com/rust-embedded
+[543]: https://github.com/PyO3/PyO3
+[544]: https://rust-lang-nursery.github.io/rust-cookbook/
+[545]: https://overexact.com/rust-for-professionals/
+[546]: https://github.com/ctjhoa/rust-learning
+[547]: https://github.com/sger/RustBooks
