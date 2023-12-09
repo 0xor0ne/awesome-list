@@ -50,6 +50,7 @@
 * ["Breaking Fortinet Firmware Encryption"][233]
 * ["Breaking the Code - Exploiting and Examining CVE-2023-1829 in cls_tcindex Classifier Vulnerability"][81]
 * ["Breaking Secure Boot on the Silicon Labs Gecko platform"][262]
+* ["Bypassing PPL in Userland (again)"][308]
 * "chonked"
   * ["minidlna 1.3.2 http chunk parsing heap overflow (cve-2023-33476) root cause analysis"][193]
   * ["exploiting cve-2023-33476 for remote code execution"][194]
@@ -177,6 +178,7 @@
 * ["Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500"][166]
 * ["prctl anon_vma_name: An Amusing Linux Kernel Heap Spray"][184]
 * ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
+* ["Pwning the tp-link ax1800 wifi 6 Router: Uncovered and Exploited a Memory Corruption Vulnerability"][309]
 * ["Racing Against the Lock: Exploiting Spinlock UAF in the Android Kernel"][185]
 * ["Red vs. Blue: Kerberos Ticket Times, Checksums, and You!"][30]
 * ["Retreading The AMLogic A113X TrustZone Exploit Process"][77]
@@ -209,6 +211,7 @@
 * ["UNCONTAINED: Uncovering Container Confusion in the Linux Kernel"][37]
 * ["Under The Hood - Disassembling of IKEA-Sonos Symfonisk Speaker Lamp"][180]
 * ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
+* ["Writing your own RDI /sRDI loader using C and ASM"][307]
 * ["Zenbleed"][207]
 * ["Zero Effort Private Key Compromise: Abusing SSH-Agent For Lateral Movement"][248]
 
@@ -687,3 +690,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [304]: https://blog.thalium.re/posts/pivoting_to_the_secure_world/
 [305]: https://blog.grimm-co.com/2021/03/new-old-bugs-in-linux-kernel.html
 [306]: https://blog.ret2.io/2021/06/16/intro-to-pac-arm64/
+[307]: https://blog.malicious.group/writing-your-own-rdi-srdi-loader-using-c-and-asm/
+[308]: https://blog.scrt.ch/2023/03/17/bypassing-ppl-in-userland-again/
+[309]: https://www.tecsecurity.io/blog/tp-link_ax1800
