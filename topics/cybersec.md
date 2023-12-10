@@ -178,6 +178,7 @@
 * ["Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500"][166]
 * ["prctl anon_vma_name: An Amusing Linux Kernel Heap Spray"][184]
 * ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
+* ["Pwning Pixel 6 with a leftover patch"][310]
 * ["Pwning the tp-link ax1800 wifi 6 Router: Uncovered and Exploited a Memory Corruption Vulnerability"][309]
 * ["Racing Against the Lock: Exploiting Spinlock UAF in the Android Kernel"][185]
 * ["Red vs. Blue: Kerberos Ticket Times, Checksums, and You!"][30]
@@ -209,6 +210,7 @@
 * ["Your not so "Home Office" - SOHO Hacking at Pwn2Own"][5]
 * ["Unauthenticated RCE on a RIGOL oscilloscope"][210]
 * ["UNCONTAINED: Uncovering Container Confusion in the Linux Kernel"][37]
+* ["Uncovering HinataBot: A Deep Dive into a Go-Based Threat"][311]
 * ["Under The Hood - Disassembling of IKEA-Sonos Symfonisk Speaker Lamp"][180]
 * ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
 * ["Writing your own RDI /sRDI loader using C and ASM"][307]
@@ -693,3 +695,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [307]: https://blog.malicious.group/writing-your-own-rdi-srdi-loader-using-c-and-asm/
 [308]: https://blog.scrt.ch/2023/03/17/bypassing-ppl-in-userland-again/
 [309]: https://www.tecsecurity.io/blog/tp-link_ax1800
+[310]: https://github.blog/2023-04-06-pwning-pixel-6-with-a-leftover-patch/
+[311]: https://www.akamai.com/blog/security-research/hinatabot-uncovering-new-golang-ddos-botnet
