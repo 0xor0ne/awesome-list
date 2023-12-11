@@ -213,6 +213,7 @@
 * ["Uncovering HinataBot: A Deep Dive into a Go-Based Threat"][311]
 * ["Under The Hood - Disassembling of IKEA-Sonos Symfonisk Speaker Lamp"][180]
 * ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
+* ["Windows Installer EOP (CVE-2023-21800)"][314]
 * ["Writing your own RDI /sRDI loader using C and ASM"][307]
 * ["Zenbleed"][207]
 * ["Zero Effort Private Key Compromise: Abusing SSH-Agent For Lateral Movement"][248]
@@ -273,9 +274,11 @@
 * ["Reverse engineering thermal printers"][245]
 * ["Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later"][226]
 * ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
+* ["Trying To Exploit A Windows Kernel Arbitrary Read Vulnerability"][312]
 * ["Turning Google smart speakers into wiretaps for $100k"][18]
 * ["Vulnerabilities and Hardware Teardown of GL.iNET GL-MT300N-V2 Router"][126]
 * ["Vulnerabilities in Tenda's W15Ev2 AC1200 Router"][127]
+* ["Write a Linux firewall from scratch based on Netfilter"][313]
 
 ## 2021
 
@@ -697,3 +700,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [309]: https://www.tecsecurity.io/blog/tp-link_ax1800
 [310]: https://github.blog/2023-04-06-pwning-pixel-6-with-a-leftover-patch/
 [311]: https://www.akamai.com/blog/security-research/hinatabot-uncovering-new-golang-ddos-botnet
+[312]: https://starlabs.sg/blog/2022/06-trying-to-exploit-a-windows-kernel-arbitrary-read-vulnerability/
+[313]: https://levelup.gitconnected.com/write-a-linux-firewall-from-scratch-based-on-netfilter-462013202686
+[314]: https://blog.doyensec.com/2023/03/21/windows-installer.html
