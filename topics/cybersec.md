@@ -212,6 +212,7 @@
 * ["UNCONTAINED: Uncovering Container Confusion in the Linux Kernel"][37]
 * ["Uncovering HinataBot: A Deep Dive into a Go-Based Threat"][311]
 * ["Under The Hood - Disassembling of IKEA-Sonos Symfonisk Speaker Lamp"][180]
+* ["Understanding a Payload’s Life Featuring Meterpreter & Other Guests "][315]
 * ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
 * ["Windows Installer EOP (CVE-2023-21800)"][314]
 * ["Writing your own RDI /sRDI loader using C and ASM"][307]
@@ -239,6 +240,7 @@
 * ["Embedded Systems Security and TrustZone"][145]
 * ["Exploiting CSN.1 Bugs in MediaTek Basebands"][272]
 * ["exploiting CVE-2019-2215"][61]
+* ["Firmware key extraction by gaining EL3"][316]
 * ["Fortigate - Authentication Bypass Lead to Full Device Takeover"][291]
 * ["How The Tables Have Turned: An analysis of two new Linux vulnerabilities in nf_tables"][266]
 * "Hunting for Persistence in Linux"
@@ -283,6 +285,7 @@
 ## 2021
 
 * ["Breaking 64 bit aslr on Linux x86-64"][234]
+* ["Complete Guide to Stack Buffer Overflow (OSCP Preparation)"][317]
 * ["CVE-2021–20226 a reference counting bug which leads to local privilege escalation in io_uring."][179]
 * "Digging into Linux namespaces":
   * [Part 1][157]
@@ -703,3 +706,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [312]: https://starlabs.sg/blog/2022/06-trying-to-exploit-a-windows-kernel-arbitrary-read-vulnerability/
 [313]: https://levelup.gitconnected.com/write-a-linux-firewall-from-scratch-based-on-netfilter-462013202686
 [314]: https://blog.doyensec.com/2023/03/21/windows-installer.html
+[315]: https://attl4s.github.io/assets/pdf/Understanding_a_Payloads_Life.pdf
+[316]: https://blog.xilokar.info/firmware-key-extraction-by-gaining-el3.html?s=09
+[317]: https://steflan-security.com/complete-guide-to-stack-buffer-overflow-oscp/
