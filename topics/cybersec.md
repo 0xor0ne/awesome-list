@@ -63,6 +63,7 @@
 * ["Debugger Ghidra Class"][28]
 * ["Debugging D-Link: Emulating firmware and hacking hardware"][290]
 * ["Deep Lateral Movement in OT Networks: When is a Perimeter not a Perimeter?"][253]
+* ["Defining the cobalt strike reflective loader"][320]
 * ["Detecting BPFDoor Backdoor Variants Abusing BPF Filters"][183]
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
 * ["Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”"][164]
@@ -178,6 +179,7 @@
 * ["Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500"][166]
 * ["prctl anon_vma_name: An Amusing Linux Kernel Heap Spray"][184]
 * ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
+* ["PwnAgent: A One-Click WAN-side RCE in Netgear RAX Routers with CVE-2023-24749"][318]
 * ["Pwning Pixel 6 with a leftover patch"][310]
 * ["Pwning the tp-link ax1800 wifi 6 Router: Uncovered and Exploited a Memory Corruption Vulnerability"][309]
 * ["Racing Against the Lock: Exploiting Spinlock UAF in the Android Kernel"][185]
@@ -254,6 +256,7 @@
   * [Part 2][133]
 * ["Linux Kernel: Exploiting a Netfilter Use-after-Free in kmalloc-cg"][269]
 * ["Linux Kernel Exploit (CVE-2022–32250) with mqueue"][242]
+* ["Manipulating AES Traffic using a Chain of Proxies and Hardcoded Keys"][319]
 * ["Missing Manuals - io_uring worker pool"][265]
 * "Netgear Orbi":
   * ["orbi hunting 0x0: introduction, uart access, recon"][33]
@@ -709,3 +712,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [315]: https://attl4s.github.io/assets/pdf/Understanding_a_Payloads_Life.pdf
 [316]: https://blog.xilokar.info/firmware-key-extraction-by-gaining-el3.html?s=09
 [317]: https://steflan-security.com/complete-guide-to-stack-buffer-overflow-oscp/
+[318]: https://mahaloz.re/2023/02/25/pwnagent-netgear.html
+[319]: https://blog.dixitaditya.com/manipulating-aes-traffic-using-a-chain-of-proxies-and-hardcoded-keys
+[320]: https://securityintelligence.com/x-force/defining-cobalt-strike-reflective-loader/
