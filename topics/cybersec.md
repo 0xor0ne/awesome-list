@@ -82,6 +82,7 @@
 * ["Executing Arbitrary Code & Executables in Read-Only FileSystems"][52]
 * ["Exploit Engineering – Attacking the Linux Kernel"][146]
 * ["Exploiting MikroTik RouterOS Hardware with CVE-2023-30799"][198]
+* ["Exploiting a Remote Heap Overflow with a Custom TCP Stack"][322]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
 * "Fantastic Rootkits: And Where To Find Them":
   * [Part 1][275]
@@ -178,6 +179,7 @@
 * ["Persistence Techniques That Persist"][299]
 * ["Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500"][166]
 * ["prctl anon_vma_name: An Amusing Linux Kernel Heap Spray"][184]
+* ["Producing a POC for CVE-2022-42475 (Fortinet RCE)"][323]
 * ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
 * ["PwnAgent: A One-Click WAN-side RCE in Netgear RAX Routers with CVE-2023-24749"][318]
 * ["Pwning Pixel 6 with a leftover patch"][310]
@@ -278,6 +280,7 @@
 * ["Reverse engineering integrity checks in Black Ops 3"][220]
 * ["Reverse engineering thermal printers"][245]
 * ["Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later"][226]
+* ["The Dirty Pipe Vulnerability"][321]
 * ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
 * ["Trying To Exploit A Windows Kernel Arbitrary Read Vulnerability"][312]
 * ["Turning Google smart speakers into wiretaps for $100k"][18]
@@ -715,3 +718,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [318]: https://mahaloz.re/2023/02/25/pwnagent-netgear.html
 [319]: https://blog.dixitaditya.com/manipulating-aes-traffic-using-a-chain-of-proxies-and-hardcoded-keys
 [320]: https://securityintelligence.com/x-force/defining-cobalt-strike-reflective-loader/
+[321]: https://dirtypipe.cm4all.com
+[322]: https://www.synacktiv.com/en/publications/exploiting-a-remote-heap-overflow-with-a-custom-tcp-stack.html
+[323]: https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/
