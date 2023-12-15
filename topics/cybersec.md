@@ -28,6 +28,7 @@
 * ["A story about tampering EDRs"][293]
 * ["Abusing undocumented features to spoof PE section headers"][139]
 * ["All cops are broadcasting: TETRA under scrutiny"][237]
+* ["Analyzing an Old Netatalk dsi_writeinit Buffer Overflow Vulnerability in NETGEAR Route"][326]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
 * "Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway":
   * [Part 1][196]
@@ -79,6 +80,7 @@
 * ["EPF: Evil Packet Filter"][73]
 * ["Escaping from Bhyve"][192]
 * ["ESP32-C3 Wireless Adventure A Comprehensive Guide to IoT"][69]
+* ["Examining OpenSSH Sandboxing and Privilege Separation – Attack Surface Analysis"][324]
 * ["Executing Arbitrary Code & Executables in Read-Only FileSystems"][52]
 * ["Exploit Engineering – Attacking the Linux Kernel"][146]
 * ["Exploiting MikroTik RouterOS Hardware with CVE-2023-30799"][198]
@@ -194,6 +196,7 @@
 * ["Revisiting CVE-2017-11176"][48]
 * ["Rust Binary Analysis, Feature by Feature"][231]
 * ["Rust to Assembly: Understanding the Inner Workings of Rust"][134]
+* ["SHA-1 gets SHAttered"][325]
 * ["Shambles: The Next-Generation IoT Reverse Engineering Tool to Discover 0-Day Vulnerabilities"][55]
 * ["Shell in the Ghost: Ghostscript CVE-2023-28879 writeup"][76]
 * ["Shifting boundaries: Exploiting an Integer Overflow in Apple Safari"][261]
@@ -721,3 +724,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [321]: https://dirtypipe.cm4all.com
 [322]: https://www.synacktiv.com/en/publications/exploiting-a-remote-heap-overflow-with-a-custom-tcp-stack.html
 [323]: https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/
+[324]: https://jfrog.com/blog/examining-openssh-sandboxing-and-privilege-separation-attack-surface-analysis/
+[325]: https://evervault.com/blog/sha-1-gets-shattered
+[326]: https://medium.com/@cq674350529/analyzing-an-old-netatalk-dsi-writeinit-buffer-overflow-vulnerability-in-netgear-router-4e9d59064584
