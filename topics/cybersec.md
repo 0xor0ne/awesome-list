@@ -134,6 +134,7 @@
 * ["JTAG 'Hacking' the Original Xbox in 2023"][244]
 * ["Kernel Exploit Factory"][159]
 * ["Learn Makefiles With the tastiest examples"][24]
+* ["Leveraging ssh-keygen for Arbitrary Execution (and Privilege Escalation)"][327]
 * [linux-re-101][169]
 * ["Linux Kernel Teaching"][131]
 * ["Linux Malware: Defense Evasion Techniques"][165]
@@ -391,6 +392,7 @@
   * ["A hands-on approach to symmetric-key encryption"][1]
   * ["Asymmetric-Key Encryption and Digital Signatures in Practice"][2]
 * ["Debugger Ghidra Class"][232]
+* ["Laser-Based Audio Injection on Voice-Controllable Systems"][328]
 * ["Linux Kernel map"][225]
 * ["Linux Insides"][246]
 * ["Linux Syscalls Reference"][17]
@@ -398,6 +400,7 @@
 * ["Satellite Hacking Demystified(RTC0007)"][221]
 * [TEE Reversing][263]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][258]
+* [USB-WiFi][329]
 * ["VSS: Beginners Guide to Building a Hardware Hacking Lab"][249]
 
 [0]: https://sergioprado.blog/introduction-to-encryption-for-embedded-linux-developers/
@@ -727,3 +730,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [324]: https://jfrog.com/blog/examining-openssh-sandboxing-and-privilege-separation-attack-surface-analysis/
 [325]: https://evervault.com/blog/sha-1-gets-shattered
 [326]: https://medium.com/@cq674350529/analyzing-an-old-netatalk-dsi-writeinit-buffer-overflow-vulnerability-in-netgear-router-4e9d59064584
+[327]: https://seanpesce.blogspot.com/2023/03/leveraging-ssh-keygen-for-arbitrary.html
+[328]: https://lightcommands.com
+[329]: https://github.com/morrownr/USB-WiFi
