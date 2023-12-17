@@ -162,6 +162,7 @@
   * ["Part 1 – Modifying PS2 game save files"][39]
   * ["Part 2 – Arbitrary PS2 code execution"][40]
   * ["Part 3 – Escaping the emulator"][41]
+* ["Mélofée: a new alien malware in the Panda's toolset targeting Linux hosts"][330]
 * ["Meterpreter vs Modern EDR(s)"][170]
 * ["mTLS: When certificate authentication is done wrong"][270]
 * ["MSMQ QueueJumper (RCE Vulnerability): An in-depth technical analysis"][177]
@@ -212,6 +213,7 @@
 * ["The Dragon Who Sold His camaro: Analyzing Custom Router Implant"][228]
 * ["The Linux Kernel Module Programming Guide"][3]
 * ["The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders"][284]
+* ["The Silent Spy Among Us: Smart Intercom Attacks"][331]
 * ["The Untold Story of the BlackLotus UEFI Bootkit"][205]
 * ["Sshimpanzee"][16]
 * ["Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was"][80]
@@ -286,6 +288,16 @@
 * ["Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later"][226]
 * ["The Dirty Pipe Vulnerability"][321]
 * ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
+* "The toddler’s introduction to Heap exploitation":
+  * ["Part 1"][339]
+  * ["Part 2"][340]
+  * ["Overflows"][341]
+  * ["Use After Free & Double free"][342]
+  * ["FastBin Dup to Stack"][343]
+  * ["FastBin Dup Consolidate"][344]
+  * ["Unsafe Unlink"][345]
+  * ["House of Spirit"][346]
+  * ["House of Lore"][347]
 * ["Trying To Exploit A Windows Kernel Arbitrary Read Vulnerability"][312]
 * ["Turning Google smart speakers into wiretaps for $100k"][18]
 * ["Vulnerabilities and Hardware Teardown of GL.iNET GL-MT300N-V2 Router"][126]
@@ -294,6 +306,14 @@
 
 ## 2021
 
+* "A dive into the PE file format":
+  * ["Introduction"][332]
+  * ["DOS Header, DOS Stub and Rich Header"][333]
+  * ["NT Headers"][334]
+  * ["Data Directories, Section Headers and Sections"][335]
+  * ["Imports (Import Direcory Table, ILT, IAT)"][336]
+  * ["PE Base Relocations"][337]
+  * ["Writing a PE Parser"][338]
 * ["Breaking 64 bit aslr on Linux x86-64"][234]
 * ["Complete Guide to Stack Buffer Overflow (OSCP Preparation)"][317]
 * ["CVE-2021–20226 a reference counting bug which leads to local privilege escalation in io_uring."][179]
@@ -733,3 +753,21 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [327]: https://seanpesce.blogspot.com/2023/03/leveraging-ssh-keygen-for-arbitrary.html
 [328]: https://lightcommands.com
 [329]: https://github.com/morrownr/USB-WiFi
+[330]: https://blog.exatrack.com/melofee/
+[331]: https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms
+[332]: https://0xrick.github.io/win-internals/pe1/
+[333]: https://0xrick.github.io/win-internals/pe3/
+[334]: https://0xrick.github.io/win-internals/pe4/
+[335]: https://0xrick.github.io/win-internals/pe5/
+[336]: https://0xrick.github.io/win-internals/pe6/
+[337]: https://0xrick.github.io/win-internals/pe7/
+[338]: https://0xrick.github.io/win-internals/pe8/
+[339]: https://infosecwriteups.com/the-toddlers-introduction-to-heap-exploitation-part-1-515b3621e0e8
+[340]: https://infosecwriteups.com/the-toddlers-introduction-to-heap-exploitation-part-2-d1f325b74286
+[341]: https://infosecwriteups.com/the-toddlers-introduction-to-heap-exploitation-overflows-part-3-d3d1aa042d1e
+[342]: https://medium.com/bugbountywriteup/use-after-free-13544be5a921
+[343]: https://infosecwriteups.com/the-toddlers-introduction-to-heap-exploitation-fastbin-dup-to-stack-part-4-1-425592a2870b
+[344]: https://infosecwriteups.com/the-toddlers-introduction-to-heap-exploitation-fastbin-dup-consolidate-part-4-2-ce6d68136aa8
+[345]: https://infosecwriteups.com/the-toddlers-introduction-to-heap-exploitation-unsafe-unlink-part-4-3-75e00e1b0c68
+[346]: https://infosecwriteups.com/the-toddlers-introduction-to-heap-exploitation-house-of-spirit-part-4-4-252cd8928f84
+[347]: https://infosecwriteups.com/the-toddlers-introduction-to-heap-exploitation-house-of-lore-part-4-5-1b5865297057
