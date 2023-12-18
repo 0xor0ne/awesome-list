@@ -223,6 +223,7 @@
 * ["Uncovering HinataBot: A Deep Dive into a Go-Based Threat"][311]
 * ["Under The Hood - Disassembling of IKEA-Sonos Symfonisk Speaker Lamp"][180]
 * ["Understanding a Payload’s Life Featuring Meterpreter & Other Guests "][315]
+* ["Understanding the Heap - a beautiful mess"][348]
 * ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
 * ["Windows Installer EOP (CVE-2023-21800)"][314]
 * ["Writing your own RDI /sRDI loader using C and ASM"][307]
@@ -262,6 +263,7 @@
 * "Hacking Some More Secure USB Flash Drives":
   * [Part 1][132]
   * [Part 2][133]
+* ["Linux Hardening Guide"][349]
 * ["Linux Kernel: Exploiting a Netfilter Use-after-Free in kmalloc-cg"][269]
 * ["Linux Kernel Exploit (CVE-2022–32250) with mqueue"][242]
 * ["Manipulating AES Traffic using a Chain of Proxies and Hardcoded Keys"][319]
@@ -771,3 +773,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [345]: https://infosecwriteups.com/the-toddlers-introduction-to-heap-exploitation-unsafe-unlink-part-4-3-75e00e1b0c68
 [346]: https://infosecwriteups.com/the-toddlers-introduction-to-heap-exploitation-house-of-spirit-part-4-4-252cd8928f84
 [347]: https://infosecwriteups.com/the-toddlers-introduction-to-heap-exploitation-house-of-lore-part-4-5-1b5865297057
+[348]: https://jackfromeast.site/2023-01/understand-the-heap-a-beautiful-mess.html
+[349]: https://madaidans-insecurities.github.io/guides/linux-hardening.html
