@@ -109,6 +109,7 @@
   * ["Vulnerability Hunting with Ghidra"][123]
   * ["Patching a Bug from a Ghidra Listing"][124]
   * ["Vulnerability Analysis with Ghidra Scripting"][125]
+* ["Hacking a Tapo TC60 Camera"][350]
 * ["Hacking Amazon's eero 6 (part 1)"][86]
 * ["Hacking Brightway scooters: A case study"][29]
 * ["Hardware Hacking to Bypass BIOS Passwords"][5]
@@ -263,6 +264,9 @@
 * "Hacking Some More Secure USB Flash Drives":
   * [Part 1][132]
   * [Part 2][133]
+* "Intro to Embedded RE":
+  * ["Tools and Series"][351]
+  * ["UART Discovery and Firmware Extraction via UBoot"][352]
 * ["Linux Hardening Guide"][349]
 * ["Linux Kernel: Exploiting a Netfilter Use-after-Free in kmalloc-cg"][269]
 * ["Linux Kernel Exploit (CVE-2022–32250) with mqueue"][242]
@@ -775,3 +779,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [347]: https://infosecwriteups.com/the-toddlers-introduction-to-heap-exploitation-house-of-lore-part-4-5-1b5865297057
 [348]: https://jackfromeast.site/2023-01/understand-the-heap-a-beautiful-mess.html
 [349]: https://madaidans-insecurities.github.io/guides/linux-hardening.html
+[350]: https://medium.com/@two06/hacking-a-tapo-tc60-camera-e6ce7ca6cad1
+[351]: https://voidstarsec.com/blog/intro-to-embedded-part-1
+[352]: https://voidstarsec.com/blog/uart-uboot-and-usb
