@@ -90,6 +90,7 @@
   * [Part 1][275]
   * [Part 2][276]
   * [Part 3][277]
+* ["Few lesser known tricks, quirks and features of C"][354]
 * ["Finding and exploiting process killer drivers with LOL for 3000$"][172]
 * ["Finding bugs in C code with Multi-Level IR and VAST"][92]
 * ["Finding Gadgets for CPU Side-Channels with Static Analysis Tools"][75]
@@ -137,6 +138,7 @@
 * ["Learn Makefiles With the tastiest examples"][24]
 * ["Leveraging ssh-keygen for Arbitrary Execution (and Privilege Escalation)"][327]
 * [linux-re-101][169]
+* ["Linux debugging, profiling and tracing training"][353]
 * ["Linux Kernel Teaching"][131]
 * ["Linux Malware: Defense Evasion Techniques"][165]
 * "Linux Red Team":
@@ -782,3 +784,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [350]: https://medium.com/@two06/hacking-a-tapo-tc60-camera-e6ce7ca6cad1
 [351]: https://voidstarsec.com/blog/intro-to-embedded-part-1
 [352]: https://voidstarsec.com/blog/uart-uboot-and-usb
+[353]: https://bootlin.com/doc/training/debugging/debugging-slides.pdf
+[354]: https://jorengarenar.github.io/blog/less-known-c
