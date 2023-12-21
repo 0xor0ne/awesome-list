@@ -130,6 +130,7 @@
 * ["How To Secure A Linux Server"][140]
 * ["Icicle: A Re-designed Emulator for Grey-Box Firmware Fuzzing"][171]
 * ["In-depth analysis on Valorant’s Guarded Regions"][141]
+* ["In-Memory-Only ELF Execution (Without tmpfs)"][355]
 * ["Intel BIOS Advisory – Memory Corruption in HID Drivers "][257]
 * ["Intercepting Allocations with the Global Allocator"][79]
 * ["Introduction to SELinux"][59]
@@ -217,6 +218,7 @@
 * ["The Linux Kernel Module Programming Guide"][3]
 * ["The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders"][284]
 * ["The Silent Spy Among Us: Smart Intercom Attacks"][331]
+* ["The Stack Series: The X64 Stack"][356]
 * ["The Untold Story of the BlackLotus UEFI Bootkit"][205]
 * ["Sshimpanzee"][16]
 * ["Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was"][80]
@@ -786,3 +788,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [352]: https://voidstarsec.com/blog/uart-uboot-and-usb
 [353]: https://bootlin.com/doc/training/debugging/debugging-slides.pdf
 [354]: https://jorengarenar.github.io/blog/less-known-c
+[355]: https://magisterquis.github.io/2018/03/31/in-memory-only-elf-execution.html
+[356]: https://offensivecraft.wordpress.com/2023/02/11/the-stack-series-the-x64-stack/
