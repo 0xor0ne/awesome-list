@@ -363,6 +363,7 @@
   * [Part 2][280]
 * ["NTLM Relay"][56]
 * ["SSHD Injection and Password Harvesting"][230]
+* ["What're you telling me, Ghidra?"][358]
 
 ## 2019
 
@@ -427,6 +428,7 @@
 * ["Linux Insides"][246]
 * ["Linux Syscalls Reference"][17]
 * ["mjsxj09cm Recovering Firmware And Backdooring"][62]
+* ["Operating System development tutorials in Rust on the Raspberry Pi"][357]
 * ["Satellite Hacking Demystified(RTC0007)"][221]
 * [TEE Reversing][263]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][258]
@@ -790,3 +792,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [354]: https://jorengarenar.github.io/blog/less-known-c
 [355]: https://magisterquis.github.io/2018/03/31/in-memory-only-elf-execution.html
 [356]: https://offensivecraft.wordpress.com/2023/02/11/the-stack-series-the-x64-stack/
+[357]: https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+[358]: https://byte.how/posts/what-are-you-telling-me-ghidra/
