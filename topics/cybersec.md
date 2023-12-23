@@ -274,6 +274,11 @@
 * ["Linux Hardening Guide"][349]
 * ["Linux Kernel: Exploiting a Netfilter Use-after-Free in kmalloc-cg"][269]
 * ["Linux Kernel Exploit (CVE-2022–32250) with mqueue"][242]
+* "Linux SLUB Allocator Internals and Debugging":
+  * [Part 1][359]
+  * [Part 2][360]
+  * [Part 3][361]
+  * [Part 4][362]
 * ["Manipulating AES Traffic using a Chain of Proxies and Hardcoded Keys"][319]
 * ["Missing Manuals - io_uring worker pool"][265]
 * "Netgear Orbi":
@@ -794,3 +799,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [356]: https://offensivecraft.wordpress.com/2023/02/11/the-stack-series-the-x64-stack/
 [357]: https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
 [358]: https://byte.how/posts/what-are-you-telling-me-ghidra/
+[359]: https://blogs.oracle.com/linux/post/linux-slub-allocator-internals-and-debugging-1
+[360]: https://blogs.oracle.com/linux/post/linux-slub-allocator-internals-and-debugging-2
+[361]: https://blogs.oracle.com/linux/post/linux-slub-allocator-internals-and-debugging-3
+[362]: https://blogs.oracle.com/linux/post/linux-slub-allocator-internals-and-debugging-4
