@@ -171,6 +171,7 @@
 * ["mTLS: When certificate authentication is done wrong"][270]
 * ["MSMQ QueueJumper (RCE Vulnerability): An in-depth technical analysis"][177]
 * ["NVMe: New Vulnerabilities Made Easy"][264]
+* ["nftables Adventures: Bug Hunting and N-day Exploitation (CVE-2023-31248)"][365]
 * ["Obscure Windows File Types"][74]
 * ["Old Bug, Shallow Bug: Exploiting Ubuntu at Pwn2own Vancouver 2023"][254]
 * "OPC UA Deep Dive Series":
@@ -199,6 +200,7 @@
   * [Part 1][149]
   * [Part 3][150]
   * [Part 3][151]
+* ["REUnziP: Re-Exploiting Huawei Recovery With FaultyUSB"][364]
 * ["Revisiting CVE-2017-11176"][48]
 * ["Rust Binary Analysis, Feature by Feature"][231]
 * ["Rust to Assembly: Understanding the Inner Workings of Rust"][134]
@@ -428,6 +430,7 @@
   * ["A hands-on approach to symmetric-key encryption"][1]
   * ["Asymmetric-Key Encryption and Digital Signatures in Practice"][2]
 * ["Debugger Ghidra Class"][232]
+* [DhavalKapil/heap-exploitation][363]
 * ["Laser-Based Audio Injection on Voice-Controllable Systems"][328]
 * ["Linux Kernel map"][225]
 * ["Linux Insides"][246]
@@ -803,3 +806,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [360]: https://blogs.oracle.com/linux/post/linux-slub-allocator-internals-and-debugging-2
 [361]: https://blogs.oracle.com/linux/post/linux-slub-allocator-internals-and-debugging-3
 [362]: https://blogs.oracle.com/linux/post/linux-slub-allocator-internals-and-debugging-4
+[363]: https://heap-exploitation.dhavalkapil.com
+[364]: https://labs.taszk.io/articles/post/reunzip/
+[365]: https://starlabs.sg/blog/2023/09-nftables-adventures-bug-hunting-and-n-day-exploitation/
