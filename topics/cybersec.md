@@ -168,6 +168,9 @@
   * ["Part 3 – Escaping the emulator"][41]
 * ["Mélofée: a new alien malware in the Panda's toolset targeting Linux hosts"][330]
 * ["Meterpreter vs Modern EDR(s)"][170]
+* "MTE As Implemented":
+  * [Part 1][366]
+  * [Part 2][367]
 * ["mTLS: When certificate authentication is done wrong"][270]
 * ["MSMQ QueueJumper (RCE Vulnerability): An in-depth technical analysis"][177]
 * ["NVMe: New Vulnerabilities Made Easy"][264]
@@ -300,6 +303,7 @@
 * "Reversing embedded device bootloader (U-Boot)":
   * [Part 1][162]
   * [Part 2][163]
+* ["Reverse Engineering a Cobalt Strike Dropper With Binary Ninja"][368]
 * ["Reverse engineering integrity checks in Black Ops 3"][220]
 * ["Reverse engineering thermal printers"][245]
 * ["Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later"][226]
@@ -809,3 +813,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [363]: https://heap-exploitation.dhavalkapil.com
 [364]: https://labs.taszk.io/articles/post/reunzip/
 [365]: https://starlabs.sg/blog/2023/09-nftables-adventures-bug-hunting-and-n-day-exploitation/
+[366]: https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html
+[367]: https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-2-mitigation.html
+[368]: https://binary.ninja/2022/07/22/reverse-engineering-cobalt-strike.html
