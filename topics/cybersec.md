@@ -373,11 +373,13 @@
   * [Part 1][279]
   * [Part 2][280]
 * ["NTLM Relay"][56]
+* ["ret2dl_resolve x64: Exploiting Dynamic Linking Procedure In x64 ELF Binaries"][370]
 * ["SSHD Injection and Password Harvesting"][230]
 * ["What're you telling me, Ghidra?"][358]
 
 ## 2019
 
+* ["Breaking out of Docker via runC – Explaining CVE-2019-5736"][369]
 * "Executable and Linkable Format 101":
   * ["Sections and Segments"][135]
   * ["Symbols"][136]
@@ -816,3 +818,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [366]: https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html
 [367]: https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-2-mitigation.html
 [368]: https://binary.ninja/2022/07/22/reverse-engineering-cobalt-strike.html
+[369]: https://unit42.paloaltonetworks.com/breaking-docker-via-runc-explaining-cve-2019-5736/
+[370]: https://syst3mfailure.io/ret2dl_resolve/
