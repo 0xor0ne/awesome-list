@@ -225,6 +225,7 @@
 * ["The Silent Spy Among Us: Smart Intercom Attacks"][331]
 * ["The Stack Series: The X64 Stack"][356]
 * ["The Untold Story of the BlackLotus UEFI Bootkit"][205]
+* ["Tool Release: Cartographer"][371]
 * ["Sshimpanzee"][16]
 * ["Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was"][80]
 * ["Your not so "Home Office" - SOHO Hacking at Pwn2Own"][5]
@@ -365,6 +366,7 @@
 * "BGET Explained Binary Heap Exploitation on OP-TEE":
   * [Part 1][187]
   * [Part 2][188]
+* ["BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution"][372]
 * ["Exception(al) Failure - Breaking the STM32F1 Read-Out Protection"][161]
 * ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
 * ["House of Muney - Leakless Heap Exploitation Technique"][181]
@@ -820,3 +822,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [368]: https://binary.ninja/2022/07/22/reverse-engineering-cobalt-strike.html
 [369]: https://unit42.paloaltonetworks.com/breaking-docker-via-runc-explaining-cve-2019-5736/
 [370]: https://syst3mfailure.io/ret2dl_resolve/
+[371]: https://research.nccgroup.com/2023/07/20/tool-release-cartographer/
+[372]: https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html
