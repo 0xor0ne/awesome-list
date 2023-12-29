@@ -17,6 +17,7 @@
 
 ## 2023
 
+* ["A Deep Dive Into Brute Ratel C4 Payloads"][374]
 * ["A Deep Dive into Penetration Testing of macOS Applications (Part 1)"][49]
 * ["A look at CVE-2023-29360, a beautiful logical LPE vuln"][260]
 * ["A Journey Into Hacking Google Search Appliance"][203]
@@ -337,6 +338,7 @@
   * ["PE Base Relocations"][337]
   * ["Writing a PE Parser"][338]
 * ["Breaking 64 bit aslr on Linux x86-64"][234]
+* ["Bypassing GLIBC 2.32’s Safe-Linking Without Leaks into Code Execution: The House of Rust"][375]
 * ["Complete Guide to Stack Buffer Overflow (OSCP Preparation)"][317]
 * ["CVE-2021–20226 a reference counting bug which leads to local privilege escalation in io_uring."][179]
 * "Digging into Linux namespaces":
@@ -443,6 +445,7 @@
 * ["Linux Kernel map"][225]
 * ["Linux Insides"][246]
 * ["Linux Syscalls Reference"][17]
+* ["Lytro Unlock - Making a bad camera slightly better"][373]
 * ["mjsxj09cm Recovering Firmware And Backdooring"][62]
 * ["Operating System development tutorials in Rust on the Raspberry Pi"][357]
 * ["Satellite Hacking Demystified(RTC0007)"][221]
@@ -824,3 +827,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [370]: https://syst3mfailure.io/ret2dl_resolve/
 [371]: https://research.nccgroup.com/2023/07/20/tool-release-cartographer/
 [372]: https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html
+[373]: https://github.com/ea/lytro_unlock
+[374]: https://cybergeeks.tech/a-deep-dive-into-brute-ratel-c4-payloads/
+[375]: https://c4ebt.github.io/2021/01/22/House-of-Rust.html
