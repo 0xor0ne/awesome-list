@@ -71,6 +71,7 @@
 * ["Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”"][164]
 * ["Diving Into Smart Contract Decompilation"][204]
 * ["Diving into Starlink's User Terminal Firmware"][268]
+* ["DJI Mavic 3 Drone Research Part 1: Firmware Analysis"][376]
 * ["Drone Security and Fault Injection Attacks"][82]
 * ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
 * ["Encrypted Doesn't Mean Authenticated: ShareFile RCE (CVE-2023-24489)"][182]
@@ -256,6 +257,7 @@
 * ["Bypassing vtable Check in glibc File Structures"][208]
 * ["Blind Exploits to Rule Watchguard Firewalls"][173]
 * ["BPFDoor - An Evasive Linux Backdoor Technical Analysis"][292]
+* ["CVE-2022-0435: A Remote Stack Overflow in The Linux Kernel"][377]
 * ["CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF"][168]
 * ["DirtyCred Remastered: how to turn an UAF into Privilege Escalation"][167]
 * ["Dumping the Amlogic A113X Bootrom"][78]
@@ -441,6 +443,7 @@
   * ["Asymmetric-Key Encryption and Digital Signatures in Practice"][2]
 * ["Debugger Ghidra Class"][232]
 * [DhavalKapil/heap-exploitation][363]
+* [Diffing Portal][378]
 * ["Laser-Based Audio Injection on Voice-Controllable Systems"][328]
 * ["Linux Kernel map"][225]
 * ["Linux Insides"][246]
@@ -830,3 +833,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [373]: https://github.com/ea/lytro_unlock
 [374]: https://cybergeeks.tech/a-deep-dive-into-brute-ratel-c4-payloads/
 [375]: https://c4ebt.github.io/2021/01/22/House-of-Rust.html
+[376]: https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-1-firmware-analysis
+[377]: https://blog.immunityinc.com/p/a-remote-stack-overflow-in-the-linux-kernel/?ref=0xor0ne.xyz
+[378]: http://diffing.quarkslab.com/?ref=0xor0ne.xyz
