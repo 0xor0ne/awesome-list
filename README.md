@@ -416,6 +416,8 @@ See also the following lists dedicated to specifics sub-topics:
   * [pkg.go.dev][108]: packages documentation.
 * [Python][535]: official website
   * [Docs][536]: official documentation
+  * [mamba][548]: fast, robust, and cross-platform package manager.
+  * [poetry][549]: packaging and dependency management.
 * [Rust][41]: secure system programming language.
   * [aquascope][466]: Interactive visualizations of Rust at compile-time and run-time
   * [API guidelines][319]: set of recommendations on how to design and present
@@ -1036,3 +1038,5 @@ libsla.
 [545]: https://overexact.com/rust-for-professionals/
 [546]: https://github.com/ctjhoa/rust-learning
 [547]: https://github.com/sger/RustBooks
+[548]: https://mamba.readthedocs.io/en/latest/index.html
+[549]: https://python-poetry.org
