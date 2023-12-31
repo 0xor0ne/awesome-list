@@ -29,12 +29,13 @@
 * ["A story about tampering EDRs"][293]
 * ["Abusing undocumented features to spoof PE section headers"][139]
 * ["All cops are broadcasting: TETRA under scrutiny"][237]
-* ["Analyzing an Old Netatalk dsi_writeinit Buffer Overflow Vulnerability in NETGEAR Route"][326]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
 * "Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway":
   * [Part 1][196]
   * [Part 2][197]
 * ["Analysis of VirtualBox CVE-2023-21987 and CVE-2023-21991"][119]
+* ["Analyzing a Modern In-the-wild Android Exploit"][379]
+* ["Analyzing an Old Netatalk dsi_writeinit Buffer Overflow Vulnerability in NETGEAR Route"][326]
 * "ARM64 Reversing And Exploitation" (8ksec)
   * [Part 1][107]
   * [Part 2][108]
@@ -310,6 +311,8 @@
 * ["Reverse Engineering a Cobalt Strike Dropper With Binary Ninja"][368]
 * ["Reverse engineering integrity checks in Black Ops 3"][220]
 * ["Reverse engineering thermal printers"][245]
+* ["side channels: power analysis"][380]
+* ["side channels: using the chipwhisperer"][381]
 * ["Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later"][226]
 * ["The Dirty Pipe Vulnerability"][321]
 * ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
@@ -836,3 +839,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [376]: https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-1-firmware-analysis
 [377]: https://blog.immunityinc.com/p/a-remote-stack-overflow-in-the-linux-kernel/?ref=0xor0ne.xyz
 [378]: http://diffing.quarkslab.com/?ref=0xor0ne.xyz
+[379]: https://googleprojectzero.blogspot.com/2023/09/analyzing-modern-in-wild-android-exploit.html
+[380]: https://ktln2.org/experiments-around-side-channels/
+[381]: https://ktln2.org/side-channels-using-the-chipwhisperer/
