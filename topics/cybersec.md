@@ -13,6 +13,7 @@
 * [2018](#2018)
 * [2017](#2017)
 * [2016](#2016)
+* [2014](#2014)
 * [Other](#other)
 
 ## 2023
@@ -414,6 +415,9 @@
   * [Part 4][22]
 * ["eMMC Data Recovery from Damaged Smartphone"][88]
 * ["My journey towards Reverse Engineering a Smart Band — Bluetooth-LE RE"][302]
+* "Vectorized Emulation":
+  * ["Hardware accelerated taint tracking at 2 trillion instructions per second"][382]
+  * ["MMU Design"][383]
 
 ## 2017
 
@@ -433,6 +437,10 @@
   * ["Dumping the Flash"][117]
   * ["Digging Through the Firmware"][118]
 * ["Understanding and Hardening Linux Containers"][50]
+
+## 2014
+
+* ["ret2dir: Rethinking Kernel Isolation"][384]
 
 ## Other
 
@@ -842,3 +850,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [379]: https://googleprojectzero.blogspot.com/2023/09/analyzing-modern-in-wild-android-exploit.html
 [380]: https://ktln2.org/experiments-around-side-channels/
 [381]: https://ktln2.org/side-channels-using-the-chipwhisperer/
+[382]: https://gamozolabs.github.io/fuzzing/2018/10/14/vectorized_emulation.html
+[383]: https://gamozolabs.github.io/fuzzing/2018/11/19/vectorized_emulation_mmu.html
+[384]: https://cs.brown.edu/~vpk/papers/ret2dir.sec14.pdf
