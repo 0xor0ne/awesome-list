@@ -45,6 +45,9 @@
   * [Part 5][111]
   * [Part 6][112]
   * [Part 7][113]
+  * [Part 8][388]
+  * [Part 9][389]
+  * [Part 10][390]
 * ["Audio with embedded Linux training"][267]
 * ["Automating C2 Infrastructure with Terraform, Nebula, Caddy and Cobalt Strike"][300]
 * ["Back to the Future with Platform Security"][97]
@@ -141,6 +144,7 @@
 * ["JTAG 'Hacking' the Original Xbox in 2023"][244]
 * ["Kernel Exploit Factory"][159]
 * ["Learn Makefiles With the tastiest examples"][24]
+* ["Let’s Go into the rabbit hole (part 1) — the challenges of dynamically hooking Golang programs"][387]
 * ["Leveraging ssh-keygen for Arbitrary Execution (and Privilege Escalation)"][327]
 * [linux-re-101][169]
 * ["Linux debugging, profiling and tracing training"][353]
@@ -229,6 +233,7 @@
 * ["The Silent Spy Among Us: Smart Intercom Attacks"][331]
 * ["The Stack Series: The X64 Stack"][356]
 * ["The Untold Story of the BlackLotus UEFI Bootkit"][205]
+* ["Tickling ksmbd: fuzzing SMB in the Linux kernel"][386]
 * ["Tool Release: Cartographer"][371]
 * ["Sshimpanzee"][16]
 * ["Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was"][80]
@@ -456,6 +461,7 @@
 * [DhavalKapil/heap-exploitation][363]
 * [Diffing Portal][378]
 * ["Laser-Based Audio Injection on Voice-Controllable Systems"][328]
+* [Linux Kernel CVEs][385]
 * ["Linux Kernel map"][225]
 * ["Linux Insides"][246]
 * ["Linux Syscalls Reference"][17]
@@ -853,3 +859,9 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [382]: https://gamozolabs.github.io/fuzzing/2018/10/14/vectorized_emulation.html
 [383]: https://gamozolabs.github.io/fuzzing/2018/11/19/vectorized_emulation_mmu.html
 [384]: https://cs.brown.edu/~vpk/papers/ret2dir.sec14.pdf
+[385]: https://linuxkernelcves.com
+[386]: https://pwning.tech/ksmbd-syzkaller/
+[387]: https://blog.quarkslab.com/lets-go-into-the-rabbit-hole-part-1-the-challenges-of-dynamically-hooking-golang-program.html
+[388]: https://8ksec.io/arm64-reversing-and-exploitation-part-8-exploiting-an-integer-overflow-vulnerability/
+[389]: https://8ksec.io/arm64-reversing-and-exploitation-part-9-exploiting-an-off-by-one-overflow-vulnerability/
+[390]: https://8ksec.io/arm64-reversing-and-exploitation-part-10-intro-to-arm-memory-tagging-extension-mte/
