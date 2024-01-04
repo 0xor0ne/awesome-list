@@ -30,6 +30,8 @@
 * ["A story about tampering EDRs"][293]
 * ["Abusing undocumented features to spoof PE section headers"][139]
 * ["All cops are broadcasting: TETRA under scrutiny"][237]
+* ["An analysis of an in-the-wild iOS Safari WebContent to GPU Process
+exploit"][392]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
 * "Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway":
   * [Part 1][196]
@@ -87,11 +89,14 @@
 * ["EPF: Evil Packet Filter"][73]
 * ["Escaping from Bhyve"][192]
 * ["ESP32-C3 Wireless Adventure A Comprehensive Guide to IoT"][69]
+* ["Espressif ESP32: Breaking HW AES with Electromagnetic Analysis"][394]
+* ["Espressif ESP32: Breaking HW AES with Power Analysis"][393]
 * ["Examining OpenSSH Sandboxing and Privilege Separation – Attack Surface Analysis"][324]
 * ["Executing Arbitrary Code & Executables in Read-Only FileSystems"][52]
 * ["Exploit Engineering – Attacking the Linux Kernel"][146]
-* ["Exploiting MikroTik RouterOS Hardware with CVE-2023-30799"][198]
 * ["Exploiting a Remote Heap Overflow with a Custom TCP Stack"][322]
+* ["Exploiting HTTP Parsers Inconsistencies"][391]
+* ["Exploiting MikroTik RouterOS Hardware with CVE-2023-30799"][198]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
 * "Fantastic Rootkits: And Where To Find Them":
   * [Part 1][275]
@@ -865,3 +870,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [388]: https://8ksec.io/arm64-reversing-and-exploitation-part-8-exploiting-an-integer-overflow-vulnerability/
 [389]: https://8ksec.io/arm64-reversing-and-exploitation-part-9-exploiting-an-off-by-one-overflow-vulnerability/
 [390]: https://8ksec.io/arm64-reversing-and-exploitation-part-10-intro-to-arm-memory-tagging-extension-mte/
+[391]: https://rafa.hashnode.dev/exploiting-http-parsers-inconsistencies
+[392]: https://googleprojectzero.blogspot.com/2023/10/an-analysis-of-an-in-the-wild-ios-safari-sandbox-escape.html
+[393]: https://raelize.com/blog/espressif-systems-esp32-breaking-hw-aes-with-power-analysis/
+[394]: https://raelize.com/blog/espressif-systems-esp32-breaking-hw-aes-with-electromagnetic-analysis/
