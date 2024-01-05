@@ -50,6 +50,9 @@ exploit"][392]
   * [Part 8][388]
   * [Part 9][389]
   * [Part 10][390]
+* "Attacking an EDR"
+  * [Part 1][395]
+  * [Part 2][396]
 * ["Audio with embedded Linux training"][267]
 * ["Automating C2 Infrastructure with Terraform, Nebula, Caddy and Cobalt Strike"][300]
 * ["Back to the Future with Platform Security"][97]
@@ -60,11 +63,12 @@ exploit"][392]
 * ["Breaking the Code - Exploiting and Examining CVE-2023-1829 in cls_tcindex Classifier Vulnerability"][81]
 * ["Breaking Secure Boot on the Silicon Labs Gecko platform"][262]
 * ["Bypassing PPL in Userland (again)"][308]
+* ["CAN Injection: keyless car theft"][195]
 * "chonked"
   * ["minidlna 1.3.2 http chunk parsing heap overflow (cve-2023-33476) root cause analysis"][193]
   * ["exploiting cve-2023-33476 for remote code execution"][194]
-* ["CAN Injection: keyless car theft"][195]
 * ["Coffee: A COFF loader made in Rust"][93]
+* ["Competing in Pwn2Own ICS 2022 Miami: Exploiting a zero click remote memory corruption in ICONICS Genesis64"][397]
 * ["CVE-2023-2008 - Analyzing and exploiting a bug in the udmabuf driver"][72]
 * ["CVE-2023-26258 – Remote Code Execution in ArcServe UDP Backup"][99]
 * ["CVE-2023-36844 And Friends: RCE In Juniper Devices"][281]
@@ -409,6 +413,7 @@ exploit"][392]
 * ["Hardening Secure Boot on Embedded Devices for Hostile Environments"][175]
 * ["Pew Pew Pew: Designing Secure Boot Securely"][176]
 * ["Pwn the ESP32 Secure Boot"][289]
+* ["Reverse Engineering Architecture And Pinout of Custom Asics"][398]
 * ["Reverse-engineering Broadcom wireless chipsets"][200]
 * "Virtualization Internals":
   * [Part 1][216]
@@ -874,3 +879,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [392]: https://googleprojectzero.blogspot.com/2023/10/an-analysis-of-an-in-the-wild-ios-safari-sandbox-escape.html
 [393]: https://raelize.com/blog/espressif-systems-esp32-breaking-hw-aes-with-power-analysis/
 [394]: https://raelize.com/blog/espressif-systems-esp32-breaking-hw-aes-with-electromagnetic-analysis/
+[395]: https://riccardoancarani.github.io/2023-08-03-attacking-an-edr-part-1/
+[396]: https://riccardoancarani.github.io/2023-09-14-attacking-an-edr-part-2/
+[397]: https://doar-e.github.io/blog/2023/05/05/competing-in-pwn2own-ics-2022-miami-exploiting-a-zero-click-remote-memory-corruption-in-iconics-genesis64/
+[398]: https://sec-consult.com/blog/detail/reverse-engineering-architecture-pinout-plc/
