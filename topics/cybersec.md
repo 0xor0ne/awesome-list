@@ -478,6 +478,7 @@ exploit"][392]
 * ["Lytro Unlock - Making a bad camera slightly better"][373]
 * ["mjsxj09cm Recovering Firmware And Backdooring"][62]
 * ["Operating System development tutorials in Rust on the Raspberry Pi"][357]
+* ["Reverse Engineering For Everyone!"][399]
 * ["Satellite Hacking Demystified(RTC0007)"][221]
 * [TEE Reversing][263]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][258]
@@ -883,3 +884,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [396]: https://riccardoancarani.github.io/2023-09-14-attacking-an-edr-part-2/
 [397]: https://doar-e.github.io/blog/2023/05/05/competing-in-pwn2own-ics-2022-miami-exploiting-a-zero-click-remote-memory-corruption-in-iconics-genesis64/
 [398]: https://sec-consult.com/blog/detail/reverse-engineering-architecture-pinout-plc/
+[399]: https://0xinfection.github.io/reversing/
