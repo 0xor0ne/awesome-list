@@ -77,6 +77,7 @@ exploit"][392]
 * ["Debugging D-Link: Emulating firmware and hacking hardware"][290]
 * ["Deep Lateral Movement in OT Networks: When is a Perimeter not a Perimeter?"][253]
 * ["Defining the cobalt strike reflective loader"][320]
+* ["Demystifying bitwise operations, a gentle C tutorial"][400]
 * ["Detecting BPFDoor Backdoor Variants Abusing BPF Filters"][183]
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
 * ["Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”"][164]
@@ -274,6 +275,7 @@ exploit"][392]
 * ["Blind Exploits to Rule Watchguard Firewalls"][173]
 * ["BPFDoor - An Evasive Linux Backdoor Technical Analysis"][292]
 * ["CVE-2022-0435: A Remote Stack Overflow in The Linux Kernel"][377]
+* ["[CVE-2022-1786] A Journey To The Dawn"][401]
 * ["CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF"][168]
 * ["DirtyCred Remastered: how to turn an UAF into Privilege Escalation"][167]
 * ["Dumping the Amlogic A113X Bootrom"][78]
@@ -885,3 +887,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [397]: https://doar-e.github.io/blog/2023/05/05/competing-in-pwn2own-ics-2022-miami-exploiting-a-zero-click-remote-memory-corruption-in-iconics-genesis64/
 [398]: https://sec-consult.com/blog/detail/reverse-engineering-architecture-pinout-plc/
 [399]: https://0xinfection.github.io/reversing/
+[400]: https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops
+[401]: https://blog.kylebot.net/2022/10/16/CVE-2022-1786/
