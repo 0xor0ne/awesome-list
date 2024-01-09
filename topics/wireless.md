@@ -156,6 +156,12 @@
 * FCC
   * [fccid.io]: Searchable FCC ID Database
   * [Official FCC ID][63] 
+* [FlipperZero][108]
+  * [Awesome][112]
+  * [Firmware (original)][109]
+  * [RogueMaster firmware][113]
+  * [Unleashed-firmware][111]
+  * [Xtreme-firmware][110]
 * [Mirage][36]: powerful and modular framework dedicated to the security
   analysis of wireless communications.
 * [Signal Identification Guide][55]: help identify radio signals through example
@@ -311,3 +317,9 @@
 [105]: https://github.com/brannondorsey/wifi-cracking
 [106]: https://github.com/D3Ext/WEF
 [107]: https://git.ist.tugraz.at/apferscher/ble-fuzzing
+[108]: https://flipperzero.one
+[109]: https://github.com/flipperdevices/flipperzero-firmware
+[110]: https://github.com/Flipper-XFW/Xtreme-Firmware
+[111]: https://github.com/DarkFlippers/unleashed-firmware
+[112]: https://github.com/djsime1/awesome-flipperzero
+[113]: https://github.com/RogueMaster/flipperzero-firmware-wPlugins
