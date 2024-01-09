@@ -191,6 +191,7 @@ exploit"][392]
   * [Part 2][367]
 * ["mTLS: When certificate authentication is done wrong"][270]
 * ["MSMQ QueueJumper (RCE Vulnerability): An in-depth technical analysis"][177]
+* ["New HiatusRAT Router Malware Covertly Spies On Victims"][402]
 * ["NVMe: New Vulnerabilities Made Easy"][264]
 * ["nftables Adventures: Bug Hunting and N-day Exploitation (CVE-2023-31248)"][365]
 * ["Obscure Windows File Types"][74]
@@ -367,6 +368,7 @@ exploit"][392]
   * [Part 1][157]
   * [Part 2][158]
 * ["Fire of Salvation Writeup: Utilizing msg_msg Objects for Arbitrary Read and Arbitrary Write in the Linux Kernel"][252]
+* ["GRCON 2021 - Capture the Signal"][403]
 * "Learning Linux Kernel Exploitation":
   * [Part 1][83]
   * [Part 2][84]
@@ -889,3 +891,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [399]: https://0xinfection.github.io/reversing/
 [400]: https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops
 [401]: https://blog.kylebot.net/2022/10/16/CVE-2022-1786/
+[402]: https://blog.lumen.com/new-hiatusrat-router-malware-covertly-spies-on-victims/
+[403]: https://blog.tclaverie.eu/posts/grcon-2021---capture-the-signal/
