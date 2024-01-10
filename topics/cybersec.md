@@ -191,6 +191,7 @@ exploit"][392]
   * [Part 2][367]
 * ["mTLS: When certificate authentication is done wrong"][270]
 * ["MSMQ QueueJumper (RCE Vulnerability): An in-depth technical analysis"][177]
+* ["Multiple Vulnerabilities in Qualcomm and Lenovo ARM-based Devices"][404]
 * ["New HiatusRAT Router Malware Covertly Spies On Victims"][402]
 * ["NVMe: New Vulnerabilities Made Easy"][264]
 * ["nftables Adventures: Bug Hunting and N-day Exploitation (CVE-2023-31248)"][365]
@@ -481,6 +482,7 @@ exploit"][392]
 * ["Linux Syscalls Reference"][17]
 * ["Lytro Unlock - Making a bad camera slightly better"][373]
 * ["mjsxj09cm Recovering Firmware And Backdooring"][62]
+* ["Offensive security (0xtriboulet)"][405]
 * ["Operating System development tutorials in Rust on the Raspberry Pi"][357]
 * ["Reverse Engineering For Everyone!"][399]
 * ["Satellite Hacking Demystified(RTC0007)"][221]
@@ -893,3 +895,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [401]: https://blog.kylebot.net/2022/10/16/CVE-2022-1786/
 [402]: https://blog.lumen.com/new-hiatusrat-router-malware-covertly-spies-on-victims/
 [403]: https://blog.tclaverie.eu/posts/grcon-2021---capture-the-signal/
+[404]: https://binarly.io/posts/Multiple_Vulnerabilities_in_Qualcomm_and_Lenovo_ARM_based_Devices/index.html
+[405]: https://steve-s.gitbook.io/0xtriboulet/
