@@ -268,6 +268,15 @@ exploit"][392]
   * ["Chip identification, BUSSide, and I2C"][294]
   * ["Discover components and ports"][295]
   * ["Firmware dump and analysis"][296]
+* "ARM 64 Assembly Series":
+  * ["Basic definitions and registers"][408]
+  * ["Offset and Addressing modes"][409]
+  * ["Load and Store"][410]
+  * ["Branch"][411]
+  * ["Data Processing (Part 1)"][412]
+  * ["Data Processing (Part 2)"][413]
+  * ["selections and loops"][414]
+  * ["Subroutines"][415]
 * ["Attacking Titan M with Only One Byte"][259]
 * ["Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu"][238]
 * "Bypassing software update package encryption ":
@@ -323,6 +332,7 @@ exploit"][392]
   * ["Exploitation"][288]
 * ["Port knocking from the scratch"][227]
 * ["Pulling MikroTik into the Limelight"][120]
+* ["Racing Cats to the Exit: A Boring Linux Kernel Use-After-Free"][406]
 * ["Researching Xiaomi’s Tee to Get to Chinese Money"][274]
 * "Reversing embedded device bootloader (U-Boot)":
   * [Part 1][162]
@@ -475,6 +485,7 @@ exploit"][392]
 * ["Debugger Ghidra Class"][232]
 * [DhavalKapil/heap-exploitation][363]
 * [Diffing Portal][378]
+* ["Introduction to Malware Analysis and Reverse Engineering"][407]
 * ["Laser-Based Audio Injection on Voice-Controllable Systems"][328]
 * [Linux Kernel CVEs][385]
 * ["Linux Kernel map"][225]
@@ -897,3 +908,13 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [403]: https://blog.tclaverie.eu/posts/grcon-2021---capture-the-signal/
 [404]: https://binarly.io/posts/Multiple_Vulnerabilities_in_Qualcomm_and_Lenovo_ARM_based_Devices/index.html
 [405]: https://steve-s.gitbook.io/0xtriboulet/
+[406]: https://accessvector.net/2022/linux-itimers-uaf
+[407]: https://class.malware.re
+[408]: https://valsamaras.medium.com/arm-64-assembly-series-basic-definitions-and-registers-ec8cc1334e40
+[409]: https://valsamaras.medium.com/arm-64-assembly-series-offset-and-addressing-modes-aa48b65b4c99
+[410]: https://valsamaras.medium.com/arm-64-assembly-series-load-and-store-6bfe9c1d1896
+[411]: https://valsamaras.medium.com/arm-64-assembly-series-branch-9ce820987fc6
+[412]: https://valsamaras.medium.com/arm-64-assembly-series-data-processing-part-1-b6f6f877c56b
+[413]: https://valsamaras.medium.com/arm-64-assembly-series-data-processing-part-2-3d0526dc07b6
+[414]: https://valsamaras.medium.com/practical-arm64-selections-and-loops-89f9a0e7e395
+[415]: https://valsamaras.medium.com/practical-arm64-subroutines-1b5ea3935ff5
