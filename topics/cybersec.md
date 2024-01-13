@@ -379,6 +379,13 @@ exploit"][392]
   * [Part 1][157]
   * [Part 2][158]
 * ["Fire of Salvation Writeup: Utilizing msg_msg Objects for Arbitrary Read and Arbitrary Write in the Linux Kernel"][252]
+* "Ghidra 101":
+  * ["Cursor Text Highlighting"][416]
+  * ["Slice Highlighting"][417]
+  * ["Decoding Stack Strings"][418]
+  * ["Loading Windows Symbols (PDB files)"][419]
+  * ["Creating Structures in Ghidra"][420]
+  * ["Loading Windows Symbols (PDB files) in Ghidra 10.x"][421]
 * ["GRCON 2021 - Capture the Signal"][403]
 * "Learning Linux Kernel Exploitation":
   * [Part 1][83]
@@ -918,3 +925,9 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [413]: https://valsamaras.medium.com/arm-64-assembly-series-data-processing-part-2-3d0526dc07b6
 [414]: https://valsamaras.medium.com/practical-arm64-selections-and-loops-89f9a0e7e395
 [415]: https://valsamaras.medium.com/practical-arm64-subroutines-1b5ea3935ff5
+[416]: https://www.tripwire.com/state-of-security/ghidra-101-cursor-text-highlighting
+[417]: https://www.tripwire.com/state-of-security/ghidra-101-slice-highlighting
+[418]: https://www.tripwire.com/state-of-security/ghidra-101-decoding-stack-strings
+[419]: https://www.tripwire.com/state-of-security/ghidra-101-loading-windows-symbols-pdb-files
+[420]: https://www.tripwire.com/state-of-security/ghidra-101-creating-structures-in-ghidra
+[421]: https://www.tripwire.com/state-of-security/ghidra-101-loading-windows-symbols-pdb-files-in-ghidra-10-x
