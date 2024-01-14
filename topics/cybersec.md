@@ -87,6 +87,7 @@ exploit"][392]
 * ["Drone Security and Fault Injection Attacks"][82]
 * ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
 * ["Encrypted Doesn't Mean Authenticated: ShareFile RCE (CVE-2023-24489)"][182]
+* ["ENLBufferPwn (CVE-2022-47949)"][422]
 * ["Escaping the Google kCTF Container with a Data-Only Exploit"][178]
 * ["Exploitation of Openfire CVE-2023-32315"][283]
 * ["Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers"][130]
@@ -240,6 +241,7 @@ exploit"][392]
 * ["The art of fuzzing-A Step-by-Step Guide to Coverage-Guided Fuzzing with LibFuzzer"][54]
 * ["The Blitz Tutorial Lab on Fuzzing with AFL++"][303]
 * ["The Dragon Who Sold His camaro: Analyzing Custom Router Implant"][228]
+* ["The Importance of Reverse Engineering in Network Analysis"][426]
 * ["The Linux Kernel Module Programming Guide"][3]
 * ["The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders"][284]
 * ["The Silent Spy Among Us: Smart Intercom Attacks"][331]
@@ -402,6 +404,10 @@ exploit"][392]
   * [Part 2][143]
   * [Part 3][144]
 * ["Reverse Engineering Yaesu FT-70D Firmware Encryption"][147]
+* "Syzkaller diving":
+  * [Part 1][423]
+  * [Part 2][424]
+  * [Part 3][425]
 * ["The Oddest Place You Will Ever Find PAC"][306]
 * ["Wall Of Perdition: Utilizing msg_msg Objects For Arbitrary Read And Arbitrary Write In The Linux Kernel"][251]
 
@@ -931,3 +937,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [419]: https://www.tripwire.com/state-of-security/ghidra-101-loading-windows-symbols-pdb-files
 [420]: https://www.tripwire.com/state-of-security/ghidra-101-creating-structures-in-ghidra
 [421]: https://www.tripwire.com/state-of-security/ghidra-101-loading-windows-symbols-pdb-files-in-ghidra-10-x
+[422]: https://github.com/PabloMK7/ENLBufferPwn
+[423]: https://f0rm2l1n.github.io/2021-02-02-syzkaller-diving-01/
+[424]: https://f0rm2l1n.github.io/2021-02-04-syzkaller-diving-02/
+[425]: https://f0rm2l1n.github.io/2021-02-10-syzkaller-diving-03/
+[426]: https://www.nozominetworks.com/blog/the-importance-of-reverse-engineering-in-network-analysis
