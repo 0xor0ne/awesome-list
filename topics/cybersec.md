@@ -59,6 +59,7 @@ exploit"][392]
 * ["Bash Privileged-Mode Vulnerabilities in Parallel Desktop and CDPATH Handling in MacOS"][100]
 * ["Bee-yond Capacity: Unauthenticated RCE in Extreme Networks/Aerohive Wireless APs - CVE-2023-35803"][91]
 * ["Behind the Shield: Unmasking Scudos's Defenses"][8]
+* ["BlackLotus UEFI bootkit: Myth confirmed"][429]
 * ["Breaking Fortinet Firmware Encryption"][233]
 * ["Breaking the Code - Exploiting and Examining CVE-2023-1829 in cls_tcindex Classifier Vulnerability"][81]
 * ["Breaking Secure Boot on the Silicon Labs Gecko platform"][262]
@@ -205,6 +206,9 @@ exploit"][392]
   * [Part 4][214]
   * [Part 5][215]
 * ["OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept"][42]
+* ["OrBit: advanced analysis of a Linux dedicated malware"][427]
+* ["OrBit: New Undetected Linux Threat Uses Unique Hijack of Execution
+Flow"][428]
 * ["P2PInfect: The Rusty Peer-to-Peer Self-Replicating Worm"][206]
 * ["P4wnP1-LTE"][209]
 * ["Patches, Collisions, and Root Shells: A Pwn2Own Adventure"][278]
@@ -417,6 +421,7 @@ exploit"][392]
   * [Part 1][187]
   * [Part 2][188]
 * ["BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution"][372]
+* ["Detecting Linux memfd_create() Fileless Malware with Command Line Forensics"][430]
 * ["Exception(al) Failure - Breaking the STM32F1 Read-Out Protection"][161]
 * ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
 * ["House of Muney - Leakless Heap Exploitation Technique"][181]
@@ -942,3 +947,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [424]: https://f0rm2l1n.github.io/2021-02-04-syzkaller-diving-02/
 [425]: https://f0rm2l1n.github.io/2021-02-10-syzkaller-diving-03/
 [426]: https://www.nozominetworks.com/blog/the-importance-of-reverse-engineering-in-network-analysis
+[427]: https://www.stormshield.com/news/orbit-analysis-of-a-linux-dedicated-malware/
+[428]: https://intezer.com/blog/research/orbit-new-undetected-linux-threat/
+[429]: https://www.welivesecurity.com/2023/03/01/blacklotus-uefi-bootkit-myth-confirmed/
+[430]: https://sandflysecurity.com/blog/detecting-linux-memfd-create-fileless-malware-with-command-line-forensics/
