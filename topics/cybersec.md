@@ -284,6 +284,7 @@ Flow"][428]
   * ["selections and loops"][414]
   * ["Subroutines"][415]
 * ["Attacking Titan M with Only One Byte"][259]
+* ["Avoiding Detection with Shellcode Mutator"][432]
 * ["Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu"][238]
 * "Bypassing software update package encryption ":
   * ["Extracting the Lexmark MC3224i printer firmware"][190]
@@ -348,6 +349,7 @@ Flow"][428]
 * ["Reverse engineering thermal printers"][245]
 * ["side channels: power analysis"][380]
 * ["side channels: using the chipwhisperer"][381]
+* ["Spoofing Call Stacks To Confuse EDRs"][431]
 * ["Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later"][226]
 * ["The Dirty Pipe Vulnerability"][321]
 * ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
@@ -951,3 +953,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [428]: https://intezer.com/blog/research/orbit-new-undetected-linux-threat/
 [429]: https://www.welivesecurity.com/2023/03/01/blacklotus-uefi-bootkit-myth-confirmed/
 [430]: https://sandflysecurity.com/blog/detecting-linux-memfd-create-fileless-malware-with-command-line-forensics/
+[431]: https://labs.withsecure.com/publications/spoofing-call-stacks-to-confuse-edrs
+[432]: https://labs.nettitude.com/blog/shellcode-source-mutations/
