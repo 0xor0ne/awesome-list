@@ -313,7 +313,9 @@ See also the following lists dedicated to specifics sub-topics:
 * [Rusty-Radamsa][504]: Radamsa fuzzer ported to rust lang.
 * [Safirefuzz][516]: same-Architecture Firmware Rehosting and Fuzzing.
 * [SemGrep][343]: lightweight static analysis for many languages.
+  * [0xdea rules][551]
   * [Rules][344]: Semgrep rules to facilitate vulnerability research.
+  * [Trail-of-bits rules][550]
 * [silifuzz][422]: finds CPU defects by fuzzing software proxies.
 * [Syzkaller][37]: unsupervised coverage-guided kernel fuzzer.
   * [Syzbot][94]: continuously fuzzes main Linux kernel branches and
@@ -1040,3 +1042,5 @@ libsla.
 [547]: https://github.com/sger/RustBooks
 [548]: https://mamba.readthedocs.io/en/latest/index.html
 [549]: https://python-poetry.org
+[550]: https://github.com/trailofbits/semgrep-rules
+[551]: https://github.com/0xdea/semgrep-rules
