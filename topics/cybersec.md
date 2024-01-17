@@ -304,6 +304,7 @@ Flow"][428]
 * ["Firmware key extraction by gaining EL3"][316]
 * ["Fortigate - Authentication Bypass Lead to Full Device Takeover"][291]
 * ["How The Tables Have Turned: An analysis of two new Linux vulnerabilities in nf_tables"][266]
+* ["Huawei Security Hypervisor Vulnerability"][435]
 * "Hunting for Persistence in Linux"
   * [Part 1][64]
   * [Part 2][65]
@@ -347,6 +348,7 @@ Flow"][428]
 * ["Reverse Engineering a Cobalt Strike Dropper With Binary Ninja"][368]
 * ["Reverse engineering integrity checks in Black Ops 3"][220]
 * ["Reverse engineering thermal printers"][245]
+* ["Shedding Light on Huawei's Security Hypervisor"][434]
 * ["side channels: power analysis"][380]
 * ["side channels: using the chipwhisperer"][381]
 * ["Spoofing Call Stacks To Confuse EDRs"][431]
@@ -498,6 +500,7 @@ Flow"][428]
 * ["Advanced binary fuzzing using AFL++-QEMU and libprotobuf: a practical case of grammar-aware in-memory persistent fuzzing"][71]
 * ["Advanced Compilers: The Self-Guided Online Course"][298]
 * ["ARM TrustZone: pivoting to the secure world"][304]
+* ["Brute Ratel - Scandinavian Defence"][436]
 * "Introduction to encryption for embedded Linux"
   * ["Introduction to encryption for embedded Linux developers"][0]
   * ["A hands-on approach to symmetric-key encryption"][1]
@@ -505,6 +508,7 @@ Flow"][428]
 * ["Debugger Ghidra Class"][232]
 * [DhavalKapil/heap-exploitation][363]
 * [Diffing Portal][378]
+* ["Grand Theft Auto A peek of BLE relay attack"][433]
 * ["Introduction to Malware Analysis and Reverse Engineering"][407]
 * ["Laser-Based Audio Injection on Voice-Controllable Systems"][328]
 * [Linux Kernel CVEs][385]
@@ -955,3 +959,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [430]: https://sandflysecurity.com/blog/detecting-linux-memfd-create-fileless-malware-with-command-line-forensics/
 [431]: https://labs.withsecure.com/publications/spoofing-call-stacks-to-confuse-edrs
 [432]: https://labs.nettitude.com/blog/shellcode-source-mutations/
+[433]: https://rollingpwn.github.io/BLE-Relay-Aattck/
+[434]: https://blog.impalabs.com/2212_huawei-security-hypervisor.html
+[435]: https://blog.impalabs.com/2212_advisory_huawei-security-hypervisor.html
+[436]: https://protectedmo.de/brute.html
