@@ -222,6 +222,7 @@ Flow"][428]
 * ["Pwning Pixel 6 with a leftover patch"][310]
 * ["Pwning the tp-link ax1800 wifi 6 Router: Uncovered and Exploited a Memory Corruption Vulnerability"][309]
 * ["Racing Against the Lock: Exploiting Spinlock UAF in the Android Kernel"][185]
+* ["Readline crime: exploiting a SUID logic bug"][439]
 * ["Red vs. Blue: Kerberos Ticket Times, Checksums, and You!"][30]
 * ["Retreading The AMLogic A113X TrustZone Exploit Process"][77]
 * "DualShock4 Reverse Engineering":
@@ -349,6 +350,7 @@ Flow"][428]
 * ["Reverse engineering integrity checks in Black Ops 3"][220]
 * ["Reverse engineering thermal printers"][245]
 * ["Shedding Light on Huawei's Security Hypervisor"][434]
+* ["Shikitega - New stealthy malware targeting Linux"][438]
 * ["side channels: power analysis"][380]
 * ["side channels: using the chipwhisperer"][381]
 * ["Spoofing Call Stacks To Confuse EDRs"][431]
@@ -467,7 +469,7 @@ Flow"][428]
   * [Part 4][22]
 * ["eMMC Data Recovery from Damaged Smartphone"][88]
 * ["My journey towards Reverse Engineering a Smart Band — Bluetooth-LE RE"][302]
-* "Vectorized Emulation":
+* "Vectorized Emulation":[438]
   * ["Hardware accelerated taint tracking at 2 trillion instructions per second"][382]
   * ["MMU Design"][383]
 
@@ -509,6 +511,7 @@ Flow"][428]
 * [DhavalKapil/heap-exploitation][363]
 * [Diffing Portal][378]
 * ["Grand Theft Auto A peek of BLE relay attack"][433]
+* [ice9-bluetooth-sniffer][437]
 * ["Introduction to Malware Analysis and Reverse Engineering"][407]
 * ["Laser-Based Audio Injection on Voice-Controllable Systems"][328]
 * [Linux Kernel CVEs][385]
@@ -963,3 +966,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [434]: https://blog.impalabs.com/2212_huawei-security-hypervisor.html
 [435]: https://blog.impalabs.com/2212_advisory_huawei-security-hypervisor.html
 [436]: https://protectedmo.de/brute.html
+[437]: https://github.com/mikeryan/ice9-bluetooth-sniffer
+[438]: https://cybersecurity.att.com/blogs/labs-research/shikitega-new-stealthy-malware-targeting-linux
+[439]: https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/
