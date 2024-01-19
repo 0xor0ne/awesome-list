@@ -133,6 +133,7 @@ exploit"][392]
 * ["Hacking Amazon's eero 6 (part 1)"][86]
 * ["Hacking Brightway scooters: A case study"][29]
 * ["Hardware Hacking to Bypass BIOS Passwords"][5]
+* ["Heads up! Xdr33, A Variant Of CIA’s HIVE Attack Kit Emerges"][443]
 * ["How a simple K-TypeConfusion took me 3 months long to create a exploit? [HEVD] - Windows 11 (build 22621)"][240]
 * "How NATs Work":
   * [Part 1][152]
@@ -194,6 +195,9 @@ exploit"][392]
 * ["mTLS: When certificate authentication is done wrong"][270]
 * ["MSMQ QueueJumper (RCE Vulnerability): An in-depth technical analysis"][177]
 * ["Multiple Vulnerabilities in Qualcomm and Lenovo ARM-based Devices"][404]
+* "NetGear Series: Emulating Netgear R6700V3 circled binary ":
+  * [Part 1][441]
+  * [Part 2][442]
 * ["New HiatusRAT Router Malware Covertly Spies On Victims"][402]
 * ["NVMe: New Vulnerabilities Made Easy"][264]
 * ["nftables Adventures: Bug Hunting and N-day Exploitation (CVE-2023-31248)"][365]
@@ -407,6 +411,7 @@ Flow"][428]
   * ["Debugging the Kernel with QEMU"][25]
   * ["Smashing Stack Overflows in the Kernel"][26]
   * ["Controlling RIP and Escalating privileges via Stack Overflow"][27]
+* ["New Linux Backdoor RedXOR Likely Operated by Chinese Nation-State Actor"][440]
 * ["New Old Bugs in the Linux Kernel"][305]
 * ["Recovering a Full PEM Private key when Half of it is Redacted"][96]
 * "Reverse Engineering Bare-Metal Firmware":
@@ -969,3 +974,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [437]: https://github.com/mikeryan/ice9-bluetooth-sniffer
 [438]: https://cybersecurity.att.com/blogs/labs-research/shikitega-new-stealthy-malware-targeting-linux
 [439]: https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/
+[440]: https://intezer.com/blog/malware-analysis/new-linux-backdoor-redxor-likely-operated-by-chinese-nation-state-actor/
+[441]: https://medium.com/@INTfinitySG/1-1-emulating-netgear-r6700v3-circled-binary-cve-2022-27644-cve-2022-27646-part-1-5bab391c91f2
+[442]: https://medium.com/@INTfinitySG/1-2-emulating-netgear-r6700v3-circled-binary-cve-2022-27644-cve-2022-27646-part-2-cf1571493117
+[443]: https://blog.netlab.360.com/headsup_xdr33_variant_of_ciahive_emeerges/
