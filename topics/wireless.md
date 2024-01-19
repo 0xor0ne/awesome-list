@@ -92,15 +92,21 @@
   Bluetooth BR/EDR/LE or Mesh security.
 * [BLE Security Attack Defence][34]: Unveiling zero day vulnerabilities and
   security flaws in modern Bluetooth LE stacks.
+* Stacks:
+  * [bluez][118]: Bluetooth protocol stack for Linux
+  * [BTStack][117]: Dual-mode Bluetooth stack, with small memory footprint
 * Tools
   * [ble-fuzzing][107]: Stateful Black-Box Fuzzing of BLE Devices Using Automata
   Learning
+  * [bluing][116]: intelligence gathering tool for hacking Bluetooth.
   * [BTLE][52]: Bluetooth Low Energy (BLE) packet sniffer and transmitter for
     both standard and non standard (raw bit) based on Software Defined Radio
     (SDR).
   * [btlejack][44]: Bluetooth Low Energy Swiss-army knife.
+  * [btleplug][114]: Rust Cross-Platform Host-Side Bluetooth LE Access Library.
   * [ESP32 bluetooth classic sniffer][37]: Active Bluetooth BR/EDR Sniffer/Injector
     as cheap as any ESP32 board can get.
+  * [gattacker][115]: BLE (Bluetooth Low Energy) security assessment
   * [ice9-bluetooth-sniffer][51]: Wireshark Bluetooth sniffer for HackRF,
     BladeRF, and USRP.
   * [internalblue][26]: About Bluetooth experimentation framework for Broadcom
@@ -323,3 +329,8 @@
 [111]: https://github.com/DarkFlippers/unleashed-firmware
 [112]: https://github.com/djsime1/awesome-flipperzero
 [113]: https://github.com/RogueMaster/flipperzero-firmware-wPlugins
+[114]: https://github.com/deviceplug/btleplug
+[115]: https://github.com/securing/gattacker
+[116]: https://github.com/fO-000/bluing
+[117]: https://github.com/bluekitchen/btstack
+[118]: https://github.com/bluez/bluez
