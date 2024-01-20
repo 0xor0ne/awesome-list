@@ -467,6 +467,7 @@ See also the following lists dedicated to specifics sub-topics:
   * [Rust Reference][151]: primary reference for the Rust programming language.
   * [rustup][152]: installer for the systems programming language Rust.
   * [std][43]: standard library documentation.
+  * [Usafe Code Guidelines][552]: "guide" for writing unsafe code
   * [Windows RS][383]: Rust for Windows.
   * [This Week In Rust][148]: handpicked Rust updates, delivered to your inbox.
   * Libraries:
@@ -1044,3 +1045,4 @@ libsla.
 [549]: https://python-poetry.org
 [550]: https://github.com/trailofbits/semgrep-rules
 [551]: https://github.com/0xdea/semgrep-rules
+[552]: https://rust-lang.github.io/unsafe-code-guidelines/
