@@ -132,6 +132,7 @@ exploit"][392]
 * ["Hacking a Tapo TC60 Camera"][350]
 * ["Hacking Amazon's eero 6 (part 1)"][86]
 * ["Hacking Brightway scooters: A case study"][29]
+* ["Hacking ICS Historians: The Pivot Point from IT to OT"][444]
 * ["Hardware Hacking to Bypass BIOS Passwords"][5]
 * ["Heads up! Xdr33, A Variant Of CIA’s HIVE Attack Kit Emerges"][443]
 * ["How a simple K-TypeConfusion took me 3 months long to create a exploit? [HEVD] - Windows 11 (build 22621)"][240]
@@ -258,6 +259,7 @@ Flow"][428]
 * ["The Untold Story of the BlackLotus UEFI Bootkit"][205]
 * ["Tickling ksmbd: fuzzing SMB in the Linux kernel"][386]
 * ["Tool Release: Cartographer"][371]
+* ["Total Identity Compromise: Microsoft Incident Response lessons on securing Active Directory"][445]
 * ["Sshimpanzee"][16]
 * ["Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was"][80]
 * ["Your not so "Home Office" - SOHO Hacking at Pwn2Own"][5]
@@ -436,6 +438,7 @@ Flow"][428]
 * ["Exception(al) Failure - Breaking the STM32F1 Read-Out Protection"][161]
 * ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
 * ["House of Muney - Leakless Heap Exploitation Technique"][181]
+* ["Minesweeper - TP-Link Archer C7 LAN RCE"][446]
 * ["My Methods To Achieve Persistence In Linux Systems"][247]
 * "nRF52 Debug Resurrection":
   * [Part 1][279]
@@ -443,6 +446,7 @@ Flow"][428]
 * ["NTLM Relay"][56]
 * ["ret2dl_resolve x64: Exploiting Dynamic Linking Procedure In x64 ELF Binaries"][370]
 * ["SSHD Injection and Password Harvesting"][230]
+* ["Weekend Destroyer - RCE in Western Digital PR4100 NAS"][447]
 * ["What're you telling me, Ghidra?"][358]
 
 ## 2019
@@ -978,3 +982,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [441]: https://medium.com/@INTfinitySG/1-1-emulating-netgear-r6700v3-circled-binary-cve-2022-27644-cve-2022-27646-part-1-5bab391c91f2
 [442]: https://medium.com/@INTfinitySG/1-2-emulating-netgear-r6700v3-circled-binary-cve-2022-27644-cve-2022-27646-part-2-cf1571493117
 [443]: https://blog.netlab.360.com/headsup_xdr33_variant_of_ciahive_emeerges/
+[444]: https://claroty.com/team82/research/hacking-ics-historians-the-pivot-point-from-it-to-ot
+[445]: https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/total-identity-compromise-microsoft-incident-response-lessons-on/ba-p/3753391
+[446]: https://www.flashback.sh/blog/minesweeper-tplink-archer-lan-rce
+[447]: https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce
