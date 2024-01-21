@@ -5,6 +5,7 @@
 
 ## Summary
 
+* [2024](#2024)
 * [2023](#2023)
 * [2022](#2022)
 * [2021](#2021)
@@ -15,6 +16,18 @@
 * [2016](#2016)
 * [2014](#2014)
 * [Other](#other)
+
+## 2024
+
+* "Writing a Debugger From Scratch"
+  * ["Attaching to a Process"][449]
+  * ["Register State and Stepping"][450]
+  * ["Reading Memory"][451]
+  * ["Exports and Private Symbols"][452]
+  * ["Breakpoints"][453]
+  * ["Stacks"][454]
+  * ["Disassembly"][455]
+
 
 ## 2023
 
@@ -222,6 +235,7 @@ Flow"][428]
 * ["Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500"][166]
 * ["prctl anon_vma_name: An Amusing Linux Kernel Heap Spray"][184]
 * ["Producing a POC for CVE-2022-42475 (Fortinet RCE)"][323]
+* ["Protecting Android clipboard content from unintended exposure"][448]
 * ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
 * ["PwnAgent: A One-Click WAN-side RCE in Netgear RAX Routers with CVE-2023-24749"][318]
 * ["Pwning Pixel 6 with a leftover patch"][310]
@@ -986,3 +1000,11 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [445]: https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/total-identity-compromise-microsoft-incident-response-lessons-on/ba-p/3753391
 [446]: https://www.flashback.sh/blog/minesweeper-tplink-archer-lan-rce
 [447]: https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce
+[448]: https://www.microsoft.com/en-us/security/blog/2023/03/06/protecting-android-clipboard-content-from-unintended-exposure/
+[449]: https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/
+[450]: https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-2/
+[451]: https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-3/
+[452]: https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-4/
+[453]: https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/
+[454]: https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/
+[455]: https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-7/
