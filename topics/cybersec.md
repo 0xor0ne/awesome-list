@@ -146,6 +146,7 @@ exploit"][392]
 * ["Hacking Amazon's eero 6 (part 1)"][86]
 * ["Hacking Brightway scooters: A case study"][29]
 * ["Hacking ICS Historians: The Pivot Point from IT to OT"][444]
+* ["Hacking the Nintendo DSi Browser"][456]
 * ["Hardware Hacking to Bypass BIOS Passwords"][5]
 * ["Heads up! Xdr33, A Variant Of CIA’s HIVE Attack Kit Emerges"][443]
 * ["How a simple K-TypeConfusion took me 3 months long to create a exploit? [HEVD] - Windows 11 (build 22621)"][240]
@@ -392,6 +393,7 @@ Flow"][428]
 * ["Vulnerabilities and Hardware Teardown of GL.iNET GL-MT300N-V2 Router"][126]
 * ["Vulnerabilities in Tenda's W15Ev2 AC1200 Router"][127]
 * ["Write a Linux firewall from scratch based on Netfilter"][313]
+* ["Yet another bug into Netfilter"][457]
 
 ## 2021
 
@@ -452,6 +454,7 @@ Flow"][428]
 * ["Exception(al) Failure - Breaking the STM32F1 Read-Out Protection"][161]
 * ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
 * ["House of Muney - Leakless Heap Exploitation Technique"][181]
+* ["Loading Dynamic Libraries on Mac"][458]
 * ["Minesweeper - TP-Link Archer C7 LAN RCE"][446]
 * ["My Methods To Achieve Persistence In Linux Systems"][247]
 * "nRF52 Debug Resurrection":
@@ -1008,3 +1011,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [453]: https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/
 [454]: https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/
 [455]: https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-7/
+[456]: https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser
+[457]: https://www.randorisec.fr/yet-another-bug-netfilter/
+[458]: http://clarkkromenaker.com/post/library-dynamic-loading-mac/
