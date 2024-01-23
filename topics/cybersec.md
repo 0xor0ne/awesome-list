@@ -42,6 +42,7 @@
 * ["A Red-Teamer diaries"][156]
 * ["A story about tampering EDRs"][293]
 * ["Abusing undocumented features to spoof PE section headers"][139]
+* ["All about LeakSanitizer"][460]
 * ["All cops are broadcasting: TETRA under scrutiny"][237]
 * ["An analysis of an in-the-wild iOS Safari WebContent to GPU Process
 exploit"][392]
@@ -87,6 +88,7 @@ exploit"][392]
 * ["CVE-2023-26258 – Remote Code Execution in ArcServe UDP Backup"][99]
 * ["CVE-2023-36844 And Friends: RCE In Juniper Devices"][281]
 * ["CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent"][186]
+* ["cURL audit: How a joke led to significant findings"][459]
 * ["Debugger Ghidra Class"][28]
 * ["Debugging D-Link: Emulating firmware and hacking hardware"][290]
 * ["Deep Lateral Movement in OT Networks: When is a Perimeter not a Perimeter?"][253]
@@ -375,6 +377,7 @@ Flow"][428]
 * ["side channels: power analysis"][380]
 * ["side channels: using the chipwhisperer"][381]
 * ["Spoofing Call Stacks To Confuse EDRs"][431]
+* ["Symbiote Deep-Dive: Analysis of a New, Nearly-Impossible-to-Detect Linux Threat"][461]
 * ["Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later"][226]
 * ["The Dirty Pipe Vulnerability"][321]
 * ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
@@ -1014,3 +1017,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [456]: https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser
 [457]: https://www.randorisec.fr/yet-another-bug-netfilter/
 [458]: http://clarkkromenaker.com/post/library-dynamic-loading-mac/
+[459]: https://blog.trailofbits.com/2023/02/14/curl-audit-fuzzing-libcurl-command-line-interface/
+[460]: https://maskray.me/blog/2023-02-12-all-about-leak-sanitizer
+[461]: https://intezer.com/blog/research/new-linux-threat-symbiote/
