@@ -174,6 +174,7 @@ exploit"][392]
 * ["JTAG 'Hacking' the Original Xbox in 2023"][244]
 * ["Kernel Exploit Factory"][159]
 * ["Learn Makefiles With the tastiest examples"][24]
+* ["Let's build a Chrome extension that steals everything"][463]
 * ["Let’s Go into the rabbit hole (part 1) — the challenges of dynamically hooking Golang programs"][387]
 * ["Leveraging ssh-keygen for Arbitrary Execution (and Privilege Escalation)"][327]
 * [linux-re-101][169]
@@ -267,6 +268,7 @@ Flow"][428]
 * ["The art of fuzzing: Windows Binaries"][89]
 * ["The art of fuzzing-A Step-by-Step Guide to Coverage-Guided Fuzzing with LibFuzzer"][54]
 * ["The Blitz Tutorial Lab on Fuzzing with AFL++"][303]
+* ["The code that wasn’t there: Reading memory on an Android device by accident"][462]
 * ["The Dragon Who Sold His camaro: Analyzing Custom Router Implant"][228]
 * ["The Importance of Reverse Engineering in Network Analysis"][426]
 * ["The Linux Kernel Module Programming Guide"][3]
@@ -491,6 +493,7 @@ Flow"][428]
 
 ## 2018
 
+* ["A Guide to ARM64 / AArch64 Assembly on Linux with Shellcodes and Cryptography"][464]
 * "CVE-2017-11176: A step-by-step Linux Kernel exploitation":
   * [Part 1][19]
   * [Part 2][20]
@@ -1020,3 +1023,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [459]: https://blog.trailofbits.com/2023/02/14/curl-audit-fuzzing-libcurl-command-line-interface/
 [460]: https://maskray.me/blog/2023-02-12-all-about-leak-sanitizer
 [461]: https://intezer.com/blog/research/new-linux-threat-symbiote/
+[462]: https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/
+[463]: https://mattfrisbie.substack.com/p/spy-chrome-extension
+[464]: https://modexp.wordpress.com/2018/10/30/arm64-assembly/?ref=0xor0ne.xyz
