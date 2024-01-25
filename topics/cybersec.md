@@ -171,6 +171,11 @@ exploit"][392]
 * ["Intel BIOS Advisory – Memory Corruption in HID Drivers "][257]
 * ["Intercepting Allocations with the Global Allocator"][79]
 * ["Introduction to SELinux"][59]
+* "IoT Series":
+  * ["Are People Ready to go?"][465]
+  * ["How To Build Kernel Image From Scratch"][466]
+  * ["Firmware testing in QEMU"][467]
+  * ["Debugging with GDB & GHIDRA + Zero-day"][468]
 * ["JTAG 'Hacking' the Original Xbox in 2023"][244]
 * ["Kernel Exploit Factory"][159]
 * ["Learn Makefiles With the tastiest examples"][24]
@@ -1026,3 +1031,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [462]: https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/
 [463]: https://mattfrisbie.substack.com/p/spy-chrome-extension
 [464]: https://modexp.wordpress.com/2018/10/30/arm64-assembly/?ref=0xor0ne.xyz
+[465]: https://www.artresilia.com/iot-series-i-are-people-ready-to-go/
+[466]: https://www.artresilia.com/iot-series-ii-how-to-build-kernel-image-from-scratch/
+[467]: https://www.artresilia.com/iot-series-iii-firmware-testing-in-qemu/
+[468]: https://www.artresilia.com/iot-series-iv-debugging-with-gdb-ghidra-zero-day/
