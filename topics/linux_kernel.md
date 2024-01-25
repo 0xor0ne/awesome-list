@@ -117,6 +117,7 @@
     * [Linux hardening][38]: Linux hardening.
     * [Kernel Hardening][39]: kernel hardening.
 * [mebeim][62]: Linux kernel syscall tables.
+* [syscall.sh][97]: Alternative Linux kernel syscall tables
 
 ## Rootkits
 
@@ -258,3 +259,4 @@
 [94]: https://github.com/bootlin/training-materials
 [95]: https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/
 [96]: https://crash-utility.github.io
+[97]: https://arm64.syscall.sh
