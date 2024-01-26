@@ -190,6 +190,7 @@ exploit"][392]
   * ["Exploitation Techniques"][222]
   * ["Privilege Escalation Techniques"][223]
   * ["Persistence Techniques"][224]
+* ["Linux Remote Process Injection - (Injecting into a firefox process)"][569]
 * ["Linux rootkits explained – Part 1: Dynamic linker hijacking"][60]
 * ["Linux Shellcode 101: From Hell to Shell"][53]
 * ["Local Privilege Escalation on the DJI RM500 Smart Controller"][160]
@@ -439,6 +440,10 @@ Flow"][428]
   * ["Debugging the Kernel with QEMU"][25]
   * ["Smashing Stack Overflows in the Kernel"][26]
   * ["Controlling RIP and Escalating privileges via Stack Overflow"][27]
+* "Live Debugging Techniques for the Linux Kernel"
+  * [Part 1][470]
+  * [Part 2][471]
+  * [Part 3][472]
 * ["New Linux Backdoor RedXOR Likely Operated by Chinese Nation-State Actor"][440]
 * ["New Old Bugs in the Linux Kernel"][305]
 * ["Recovering a Full PEM Private key when Half of it is Redacted"][96]
@@ -1035,3 +1040,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [466]: https://www.artresilia.com/iot-series-ii-how-to-build-kernel-image-from-scratch/
 [467]: https://www.artresilia.com/iot-series-iii-firmware-testing-in-qemu/
 [468]: https://www.artresilia.com/iot-series-iv-debugging-with-gdb-ghidra-zero-day/
+[469]: https://mutur4.github.io/posts/remote-process-injection/
+[470]: https://blogs.oracle.com/linux/post/live-kernel-debugging-1
+[471]: https://blogs.oracle.com/linux/post/live-kernel-debugging-2
+[472]: https://blogs.oracle.com/linux/post/live-kernel-debugging-3
