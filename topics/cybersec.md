@@ -202,6 +202,7 @@ exploit"][392]
   * [Part 5][14]
 * ["Low-Level Software Security for Compiler Developers"][15]
 * ["LPE and RCE in RenderDoc: CVE-2023-33865, CVE-2023-33864, CVE-2023-33863"][202]
+* ["Making TOCTOU Great again – X(R)IP"][474]
 * "Malware Reverse Engineering for Beginners":
   * [Part 1][128]
   * [Part 2][129]
@@ -331,6 +332,7 @@ Flow"][428]
 * ["Dumping the Amlogic A113X Bootrom"][78]
 * ["Dynamic analysis of firmware components in IoT devices"][250]
 * ["Embedded Systems Security and TrustZone"][145]
+* ["EntryBleed: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543)"][473]
 * ["Exploiting CSN.1 Bugs in MediaTek Basebands"][272]
 * ["exploiting CVE-2019-2215"][61]
 * ["Firmware key extraction by gaining EL3"][316]
@@ -1044,3 +1046,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [470]: https://blogs.oracle.com/linux/post/live-kernel-debugging-1
 [471]: https://blogs.oracle.com/linux/post/live-kernel-debugging-2
 [472]: https://blogs.oracle.com/linux/post/live-kernel-debugging-3
+[473]: https://www.willsroot.io/2022/12/entrybleed.html
+[474]: https://onekey.com/blog/making-toctou-great-again-xrip/?ref=0xor0ne.xyz
