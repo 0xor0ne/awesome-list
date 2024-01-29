@@ -77,6 +77,7 @@ exploit"][392]
 * ["Breaking Fortinet Firmware Encryption"][233]
 * ["Breaking the Code - Exploiting and Examining CVE-2023-1829 in cls_tcindex Classifier Vulnerability"][81]
 * ["Breaking Secure Boot on the Silicon Labs Gecko platform"][262]
+* ["Building an Exploit for FortiGate Vulnerability CVE-2023-27997"][475]
 * ["Bypassing PPL in Userland (again)"][308]
 * ["CAN Injection: keyless car theft"][195]
 * "chonked"
@@ -247,6 +248,10 @@ Flow"][428]
 * ["prctl anon_vma_name: An Amusing Linux Kernel Heap Spray"][184]
 * ["Producing a POC for CVE-2022-42475 (Fortinet RCE)"][323]
 * ["Protecting Android clipboard content from unintended exposure"][448]
+* "Protecting the Phoenix: Unveiling Critical Vulnerabilities in Phoenix Contact HMI"
+  * [Part 1][477]
+  * [Part 2][478]
+  * [Part 3][479]
 * ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
 * ["PwnAgent: A One-Click WAN-side RCE in Netgear RAX Routers with CVE-2023-24749"][318]
 * ["Pwning Pixel 6 with a leftover patch"][310]
@@ -563,6 +568,7 @@ Flow"][428]
 * ["Linux Insides"][246]
 * ["Linux Syscalls Reference"][17]
 * ["Lytro Unlock - Making a bad camera slightly better"][373]
+* ["Minimizing Rust Binary Size"][476]
 * ["mjsxj09cm Recovering Firmware And Backdooring"][62]
 * ["Offensive security (0xtriboulet)"][405]
 * ["Operating System development tutorials in Rust on the Raspberry Pi"][357]
@@ -1048,3 +1054,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [472]: https://blogs.oracle.com/linux/post/live-kernel-debugging-3
 [473]: https://www.willsroot.io/2022/12/entrybleed.html
 [474]: https://onekey.com/blog/making-toctou-great-again-xrip/?ref=0xor0ne.xyz
+[475]: https://bishopfox.com/blog/building-exploit-fortigate-vulnerability-cve-2023-27997
+[476]: https://github.com/johnthagen/min-sized-rust
+[477]: https://www.nozominetworks.com/blog/14-vulnerabilities-discovered-in-phoenix-contact-hmis
+[478]: https://www.nozominetworks.com/blog/protecting-the-phoenix-unveiling-critical-vulnerabilities-in-phoenix-contact-hmi-part-2
+[479]: https://www.nozominetworks.com/blog/protecting-the-phoenix-unveiling-critical-vulnerabilities-in-phoenix-contact-hmi-part-3
