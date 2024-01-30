@@ -95,6 +95,7 @@ exploit"][392]
 * ["Deep Lateral Movement in OT Networks: When is a Perimeter not a Perimeter?"][253]
 * ["Defining the cobalt strike reflective loader"][320]
 * ["Demystifying bitwise operations, a gentle C tutorial"][400]
+* ["Detecting and decrypting Sliver C2 – a threat hunter’s guide"][480]
 * ["Detecting BPFDoor Backdoor Variants Abusing BPF Filters"][183]
 * ["Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel"][51]
 * ["Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”"][164]
@@ -145,6 +146,7 @@ exploit"][392]
   * ["Vulnerability Hunting with Ghidra"][123]
   * ["Patching a Bug from a Ghidra Listing"][124]
   * ["Vulnerability Analysis with Ghidra Scripting"][125]
+* ["Ghost In The Wire, Sonic In The Wall - Adventures With SonicWall"][481]
 * ["Hacking a Tapo TC60 Camera"][350]
 * ["Hacking Amazon's eero 6 (part 1)"][86]
 * ["Hacking Brightway scooters: A case study"][29]
@@ -1059,3 +1061,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [477]: https://www.nozominetworks.com/blog/14-vulnerabilities-discovered-in-phoenix-contact-hmis
 [478]: https://www.nozominetworks.com/blog/protecting-the-phoenix-unveiling-critical-vulnerabilities-in-phoenix-contact-hmi-part-2
 [479]: https://www.nozominetworks.com/blog/protecting-the-phoenix-unveiling-critical-vulnerabilities-in-phoenix-contact-hmi-part-3
+[480]: https://www.immersivelabs.com/blog/detecting-and-decrypting-sliver-c2-a-threat-hunters-guide/
+[481]: https://labs.watchtowr.com/ghost-in-the-wire-sonic-in-the-wall/
