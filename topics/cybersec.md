@@ -167,6 +167,7 @@ exploit"][392]
   * [Part 4][104]
   * [Part 5][105]
   * [Part 6][106]
+* ["How to Emulate Android Native Libraries Using Qiling"][482]
 * ["How To Secure A Linux Server"][140]
 * ["Icicle: A Re-designed Emulator for Grey-Box Firmware Fuzzing"][171]
 * ["In-depth analysis on Valorant’s Guarded Regions"][141]
@@ -374,6 +375,7 @@ Flow"][428]
   * ["nday exploit: netgear orbi unauthenticated command injection (cve-2020-27861)"][35]
 * ["nday exploit: libinput format string bug, canary leak exploit (cve-2022-1215)"][63]
 * ["Overview of GLIBC heap exploitation techniques"][239]
+* ["Patching, Instrumenting & Debugging Linux Kernel Modules"][483]
 * ["pipe_buffer arbitrary read write"][282]
 * "Pixel 6 Bootloader"
   * ["Booting up"][286]
@@ -389,6 +391,7 @@ Flow"][428]
 * ["Reverse Engineering a Cobalt Strike Dropper With Binary Ninja"][368]
 * ["Reverse engineering integrity checks in Black Ops 3"][220]
 * ["Reverse engineering thermal printers"][245]
+* ["SETTLERS OF NETLINK: Exploiting a limited UAF in nf_tables (CVE-2022-32250)"][484]
 * ["Shedding Light on Huawei's Security Hypervisor"][434]
 * ["Shikitega - New stealthy malware targeting Linux"][438]
 * ["side channels: power analysis"][380]
@@ -1063,3 +1066,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [479]: https://www.nozominetworks.com/blog/protecting-the-phoenix-unveiling-critical-vulnerabilities-in-phoenix-contact-hmi-part-3
 [480]: https://www.immersivelabs.com/blog/detecting-and-decrypting-sliver-c2-a-threat-hunters-guide/
 [481]: https://labs.watchtowr.com/ghost-in-the-wire-sonic-in-the-wall/
+[482]: https://www.appknox.com/security/how-to-emulate-android-native-libraries-using-qiling
+[483]: https://sam4k.com/patching-instrumenting-debugging-linux-kernel-modules/
+[484]: https://research.nccgroup.com/2022/09/01/settlers-of-netlink-exploiting-a-limited-uaf-in-nf_tables-cve-2022-32250/
