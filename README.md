@@ -480,6 +480,8 @@ See also the following lists dedicated to specifics sub-topics:
     * [avml][384]: Acquire Volatile Memory for Linux.
     * [Aya][222]: eBPF library for the Rust programming language.
     * [cbindgen][499]: project for generating C bindings from Rust code.
+    * [cross][553]: “Zero setup” cross compilation and “cross testing” of Rust
+    crates.
     * [embassy][399]: framework for embedded applications.
     * [Goblin][99]: cross-platform binary parsing crate, written in Rust.
     * [libp2p][241]: Rust Implementation of the libp2p networking stack.
@@ -1046,3 +1048,4 @@ libsla.
 [550]: https://github.com/trailofbits/semgrep-rules
 [551]: https://github.com/0xdea/semgrep-rules
 [552]: https://rust-lang.github.io/unsafe-code-guidelines/
+[553]: https://github.com/cross-rs/cross
