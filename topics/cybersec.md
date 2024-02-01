@@ -140,6 +140,7 @@ exploit"][392]
   * ["Evaluating Performance of Fuzzer"][44]
   * ["Patch Analysis and PoC Development"][45]
   * ["Hunting and Exploiting 0-day [CVE-2022-24834]"][46]
+* ["Getting RCE in Chrome with incomplete object initialization in the Maglev compiler"][486]
 * "Ghidra" (Craig Young):
   * ["A Guide to Reversing Shared Objects with Ghidra"][121]
   * ["Reversing a Simple CrackMe with Ghidra Decompiler"][122]
@@ -473,6 +474,10 @@ Flow"][428]
 
 ## 2020
 
+* "A Deep Dive Into Samsung's TrustZone"
+  * [Part 1][487]
+  * [Part 2][488]
+  * [Part 3][489]
 * "BGET Explained Binary Heap Exploitation on OP-TEE":
   * [Part 1][187]
   * [Part 2][188]
@@ -583,6 +588,7 @@ Flow"][428]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][258]
 * [USB-WiFi][329]
 * ["VSS: Beginners Guide to Building a Hardware Hacking Lab"][249]
+* ["WinDBG quick start tutorial"][485]
 
 [0]: https://sergioprado.blog/introduction-to-encryption-for-embedded-linux-developers/
 [1]: https://sergioprado.blog/a-hands-on-approach-to-symmetric-key-encryption/
@@ -1069,3 +1075,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [482]: https://www.appknox.com/security/how-to-emulate-android-native-libraries-using-qiling
 [483]: https://sam4k.com/patching-instrumenting-debugging-linux-kernel-modules/
 [484]: https://research.nccgroup.com/2022/09/01/settlers-of-netlink-exploiting-a-limited-uaf-in-nf_tables-cve-2022-32250/
+[485]: http://codemachine.com/articles/windbg_quickstart.html
+[486]: https://github.blog/2023-10-17-getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/?ref=0xor0ne.xyz
+[487]: https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-1.how-a-simple-k-typeconfusion-took-me-3-months-long-to-create-a-exploit-f643c94d445f
+[488]: https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-2.how-a-simple-k-typeconfusion-took-me-3-months-long-to-create-a-exploit-f643c94d445f
+[489]: https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-3.html
