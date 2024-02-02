@@ -40,6 +40,8 @@
 * Tools
   * [aircrack-ng][16]: complete suite of tools to assess WiFi network security.
     * [GitHub][17]: WiFi security auditing tools suite
+  * [airgorah][119]: WiFi auditing software that can perform deauth attacks and
+  passwords cracking.
   * [airpwn-ng][46]: Packet injection for wifi.
   * [bettercap][18]: Swiss Army knife for WiFi, Bluetooth Low Energy, wireless
     HID hijacking.
@@ -69,12 +71,15 @@
     order to maximize the crackable WPA key material it captures/
   * [pi-pwnbox-rogueap][103]: Rogue AP based on Raspberry Pi
   * [WEF][106]: Wi-Fi Exploitation Framework.
+  * [wifi-arsenal][122]: links to projects related to wifi security.
   * [wifi-cracking][105]: Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and
     Aircrack-ng/Hashcat.
   * [wifijammer][28]: Continuously jam all wifi clients/routers.
   * [wifiphisher][27]: The Rogue Access Point Framework.
+  * [WiFiManager][121]: ESP8266 WiFi Connection manager with web captive portal.
   * [wifipumpkin3][29]: Powerful framework for rogue access point attack.
   * [wifite2][102]: script for auditing wireless networks.
+  * [wiphisher][120]: The Rogue Access Point Framework.
   * [wpa_supplicant][100]: supplicant for 802.11
 * [esp-wifi][45]: WIP / POC for using the ESP32-C3, ESP32-S3 and ESP32 wifi
   drivers in bare-metal Rust.
@@ -334,3 +339,7 @@
 [116]: https://github.com/fO-000/bluing
 [117]: https://github.com/bluekitchen/btstack
 [118]: https://github.com/bluez/bluez
+[119]: https://github.com/martin-olivier/airgorah
+[120]: https://github.com/wifiphisher/wifiphisher
+[121]: https://github.com/tzapu/WiFiManager
+[122]: https://github.com/0x90/wifi-arsenal
