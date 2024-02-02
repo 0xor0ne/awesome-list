@@ -384,6 +384,7 @@ Flow"][428]
   * ["Exploitation"][288]
 * ["Port knocking from the scratch"][227]
 * ["Pulling MikroTik into the Limelight"][120]
+* ["Racing against the clock -- hitting a tiny kernel race window"][492]
 * ["Racing Cats to the Exit: A Boring Linux Kernel Use-After-Free"][406]
 * ["Researching Xiaomi’s Tee to Get to Chinese Money"][274]
 * "Reversing embedded device bootloader (U-Boot)":
@@ -392,6 +393,7 @@ Flow"][428]
 * ["Reverse Engineering a Cobalt Strike Dropper With Binary Ninja"][368]
 * ["Reverse engineering integrity checks in Black Ops 3"][220]
 * ["Reverse engineering thermal printers"][245]
+* ["Reviving Exploits Against Cred Structs - Six Byte Cross Cache Overflow to Leakless Data-Oriented Kernel Pwnage"][491]
 * ["SETTLERS OF NETLINK: Exploiting a limited UAF in nf_tables (CVE-2022-32250)"][484]
 * ["Shedding Light on Huawei's Security Hypervisor"][434]
 * ["Shikitega - New stealthy malware targeting Linux"][438]
@@ -569,6 +571,7 @@ Flow"][428]
 * ["Debugger Ghidra Class"][232]
 * [DhavalKapil/heap-exploitation][363]
 * [Diffing Portal][378]
+* [Ghidriff - Ghidra Binary Diffing Engine][490]
 * ["Grand Theft Auto A peek of BLE relay attack"][433]
 * [ice9-bluetooth-sniffer][437]
 * ["Introduction to Malware Analysis and Reverse Engineering"][407]
@@ -1080,3 +1083,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [487]: https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-1.how-a-simple-k-typeconfusion-took-me-3-months-long-to-create-a-exploit-f643c94d445f
 [488]: https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-2.how-a-simple-k-typeconfusion-took-me-3-months-long-to-create-a-exploit-f643c94d445f
 [489]: https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-3.html
+[490]: https://github.com/clearbluejar/ghidriff
+[491]: https://www.willsroot.io/2022/08/reviving-exploits-against-cred-struct.html
+[492]: https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html
