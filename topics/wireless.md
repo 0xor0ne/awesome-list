@@ -74,6 +74,7 @@
   * [wifi-arsenal][122]: links to projects related to wifi security.
   * [wifi-cracking][105]: Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and
     Aircrack-ng/Hashcat.
+  * [Wifi-Hacking][124]: Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools.
   * [wifijammer][28]: Continuously jam all wifi clients/routers.
   * [wifiphisher][27]: The Rogue Access Point Framework.
   * [WiFiManager][121]: ESP8266 WiFi Connection manager with web captive portal.
@@ -103,6 +104,7 @@
 * Tools
   * [ble-fuzzing][107]: Stateful Black-Box Fuzzing of BLE Devices Using Automata
   Learning
+  * [bluetility][126]: A Bluetooth Low Energy browser, an open-source alternative to LightBlue for OS X.
   * [bluing][116]: intelligence gathering tool for hacking Bluetooth.
   * [BTLE][52]: Bluetooth Low Energy (BLE) packet sniffer and transmitter for
     both standard and non standard (raw bit) based on Software Defined Radio
@@ -173,10 +175,15 @@
   * [RogueMaster firmware][113]
   * [Unleashed-firmware][111]
   * [Xtreme-firmware][110]
+* [Fissure][128]: The RF and reverse engineering framework for everyone.
+* [LinkLiar][129]: Link-Layer MAC spoofing GUI for macOS
 * [Mirage][36]: powerful and modular framework dedicated to the security
   analysis of wireless communications.
+* [ESP32-Paxcounter][127]: Wifi & BLE driven passenger flow metering with cheap ESP32 boards.
 * [Signal Identification Guide][55]: help identify radio signals through example
   sounds and waterfall images.
+* [sparrow-wifi][125]: Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
+* [WiFiDuck][123]: Wireless keystroke injection attack platform
 
 ## Radio Controllers
 
@@ -343,3 +350,10 @@
 [120]: https://github.com/wifiphisher/wifiphisher
 [121]: https://github.com/tzapu/WiFiManager
 [122]: https://github.com/0x90/wifi-arsenal
+[123]: https://github.com/SpacehuhnTech/WiFiDuck
+[124]: https://github.com/ankit0183/Wifi-Hacking
+[125]: https://github.com/ghostop14/sparrow-wifi
+[126]: https://github.com/jnross/Bluetility
+[127]: https://github.com/cyberman54/ESP32-Paxcounter
+[128]: https://github.com/ainfosec/FISSURE
+[129]: https://github.com/halo/LinkLiar
