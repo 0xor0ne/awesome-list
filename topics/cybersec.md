@@ -79,6 +79,7 @@ exploit"][392]
 * ["Breaking Secure Boot on the Silicon Labs Gecko platform"][262]
 * ["Building an Exploit for FortiGate Vulnerability CVE-2023-27997"][475]
 * ["Bypassing PPL in Userland (again)"][308]
+* ["Bypassing SELinux with init_module"][494]
 * ["CAN Injection: keyless car theft"][195]
 * "chonked"
   * ["minidlna 1.3.2 http chunk parsing heap overflow (cve-2023-33476) root cause analysis"][193]
@@ -103,6 +104,10 @@ exploit"][392]
 * ["Diving into Starlink's User Terminal Firmware"][268]
 * ["DJI Mavic 3 Drone Research Part 1: Firmware Analysis"][376]
 * ["Drone Security and Fault Injection Attacks"][82]
+* "DualShock4 Reverse Engineering":
+  * [Part 1][149]
+  * [Part 3][150]
+  * [Part 3][151]
 * ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
 * ["Encrypted Doesn't Mean Authenticated: ShareFile RCE (CVE-2023-24489)"][182]
 * ["ENLBufferPwn (CVE-2022-47949)"][422]
@@ -264,10 +269,7 @@ Flow"][428]
 * ["Readline crime: exploiting a SUID logic bug"][439]
 * ["Red vs. Blue: Kerberos Ticket Times, Checksums, and You!"][30]
 * ["Retreading The AMLogic A113X TrustZone Exploit Process"][77]
-* "DualShock4 Reverse Engineering":
-  * [Part 1][149]
-  * [Part 3][150]
-  * [Part 3][151]
+* ["RISC-V Bytes: Exploring a Custom ESP32 Bootloader"][493]
 * ["REUnziP: Re-Exploiting Huawei Recovery With FaultyUSB"][364]
 * ["Revisiting CVE-2017-11176"][48]
 * ["Rust Binary Analysis, Feature by Feature"][231]
@@ -1086,3 +1088,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [490]: https://github.com/clearbluejar/ghidriff
 [491]: https://www.willsroot.io/2022/08/reviving-exploits-against-cred-struct.html
 [492]: https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html
+[493]: https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/
+[494]: https://seanpesce.blogspot.com/2023/05/bypassing-selinux-with-initmodule.html
