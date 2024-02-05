@@ -339,6 +339,7 @@ Flow"][428]
 * ["CVE-2022-0435: A Remote Stack Overflow in The Linux Kernel"][377]
 * ["[CVE-2022-1786] A Journey To The Dawn"][401]
 * ["CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF"][168]
+* ["CVE-2022-29582 An io_uring vulnerability"][495]
 * ["DirtyCred Remastered: how to turn an UAF into Privilege Escalation"][167]
 * ["Dumping the Amlogic A113X Bootrom"][78]
 * ["Dynamic analysis of firmware components in IoT devices"][250]
@@ -1090,3 +1091,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [492]: https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html
 [493]: https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/
 [494]: https://seanpesce.blogspot.com/2023/05/bypassing-selinux-with-initmodule.html
+[495]: https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/
