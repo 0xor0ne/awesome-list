@@ -420,6 +420,9 @@ Flow"][428]
 * ["Trying To Exploit A Windows Kernel Arbitrary Read Vulnerability"][312]
 * ["Turning Google smart speakers into wiretaps for $100k"][18]
 * ["Vulnerabilities and Hardware Teardown of GL.iNET GL-MT300N-V2 Router"][126]
+* "Vulnerabilities in BMC Firmware Affect OT/IoT Device Security":
+  * [Part 1][496]
+  * [Part 2][497]
 * ["Vulnerabilities in Tenda's W15Ev2 AC1200 Router"][127]
 * ["Write a Linux firewall from scratch based on Netfilter"][313]
 * ["Yet another bug into Netfilter"][457]
@@ -588,6 +591,7 @@ Flow"][428]
 * ["mjsxj09cm Recovering Firmware And Backdooring"][62]
 * ["Offensive security (0xtriboulet)"][405]
 * ["Operating System development tutorials in Rust on the Raspberry Pi"][357]
+* [Red-Team-Infrastructure-Wiki][498]
 * ["Reverse Engineering For Everyone!"][399]
 * ["Satellite Hacking Demystified(RTC0007)"][221]
 * [TEE Reversing][263]
@@ -1092,3 +1096,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [493]: https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/
 [494]: https://seanpesce.blogspot.com/2023/05/bypassing-selinux-with-initmodule.html
 [495]: https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/
+[496]: https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-# 
+[497]: https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-2
+[498]: https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
