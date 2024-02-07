@@ -161,6 +161,7 @@ exploit"][392]
 * ["Hardware Hacking to Bypass BIOS Passwords"][5]
 * ["Heads up! Xdr33, A Variant Of CIA’s HIVE Attack Kit Emerges"][443]
 * ["How a simple K-TypeConfusion took me 3 months long to create a exploit? [HEVD] - Windows 11 (build 22621)"][240]
+* ["How does Linux start a process"][501]
 * "How NATs Work":
   * [Part 1][152]
   * [Part 2][153]
@@ -272,6 +273,9 @@ Flow"][428]
 * ["RISC-V Bytes: Exploring a Custom ESP32 Bootloader"][493]
 * ["REUnziP: Re-Exploiting Huawei Recovery With FaultyUSB"][364]
 * ["Revisiting CVE-2017-11176"][48]
+* "Rooting the FiiO M6":
+  * ["Using the "World's Worst Fuzzer" To Find A Kernel Bug"][499]
+  * ["Writing an LPE Exploit For Our Overflow Bug"][500]
 * ["Rust Binary Analysis, Feature by Feature"][231]
 * ["Rust to Assembly: Understanding the Inner Workings of Rust"][134]
 * ["SHA-1 gets SHAttered"][325]
@@ -1099,3 +1103,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [496]: https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-# 
 [497]: https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-2
 [498]: https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
+[499]: https://stigward.github.io/posts/fiio-m6-kernel-bug/
+[500]: https://stigward.github.io/posts/fiio-m6-exploit/
+[501]: https://iq.thc.org/how-does-linux-start-a-process
