@@ -282,6 +282,7 @@ Flow"][428]
 * ["Shambles: The Next-Generation IoT Reverse Engineering Tool to Discover 0-Day Vulnerabilities"][55]
 * ["Shell in the Ghost: Ghostscript CVE-2023-28879 writeup"][76]
 * ["Shifting boundaries: Exploiting an Integer Overflow in Apple Safari"][261]
+* ["Smart Speaker Shenanigans: Making the Sonos ONE Sing its Secrets"][504]
 * ["Smashing the state machine: the true potential of web race conditions"][271]
 * ["SRE deep dive into Linux Page Cache"][94]
 * ["Stepping Insyde System Management Mode"][256]
@@ -306,6 +307,7 @@ Flow"][428]
 * ["Your not so "Home Office" - SOHO Hacking at Pwn2Own"][5]
 * ["Unauthenticated RCE on a RIGOL oscilloscope"][210]
 * ["UNCONTAINED: Uncovering Container Confusion in the Linux Kernel"][37]
+* ["Uncovering a crazy privilege escalation from Chrome extensions"][502]
 * ["Uncovering HinataBot: A Deep Dive into a Go-Based Threat"][311]
 * ["Under The Hood - Disassembling of IKEA-Sonos Symfonisk Speaker Lamp"][180]
 * ["Understanding a Payload’s Life Featuring Meterpreter & Other Guests "][315]
@@ -375,6 +377,7 @@ Flow"][428]
   * [Part 2][360]
   * [Part 3][361]
   * [Part 4][362]
+* ["Looking for Remote Code Execution bugs in the Linux kernel"][503]
 * ["Manipulating AES Traffic using a Chain of Proxies and Hardcoded Keys"][319]
 * ["Missing Manuals - io_uring worker pool"][265]
 * "Netgear Orbi":
@@ -1106,3 +1109,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [499]: https://stigward.github.io/posts/fiio-m6-kernel-bug/
 [500]: https://stigward.github.io/posts/fiio-m6-exploit/
 [501]: https://iq.thc.org/how-does-linux-start-a-process
+[502]: https://0x44.xyz/blog/cve-2023-4369/
+[503]: https://xairy.io/articles/syzkaller-external-network
+[504]: http://conference.hitb.org/files/hitbsecconf2023ams/materials/D2T1%20-%20Smart%20Speaker%20Shenanigans%20-%20Making%20the%20SONOS%20One%20Sing%20Its%20Secrets%20-%20Peter%20Geissler.pdf
