@@ -410,6 +410,7 @@ Flow"][428]
 * ["side channels: power analysis"][380]
 * ["side channels: using the chipwhisperer"][381]
 * ["Spoofing Call Stacks To Confuse EDRs"][431]
+* ["Stealing the Bitlocker key from a TPM"][505]
 * ["Symbiote Deep-Dive: Analysis of a New, Nearly-Impossible-to-Detect Linux Threat"][461]
 * ["Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later"][226]
 * ["The Dirty Pipe Vulnerability"][321]
@@ -508,6 +509,9 @@ Flow"][428]
   * [Part 1][279]
   * [Part 2][280]
 * ["NTLM Relay"][56]
+* "Patch Diffing a Cisco RV110W Firmware Update"
+  * [Part 1][506]
+  * [Part 2][507]
 * ["ret2dl_resolve x64: Exploiting Dynamic Linking Procedure In x64 ELF Binaries"][370]
 * ["SSHD Injection and Password Harvesting"][230]
 * ["Weekend Destroyer - RCE in Western Digital PR4100 NAS"][447]
@@ -1112,3 +1116,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [502]: https://0x44.xyz/blog/cve-2023-4369/
 [503]: https://xairy.io/articles/syzkaller-external-network
 [504]: http://conference.hitb.org/files/hitbsecconf2023ams/materials/D2T1%20-%20Smart%20Speaker%20Shenanigans%20-%20Making%20the%20SONOS%20One%20Sing%20Its%20Secrets%20-%20Peter%20Geissler.pdf
+[505]: https://astralvx.com/stealing-the-bitlocker-key-from-a-tpm/
+[506]: https://quentinkaiser.be/exploitdev/2020/09/23/ghetto-patch-diffing-cisco/
+[507]: https://quentinkaiser.be/exploitdev/2020/10/01/patch-diffing-cisco-rv110/?ref=0xor0ne.xyz
