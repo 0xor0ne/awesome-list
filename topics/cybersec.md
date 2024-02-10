@@ -93,6 +93,7 @@ exploit"][392]
 * ["cURL audit: How a joke led to significant findings"][459]
 * ["Debugger Ghidra Class"][28]
 * ["Debugging D-Link: Emulating firmware and hacking hardware"][290]
+* ["Decompilation Debugging"][508]
 * ["Deep Lateral Movement in OT Networks: When is a Perimeter not a Perimeter?"][253]
 * ["Defining the cobalt strike reflective loader"][320]
 * ["Demystifying bitwise operations, a gentle C tutorial"][400]
@@ -296,6 +297,7 @@ Flow"][428]
 * ["The Importance of Reverse Engineering in Network Analysis"][426]
 * ["The Linux Kernel Module Programming Guide"][3]
 * ["The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders"][284]
+* ["The Role of the Control Flow Graph in Static Analysis"][509]
 * ["The Silent Spy Among Us: Smart Intercom Attacks"][331]
 * ["The Stack Series: The X64 Stack"][356]
 * ["The Untold Story of the BlackLotus UEFI Bootkit"][205]
@@ -1119,3 +1121,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [505]: https://astralvx.com/stealing-the-bitlocker-key-from-a-tpm/
 [506]: https://quentinkaiser.be/exploitdev/2020/09/23/ghetto-patch-diffing-cisco/
 [507]: https://quentinkaiser.be/exploitdev/2020/10/01/patch-diffing-cisco-rv110/?ref=0xor0ne.xyz
+[508]: https://clearbluejar.github.io/posts/decompilation-debugging-pretending-all-binaries-come-with-source-code/
+[509]: https://nicolo.dev/en/blog/role-control-flow-graph-static-analysis/
