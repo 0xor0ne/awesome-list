@@ -128,6 +128,7 @@ exploit"][392]
 * ["Exploiting HTTP Parsers Inconsistencies"][391]
 * ["Exploiting MikroTik RouterOS Hardware with CVE-2023-30799"][198]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
+* ["Exploring Linux's New Random Kmalloc Caches"][511]
 * "Fantastic Rootkits: And Where To Find Them":
   * [Part 1][275]
   * [Part 2][276]
@@ -582,6 +583,7 @@ Flow"][428]
 * ["Advanced binary fuzzing using AFL++-QEMU and libprotobuf: a practical case of grammar-aware in-memory persistent fuzzing"][71]
 * ["Advanced Compilers: The Self-Guided Online Course"][298]
 * ["ARM TrustZone: pivoting to the secure world"][304]
+* [Awesome Industrial Protocols][510]
 * ["Brute Ratel - Scandinavian Defence"][436]
 * "Introduction to encryption for embedded Linux"
   * ["Introduction to encryption for embedded Linux developers"][0]
@@ -1123,3 +1125,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [507]: https://quentinkaiser.be/exploitdev/2020/10/01/patch-diffing-cisco-rv110/?ref=0xor0ne.xyz
 [508]: https://clearbluejar.github.io/posts/decompilation-debugging-pretending-all-binaries-come-with-source-code/
 [509]: https://nicolo.dev/en/blog/role-control-flow-graph-static-analysis/
+[510]: https://github.com/Orange-Cyberdefense/awesome-industrial-protocols
+[511]: https://sam4k.com/exploring-linux-random-kmalloc-caches/
