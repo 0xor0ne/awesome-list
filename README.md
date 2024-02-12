@@ -182,6 +182,7 @@ See also the following lists dedicated to specifics sub-topics:
     reverse-engineers.
   * [pwndbg][537]: Exploit Development and Reverse Engineering with GDB Made
   Easy.
+* [lldb][554]: next generation, high-performance debugger.
 * [rr][253]: Record and Replay Framework.
   * [rd][307]: reimplementation in rust.
 * [Scout][110]: instruction based research debugger.
@@ -1049,3 +1050,4 @@ libsla.
 [551]: https://github.com/0xdea/semgrep-rules
 [552]: https://rust-lang.github.io/unsafe-code-guidelines/
 [553]: https://github.com/cross-rs/cross
+[554]: https://lldb.llvm.org
