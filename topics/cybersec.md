@@ -44,6 +44,7 @@
 * ["Abusing undocumented features to spoof PE section headers"][139]
 * ["All about LeakSanitizer"][460]
 * ["All cops are broadcasting: TETRA under scrutiny"][237]
+* ["All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more"][513]
 * ["An analysis of an in-the-wild iOS Safari WebContent to GPU Process
 exploit"][392]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
@@ -289,6 +290,7 @@ Flow"][428]
 * ["SRE deep dive into Linux Page Cache"][94]
 * ["Stepping Insyde System Management Mode"][256]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][31]
+* ["The ARM32 Scheduling and Kernelspace/Userspace Boundary"][512]
 * ["The art of Fuzzing: Introduction"][57]
 * ["The art of fuzzing: Windows Binaries"][89]
 * ["The art of fuzzing-A Step-by-Step Guide to Coverage-Guided Fuzzing with LibFuzzer"][54]
@@ -1127,3 +1129,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [509]: https://nicolo.dev/en/blog/role-control-flow-graph-static-analysis/
 [510]: https://github.com/Orange-Cyberdefense/awesome-industrial-protocols
 [511]: https://sam4k.com/exploring-linux-random-kmalloc-caches/
+[512]: https://people.kernel.org/linusw/the-arm32-scheduling-and-kernelspace-userspace-boundary
+[513]: https://thume.ca/2023/12/02/tracing-methods/
