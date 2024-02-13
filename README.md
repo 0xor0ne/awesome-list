@@ -177,15 +177,18 @@ See also the following lists dedicated to specifics sub-topics:
 * [drgn][538]: Programmable debugger
 * [GDB][26]: GNU Project Debugger.
   * [gdb-dashboard][229]: modular visual interface for GDB in Python.
+  * [gdb-frontend][558]: easy, flexible and extensible gui debugger.
   * [gdbgui][230]: browser-based frontend to gdb.
   * [GEF][27]: plugin with set of commands to assis exploit developers and
     reverse-engineers.
   * [pwndbg][537]: Exploit Development and Reverse Engineering with GDB Made
   Easy.
 * [lldb][554]: next generation, high-performance debugger.
+* [llef][557]: plugin for LLDB to make it more useful for RE and VR.
 * [rr][253]: Record and Replay Framework.
   * [rd][307]: reimplementation in rust.
 * [Scout][110]: instruction based research debugger.
+* [voltron][556]: hacky debugger UI for hackers.
 
 ## eBPF
 
@@ -503,6 +506,7 @@ See also the following lists dedicated to specifics sub-topics:
 
 * [Angr][109]: user-friendly binary analysis platform.
 * [BAP][282]: binary analysis platform.
+* [bincat][555]: Binary code static analyser.
 * [BinDiff][204]: compare executables by identifying identical and similar
   functions.
   * [Source code][525]: source code of BinDiff
@@ -1051,3 +1055,7 @@ libsla.
 [552]: https://rust-lang.github.io/unsafe-code-guidelines/
 [553]: https://github.com/cross-rs/cross
 [554]: https://lldb.llvm.org
+[555]: https://github.com/airbus-seclab/bincat
+[556]: https://github.com/snare/voltron
+[557]: https://github.com/foundryzero/llef
+[558]: https://github.com/rohanrhu/gdb-frontend
