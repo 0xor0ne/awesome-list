@@ -117,6 +117,7 @@ exploit"][392]
 * ["Exploitation of Openfire CVE-2023-32315"][283]
 * ["Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers"][130]
 * ["Exploiting null-dereferences in the Linux kernel"][148]
+* ["Exploring UNIX pipes for iOS kernel exploit primitives"][514]
 * ["EPF: Evil Packet Filter"][73]
 * ["Escaping from Bhyve"][192]
 * ["ESP32-C3 Wireless Adventure A Comprehensive Guide to IoT"][69]
@@ -612,6 +613,7 @@ Flow"][428]
 * ["Reverse Engineering For Everyone!"][399]
 * ["Satellite Hacking Demystified(RTC0007)"][221]
 * [TEE Reversing][263]
+* [tmpout.sh][515]: collection of writeups on low-level stuff
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][258]
 * [USB-WiFi][329]
 * ["VSS: Beginners Guide to Building a Hardware Hacking Lab"][249]
@@ -1131,3 +1133,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [511]: https://sam4k.com/exploring-linux-random-kmalloc-caches/
 [512]: https://people.kernel.org/linusw/the-arm32-scheduling-and-kernelspace-userspace-boundary
 [513]: https://thume.ca/2023/12/02/tracing-methods/
+[514]: https://www.corellium.com/blog/exploring-unix-pipes-for-ios-kernel-exploit-primitives
+[515]: https://tmpout.sh
