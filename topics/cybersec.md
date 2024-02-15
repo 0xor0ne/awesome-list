@@ -383,6 +383,8 @@ Flow"][428]
   * [Part 2][360]
   * [Part 3][361]
   * [Part 4][362]
+* ["Linternals: Introducing Memory Allocators & The Page Allocator"][516]
+* ["Linternals: The Slab Allocator"][517]
 * ["Looking for Remote Code Execution bugs in the Linux kernel"][503]
 * ["Manipulating AES Traffic using a Chain of Proxies and Hardcoded Keys"][319]
 * ["Missing Manuals - io_uring worker pool"][265]
@@ -598,6 +600,11 @@ Flow"][428]
 * [Ghidriff - Ghidra Binary Diffing Engine][490]
 * ["Grand Theft Auto A peek of BLE relay attack"][433]
 * [ice9-bluetooth-sniffer][437]
+* "Illustrated Connections":
+  * [dtls][519]
+  * [quic][518]
+  * [tls 1.2][521]
+  * [tls 1.3][520]
 * ["Introduction to Malware Analysis and Reverse Engineering"][407]
 * ["Laser-Based Audio Injection on Voice-Controllable Systems"][328]
 * [Linux Kernel CVEs][385]
@@ -1135,3 +1142,9 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [513]: https://thume.ca/2023/12/02/tracing-methods/
 [514]: https://www.corellium.com/blog/exploring-unix-pipes-for-ios-kernel-exploit-primitives
 [515]: https://tmpout.sh
+[516]: https://sam4k.com/linternals-memory-allocators-part-1/
+[517]: https://sam4k.com/linternals-memory-allocators-0x02/
+[518]: https://quic.xargs.org
+[519]: https://dtls.xargs.org
+[520]: https://tls13.xargs.org
+[521]: https://tls12.xargs.org
