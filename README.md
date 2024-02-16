@@ -23,7 +23,7 @@ See also the following lists dedicated to specifics sub-topics:
 * [Embedded and IoT](#embedded-and-iot)
 * [Emulators And Dynamic Analysis](#emulators-and-dynamic-analysis)
 * [Exploit Development](#exploit-development)
-* [Fuzzing](#fuzzing)
+* [Fuzzing and Vulnerability Research](#fuzzing-and-vulnerability-research)
 * [Misc](#misc)
 * [Networking](#networking)
 * [Programming Languages](#programming-languages)
@@ -112,6 +112,7 @@ See also the following lists dedicated to specifics sub-topics:
   Windows).
 * [CS6038/CS5138 Malware Analysis][451]: Introduction to Malware Analysis and
   Reverse Engineering.
+  * [blog.malware.re][559]: reverse engineering related blog.
 * [CVE North Star][428]: CVEs as North Stars in vulnerability discovery and
   comprehension.
 * [Dmitry.gr]: reverse engineering, embedded and hardware.
@@ -243,6 +244,7 @@ See also the following lists dedicated to specifics sub-topics:
   firmware.
   * [scraper][287]: firmwares scraper.
 * [QEMU][28]: open source machine emulator and virtualizer.
+  * [quickemu][561]: create and run optimised Windows, macOS and Linux desktop.
 * [Panda][64]: platform for Architecture-Neutral Dynamic Analysis.
 * [Qiling][10]: Qiling Advanced Binary Emulation Framework.
 * [Renode][138]: virtual development framework for complex embedded systems.
@@ -251,9 +253,6 @@ See also the following lists dedicated to specifics sub-topics:
 
 ## Exploit Development
 
-* [CodeQL][293]: semantic code analysis engine.
-  * [Use case example][294]: One day short of a full chain.
-* [cwe_ckecker][101]: finds vulnerable patterns in binary executables.
 * [Exploit mitigations][292]: knowledge base of exploit mitigations available
   across numerous operating systems.
 * [how2heap][47]: repository for learning various heap exploitation techniques.
@@ -271,17 +270,20 @@ See also the following lists dedicated to specifics sub-topics:
   exploitation.
 * [ropr][247]: fast multithreaded ROP Gadget finder.
 * [Ropper][160]: find gadgets to build rop chains for different architectures.
-* [weggli][270]: fast and robust semantic search tool for C and C++ codebases.
 * [ZDI PoCs][404]: the Zero Day Initiative Proofs-of-concept.
 
-## Fuzzing
+## Fuzzing and Vulnerability Research
 
 * [AFLplusplus][38]: improved version of AFL.
   * [Grammar-mutator][519]: A grammar-based custom mutator for AFL++.
 * [afl-training][508]: Exercises to learn how to fuzz with American Fuzzy Lop.
 * [Arbitrary][524]: Generating structured data from arbitrary, unstructured input.
+* [BinAbsInspector][560]: Vulnerability Scanner for Binaries.
 * [boofuzz][89]: fork and successor of the Sulley Fuzzing Framework.
 * [cargo-fuzz][507]: Command line helpers for fuzzing.
+* [CodeQL][293]: semantic code analysis engine.
+  * [Use case example][294]: One day short of a full chain.
+* [cwe_ckecker][101]: finds vulnerable patterns in binary executables.
 * [difuze][90]: fuzzer for Linux Kernel Drivers.
 * [ferofuzz][424]: structure-aware HTTP fuzzing library.
 * [fuzz-introspector][523]: introspect, extend and optimise fuzzers.
@@ -326,6 +328,7 @@ See also the following lists dedicated to specifics sub-topics:
     automatically reports found bugs
   * [SyzScope][413]: automatically uncover high-risk impacts given a bug with
     only low-risk impacts.
+* [weggli][270]: fast and robust semantic search tool for C and C++ codebases.
 
 ## Misc
 
@@ -1059,3 +1062,6 @@ libsla.
 [556]: https://github.com/snare/voltron
 [557]: https://github.com/foundryzero/llef
 [558]: https://github.com/rohanrhu/gdb-frontend
+[559]: https://blog.malware.re
+[560]: https://github.com/KeenSecurityLab/BinAbsInspector
+[561]: https://github.com/quickemu-project/quickemu
