@@ -78,6 +78,7 @@ exploit"][392]
 * ["Breaking Fortinet Firmware Encryption"][233]
 * ["Breaking the Code - Exploiting and Examining CVE-2023-1829 in cls_tcindex Classifier Vulnerability"][81]
 * ["Breaking Secure Boot on the Silicon Labs Gecko platform"][262]
+* ["Building a Custom Mach-O Memory Loader for macOS"][523]
 * ["Building an Exploit for FortiGate Vulnerability CVE-2023-27997"][475]
 * ["Bypassing PPL in Userland (again)"][308]
 * ["Bypassing SELinux with init_module"][494]
@@ -273,6 +274,7 @@ Flow"][428]
 * ["Racing Against the Lock: Exploiting Spinlock UAF in the Android Kernel"][185]
 * ["Readline crime: exploiting a SUID logic bug"][439]
 * ["Red vs. Blue: Kerberos Ticket Times, Checksums, and You!"][30]
+* ["Restoring Dyld Memory Loading"][522]
 * ["Retreading The AMLogic A113X TrustZone Exploit Process"][77]
 * ["RISC-V Bytes: Exploring a Custom ESP32 Bootloader"][493]
 * ["REUnziP: Re-Exploiting Huawei Recovery With FaultyUSB"][364]
@@ -311,6 +313,7 @@ Flow"][428]
 * ["Sshimpanzee"][16]
 * ["Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was"][80]
 * ["Your not so "Home Office" - SOHO Hacking at Pwn2Own"][5]
+* ["Ubuntu Shiftfs: Unbalanced Unlock Exploitation Attempt"][524]
 * ["Unauthenticated RCE on a RIGOL oscilloscope"][210]
 * ["UNCONTAINED: Uncovering Container Confusion in the Linux Kernel"][37]
 * ["Uncovering a crazy privilege escalation from Chrome extensions"][502]
@@ -1148,3 +1151,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [519]: https://dtls.xargs.org
 [520]: https://tls13.xargs.org
 [521]: https://tls12.xargs.org
+[522]: https://blog.xpnsec.com/restoring-dyld-memory-loading/
+[523]: https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/
+[524]: https://www.synacktiv.com/sites/default/files/2023-11/ubuntu_shiftfs.pdf
