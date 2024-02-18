@@ -511,6 +511,7 @@ Flow"][428]
 * ["BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution"][372]
 * ["Detecting Linux memfd_create() Fileless Malware with Command Line Forensics"][430]
 * ["Exception(al) Failure - Breaking the STM32F1 Read-Out Protection"][161]
+* ["Flashback Connects - Cisco RV340 SSL VPN RCE"][525]
 * ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
 * ["House of Muney - Leakless Heap Exploitation Technique"][181]
 * ["Loading Dynamic Libraries on Mac"][458]
@@ -600,6 +601,7 @@ Flow"][428]
 * ["Debugger Ghidra Class"][232]
 * [DhavalKapil/heap-exploitation][363]
 * [Diffing Portal][378]
+* [exploit_mitigations][526]
 * [Ghidriff - Ghidra Binary Diffing Engine][490]
 * ["Grand Theft Auto A peek of BLE relay attack"][433]
 * [ice9-bluetooth-sniffer][437]
@@ -1050,6 +1052,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [418]: https://www.tripwire.com/state-of-security/ghidra-101-decoding-stack-strings
 [419]: https://www.tripwire.com/state-of-security/ghidra-101-loading-windows-symbols-pdb-files
 [420]: https://www.tripwire.com/state-of-security/ghidra-101-creating-structures-in-ghidra
+
 [421]: https://www.tripwire.com/state-of-security/ghidra-101-loading-windows-symbols-pdb-files-in-ghidra-10-x
 [422]: https://github.com/PabloMK7/ENLBufferPwn
 [423]: https://f0rm2l1n.github.io/2021-02-02-syzkaller-diving-01/
@@ -1154,3 +1157,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [522]: https://blog.xpnsec.com/restoring-dyld-memory-loading/
 [523]: https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/
 [524]: https://www.synacktiv.com/sites/default/files/2023-11/ubuntu_shiftfs.pdf
+[525]: https://www.flashback.sh/blog/flashback-connects-cisco-rv340-ssl-vpn-rce
+[526]: https://github.com/nccgroup/exploit_mitigations?ref=0xor0ne.xyz
