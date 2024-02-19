@@ -88,6 +88,7 @@ exploit"][392]
   * ["exploiting cve-2023-33476 for remote code execution"][194]
 * ["Coffee: A COFF loader made in Rust"][93]
 * ["Competing in Pwn2Own ICS 2022 Miami: Exploiting a zero click remote memory corruption in ICONICS Genesis64"][397]
+* ["Conquering the memory through io_uring - Analysis of CVE-2023-2598"][528]
 * ["CVE-2023-2008 - Analyzing and exploiting a bug in the udmabuf driver"][72]
 * ["CVE-2023-26258 – Remote Code Execution in ArcServe UDP Backup"][99]
 * ["CVE-2023-36844 And Friends: RCE In Juniper Devices"][281]
@@ -274,6 +275,7 @@ Flow"][428]
 * ["Racing Against the Lock: Exploiting Spinlock UAF in the Android Kernel"][185]
 * ["Readline crime: exploiting a SUID logic bug"][439]
 * ["Red vs. Blue: Kerberos Ticket Times, Checksums, and You!"][30]
+* ["Reptar"][527]
 * ["Restoring Dyld Memory Loading"][522]
 * ["Retreading The AMLogic A113X TrustZone Exploit Process"][77]
 * ["RISC-V Bytes: Exploring a Custom ESP32 Bootloader"][493]
@@ -1159,3 +1161,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [524]: https://www.synacktiv.com/sites/default/files/2023-11/ubuntu_shiftfs.pdf
 [525]: https://www.flashback.sh/blog/flashback-connects-cisco-rv340-ssl-vpn-rce
 [526]: https://github.com/nccgroup/exploit_mitigations?ref=0xor0ne.xyz
+[527]: https://lock.cmpxchg8b.com/reptar.html
+[528]: https://anatomic.rip/cve-2023-2598/
