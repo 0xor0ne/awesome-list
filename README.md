@@ -277,6 +277,8 @@ See also the following lists dedicated to specifics sub-topics:
 * [AFLplusplus][38]: improved version of AFL.
   * [Grammar-mutator][519]: A grammar-based custom mutator for AFL++.
 * [afl-training][508]: Exercises to learn how to fuzz with American Fuzzy Lop.
+* [appsec (Testing Handbook)][562]: configuring, optimizing, and automating
+many of the static and dynamic analysis tools.
 * [Arbitrary][524]: Generating structured data from arbitrary, unstructured input.
 * [BinAbsInspector][560]: Vulnerability Scanner for Binaries.
 * [boofuzz][89]: fork and successor of the Sulley Fuzzing Framework.
@@ -394,6 +396,7 @@ See also the following lists dedicated to specifics sub-topics:
 
 ## Programming Languages
 
+* [libhunt][567]: trending open-source projects and their alternatives
 * Assembly:
   * ARM:
     * [Docs][124]: official documentation.
@@ -425,8 +428,15 @@ See also the following lists dedicated to specifics sub-topics:
   * [pkg.go.dev][108]: packages documentation.
 * [Python][535]: official website
   * [Docs][536]: official documentation
+    * [standard library][566]
+  * [awesome-python][568]: curated list of awesome Python frameworks,
+  libraries, software and resources.
+  * [Hitchhiker’s Guide][569]: best practice handbook.
   * [mamba][548]: fast, robust, and cross-platform package manager.
-  * [poetry][549]: packaging and dependency management.
+  * [packaging][564]
+    * [poetry][549]: packaging and dependency management.
+  * [pypi][570]: repository of software for the Python programming language.
+  * [realpython][565]: python guides and tutorials.
 * [Rust][41]: secure system programming language.
   * [aquascope][466]: Interactive visualizations of Rust at compile-time and run-time
   * [API guidelines][319]: set of recommendations on how to design and present
@@ -438,6 +448,7 @@ See also the following lists dedicated to specifics sub-topics:
   * [Cargo Book][129]: official cargo book.
   * [Cheats][398]: Rust language cheat sheet.
   * [Clippy][218]: lints to catch common mistakes and improve your Rust code.
+  * [Command Line Applications in Rust][563]:
   * [crates.io][44]: rust community's crate registry.
   * [cryptography.rs][464]: list of actively maintained, high-quality
     cryptography libraries.
@@ -1065,3 +1076,12 @@ libsla.
 [559]: https://blog.malware.re
 [560]: https://github.com/KeenSecurityLab/BinAbsInspector
 [561]: https://github.com/quickemu-project/quickemu
+[562]: https://appsec.guide
+[563]: https://rust-cli.github.io/book/index.html
+[564]: https://packaging.python.org/en/latest/
+[565]: https://realpython.com
+[566]: https://docs.python.org/3/py-modindex.html
+[567]: https://www.libhunt.com
+[568]: https://awesome-python.com
+[569]: https://docs.python-guide.org/#scenario-guide-for-python-applications
+[570]: https://pypi.org
