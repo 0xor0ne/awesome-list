@@ -159,6 +159,7 @@ exploit"][392]
   * ["Patching a Bug from a Ghidra Listing"][124]
   * ["Vulnerability Analysis with Ghidra Scripting"][125]
 * ["Ghost In The Wire, Sonic In The Wall - Adventures With SonicWall"][481]
+* ["Google Chrome V8 ArrayShift Race Condition Remote Code Execution"][530]
 * ["Hacking a Tapo TC60 Camera"][350]
 * ["Hacking Amazon's eero 6 (part 1)"][86]
 * ["Hacking Brightway scooters: A case study"][29]
@@ -613,6 +614,7 @@ Flow"][428]
   * [tls 1.2][521]
   * [tls 1.3][520]
 * ["Introduction to Malware Analysis and Reverse Engineering"][407]
+* ["Kernel Address Space Layout Derandomization"][529]
 * ["Laser-Based Audio Injection on Voice-Controllable Systems"][328]
 * [Linux Kernel CVEs][385]
 * ["Linux Kernel map"][225]
@@ -1163,3 +1165,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [526]: https://github.com/nccgroup/exploit_mitigations?ref=0xor0ne.xyz
 [527]: https://lock.cmpxchg8b.com/reptar.html
 [528]: https://anatomic.rip/cve-2023-2598/
+[529]: https://github.com/bcoles/kasld
+[530]: https://blog.exodusintel.com/2023/05/16/google-chrome-v8-arrayshift-race-condition-remote-code-execution/
