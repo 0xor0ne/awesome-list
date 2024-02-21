@@ -291,9 +291,11 @@ Flow"][428]
 * ["Shambles: The Next-Generation IoT Reverse Engineering Tool to Discover 0-Day Vulnerabilities"][55]
 * ["Shell in the Ghost: Ghostscript CVE-2023-28879 writeup"][76]
 * ["Shifting boundaries: Exploiting an Integer Overflow in Apple Safari"][261]
+* ["Shooting Yourself in the .flags – Jailbreaking the Sonos Era 100"][531]
 * ["Smart Speaker Shenanigans: Making the Sonos ONE Sing its Secrets"][504]
 * ["Smashing the state machine: the true potential of web race conditions"][271]
 * ["SRE deep dive into Linux Page Cache"][94]
+* ["Sshimpanzee"][16]
 * ["Stepping Insyde System Management Mode"][256]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][31]
 * ["The ARM32 Scheduling and Kernelspace/Userspace Boundary"][512]
@@ -313,7 +315,7 @@ Flow"][428]
 * ["Tickling ksmbd: fuzzing SMB in the Linux kernel"][386]
 * ["Tool Release: Cartographer"][371]
 * ["Total Identity Compromise: Microsoft Incident Response lessons on securing Active Directory"][445]
-* ["Sshimpanzee"][16]
+
 * ["Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was"][80]
 * ["Your not so "Home Office" - SOHO Hacking at Pwn2Own"][5]
 * ["Ubuntu Shiftfs: Unbalanced Unlock Exploitation Attempt"][524]
@@ -357,6 +359,7 @@ Flow"][428]
 * ["CVE-2022-0435: A Remote Stack Overflow in The Linux Kernel"][377]
 * ["[CVE-2022-1786] A Journey To The Dawn"][401]
 * ["CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF"][168]
+* ["CVE-2022-27666: Exploit esp6 modules in Linux kernel"][532]
 * ["CVE-2022-29582 An io_uring vulnerability"][495]
 * ["DirtyCred Remastered: how to turn an UAF into Privilege Escalation"][167]
 * ["Dumping the Amlogic A113X Bootrom"][78]
@@ -1167,3 +1170,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [528]: https://anatomic.rip/cve-2023-2598/
 [529]: https://github.com/bcoles/kasld
 [530]: https://blog.exodusintel.com/2023/05/16/google-chrome-v8-arrayshift-race-condition-remote-code-execution/
+[531]: https://research.nccgroup.com/2023/12/04/shooting-yourself-in-the-flags-jailbreaking-the-sonos-era-100/
+[532]: https://etenal.me/archives/1825
