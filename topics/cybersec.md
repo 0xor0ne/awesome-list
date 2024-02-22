@@ -89,6 +89,7 @@ exploit"][392]
 * ["Coffee: A COFF loader made in Rust"][93]
 * ["Competing in Pwn2Own ICS 2022 Miami: Exploiting a zero click remote memory corruption in ICONICS Genesis64"][397]
 * ["Conquering the memory through io_uring - Analysis of CVE-2023-2598"][528]
+* ["Cueing up a calculator: an introduction to exploit development on Linux"][534]
 * ["CVE-2023-2008 - Analyzing and exploiting a bug in the udmabuf driver"][72]
 * ["CVE-2023-26258 – Remote Code Execution in ArcServe UDP Backup"][99]
 * ["CVE-2023-36844 And Friends: RCE In Juniper Devices"][281]
@@ -326,6 +327,7 @@ Flow"][428]
 * ["Under The Hood - Disassembling of IKEA-Sonos Symfonisk Speaker Lamp"][180]
 * ["Understanding a Payload’s Life Featuring Meterpreter & Other Guests "][315]
 * ["Understanding the Heap - a beautiful mess"][348]
+* ["Unleashing ksmbd: remote exploitation of the Linux kernel (ZDI-23-979, ZDI-23-980)"][533]
 * ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
 * ["Windows Installer EOP (CVE-2023-21800)"][314]
 * ["Writing your own RDI /sRDI loader using C and ASM"][307]
@@ -1172,3 +1174,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [530]: https://blog.exodusintel.com/2023/05/16/google-chrome-v8-arrayshift-race-condition-remote-code-execution/
 [531]: https://research.nccgroup.com/2023/12/04/shooting-yourself-in-the-flags-jailbreaking-the-sonos-era-100/
 [532]: https://etenal.me/archives/1825
+[533]: https://pwning.tech/ksmbd/
+[534]: https://github.blog/2023-12-06-cueing-up-a-calculator-an-introduction-to-exploit-development-on-linux/
