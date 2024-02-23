@@ -33,6 +33,7 @@
 
 * ["A Deep Dive Into Brute Ratel C4 Payloads"][374]
 * ["A Deep Dive into Penetration Testing of macOS Applications (Part 1)"][49]
+* ["A Detailed Look at Pwn2own Automotive EV Charger Hardware"][537]
 * ["A look at CVE-2023-29360, a beautiful logical LPE vuln"][260]
 * ["A Journey Into Hacking Google Search Appliance"][203]
 * ["A new method for container escape using file-based DirtyCred"][201]
@@ -80,6 +81,7 @@ exploit"][392]
 * ["Breaking Secure Boot on the Silicon Labs Gecko platform"][262]
 * ["Building a Custom Mach-O Memory Loader for macOS"][523]
 * ["Building an Exploit for FortiGate Vulnerability CVE-2023-27997"][475]
+* ["Bypassing a noexec by elf roping"][528]
 * ["Bypassing PPL in Userland (again)"][308]
 * ["Bypassing SELinux with init_module"][494]
 * ["CAN Injection: keyless car theft"][195]
@@ -396,6 +398,7 @@ Flow"][428]
   * [Part 4][362]
 * ["Linternals: Introducing Memory Allocators & The Page Allocator"][516]
 * ["Linternals: The Slab Allocator"][517]
+* ["Linux kernel heap feng shui in 2022"][535]
 * ["Looking for Remote Code Execution bugs in the Linux kernel"][503]
 * ["Manipulating AES Traffic using a Chain of Proxies and Hardcoded Keys"][319]
 * ["Missing Manuals - io_uring worker pool"][265]
@@ -480,6 +483,7 @@ Flow"][428]
   * ["Creating Structures in Ghidra"][420]
   * ["Loading Windows Symbols (PDB files) in Ghidra 10.x"][421]
 * ["GRCON 2021 - Capture the Signal"][403]
+* ["How AUTOSLAB Changes the Memory Unsafety Game"][536]
 * "Learning Linux Kernel Exploitation":
   * [Part 1][83]
   * [Part 2][84]
@@ -1176,3 +1180,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [532]: https://etenal.me/archives/1825
 [533]: https://pwning.tech/ksmbd/
 [534]: https://github.blog/2023-12-06-cueing-up-a-calculator-an-introduction-to-exploit-development-on-linux/
+[535]: https://duasynt.com/blog/linux-kernel-heap-feng-shui-2022
+[536]: https://grsecurity.net/how_autoslab_changes_the_memory_unsafety_game
+[537]: https://www.zerodayinitiative.com/blog/2023/11/28/a-detailed-look-at-pwn2own-automotive-ev-charger-hardware
+[538]: https://blog.xilokar.info/bypassing-a-noexec-by-elf-roping.html
