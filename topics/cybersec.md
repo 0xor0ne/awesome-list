@@ -5,17 +5,19 @@
 
 ## Summary
 
-* [2024](#2024)
-* [2023](#2023)
-* [2022](#2022)
-* [2021](#2021)
-* [2020](#2020)
-* [2019](#2019)
-* [2018](#2018)
-* [2017](#2017)
-* [2016](#2016)
-* [2014](#2014)
-* [Other](#other)
+- [Cybersecurity Content](#cybersecurity-content)
+  - [Summary](#summary)
+  - [2024](#2024)
+  - [2023](#2023)
+  - [2022](#2022)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2017](#2017)
+  - [2016](#2016)
+  - [2014](#2014)
+  - [Other](#other)
 
 ## 2024
 
@@ -580,6 +582,10 @@ Flow"][428]
 * ["HiSilicon DVR hack"][236]
 * ["How I Reverse Engineered and Exploited a Smart Massager"][301]
 * ["Linux ptrace introduction AKA injecting into sshd for fun"][229]
+* "Over The Air":
+  * ["Exploiting Broadcom’s Wi-Fi Stack (Part 1)"][539]
+  * ["Exploiting Broadcom’s Wi-Fi Stack (Part 2)"][540]
+  * ["Exploiting The Wi-Fi Stack on Apple Devices"][541]
 
 ## 2016
 
@@ -1184,3 +1190,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [536]: https://grsecurity.net/how_autoslab_changes_the_memory_unsafety_game
 [537]: https://www.zerodayinitiative.com/blog/2023/11/28/a-detailed-look-at-pwn2own-automotive-ev-charger-hardware
 [538]: https://blog.xilokar.info/bypassing-a-noexec-by-elf-roping.html
+[539]: https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html
+[540]: https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_11.html
+[541]: https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html
