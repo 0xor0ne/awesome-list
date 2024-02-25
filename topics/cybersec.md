@@ -95,6 +95,7 @@ exploit"][392]
 * ["Conquering the memory through io_uring - Analysis of CVE-2023-2598"][528]
 * ["Cueing up a calculator: an introduction to exploit development on Linux"][534]
 * ["CVE-2023-2008 - Analyzing and exploiting a bug in the udmabuf driver"][72]
+* ["CVE-2023-23504: XNU Heap Underwrite in dlil.c"][543]
 * ["CVE-2023-26258 – Remote Code Execution in ArcServe UDP Backup"][99]
 * ["CVE-2023-36844 And Friends: RCE In Juniper Devices"][281]
 * ["CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent"][186]
@@ -372,6 +373,7 @@ Flow"][428]
 * ["Dynamic analysis of firmware components in IoT devices"][250]
 * ["Embedded Systems Security and TrustZone"][145]
 * ["EntryBleed: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543)"][473]
+* ["Expanding the Dragon: Adding an ISA to Ghidra"][542]
 * ["Exploiting CSN.1 Bugs in MediaTek Basebands"][272]
 * ["exploiting CVE-2019-2215"][61]
 * ["Firmware key extraction by gaining EL3"][316]
@@ -1147,7 +1149,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [493]: https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/
 [494]: https://seanpesce.blogspot.com/2023/05/bypassing-selinux-with-initmodule.html
 [495]: https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/
-[496]: https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-# 
+[496]: https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-#
 [497]: https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-2
 [498]: https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
 [499]: https://stigward.github.io/posts/fiio-m6-kernel-bug/
@@ -1193,3 +1195,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [539]: https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html
 [540]: https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_11.html
 [541]: https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html
+[542]: https://trenchant.io/expanding-the-dragon-adding-an-isa-to-ghidra/
+[543]: https://adamdoupe.com/blog/2023/01/23/cve-2023-23504-xnu-heap-underwrite-in-dlil-dot-c/
