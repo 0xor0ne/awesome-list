@@ -208,6 +208,7 @@ exploit"][392]
 * ["Leveraging ssh-keygen for Arbitrary Execution (and Privilege Escalation)"][327]
 * [linux-re-101][169]
 * ["Linux debugging, profiling and tracing training"][353]
+* ["Linux Kernel Unauthenticated Remote Heap Overflow Within KSMBD"][544]
 * ["Linux Kernel Teaching"][131]
 * ["Linux Malware: Defense Evasion Techniques"][165]
 * "Linux Red Team":
@@ -575,6 +576,13 @@ Flow"][428]
   * [Part 4][22]
 * ["eMMC Data Recovery from Damaged Smartphone"][88]
 * ["My journey towards Reverse Engineering a Smart Band — Bluetooth-LE RE"][302]
+* "Reversing ESP8266 Firmware":
+  * [Part 1][545]
+  * [Part 2][546]
+  * [Part 3][547]
+  * [Part 4][548]
+  * [Part 5][549]
+  * [Part 6][550]
 * "Vectorized Emulation":[438]
   * ["Hardware accelerated taint tracking at 2 trillion instructions per second"][382]
   * ["MMU Design"][383]
@@ -1197,3 +1205,10 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [541]: https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html
 [542]: https://trenchant.io/expanding-the-dragon-adding-an-isa-to-ghidra/
 [543]: https://adamdoupe.com/blog/2023/01/23/cve-2023-23504-xnu-heap-underwrite-in-dlil-dot-c/
+[544]: https://sysdig.com/blog/cve-2023-0210-linux-kernel-unauthenticated-remote-heap-overflow/
+[545]: https://boredpentester.com/reversing-esp8266-firmware-part-1/
+[546]: https://boredpentester.com/reversing-esp8266-firmware-part-2/
+[547]: https://boredpentester.com/reversing-esp8266-firmware-part-3/
+[548]: https://boredpentester.com/reversing-esp8266-firmware-part-4/
+[549]: https://boredpentester.com/reversing-esp8266-firmware-part-5/
+[550]: https://boredpentester.com/reversing-esp8266-firmware-part-6/
