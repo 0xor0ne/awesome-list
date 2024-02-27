@@ -124,6 +124,7 @@ exploit"][392]
 * ["Escaping the Google kCTF Container with a Data-Only Exploit"][178]
 * ["Exploitation of Openfire CVE-2023-32315"][283]
 * ["Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers"][130]
+* ["Exploiting CVE-2021-3490 for Container Escapes"][552]
 * ["Exploiting null-dereferences in the Linux kernel"][148]
 * ["Exploring UNIX pipes for iOS kernel exploit primitives"][514]
 * ["EPF: Evil Packet Filter"][73]
@@ -286,6 +287,7 @@ Flow"][428]
 * ["Reptar"][527]
 * ["Restoring Dyld Memory Loading"][522]
 * ["Retreading The AMLogic A113X TrustZone Exploit Process"][77]
+* ["Reversing UK mobile rail tickets"][551]
 * ["RISC-V Bytes: Exploring a Custom ESP32 Bootloader"][493]
 * ["REUnziP: Re-Exploiting Huawei Recovery With FaultyUSB"][364]
 * ["Revisiting CVE-2017-11176"][48]
@@ -1212,3 +1214,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [548]: https://boredpentester.com/reversing-esp8266-firmware-part-4/
 [549]: https://boredpentester.com/reversing-esp8266-firmware-part-5/
 [550]: https://boredpentester.com/reversing-esp8266-firmware-part-6/
+[551]: https://eta.st/2023/01/31/rail-tickets.html
+[552]: https://www.crowdstrike.com/blog/exploiting-cve-2021-3490-for-container-escapes/
