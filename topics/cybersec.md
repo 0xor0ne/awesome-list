@@ -73,6 +73,7 @@ exploit"][392]
   * [Part 2][396]
 * ["Audio with embedded Linux training"][267]
 * ["Automating C2 Infrastructure with Terraform, Nebula, Caddy and Cobalt Strike"][300]
+* ["b3typer - bi0sCTF 2022"][554]
 * ["Back to the Future with Platform Security"][97]
 * ["Bash Privileged-Mode Vulnerabilities in Parallel Desktop and CDPATH Handling in MacOS"][100]
 * ["Bee-yond Capacity: Unauthenticated RCE in Extreme Networks/Aerohive Wireless APs - CVE-2023-35803"][91]
@@ -454,6 +455,7 @@ Flow"][428]
   * ["Unsafe Unlink"][345]
   * ["House of Spirit"][346]
   * ["House of Lore"][347]
+* ["TP-Link Tapo c200 Camera Unauthenticated RCE (CVE-2021-4045)"][553]
 * ["Trying To Exploit A Windows Kernel Arbitrary Read Vulnerability"][312]
 * ["Turning Google smart speakers into wiretaps for $100k"][18]
 * ["Vulnerabilities and Hardware Teardown of GL.iNET GL-MT300N-V2 Router"][126]
@@ -505,6 +507,7 @@ Flow"][428]
   * [Part 3][472]
 * ["New Linux Backdoor RedXOR Likely Operated by Chinese Nation-State Actor"][440]
 * ["New Old Bugs in the Linux Kernel"][305]
+* ["Pwn2Own Tokyo 2020: Defeating the TP-link AC1750"][555]
 * ["Recovering a Full PEM Private key when Half of it is Redacted"][96]
 * "Reverse Engineering Bare-Metal Firmware":
   * [Part 1][142]
@@ -1216,3 +1219,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [550]: https://boredpentester.com/reversing-esp8266-firmware-part-6/
 [551]: https://eta.st/2023/01/31/rail-tickets.html
 [552]: https://www.crowdstrike.com/blog/exploiting-cve-2021-3490-for-container-escapes/
+[553]: https://www.hacefresko.com/posts/tp-link-tapo-c200-unauthenticated-rce
+[554]: https://blog.bi0s.in/2023/01/23/Pwn/bi0sCTF22-b3typer/
+[555]: https://www.synacktiv.com/en/publications/pwn2own-tokyo-2020-defeating-the-tp-link-ac1750.html
