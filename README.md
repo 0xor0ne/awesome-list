@@ -445,7 +445,11 @@ many of the static and dynamic analysis tools.
   * [Black Hat Rust][380]: applied offensive security with Rust.
   * [Book][42]: introductory book about Rust.
   * [Book (Brown univ)][505]: Rust book experiment.
-  * [Cargo Book][129]: official cargo book.
+  * [Cargo][571]
+    * [Cargo Book][129]: official cargo book.
+    * [cargo-machete][572]: Remove unused Rust dependencies
+    * [cargo-make][574]: task runner and build tool.
+    * [nextest][573]: next-generation test runner for Rust
   * [Cheats][398]: Rust language cheat sheet.
   * [Clippy][218]: lints to catch common mistakes and improve your Rust code.
   * [Command Line Applications in Rust][563]:
@@ -460,6 +464,7 @@ many of the static and dynamic analysis tools.
   * [Embedded Rust Book][153]: introductory book about using the Rust
     Programming Language on "Bare Metal" embedded systems.
   * [esp-rs][454]: Rust on ESP.
+  * [flamegraph][577]: Easy flamegraphs for Rust projects.
   * [How to learn modern Rust][498]: guide to rust adventurer.
   * [Macros][308]: the little book of rust macros.
   * [min-sized-rust][373]: how to minimize Rust binary size.
@@ -472,6 +477,7 @@ many of the static and dynamic analysis tools.
   * [RFCs][320]: RFCs for changes to Rust.
   * [Rust by Example][503]: collection of runnable examples.
   * [Rust Embedded][542]: Rust on Embedded Devices Working Group.
+  * [rustsec][575]: RustSec API & Tooling.
   * [rust-musl-cross][540]: Docker images for compiling static Rust binaries
   using musl-cross.
   * [Rust cookbook][544]: collection of simple examples in Rust
@@ -495,6 +501,7 @@ many of the static and dynamic analysis tools.
       * [Tokio][323]: runtime for writing reliable asynchronous applications
         with Rust.
         * [Tutorial][324]: official Tokio tutorial.
+        * [console][576]: debugger for async rust.
     * [avml][384]: Acquire Volatile Memory for Linux.
     * [Aya][222]: eBPF library for the Rust programming language.
     * [cbindgen][499]: project for generating C bindings from Rust code.
@@ -554,6 +561,7 @@ libsla.
 * [Kaitai Struct][231]: declarative language to generate binary data parsers.
 * [Keystone Engine][232]: assembler framework.
 * [Linux syscalls][462]: Linux kernel syscall tables
+* [mgika][578]: detect file content types with deep learning.
 * [McSema][249]: Framework for lifting program binaries to LLVM bitcode.
 * [Metasm][250]: a free assembler / disassembler / compiler.
 * [Miasm][251]: reverse engineering framework in Python.
@@ -1085,3 +1093,11 @@ libsla.
 [568]: https://awesome-python.com
 [569]: https://docs.python-guide.org/#scenario-guide-for-python-applications
 [570]: https://pypi.org
+[571]: https://github.com/rust-lang/cargo
+[572]: https://github.com/bnjbvr/cargo-machete
+[573]: https://github.com/nextest-rs/nextest
+[574]: https://github.com/sagiegurari/cargo-make
+[575]: https://github.com/rustsec/rustsec/tree/main
+[576]: https://github.com/tokio-rs/console
+[577]: https://github.com/flamegraph-rs/flamegraph
+[578]: https://github.com/google/magika
