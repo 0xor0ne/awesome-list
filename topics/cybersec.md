@@ -367,6 +367,7 @@ Flow"][428]
 * ["Bypassing vtable Check in glibc File Structures"][208]
 * ["Blind Exploits to Rule Watchguard Firewalls"][173]
 * ["BPFDoor - An Evasive Linux Backdoor Technical Analysis"][292]
+* ["Competing in Pwn2Own 2021 Austin: Icarus at the Zenith"][556]
 * ["CVE-2022-0435: A Remote Stack Overflow in The Linux Kernel"][377]
 * ["[CVE-2022-1786] A Journey To The Dawn"][401]
 * ["CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF"][168]
@@ -476,6 +477,7 @@ Flow"][428]
   * ["Imports (Import Direcory Table, ILT, IAT)"][336]
   * ["PE Base Relocations"][337]
   * ["Writing a PE Parser"][338]
+* ["Automatic unpacking with Qiling framework"][558]
 * ["Breaking 64 bit aslr on Linux x86-64"][234]
 * ["Bypassing GLIBC 2.32’s Safe-Linking Without Leaks into Code Execution: The House of Rust"][375]
 * ["Complete Guide to Stack Buffer Overflow (OSCP Preparation)"][317]
@@ -594,6 +596,7 @@ Flow"][428]
 
 ## 2017
 
+* ["Hardware hacking tutorial: Dumping and reversing firmware"][557]
 * ["HiSilicon DVR hack"][236]
 * ["How I Reverse Engineered and Exploited a Smart Massager"][301]
 * ["Linux ptrace introduction AKA injecting into sshd for fun"][229]
@@ -1222,3 +1225,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [553]: https://www.hacefresko.com/posts/tp-link-tapo-c200-unauthenticated-rce
 [554]: https://blog.bi0s.in/2023/01/23/Pwn/bi0sCTF22-b3typer/
 [555]: https://www.synacktiv.com/en/publications/pwn2own-tokyo-2020-defeating-the-tp-link-ac1750.html
+[556]: https://doar-e.github.io/blog/2022/03/26/competing-in-pwn2own-2021-austin-icarus-at-the-zenith/
+[557]: https://ivanorsolic.github.io/post/hardwarehacking1/
+[558]: https://kernemporium.github.io/posts/unpacking/
