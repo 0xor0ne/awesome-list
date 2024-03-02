@@ -307,6 +307,7 @@ Flow"][428]
 * ["SRE deep dive into Linux Page Cache"][94]
 * ["Sshimpanzee"][16]
 * ["Stepping Insyde System Management Mode"][256]
+* ["Sudoedit bypass in Sudo <= 1.9.12p1 CVE-2023-22809"][562]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][31]
 * ["The ARM32 Scheduling and Kernelspace/Userspace Boundary"][512]
 * ["The art of Fuzzing: Introduction"][57]
@@ -481,6 +482,7 @@ Flow"][428]
 * ["Breaking 64 bit aslr on Linux x86-64"][234]
 * ["Bypassing GLIBC 2.32’s Safe-Linking Without Leaks into Code Execution: The House of Rust"][375]
 * ["Complete Guide to Stack Buffer Overflow (OSCP Preparation)"][317]
+* ["CVE-2020-3992 & CVE-2021-21974: Rre-auth Remote Code Execution in VMWare esxi"][561]
 * ["CVE-2021–20226 a reference counting bug which leads to local privilege escalation in io_uring."][179]
 * "Digging into Linux namespaces":
   * [Part 1][157]
@@ -507,6 +509,7 @@ Flow"][428]
   * [Part 1][470]
   * [Part 2][471]
   * [Part 3][472]
+* ["My RCE PoC walkthrough for (CVE-2021–21974) VMware ESXi OpenSLP heap-overflow vulnerability"][560]
 * ["New Linux Backdoor RedXOR Likely Operated by Chinese Nation-State Actor"][440]
 * ["New Old Bugs in the Linux Kernel"][305]
 * ["Pwn2Own Tokyo 2020: Defeating the TP-link AC1750"][555]
@@ -627,6 +630,7 @@ Flow"][428]
 * ["A Noobs Guide to ARM Exploitation"][241]
 * ["Advanced binary fuzzing using AFL++-QEMU and libprotobuf: a practical case of grammar-aware in-memory persistent fuzzing"][71]
 * ["Advanced Compilers: The Self-Guided Online Course"][298]
+* ["Analysis of a LoadLibraryA Stack String Obfuscation Technique with Radare2 & x86dbg"][559]
 * ["ARM TrustZone: pivoting to the secure world"][304]
 * [Awesome Industrial Protocols][510]
 * ["Brute Ratel - Scandinavian Defence"][436]
@@ -1228,3 +1232,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [556]: https://doar-e.github.io/blog/2022/03/26/competing-in-pwn2own-2021-austin-icarus-at-the-zenith/
 [557]: https://ivanorsolic.github.io/post/hardwarehacking1/
 [558]: https://kernemporium.github.io/posts/unpacking/
+[559]: https://www.archcloudlabs.com/projects/loadlibrary-analysis/
+[560]: https://straightblast.medium.com/my-poc-walkthrough-for-cve-2021-21974-a266bcad14b9
+[561]: https://www.zerodayinitiative.com/blog/2021/3/1/cve-2020-3992-amp-cve-2021-21974-pre-auth-remote-code-execution-in-vmware-esxi
+[562]: https://www.synacktiv.com/sites/default/files/2023-01/sudo-CVE-2023-22809.pdf
