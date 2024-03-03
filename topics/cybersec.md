@@ -95,6 +95,7 @@ exploit"][392]
 * ["Competing in Pwn2Own ICS 2022 Miami: Exploiting a zero click remote memory corruption in ICONICS Genesis64"][397]
 * ["Conquering the memory through io_uring - Analysis of CVE-2023-2598"][528]
 * ["Cueing up a calculator: an introduction to exploit development on Linux"][534]
+* ["CVE-2023-0179: Linux kernel stack buffer overflow in nftables: PoC and writeup"][567]
 * ["CVE-2023-2008 - Analyzing and exploiting a bug in the udmabuf driver"][72]
 * ["CVE-2023-23504: XNU Heap Underwrite in dlil.c"][543]
 * ["CVE-2023-26258 – Remote Code Execution in ArcServe UDP Backup"][99]
@@ -350,6 +351,10 @@ Flow"][428]
   * ["Chip identification, BUSSide, and I2C"][294]
   * ["Discover components and ports"][295]
   * ["Firmware dump and analysis"][296]
+* "A Technical Analysis of Pegasus for Android":
+  [part 1][564]
+  [Part 2][565]
+  [Part 3][566]
 * "ARM 64 Assembly Series":
   * ["Basic definitions and registers"][408]
   * ["Offset and Addressing modes"][409]
@@ -464,6 +469,7 @@ Flow"][428]
 * "Vulnerabilities in BMC Firmware Affect OT/IoT Device Security":
   * [Part 1][496]
   * [Part 2][497]
+* ["Vulnerability Details for CVE-2022-41218"][563]
 * ["Vulnerabilities in Tenda's W15Ev2 AC1200 Router"][127]
 * ["Write a Linux firewall from scratch based on Netfilter"][313]
 * ["Yet another bug into Netfilter"][457]
@@ -1236,3 +1242,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [560]: https://straightblast.medium.com/my-poc-walkthrough-for-cve-2021-21974-a266bcad14b9
 [561]: https://www.zerodayinitiative.com/blog/2021/3/1/cve-2020-3992-amp-cve-2021-21974-pre-auth-remote-code-execution-in-vmware-esxi
 [562]: https://www.synacktiv.com/sites/default/files/2023-01/sudo-CVE-2023-22809.pdf
+[563]: https://github.com/V4bel/CVE-2022-41218
+[564]: https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-1/
+[565]: https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-2/
+[566]: https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-3/
+[567]: https://seclists.org/oss-sec/2023/q1/20
