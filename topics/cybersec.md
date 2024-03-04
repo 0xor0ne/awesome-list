@@ -125,6 +125,7 @@ exploit"][392]
 * ["ENLBufferPwn (CVE-2022-47949)"][422]
 * ["Escaping the Google kCTF Container with a Data-Only Exploit"][178]
 * ["Exploitation of Openfire CVE-2023-32315"][283]
+* ["Exploiting a Critical Spoofing Vulnerability in Windows CryptoAPI"][572]
 * ["Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers"][130]
 * ["Exploiting CVE-2021-3490 for Container Escapes"][552]
 * ["Exploiting null-dereferences in the Linux kernel"][148]
@@ -494,6 +495,10 @@ Flow"][428]
   * [Part 1][157]
   * [Part 2][158]
 * ["Fire of Salvation Writeup: Utilizing msg_msg Objects for Arbitrary Read and Arbitrary Write in the Linux Kernel"][252]
+* "Fuzzing101 with LibAFL":
+  * ["Fuzzing Xpdf"][468]
+  * ["Speed Improvements to Part I"][469]
+  * ["Fuzzing libexif"][470]
 * "Ghidra 101":
   * ["Cursor Text Highlighting"][416]
   * ["Slice Highlighting"][417]
@@ -637,6 +642,7 @@ Flow"][428]
 * ["Advanced binary fuzzing using AFL++-QEMU and libprotobuf: a practical case of grammar-aware in-memory persistent fuzzing"][71]
 * ["Advanced Compilers: The Self-Guided Online Course"][298]
 * ["Analysis of a LoadLibraryA Stack String Obfuscation Technique with Radare2 & x86dbg"][559]
+* ["Android Kernel Exploitation"][571]
 * ["ARM TrustZone: pivoting to the secure world"][304]
 * [Awesome Industrial Protocols][510]
 * ["Brute Ratel - Scandinavian Defence"][436]
@@ -1247,3 +1253,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [565]: https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-2/
 [566]: https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-3/
 [567]: https://seclists.org/oss-sec/2023/q1/20
+[568]: https://epi052.gitlab.io/notes-to-self/blog/2021-11-01-fuzzing-101-with-libafl/
+[569]: https://epi052.gitlab.io/notes-to-self/blog/2021-11-07-fuzzing-101-with-libafl-part-1.5/
+[570]: https://epi052.gitlab.io/notes-to-self/blog/2021-11-07-fuzzing-101-with-libafl-part-2/
+[571]: https://cloudfuzz.github.io/android-kernel-exploitation/
+[572]: https://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi
