@@ -299,6 +299,11 @@ Flow"][428]
   * ["Writing an LPE Exploit For Our Overflow Bug"][500]
 * ["Rust Binary Analysis, Feature by Feature"][231]
 * ["Rust to Assembly: Understanding the Inner Workings of Rust"][134]
+* "Rustproofing Linux":
+  * [Part 1][575]
+  * [Part 2][576]
+  * [Part 3][577]
+  * [Part 4][578]
 * ["SHA-1 gets SHAttered"][325]
 * ["Shambles: The Next-Generation IoT Reverse Engineering Tool to Discover 0-Day Vulnerabilities"][55]
 * ["Shell in the Ghost: Ghostscript CVE-2023-28879 writeup"][76]
@@ -423,6 +428,7 @@ Flow"][428]
   * ["orbi hunting 0x1: crashes in soap-api"][34]
   * ["nday exploit: netgear orbi unauthenticated command injection (cve-2020-27861)"][35]
 * ["nday exploit: libinput format string bug, canary leak exploit (cve-2022-1215)"][63]
+* ["NFC Relay Attack on Tesla Model Y"][574]
 * ["Overview of GLIBC heap exploitation techniques"][239]
 * ["Patching, Instrumenting & Debugging Linux Kernel Modules"][483]
 * ["pipe_buffer arbitrary read write"][282]
@@ -666,6 +672,7 @@ Flow"][428]
 * ["Kernel Address Space Layout Derandomization"][529]
 * ["Laser-Based Audio Injection on Voice-Controllable Systems"][328]
 * [Linux Kernel CVEs][385]
+* ["Linux kernel exploit development"][573]
 * ["Linux Kernel map"][225]
 * ["Linux Insides"][246]
 * ["Linux Syscalls Reference"][17]
@@ -1258,3 +1265,9 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [570]: https://epi052.gitlab.io/notes-to-self/blog/2021-11-07-fuzzing-101-with-libafl-part-2/
 [571]: https://cloudfuzz.github.io/android-kernel-exploitation/
 [572]: https://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi
+[573]: https://breaking-bits.gitbook.io/breaking-bits/exploit-development/linux-kernel-exploit-development?s=09
+[574]: https://act-on.ioactive.com/acton/attachment/34793/f-6460b49e-1afe-41c3-8f73-17dc14916847/1/-/-/-/-/NFC-relay-TESlA_JRoriguez.pdf
+[575]: https://research.nccgroup.com/2023/02/06/rustproofing-linux-part-1-4-leaking-addresses/
+[576]: https://research.nccgroup.com/2023/02/08/rustproofing-linux-part-2-4-race-conditions/
+[577]: https://research.nccgroup.com/2023/02/14/rustproofing-linux-part-3-4-integer-overflows/
+[578]: https://research.nccgroup.com/2023/02/16/rustproofing-linux-part-4-4-shared-memory/
