@@ -50,6 +50,7 @@
 * ["All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more"][513]
 * ["An analysis of an in-the-wild iOS Safari WebContent to GPU Process
 exploit"][392]
+* ["An Introduction into Stack Spoofing"][580]
 * ["Analysis on legit tools abused in human operated ransomware"][4]
 * "Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway":
   * [Part 1][196]
@@ -453,6 +454,7 @@ Flow"][428]
 * ["Shikitega - New stealthy malware targeting Linux"][438]
 * ["side channels: power analysis"][380]
 * ["side channels: using the chipwhisperer"][381]
+* ["SIM Hijacking"][579]
 * ["Spoofing Call Stacks To Confuse EDRs"][431]
 * ["Stealing the Bitlocker key from a TPM"][505]
 * ["Symbiote Deep-Dive: Analysis of a New, Nearly-Impossible-to-Detect Linux Threat"][461]
@@ -1271,3 +1273,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [576]: https://research.nccgroup.com/2023/02/08/rustproofing-linux-part-2-4-race-conditions/
 [577]: https://research.nccgroup.com/2023/02/14/rustproofing-linux-part-3-4-integer-overflows/
 [578]: https://research.nccgroup.com/2023/02/16/rustproofing-linux-part-4-4-shared-memory/
+[579]: https://sensepost.com/blog/2022/sim-hijacking/
+[580]: https://dtsec.us/2023-09-15-StackSpoofin/
