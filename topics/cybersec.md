@@ -21,6 +21,9 @@
 
 ## 2024
 
+* "Exploiting Reversing (ER) series":
+  * [Article 01][583]
+  * [Article 02][584]
 * "Writing a Debugger From Scratch"
   * ["Attaching to a Process"][449]
   * ["Register State and Stepping"][450]
@@ -430,6 +433,7 @@ Flow"][428]
   * ["nday exploit: netgear orbi unauthenticated command injection (cve-2020-27861)"][35]
 * ["nday exploit: libinput format string bug, canary leak exploit (cve-2022-1215)"][63]
 * ["NFC Relay Attack on Tesla Model Y"][574]
+* ["Nightmare: One Byte to ROP // Deep Dive Edition"][582]
 * ["Overview of GLIBC heap exploitation techniques"][239]
 * ["Patching, Instrumenting & Debugging Linux Kernel Modules"][483]
 * ["pipe_buffer arbitrary read write"][282]
@@ -597,6 +601,7 @@ Flow"][428]
 
 ## 2018
 
+* ["A Deep dive into (implicit) Thread Local Storage"][581]
 * ["A Guide to ARM64 / AArch64 Assembly on Linux with Shellcodes and Cryptography"][464]
 * "CVE-2017-11176: A step-by-step Linux Kernel exploitation":
   * [Part 1][19]
@@ -1275,3 +1280,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [578]: https://research.nccgroup.com/2023/02/16/rustproofing-linux-part-4-4-shared-memory/
 [579]: https://sensepost.com/blog/2022/sim-hijacking/
 [580]: https://dtsec.us/2023-09-15-StackSpoofin/
+[581]: https://chao-tic.github.io/blog/2018/12/25/tls
+[582]: https://hackmd.io/@pepsipu/ry-SK44pt?s=09
+[583]: https://exploitreversing.files.wordpress.com/2023/04/exploit_reversing_01-1.pdf
+[584]: https://exploitreversing.files.wordpress.com/2024/01/exploit_reversing_02.pdf
