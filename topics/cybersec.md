@@ -48,6 +48,7 @@
 * ["A Red-Teamer diaries"][156]
 * ["A story about tampering EDRs"][293]
 * ["Abusing undocumented features to spoof PE section headers"][139]
+* ["Achieving Remote Code Execution in Steam: a journey into the Remote Play protocol"][587]
 * ["All about LeakSanitizer"][460]
 * ["All cops are broadcasting: TETRA under scrutiny"][237]
 * ["All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more"][513]
@@ -444,6 +445,7 @@ Flow"][428]
 * ["Port knocking from the scratch"][227]
 * ["Pulling MikroTik into the Limelight"][120]
 * ["Racing against the clock -- hitting a tiny kernel race window"][492]
+* ["Reversing C++, Qt based applications using Ghidra"][586]
 * ["Racing Cats to the Exit: A Boring Linux Kernel Use-After-Free"][406]
 * ["Researching Xiaomi’s Tee to Get to Chinese Money"][274]
 * "Reversing embedded device bootloader (U-Boot)":
@@ -656,6 +658,7 @@ Flow"][428]
 * ["Advanced Compilers: The Self-Guided Online Course"][298]
 * ["Analysis of a LoadLibraryA Stack String Obfuscation Technique with Radare2 & x86dbg"][559]
 * ["Android Kernel Exploitation"][571]
+* [Anti-Debug Tricks][585]
 * ["ARM TrustZone: pivoting to the secure world"][304]
 * [Awesome Industrial Protocols][510]
 * ["Brute Ratel - Scandinavian Defence"][436]
@@ -1284,3 +1287,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [582]: https://hackmd.io/@pepsipu/ry-SK44pt?s=09
 [583]: https://exploitreversing.files.wordpress.com/2023/04/exploit_reversing_01-1.pdf
 [584]: https://exploitreversing.files.wordpress.com/2024/01/exploit_reversing_02.pdf
+[585]: https://anti-debug.checkpoint.com
+[586]: https://ktln2.org/reversing-c%2B%2B-qt-applications-using-ghidra/
+[587]: https://blog.thalium.re/posts/achieving-remote-code-execution-in-steam-remote-play/
