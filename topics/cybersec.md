@@ -3,27 +3,27 @@
 - Go back to [Home page (awesome list)](../)
 - See also [Exploitation specific content](./exploitation.md)
 
-## Summary
+## Outline
 
-- [Cybersecurity Content](#cybersecurity-content)
-  - [Summary](#summary)
-  - [2024](#2024)
-  - [2023](#2023)
-  - [2022](#2022)
-  - [2021](#2021)
-  - [2020](#2020)
-  - [2019](#2019)
-  - [2018](#2018)
-  - [2017](#2017)
-  - [2016](#2016)
-  - [2014](#2014)
-  - [Other](#other)
+- [2024](#2024)
+- [2023](#2023)
+- [2022](#2022)
+- [2021](#2021)
+- [2020](#2020)
+- [2019](#2019)
+- [2018](#2018)
+- [2017](#2017)
+- [2016](#2016)
+- [2014](#2014)
+- [Other](#other)
 
 ## 2024
 
+* ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
 * "Exploiting Reversing (ER) series":
   * [Article 01][583]
   * [Article 02][584]
+* ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
 * "Writing a Debugger From Scratch"
   * ["Attaching to a Process"][449]
   * ["Register State and Stepping"][450]
@@ -32,7 +32,6 @@
   * ["Breakpoints"][453]
   * ["Stacks"][454]
   * ["Disassembly"][455]
-
 
 ## 2023
 
@@ -348,6 +347,7 @@ Flow"][428]
 * ["Uncovering HinataBot: A Deep Dive into a Go-Based Threat"][311]
 * ["Under The Hood - Disassembling of IKEA-Sonos Symfonisk Speaker Lamp"][180]
 * ["Understanding a Payload’s Life Featuring Meterpreter & Other Guests "][315]
+* ["Understanding Dirty Pagetable - m0leCon Finals 2023 CTF Writeup"][591]
 * ["Understanding the Heap - a beautiful mess"][348]
 * ["Unleashing ksmbd: remote exploitation of the Linux kernel (ZDI-23-979, ZDI-23-980)"][533]
 * ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
@@ -463,6 +463,7 @@ Flow"][428]
 * ["SIM Hijacking"][579]
 * ["Spoofing Call Stacks To Confuse EDRs"][431]
 * ["Stealing the Bitlocker key from a TPM"][505]
+* ["Stranger Strings: An exploitable flaw in SQLite"][588]
 * ["Symbiote Deep-Dive: Analysis of a New, Nearly-Impossible-to-Detect Linux Threat"][461]
 * ["Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later"][226]
 * ["The Dirty Pipe Vulnerability"][321]
@@ -1290,3 +1291,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [585]: https://anti-debug.checkpoint.com
 [586]: https://ktln2.org/reversing-c%2B%2B-qt-applications-using-ghidra/
 [587]: https://blog.thalium.re/posts/achieving-remote-code-execution-in-steam-remote-play/
+[588]: https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/
+[589]: https://courk.cc/breaking-flash-encryption-of-espressif-parts
+[590]: https://courk.cc/esp32-c3-c6-fault-injection
+[591]: https://ptr-yudai.hatenablog.com/entry/2023/12/08/093606
