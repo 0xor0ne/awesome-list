@@ -436,6 +436,7 @@ many of the static and dynamic analysis tools.
   * [packaging][564]
     * [poetry][549]: packaging and dependency management.
   * [pypi][570]: repository of software for the Python programming language.
+  * [PySnooper][579]: poor man's debugger for Python.
   * [realpython][565]: python guides and tutorials.
 * [Rust][41]: secure system programming language.
   * [aquascope][466]: Interactive visualizations of Rust at compile-time and run-time
@@ -1101,3 +1102,4 @@ libsla.
 [576]: https://github.com/tokio-rs/console
 [577]: https://github.com/flamegraph-rs/flamegraph
 [578]: https://github.com/google/magika
+[579]: https://github.com/cool-RR/PySnooper
