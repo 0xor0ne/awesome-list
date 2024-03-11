@@ -15,6 +15,7 @@
 - [2017](#2017)
 - [2016](#2016)
 - [2014](#2014)
+- [2011](#2011)
 - [Other](#other)
 
 ## 2024
@@ -143,6 +144,7 @@ exploit"][392]
 * ["Executing Arbitrary Code & Executables in Read-Only FileSystems"][52]
 * ["Exploit Engineering – Attacking the Linux Kernel"][146]
 * ["Exploiting a Remote Heap Overflow with a Custom TCP Stack"][322]
+* ["Exploring Hell's Gate"][594]
 * ["Exploiting HTTP Parsers Inconsistencies"][391]
 * ["Exploiting MikroTik RouterOS Hardware with CVE-2023-30799"][198]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
@@ -651,6 +653,11 @@ Flow"][428]
 ## 2014
 
 * ["ret2dir: Rethinking Kernel Isolation"][384]
+
+## 2011
+
+* ["Load-time relocation of shared libraries"][592]
+* ["Position Independent Code (PIC) in shared libraries"][593]
 
 ## Other
 
@@ -1295,3 +1302,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [589]: https://courk.cc/breaking-flash-encryption-of-espressif-parts
 [590]: https://courk.cc/esp32-c3-c6-fault-injection
 [591]: https://ptr-yudai.hatenablog.com/entry/2023/12/08/093606
+[592]: https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/
+[593]: https://eli.thegreenplace.net/2011/11/03/position-independent-code-pic-in-shared-libraries/
+[594]: https://redops.at/en/blog/exploring-hells-gate
