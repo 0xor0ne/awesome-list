@@ -25,6 +25,7 @@
   * [Article 01][583]
   * [Article 02][584]
 * ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
+* ["Strengthening the Shield: MTE in Heap Allocators"][596]
 * "Writing a Debugger From Scratch"
   * ["Attaching to a Process"][449]
   * ["Register State and Stepping"][450]
@@ -145,6 +146,7 @@ exploit"][392]
 * ["Exploit Engineering – Attacking the Linux Kernel"][146]
 * ["Exploiting a Remote Heap Overflow with a Custom TCP Stack"][322]
 * ["Exploring Hell's Gate"][594]
+* ["Exploiting a bug in the Linux kernel with Zig"][597]
 * ["Exploiting HTTP Parsers Inconsistencies"][391]
 * ["Exploiting MikroTik RouterOS Hardware with CVE-2023-30799"][198]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
@@ -551,6 +553,7 @@ Flow"][428]
   * [Part 1][423]
   * [Part 2][424]
   * [Part 3][425]
+* ["The Art of Exploiting UAF by Ret2bpf in Android Kernel"][595]
 * ["The Oddest Place You Will Ever Find PAC"][306]
 * ["Wall Of Perdition: Utilizing msg_msg Objects For Arbitrary Read And Arbitrary Write In The Linux Kernel"][251]
 
@@ -1305,3 +1308,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [592]: https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/
 [593]: https://eli.thegreenplace.net/2011/11/03/position-independent-code-pic-in-shared-libraries/
 [594]: https://redops.at/en/blog/exploring-hells-gate
+[595]: https://i.blackhat.com/EU-21/Wednesday/EU-21-Jin-The-Art-of-Exploiting-UAF-by-Ret2bpf-in-Android-Kernel-wp.pdf
+[596]: https://www.darknavy.org/blog/strengthening_the_shield_mte_in_memory_allocators/
+[597]: https://richiejp.com/linux-kernel-exploit-tls_context-uaf
