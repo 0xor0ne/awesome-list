@@ -93,6 +93,10 @@ exploit"][392]
 * ["Bypassing a noexec by elf roping"][528]
 * ["Bypassing PPL in Userland (again)"][308]
 * ["Bypassing SELinux with init_module"][494]
+* "C101101: D-Link DIR-865L":
+  * ["Remote Code Execution (pre-auth)"][599]
+  * ["Unsigned firmware upload lead to persistent backdoor (pre-auth)"][600]
+  * ["Memory corruptions lead to Remote Code Execution (pre-auth)"][601]
 * ["CAN Injection: keyless car theft"][195]
 * "chonked"
   * ["minidlna 1.3.2 http chunk parsing heap overflow (cve-2023-33476) root cause analysis"][193]
@@ -273,8 +277,7 @@ exploit"][392]
   * [Part 5][215]
 * ["OpenSSH Pre-Auth Double Free CVE-2023-25136 – Writeup and Proof-of-Concept"][42]
 * ["OrBit: advanced analysis of a Linux dedicated malware"][427]
-* ["OrBit: New Undetected Linux Threat Uses Unique Hijack of Execution
-Flow"][428]
+* ["OrBit: New Undetected Linux Threat Uses Unique Hijack of Execution Flow"][428]
 * ["P2PInfect: The Rusty Peer-to-Peer Self-Replicating Worm"][206]
 * ["P4wnP1-LTE"][209]
 * ["Patches, Collisions, and Root Shells: A Pwn2Own Adventure"][278]
@@ -341,7 +344,6 @@ Flow"][428]
 * ["Tickling ksmbd: fuzzing SMB in the Linux kernel"][386]
 * ["Tool Release: Cartographer"][371]
 * ["Total Identity Compromise: Microsoft Incident Response lessons on securing Active Directory"][445]
-
 * ["Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was"][80]
 * ["Your not so "Home Office" - SOHO Hacking at Pwn2Own"][5]
 * ["Ubuntu Shiftfs: Unbalanced Unlock Exploitation Attempt"][524]
@@ -354,6 +356,7 @@ Flow"][428]
 * ["Understanding Dirty Pagetable - m0leCon Finals 2023 CTF Writeup"][591]
 * ["Understanding the Heap - a beautiful mess"][348]
 * ["Unleashing ksmbd: remote exploitation of the Linux kernel (ZDI-23-979, ZDI-23-980)"][533]
+* ["Unlimited Results: Breaking Firmware Encryption of ESP32-V3"][598]
 * ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
 * ["Windows Installer EOP (CVE-2023-21800)"][314]
 * ["Writing your own RDI /sRDI loader using C and ASM"][307]
@@ -1311,3 +1314,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [595]: https://i.blackhat.com/EU-21/Wednesday/EU-21-Jin-The-Art-of-Exploiting-UAF-by-Ret2bpf-in-Android-Kernel-wp.pdf
 [596]: https://www.darknavy.org/blog/strengthening_the_shield_mte_in_memory_allocators/
 [597]: https://richiejp.com/linux-kernel-exploit-tls_context-uaf
+[598]: https://eprint.iacr.org/2023/090.pdf
+[599]: https://therealcoiffeur.com/c101011.html
+[600]: https://therealcoiffeur.com/c101100.html
+[601]: https://therealcoiffeur.com/c101101.html
