@@ -542,6 +542,7 @@ exploit"][392]
   * [Part 1][470]
   * [Part 2][471]
   * [Part 3][472]
+* ["mooosl"][602]
 * ["My RCE PoC walkthrough for (CVE-2021–21974) VMware ESXi OpenSLP heap-overflow vulnerability"][560]
 * ["New Linux Backdoor RedXOR Likely Operated by Chinese Nation-State Actor"][440]
 * ["New Old Bugs in the Linux Kernel"][305]
@@ -1318,3 +1319,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [599]: https://therealcoiffeur.com/c101011.html
 [600]: https://therealcoiffeur.com/c101100.html
 [601]: https://therealcoiffeur.com/c101101.html
+[602]: https://blog.kylebot.net/2021/05/08/DEFCON-2021-Quals-mooosl/
