@@ -105,6 +105,10 @@ exploit"][392]
 * ["Competing in Pwn2Own ICS 2022 Miami: Exploiting a zero click remote memory corruption in ICONICS Genesis64"][397]
 * ["Conquering the memory through io_uring - Analysis of CVE-2023-2598"][528]
 * ["Cueing up a calculator: an introduction to exploit development on Linux"][534]
+* "Customizing Sliver":
+  * [Part 1][603]
+  * [Part 2][604]
+  * [Part 3][605]
 * ["CVE-2023-0179: Linux kernel stack buffer overflow in nftables: PoC and writeup"][567]
 * ["CVE-2023-2008 - Analyzing and exploiting a bug in the udmabuf driver"][72]
 * ["CVE-2023-23504: XNU Heap Underwrite in dlil.c"][543]
@@ -459,6 +463,7 @@ exploit"][392]
   * [Part 1][162]
   * [Part 2][163]
 * ["Reverse Engineering a Cobalt Strike Dropper With Binary Ninja"][368]
+* ["Reverse engineering an EV charger"][606]
 * ["Reverse engineering integrity checks in Black Ops 3"][220]
 * ["Reverse engineering thermal printers"][245]
 * ["Reviving Exploits Against Cred Structs - Six Byte Cross Cache Overflow to Leakless Data-Oriented Kernel Pwnage"][491]
@@ -1320,3 +1325,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [600]: https://therealcoiffeur.com/c101100.html
 [601]: https://therealcoiffeur.com/c101101.html
 [602]: https://blog.kylebot.net/2021/05/08/DEFCON-2021-Quals-mooosl/
+[603]: https://security.humanativaspa.it/customizing-sliver-part-1/
+[604]: https://security.humanativaspa.it/customizing-sliver-part-2/
+[605]: https://security.humanativaspa.it/customizing-sliver-part-3/
+[606]: https://www.mnemonic.io/no/resources/blog/reverse-engineering-an-ev-charger/
