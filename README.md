@@ -302,6 +302,7 @@ many of the static and dynamic analysis tools.
 * [Healer][190]: kernel fuzzer inspired by Syzkaller.
 * [Honggfuzz][39]: evolutionary, feedback-driven fuzzing based on code coverage.
 * [iCicle][515]: grey-box firmware fuzzing
+* [joern][580]: Open-source code analysis platform.
 * [krf][92]: kernelspace syscall interceptor and randomized faulter.
 * [lain][381]: fuzzer framework built in Rust.
 * [LibAFL][95]: fuzzing library.
@@ -1103,3 +1104,4 @@ libsla.
 [577]: https://github.com/flamegraph-rs/flamegraph
 [578]: https://github.com/google/magika
 [579]: https://github.com/cool-RR/PySnooper
+[580]: https://github.com/joernio/joern
