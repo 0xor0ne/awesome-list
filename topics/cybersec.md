@@ -77,6 +77,7 @@ exploit"][392]
 * "Attacking an EDR"
   * [Part 1][395]
   * [Part 2][396]
+* ["Attacking IoT Devices from Web Perspective"][608]
 * ["Audio with embedded Linux training"][267]
 * ["Automating C2 Infrastructure with Terraform, Nebula, Caddy and Cobalt Strike"][300]
 * ["b3typer - bi0sCTF 2022"][554]
@@ -159,6 +160,7 @@ exploit"][392]
 * ["Exploiting MikroTik RouterOS Hardware with CVE-2023-30799"][198]
 * ["Exploring Android Heap Allocations in Jemalloc 'New'"][7]
 * ["Exploring Linux's New Random Kmalloc Caches"][511]
+* ["Exploring the section layout in linker output"][609]
 * "Fantastic Rootkits: And Where To Find Them":
   * [Part 1][275]
   * [Part 2][276]
@@ -610,6 +612,7 @@ exploit"][392]
 * ["Pwn the ESP32 Secure Boot"][289]
 * ["Reverse Engineering Architecture And Pinout of Custom Asics"][398]
 * ["Reverse-engineering Broadcom wireless chipsets"][200]
+* ["Reverse Engineering of a Not-so-Secure IoT Device"][607]
 * "Virtualization Internals":
   * [Part 1][216]
   * [Part 2][217]
@@ -1329,3 +1332,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [604]: https://security.humanativaspa.it/customizing-sliver-part-2/
 [605]: https://security.humanativaspa.it/customizing-sliver-part-3/
 [606]: https://www.mnemonic.io/no/resources/blog/reverse-engineering-an-ev-charger/
+[607]: https://mcuoneclipse.com/2019/05/26/reverse-engineering-of-a-not-so-secure-iot-device/
+[608]: https://lug.uniroma2.it/eventi/linux-day-23/files/Linux%20Day%20-%20Attacking%20IoT%20Devices.pdf
+[609]: https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output
