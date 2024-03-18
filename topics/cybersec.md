@@ -25,6 +25,7 @@
   * [Article 01][583]
   * [Article 02][584]
 * ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
+* ["Playing with libmalloc in 2024"][610]
 * ["Strengthening the Shield: MTE in Heap Allocators"][596]
 * "Writing a Debugger From Scratch"
   * ["Attaching to a Process"][449]
@@ -39,6 +40,7 @@
 
 * ["A Deep Dive Into Brute Ratel C4 Payloads"][374]
 * ["A Deep Dive into Penetration Testing of macOS Applications (Part 1)"][49]
+* ["A Deep Dive into TPM-based BitLocker Drive Encryption"][611]
 * ["A Detailed Look at Pwn2own Automotive EV Charger Hardware"][537]
 * ["A look at CVE-2023-29360, a beautiful logical LPE vuln"][260]
 * ["A Journey Into Hacking Google Search Appliance"][203]
@@ -1335,3 +1337,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [607]: https://mcuoneclipse.com/2019/05/26/reverse-engineering-of-a-not-so-secure-iot-device/
 [608]: https://lug.uniroma2.it/eventi/linux-day-23/files/Linux%20Day%20-%20Attacking%20IoT%20Devices.pdf
 [609]: https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output
+[610]: https://blackwinghq.com/blog/posts/playing-with-libmalloc/
+[611]: https://itm4n.github.io/tpm-based-bitlocker/
