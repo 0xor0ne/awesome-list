@@ -25,6 +25,7 @@
   * [Article 01][583]
   * [Article 02][584]
 * ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
+* ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
 * ["Playing with libmalloc in 2024"][610]
 * ["Strengthening the Shield: MTE in Heap Allocators"][596]
 * "Writing a Debugger From Scratch"
@@ -301,6 +302,7 @@ exploit"][392]
   * [Part 3][479]
 * ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
 * ["PwnAgent: A One-Click WAN-side RCE in Netgear RAX Routers with CVE-2023-24749"][318]
+* ["Pwnassistant - Controlling /home's via a Home Assistant RCE"][613]
 * ["Pwning Pixel 6 with a leftover patch"][310]
 * ["Pwning the tp-link ax1800 wifi 6 Router: Uncovered and Exploited a Memory Corruption Vulnerability"][309]
 * ["Racing Against the Lock: Exploiting Spinlock UAF in the Android Kernel"][185]
@@ -323,6 +325,8 @@ exploit"][392]
   * [Part 2][576]
   * [Part 3][577]
   * [Part 4][578]
+* ["Securing our home labs: Frigate code review"][615]
+* ["Securing our home labs: Home Assistant code review"][614]
 * ["SHA-1 gets SHAttered"][325]
 * ["Shambles: The Next-Generation IoT Reverse Engineering Tool to Discover 0-Day Vulnerabilities"][55]
 * ["Shell in the Ghost: Ghostscript CVE-2023-28879 writeup"][76]
@@ -1339,3 +1343,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [609]: https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output
 [610]: https://blackwinghq.com/blog/posts/playing-with-libmalloc/
 [611]: https://itm4n.github.io/tpm-based-bitlocker/
+[612]: https://www.synacktiv.com/en/publications/leveraging-binary-ninja-il-to-reverse-a-custom-isa-cracking-the-pot-of-gold-37c3
+[613]: https://www.elttam.com/blog/pwnassistant/
+[614]: https://github.blog/2023-11-30-securing-our-home-labs-home-assistant-code-review/
+[615]: https://github.blog/2023-12-13-securing-our-home-labs-frigate-code-review/
