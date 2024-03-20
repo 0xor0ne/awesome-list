@@ -40,9 +40,13 @@
 * Tools
   * [aircrack-ng][16]: complete suite of tools to assess WiFi network security.
     * [GitHub][17]: WiFi security auditing tools suite
+  * [airgeddon][131]: multi-use bash script for Linux systems to audit wireless
+    networks.
   * [airgorah][119]: WiFi auditing software that can perform deauth attacks and
   passwords cracking.
   * [airpwn-ng][46]: Packet injection for wifi.
+  * [AngryOxide][133]: 802.11 Attack Tool (rust).
+  * [apfree-wifidog][145]: high-performance, lightweight captive portal solution.
   * [bettercap][18]: Swiss Army knife for WiFi, Bluetooth Low Energy, wireless
     HID hijacking.
     * [GitHub][19]: source code repository.
@@ -52,10 +56,13 @@
     vulnerabilties.
   * [ESP32 Marauder][43]: suite of WiFi/Bluetooth offensive and defensive tools
     for the ESP32.
+  * [ESP32-WiFi-Hash-Monster][152]: store EAPOL & PMKID packets in an SD CARD.
   * [esp32-wifi-penetration-tool][104]: Exploring possibilities of ESP32
     platform to attack on nearby Wi-Fi networks.
+  * [FlyingCarpet][132]: Cross-platform AirDrop.
   * [FreeRADIUS][99]: open source RADIUS server.
   * [hostapd][100]: user space daemon for access points.
+  * [howmanypeoplearearound][143]: Count the number of people around you.
   * [Kismet][14]: Wi-Fi, Bluetooth, RF, and more
     * [GitHub][15]: Kismet and related tools and libraries for wireless
       monitoring, transmitting, and auditing.
@@ -64,17 +71,26 @@
     * [github repo][47]: libwifi github repository
   * [libwifi (nukesor)][49]: rust library for parsing IEE 802.11 frames.
   * [libwifi (vanhoefm)][50]: python and scapy scripts for Wi-Fi.
+  * [LinkLiar][144]: Link-Layer MAC spoofing GUI for macOS.
+  * [linux-router][151]: Set Linux as router in one command.
   * [nexmon][20]: The C-based Firmware Patching Framework for Broadcom/Cypress
     WiFi Chips.
   * [pawnagotchi][42]:  A2C-based “AI” powered by bettercap and running on a
     Raspberry Pi Zero W that learns from its surrounding WiFi environment in
     order to maximize the crackable WPA key material it captures/
   * [pi-pwnbox-rogueap][103]: Rogue AP based on Raspberry Pi
+  * [probequest][136]: Toolkit for playing with Wi-Fi probe requests.
+  * [rogue (InfamousSYN)][135]: extensible toolkit providing penetration
+  testers an easy-to-use platform to deploy Access Points.
+  * [trackerjacker][134]: like nmap for mapping wifi networks you're not
+    connected to, plus device tracking.
   * [WEF][106]: Wi-Fi Exploitation Framework.
   * [wifi-arsenal][122]: links to projects related to wifi security.
   * [wifi-cracking][105]: Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and
     Aircrack-ng/Hashcat.
+  * [wifi-deauth][150]: deauth attac.
   * [Wifi-Hacking][124]: Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools.
+  * [WiFi-Spam][148]: Spam thousands of WiFi access points with custom SSIDs.
   * [wifijammer][28]: Continuously jam all wifi clients/routers.
   * [wifiphisher][27]: The Rogue Access Point Framework.
   * [WiFiManager][121]: ESP8266 WiFi Connection manager with web captive portal.
@@ -84,7 +100,9 @@
   * [wpa_supplicant][100]: supplicant for 802.11
 * [esp-wifi][45]: WIP / POC for using the ESP32-C3, ESP32-S3 and ESP32 wifi
   drivers in bare-metal Rust.
+* [esp32-wifi-lib][153]: ESP32 WiFi library.
 * [USB-WiFi][24]: USB WiFi Adapter Information for Linux
+* [wifi-pentesting-guide][149]: WiFi Penetration Testing Guide.
 
 ## 802.15.4
 
@@ -101,9 +119,12 @@
 * Stacks:
   * [bluez][118]: Bluetooth protocol stack for Linux
   * [BTStack][117]: Dual-mode Bluetooth stack, with small memory footprint
+  * [NimBLE][130]: open-source Bluetooth Low Energy (BLE) stack
 * Tools
   * [ble-fuzzing][107]: Stateful Black-Box Fuzzing of BLE Devices Using Automata
   Learning
+  * [bleak][138]: cross platform Bluetooth Low Energy Client for Python using asyncio
+  * [bluer][140]: Official BlueZ Bindings for Rust.
   * [bluetility][126]: A Bluetooth Low Energy browser, an open-source alternative to LightBlue for OS X.
   * [bluing][116]: intelligence gathering tool for hacking Bluetooth.
   * [BTLE][52]: Bluetooth Low Energy (BLE) packet sniffer and transmitter for
@@ -113,7 +134,9 @@
   * [btleplug][114]: Rust Cross-Platform Host-Side Bluetooth LE Access Library.
   * [ESP32 bluetooth classic sniffer][37]: Active Bluetooth BR/EDR Sniffer/Injector
     as cheap as any ESP32 board can get.
+  * [knob][127]: Key Negotiation Of Bluetooth (KNOB) attacks.
   * [gattacker][115]: BLE (Bluetooth Low Energy) security assessment
+  * [gattlib][139]: Library to access GATT information from BLE (Bluetooth Low Energy) devices.
   * [ice9-bluetooth-sniffer][51]: Wireshark Bluetooth sniffer for HackRF,
     BladeRF, and USRP.
   * [internalblue][26]: About Bluetooth experimentation framework for Broadcom
@@ -165,10 +188,15 @@
 ## Misc
 
 * [Awesome CTS][54]: curated list of Capture The Signal CTF related stuff.
+* [CatSniffer][141]: multiprotocol and multiband board for sniffing,
+communicating, and attacking IoT (Internet of Things) devices
+* [continuity][142]: Apple Continuity Protocol Reverse Engineering and Dissector
 * [cts.ninja][39]: CTF focused on radio signal reverse engineering
 * FCC
   * [fccid.io]: Searchable FCC ID Database
   * [Official FCC ID][63] 
+* [ESP32-Paxcounter][127]: Wifi & BLE driven passenger flow metering with cheap ESP32 boards.
+* [esp32free80211][147]: Send arbitrary IEEE 802.11 frames.
 * [FlipperZero][108]
   * [Awesome][112]
   * [Firmware (original)][109]
@@ -179,7 +207,7 @@
 * [LinkLiar][129]: Link-Layer MAC spoofing GUI for macOS
 * [Mirage][36]: powerful and modular framework dedicated to the security
   analysis of wireless communications.
-* [ESP32-Paxcounter][127]: Wifi & BLE driven passenger flow metering with cheap ESP32 boards.
+* [netscanner][146]: network scanner implemented in rust
 * [Signal Identification Guide][55]: help identify radio signals through example
   sounds and waterfall images.
 * [sparrow-wifi][125]: Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
@@ -357,3 +385,27 @@
 [127]: https://github.com/cyberman54/ESP32-Paxcounter
 [128]: https://github.com/ainfosec/FISSURE
 [129]: https://github.com/halo/LinkLiar
+[130]: https://mynewt.apache.org/latest/network/
+[131]: https://github.com/v1s1t0r1sh3r3/airgeddon?tab=readme-ov-file
+[132]: https://github.com/spieglt/FlyingCarpet
+[133]: https://github.com/Ragnt/AngryOxide
+[134]: https://github.com/calebmadrigal/trackerjacker
+[135]: https://github.com/InfamousSYN/rogue
+[136]: https://github.com/SkypLabs/probequest
+[137]: https://github.com/francozappa/knob
+[138]: https://github.com/hbldh/bleak
+[139]: https://github.com/labapart/gattlib
+[140]: https://github.com/bluez/bluer
+[141]: https://github.com/ElectronicCats/CatSniffer
+[142]: https://github.com/furiousMAC/continuity
+[143]: https://github.com/schollz/howmanypeoplearearound
+[144]: https://github.com/halo/LinkLiar
+[145]: https://github.com/liudf0716/apfree-wifidog
+[146]: https://github.com/Chleba/netscanner
+[147]: https://github.com/Jeija/esp32free80211
+[148]: https://github.com/adamff-dev/WiFi-Spam
+[149]: https://github.com/ricardojoserf/wifi-pentesting-guide
+[150]: https://github.com/flashnuke/wifi-deauth
+[151]: https://github.com/garywill/linux-router
+[152]: https://github.com/G4lile0/ESP32-WiFi-Hash-Monster
+[153]: https://github.com/espressif/esp32-wifi-lib
