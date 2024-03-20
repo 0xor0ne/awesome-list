@@ -6,11 +6,12 @@ See also the following lists dedicated to specifics sub-topics:
 
 * [Cybersecurity](topics/cybersec.md): links to blog posts, writeups and papers
   dedicated to cybersecurity
-* [Exploitation](topics/exploitation.md): resources dedicatd to the world of
+* [Exploitation](topics/exploitation.md): resources dedicated to the world of
   binary exploitation
 * [Linux Kernel](topics/linux_kernel.md): collection of resources dedicated to
   Linux kernel (internals)
-
+* [Wireless](topics/wireless.md): resources dedicated to wireless technologies
+  and security
 
 # Content
 
@@ -655,7 +656,6 @@ libsla.
 * [Blockchains and Smart Contracts](topics/web3.md)
 * [OT/IoT Security](topics/ot_security.md)
 * [Red Teaming and Offensive Security](topics/red-team-adversary-emulation.md)
-* [Wireless](topics/wireless.md)
 
 
 [1]: https://github.com/radareorg/radare2
