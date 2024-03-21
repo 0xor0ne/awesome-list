@@ -89,6 +89,7 @@ exploit"][392]
 * ["Bee-yond Capacity: Unauthenticated RCE in Extreme Networks/Aerohive Wireless APs - CVE-2023-35803"][91]
 * ["Behind the Shield: Unmasking Scudos's Defenses"][8]
 * ["BlackLotus UEFI bootkit: Myth confirmed"][429]
+* ["BLUFFS: Bluetooth Forward and Future Secrecy Attacks and Defenses"][618]
 * ["Breaking Fortinet Firmware Encryption"][233]
 * ["Breaking the Code - Exploiting and Examining CVE-2023-1829 in cls_tcindex Classifier Vulnerability"][81]
 * ["Breaking Secure Boot on the Silicon Labs Gecko platform"][262]
@@ -113,6 +114,7 @@ exploit"][392]
   * [Part 1][603]
   * [Part 2][604]
   * [Part 3][605]
+* ["CVE-2022-27666: My file your memory"][616]
 * ["CVE-2023-0179: Linux kernel stack buffer overflow in nftables: PoC and writeup"][567]
 * ["CVE-2023-2008 - Analyzing and exploiting a bug in the udmabuf driver"][72]
 * ["CVE-2023-23504: XNU Heap Underwrite in dlil.c"][543]
@@ -722,6 +724,7 @@ exploit"][392]
 * ["Operating System development tutorials in Rust on the Raspberry Pi"][357]
 * [Red-Team-Infrastructure-Wiki][498]
 * ["Reverse Engineering For Everyone!"][399]
+* ["Reverse Engineering WiFi on RISC-V BL602"][617]
 * ["Satellite Hacking Demystified(RTC0007)"][221]
 * [TEE Reversing][263]
 * [tmpout.sh][515]: collection of writeups on low-level stuff
@@ -1347,3 +1350,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [613]: https://www.elttam.com/blog/pwnassistant/
 [614]: https://github.blog/2023-11-30-securing-our-home-labs-home-assistant-code-review/
 [615]: https://github.blog/2023-12-13-securing-our-home-labs-frigate-code-review/
+[616]: https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html
+[617]: https://lupyuen.github.io/articles/wifi
+[618]: https://francozappa.github.io/publication/2023/bluffs/slides.pdf
