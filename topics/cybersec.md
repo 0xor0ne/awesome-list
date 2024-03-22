@@ -684,6 +684,7 @@ exploit"][392]
 
 ## Other
 
+* [0xtriboulet][619]
 * ["A Noobs Guide to ARM Exploitation"][241]
 * ["Advanced binary fuzzing using AFL++-QEMU and libprotobuf: a practical case of grammar-aware in-memory persistent fuzzing"][71]
 * ["Advanced Compilers: The Self-Guided Online Course"][298]
@@ -693,10 +694,7 @@ exploit"][392]
 * ["ARM TrustZone: pivoting to the secure world"][304]
 * [Awesome Industrial Protocols][510]
 * ["Brute Ratel - Scandinavian Defence"][436]
-* "Introduction to encryption for embedded Linux"
-  * ["Introduction to encryption for embedded Linux developers"][0]
-  * ["A hands-on approach to symmetric-key encryption"][1]
-  * ["Asymmetric-Key Encryption and Digital Signatures in Practice"][2]
+* [Comprehensive Rust][620]
 * ["Debugger Ghidra Class"][232]
 * [DhavalKapil/heap-exploitation][363]
 * [Diffing Portal][378]
@@ -709,6 +707,10 @@ exploit"][392]
   * [quic][518]
   * [tls 1.2][521]
   * [tls 1.3][520]
+* "Introduction to encryption for embedded Linux"
+  * ["Introduction to encryption for embedded Linux developers"][0]
+  * ["A hands-on approach to symmetric-key encryption"][1]
+  * ["Asymmetric-Key Encryption and Digital Signatures in Practice"][2]
 * ["Introduction to Malware Analysis and Reverse Engineering"][407]
 * ["Kernel Address Space Layout Derandomization"][529]
 * ["Laser-Based Audio Injection on Voice-Controllable Systems"][328]
@@ -1353,3 +1355,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [616]: https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html
 [617]: https://lupyuen.github.io/articles/wifi
 [618]: https://francozappa.github.io/publication/2023/bluffs/slides.pdf
+[619]: https://steve-s.gitbook.io/0xtriboulet
+[620]: https://google.github.io/comprehensive-rust/
