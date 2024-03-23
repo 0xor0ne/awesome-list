@@ -4,7 +4,6 @@
 
 * [3GPP](#3gpp)
 * [802.11](#802.11)
-* [802.15.4](#802.15.4)
 * [Bluetooth](#bluetooth)
 * [IoT](#iot)
 * [Linux](#linux)
@@ -23,6 +22,16 @@
 * [Wi-Fi Alliance][66]
   * [Specification][67]
 * Attacks:
+  * "Broadcom Wi-Fi stack exploitation":
+    * [Part 1][183]
+    * [Part 2][184]
+    * [Part 3][185]
+    * [Part 4][186]
+    * [Part 5][187]
+  * [DragonBlood][173]: attacking WPA3's Dragonfly Handshake
+  * [Exploiting Wi-Fi Stack on Tesla Model S][194]
+  * [FragAttacks][172]: Fragmentation and aggregation attacks against Wi-Fi.
+    * [Repository][182]
   * KRACK attack:
     * [paper][57]: Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2
     * [scripts][58]: scripts to test if clients or access points (APs) are
@@ -73,12 +82,14 @@
   * [libwifi (vanhoefm)][50]: python and scapy scripts for Wi-Fi.
   * [LinkLiar][144]: Link-Layer MAC spoofing GUI for macOS.
   * [linux-router][151]: Set Linux as router in one command.
+  * [modwifi][174]: low-layer Wi-Fi attacks.
   * [nexmon][20]: The C-based Firmware Patching Framework for Broadcom/Cypress
     WiFi Chips.
   * [pawnagotchi][42]:  A2C-based “AI” powered by bettercap and running on a
     Raspberry Pi Zero W that learns from its surrounding WiFi environment in
     order to maximize the crackable WPA key material it captures/
   * [pi-pwnbox-rogueap][103]: Rogue AP based on Raspberry Pi
+  * [pixiewps][160]: An offline Wi-Fi Protected Setup brute-force utility.
   * [probequest][136]: Toolkit for playing with Wi-Fi probe requests.
   * [rogue (InfamousSYN)][135]: extensible toolkit providing penetration
   testers an easy-to-use platform to deploy Access Points.
@@ -101,40 +112,58 @@
 * [esp-wifi][45]: WIP / POC for using the ESP32-C3, ESP32-S3 and ESP32 wifi
   drivers in bare-metal Rust.
 * [esp32-wifi-lib][153]: ESP32 WiFi library.
+* [Fz3r0 802.11_Wi-Fi Knowledge-Base][155]: 802.11 Wi-Fi Networking Knowledge Base.
+* [itlwm][157]: Intel Wi-Fi Drivers for macOS
 * [USB-WiFi][24]: USB WiFi Adapter Information for Linux
 * [wifi-pentesting-guide][149]: WiFi Penetration Testing Guide.
-
-## 802.15.4
-
-* [KillerBee][31]: IEEE 802.15.4/ZigBee Security Research Toolkit.
 
 ## Bluetooth
 
 * [bluetooth.com][69]
   * [Specifications][70]
+* Attacks:
+  * [BlueBorne][175]: attacks famility affecting Bluetooth devices
+  * "Hi, My Name is Keyboard":
+    * [Blog Post][168]
+    * [PoC][169]
+  * [bluffs][181]: Bluetooth Forward and Future Secrecy Attacks
+  * [knob][137]: Key Negotiation Of Bluetooth (KNOB) attacks.
+  * [kr00kie][178]: kr00kie attack.
+    * [Playing with kr00kie][179]
+    * [Slides][180]
+  * "SweynTooth":
+    * [Website][176]
+    * [PoC][177]
 * [Awesome bluetooth security][33]: useful references for anyone working with
   Bluetooth BR/EDR/LE or Mesh security.
 * [BLE Security Attack Defence][34]: Unveiling zero day vulnerabilities and
   security flaws in modern Bluetooth LE stacks.
+* [IntelBluetoothFirmware][158]: Intel Bluetooth Firmware for macOS
 * Stacks:
   * [bluez][118]: Bluetooth protocol stack for Linux
   * [BTStack][117]: Dual-mode Bluetooth stack, with small memory footprint
   * [NimBLE][130]: open-source Bluetooth Low Energy (BLE) stack
 * Tools
+  * [apple_bleee][166]: what an attacker get from Apple devices if they sniff Bluetooth traffic.
+  * [AppleJuice][167]: Apple BLE proximity pairing message spoofing
   * [ble-fuzzing][107]: Stateful Black-Box Fuzzing of BLE Devices Using Automata
   Learning
   * [bleak][138]: cross platform Bluetooth Low Energy Client for Python using asyncio
+  * [BLEUnlock][163]: Lock/unlock your Mac with Bluetooth LE.
+  * [bluepy][161]: Python interface to Bluetooth LE on Linux.
   * [bluer][140]: Official BlueZ Bindings for Rust.
+  * [bluesnooze][162]: Bluetooth Low Energy (BLE) snooping tool.
   * [bluetility][126]: A Bluetooth Low Energy browser, an open-source alternative to LightBlue for OS X.
   * [bluing][116]: intelligence gathering tool for hacking Bluetooth.
   * [BTLE][52]: Bluetooth Low Energy (BLE) packet sniffer and transmitter for
     both standard and non standard (raw bit) based on Software Defined Radio
     (SDR).
   * [btlejack][44]: Bluetooth Low Energy Swiss-army knife.
+  * [btlejuice][195]: Bluetooth Smart (LE) Man-in-the-Middle framework
   * [btleplug][114]: Rust Cross-Platform Host-Side Bluetooth LE Access Library.
+  * [crackle][196]: Crack and decrypt BLE encryption.
   * [ESP32 bluetooth classic sniffer][37]: Active Bluetooth BR/EDR Sniffer/Injector
     as cheap as any ESP32 board can get.
-  * [knob][127]: Key Negotiation Of Bluetooth (KNOB) attacks.
   * [gattacker][115]: BLE (Bluetooth Low Energy) security assessment
   * [gattlib][139]: Library to access GATT information from BLE (Bluetooth Low Energy) devices.
   * [ice9-bluetooth-sniffer][51]: Wireshark Bluetooth sniffer for HackRF,
@@ -147,9 +176,13 @@
 
 ## IoT
 
+* [802.15.4][159]
+  * [KillerBee][31]: IEEE 802.15.4/ZigBee Security Research Toolkit.
 * [csa-iot.org][72]: Connectivity Standards Alliance
   * [Specifications][74]
+* [ESPHome][165]: Home Automation systems.
 * [Home Assistant][97]: Open source home automation
+  * [ble_monitor][164]: BLE monitor for passive BLE sensors
 * [Matter][73]
 * [Thread][76]
   * [OpenThread][96]: open-source implementation of Thread
@@ -170,12 +203,19 @@
   * [GitHub][95]
 * [Espressif][78] 
   * [Github][81]
+  * [Documentation][190]
 * [Silicon Labs][82]
   * [GitHub][83]
+  * [Documentation][188]
+    * [Bluetooth 5.0][189]
 * [Microchip][90]
   * [GitHub][91]
 * [Nordic][79]
   * [GitHub][80]
+  * [Documentation][191]
+  * Tools:
+    * [nRF Sniffer for 802.15.4][192]
+    * [nRF Sniffer for Bluetooth LE][193]
 * [NXP][84]
   * [GitHub][85]
 * [Renesas][92]
@@ -200,6 +240,7 @@ communicating, and attacking IoT (Internet of Things) devices
 * [FlipperZero][108]
   * [Awesome][112]
   * [Firmware (original)][109]
+  * [flipper-zero-evil-portal][154]
   * [RogueMaster firmware][113]
   * [Unleashed-firmware][111]
   * [Xtreme-firmware][110]
@@ -208,6 +249,8 @@ communicating, and attacking IoT (Internet of Things) devices
 * [Mirage][36]: powerful and modular framework dedicated to the security
   analysis of wireless communications.
 * [netscanner][146]: network scanner implemented in rust
+* [opendrop][171]: An open Apple AirDrop implementation
+* [owlink][170]: Open Wireless Link
 * [Signal Identification Guide][55]: help identify radio signals through example
   sounds and waterfall images.
 * [sparrow-wifi][125]: Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
@@ -409,3 +452,45 @@ communicating, and attacking IoT (Internet of Things) devices
 [151]: https://github.com/garywill/linux-router
 [152]: https://github.com/G4lile0/ESP32-WiFi-Hash-Monster
 [153]: https://github.com/espressif/esp32-wifi-lib
+[154]: https://github.com/bigbrodude6119/flipper-zero-evil-portal
+[155]: https://github.com/Fz3r0/Fz3r0_-_802.11_Wi-Fi_-_Knowledge-Base
+[157]: https://github.com/OpenIntelWireless/itlwm?tab=readme-ov-file
+[158]: https://github.com/OpenIntelWireless/IntelBluetoothFirmware
+[159]: https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68
+[160]: https://github.com/wiire-a/pixiewps
+[161]: https://github.com/IanHarvey/bluepy
+[162]: https://github.com/odlp/bluesnooze
+[163]: https://github.com/ts1/BLEUnlock
+[164]: https://github.com/custom-components/ble_monitor/tree/master
+[165]: https://esphome.io
+[166]: https://github.com/hexway/apple_bleee
+[167]: https://github.com/ECTO-1A/AppleJuice
+[168]: https://github.com/skysafe/reblog/blob/main/cve-2024-0230/README.md
+[169]: https://github.com/marcnewlin/hi_my_name_is_keyboard
+[170]: https://owlink.org/publications/
+[171]: https://github.com/seemoo-lab/opendrop
+[172]: https://www.fragattacks.com
+[173]: https://wpa3.mathyvanhoef.com
+[174]: https://github.com/vanhoefm/modwifi
+[175]: https://www.armis.com/research/blueborne/
+[176]: https://asset-group.github.io/disclosures/sweyntooth/
+[177]: https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks
+[178]: https://hexway.io/research/r00kie-kr00kie/
+[179]: https://www.thice.nl/playing-with-kr00k/
+[180]: https://web-assets.esetstatic.com/wls/2020/02/ESET_Kr00k.pdf
+[181]: https://github.com/francozappa/bluffs
+[182]: https://github.com/vanhoefm/fragattacks
+[183]: https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html
+[184]: https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_11.html
+[185]: https://googleprojectzero.blogspot.com/2017/09/over-air-vol-2-pt-1-exploiting-wi-fi.html
+[186]: https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-2-exploiting-wi-fi.html
+[187]: https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html
+[188]: https://docs.silabs.com
+[189]: https://docs.silabs.com/bluetooth/5.0/
+[190]: https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html#
+[191]: https://docs.nordicsemi.com
+[192]: https://www.nordicsemi.com/Products/Development-tools/nRF-Sniffer-for-802154
+[193]: https://www.nordicsemi.com/Products/Development-tools/nRF-Sniffer-for-Bluetooth-LE
+[194]: https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/
+[195]: https://github.com/DigitalSecurity/btlejuice
+[196]: https://github.com/mikeryan/crackle
