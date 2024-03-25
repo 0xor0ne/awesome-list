@@ -140,6 +140,7 @@ exploit"][392]
   * [Part 1][149]
   * [Part 3][150]
   * [Part 3][151]
+* ["eBPF: A new frontier for malware"][621]
 * ["Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device"][47]
 * ["Encrypted Doesn't Mean Authenticated: ShareFile RCE (CVE-2023-24489)"][182]
 * ["ENLBufferPwn (CVE-2022-47949)"][422]
@@ -1357,3 +1358,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [618]: https://francozappa.github.io/publication/2023/bluffs/slides.pdf
 [619]: https://steve-s.gitbook.io/0xtriboulet
 [620]: https://google.github.io/comprehensive-rust/
+[621]: https://redcanary.com/blog/ebpf-malware/
