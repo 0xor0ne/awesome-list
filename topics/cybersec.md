@@ -422,6 +422,7 @@ exploit"][392]
 * ["exploiting CVE-2019-2215"][61]
 * ["Firmware key extraction by gaining EL3"][316]
 * ["Fortigate - Authentication Bypass Lead to Full Device Takeover"][291]
+* ["Hackign More Secure Portable Storage Devices"][623]
 * ["How The Tables Have Turned: An analysis of two new Linux vulnerabilities in nf_tables"][266]
 * ["Huawei Security Hypervisor Vulnerability"][435]
 * "Hunting for Persistence in Linux"
@@ -458,6 +459,7 @@ exploit"][392]
 * ["NFC Relay Attack on Tesla Model Y"][574]
 * ["Nightmare: One Byte to ROP // Deep Dive Edition"][582]
 * ["Overview of GLIBC heap exploitation techniques"][239]
+* ["Parsing TFTP in Rust"][624]
 * ["Patching, Instrumenting & Debugging Linux Kernel Modules"][483]
 * ["pipe_buffer arbitrary read write"][282]
 * "Pixel 6 Bootloader"
@@ -655,6 +657,7 @@ exploit"][392]
 * ["Hardware hacking tutorial: Dumping and reversing firmware"][557]
 * ["HiSilicon DVR hack"][236]
 * ["How I Reverse Engineered and Exploited a Smart Massager"][301]
+* ["Linux Heap Exploitation Intro Series: Riding free on the heap – Double free attacks!"][622]
 * ["Linux ptrace introduction AKA injecting into sshd for fun"][229]
 * "Over The Air":
   * ["Exploiting Broadcom’s Wi-Fi Stack (Part 1)"][539]
@@ -1359,3 +1362,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [619]: https://steve-s.gitbook.io/0xtriboulet
 [620]: https://google.github.io/comprehensive-rust/
 [621]: https://redcanary.com/blog/ebpf-malware/
+[622]: https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-riding-free-on-the-heap-double-free-attacks/
+[623]: https://www.deepsec.net/docs/Slides/2022/Hacking_More_Secure_Portable_Storage_Devices_Matthias_Deeg.pdf
+[624]: https://tuckersiemens.com/posts/parsing-tftp-in-rust/
