@@ -83,6 +83,9 @@ See also the following lists dedicated to specifics sub-topics:
 * [Raspberry Pi][33]: Raspberry Pi tools, projects, images and resources.
 * [RAT][162]: RAT And C&C Resources.
 * [Reverse Engineering][35]: reversing resources.
+* [Reverse Engineering (alphaSeclab)][614]: Reverse Engineering Resources About All Platforms.
+* [Reverse Engineering (onethawt)][616]: Reverse Engineering articles, books, and papers
+* [Reverse Engineering (wtsxDev)][615]: reverse engineering resources
 * [Rust][18]: curated list of Rust code and resources.
 * [rust security][376]:  list of awesome projects and resources related to Rust
   and computer security.
@@ -186,6 +189,7 @@ See also the following lists dedicated to specifics sub-topics:
   * [pwndbg][537]: Exploit Development and Reverse Engineering with GDB Made
   Easy.
 * [lldb][554]: next generation, high-performance debugger.
+  * [LLDB (DerekSelander)][585]: collection of LLDB aliases/regexes and Python scripts
 * [llef][557]: plugin for LLDB to make it more useful for RE and VR.
 * [rr][253]: Record and Replay Framework.
   * [rd][307]: reimplementation in rust.
@@ -340,6 +344,7 @@ many of the static and dynamic analysis tools.
 * [Caddy][363]: fast, multi-platform web server with automatic HTTPS.
 * [CoreUtils][214]: Cross-platform Rust rewrite of the GNU coreutils.
 * [difftastic][440]: structural diff that understands syntax.
+* [e9patch][582]: static binary rewriting tool.
 * [esphome.io][449]: control your ESP8266/ESP32.
 * [f4pga][450]: fully open source toolchain for the development of FPGAs of
   multiple vendors.
@@ -557,10 +562,34 @@ many of the static and dynamic analysis tools.
 * [FLOSS][102]: FLARE Obfuscated String Solver.
 * [fq][227]: jq for binary formats.
 * [Ghidra][206]: software reverse engineering (SRE) framework.
+  * [AngryGhidra][596]: use angr in Ghidra.
+  * [APIs][591]
+  * [BinDiffHelper][602]: Ghidra Extension to integrate BinDiff for function matching.
+  * [BTIGhidra][613]: Binary Type Inference Ghidra Plugin.
+  * [Cartographer][601]: Code Coverage Exploration Plugin for Ghidra.
+  * [docker-ghidra][606]: Ghidra Client/Server Docker Image.
+  * [ghidra-findcrypt][603]: Ghidra analysis plugin to locate cryptographic constants.
+  * [ghidra-firmware-utils][598]: Ghidra utilities for firmware reverse
+    engineering.
+  * [ghidra_kernelcache][599]: framework for iOS kernelcache reverse engineering.
+  * [ghidra2dwarf][600]: Export ghidra decompiled code to dwarf sections inside ELF binary.
+  * [Ghidralligator][534]: multi-architecture pcode emulator based on the Ghidra
+  libsla.
+  * [Ghidrathon][592]: Python 3 scripting to Ghidra.
+  * [GhidraEmu][597]: Native Pcode emulator
+  * [GhidraScripts][607]: Scripts to run within Ghidra, maintained by the Trellix ARC team.
+  * [GhidraSnippets][605]: Python snippets for Ghidra's Program and Decompiler APIs.
+  * [ghidrecomp][609]: Python Command-Line Ghidra Decompiler.
+  * [ghidriff][532]: Python Command-Line Ghidra Binary Diffing Engine.
+  * [IDAObjcTypes][604]: collection of types & functions definitions useful for Objective-C binaries analysis.
+  * [pyhidra][612]: Ghidra API within a native CPython interpreter using jpype.
+  * [pypcode][611]: Python bindings to Ghidra's SLEIGH library for disassembly and lifting to P-Code IR
   * [Sekiryu][517]: comprehensive toolkit for Ghidra headless.
-* [Ghidralligator][534]: multi-architecture pcode emulator based on the Ghidra
-libsla.
-* [ghidriff][532]: Python Command-Line Ghidra Binary Diffing Engine.
+  * [SVD-Loader-Ghidra][593]: SVD loader for Ghidra.
+    * [cmsis-svd][594]: Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools
+    * [keil (devices)][595]: Keil devices SVDs
+* [ImHex][584]: Hex Editor for Reverse Engineers.
+* [kaiju][610]: binary analysis framework extension for Ghidra.
 * [Kaitai Struct][231]: declarative language to generate binary data parsers.
 * [Keystone Engine][232]: assembler framework.
 * [Linux syscalls][462]: Linux kernel syscall tables
@@ -568,6 +597,7 @@ libsla.
 * [McSema][249]: Framework for lifting program binaries to LLVM bitcode.
 * [Metasm][250]: a free assembler / disassembler / compiler.
 * [Miasm][251]: reverse engineering framework in Python.
+* [Objection][583]: runtime mobile exploration.
 * [Radare2][1]: UNIX-like reverse engineering framework and command-line
   toolset.
   * [Book][98]: radare2 official book.
@@ -576,7 +606,9 @@ libsla.
   * [Rizin][2]: radare2 fork.
 * [REMnux][257]: Linux toolkit for reverse-engineering.
 * [RetDec][252]: retargetable machine-code decompiler based on LLVM.
+* [ret-sync][608]: synchronize a debugging session with disassemblers.
 * [Yara][72]: pattern matching swiss knife for malware researchers.
+* [z3][581]: high-performance theorem prover being developed at Microsoft
 
 ## RTOS
 
@@ -630,6 +662,11 @@ libsla.
 * [Falco][367]: cloud native runtime security tool.
 * [Frida][36]: instrumentation toolkit for developers, reverse-engineers, and
   security researchers.
+  * [frida-gum][589]: Cross-platform instrumentation and introspection library written in C.
+  * [frida-snippets][586]: Hand-crafted Frida examples
+  * [frida-tools][590]: Frida CLI tools
+  * [medusa][588]: Binary instrumentation framework based on FRIDA
+  * [r2frida][587]: plugin for radare2
 * [LIEF][158]: library to Instrument Executable Formats.
 * [ltrace][233]: intercepts and records both the dynamic library calls and
   signals.
@@ -1105,3 +1142,39 @@ libsla.
 [578]: https://github.com/google/magika
 [579]: https://github.com/cool-RR/PySnooper
 [580]: https://github.com/joernio/joern
+[581]: https://github.com/Z3Prover/z3
+[582]: https://github.com/GJDuck/e9patch
+[583]: https://github.com/sensepost/objection
+[584]: https://github.com/WerWolv/ImHex
+[585]: https://github.com/DerekSelander/LLDB
+[586]: https://github.com/iddoeldor/frida-snippets
+[587]: https://github.com/nowsecure/r2frida
+[588]: https://github.com/Ch0pin/medusa
+[589]: https://github.com/frida/frida-gum
+[590]: https://github.com/frida/frida-tools
+[591]: https://ghidra.re/ghidra_docs/api/index.html
+[592]: https://github.com/mandiant/Ghidrathon
+[593]: https://github.com/leveldown-security/SVD-Loader-Ghidra?tab=readme-ov-file
+[594]: https://github.com/cmsis-svd/cmsis-svd
+[595]: https://www.keil.arm.com/devices/
+[596]: https://github.com/Nalen98/AngryGhidra
+[597]: https://github.com/Nalen98/GhidraEmu
+[598]: https://github.com/al3xtjames/ghidra-firmware-utils
+[599]: https://github.com/0x36/ghidra_kernelcache
+[600]: https://github.com/cesena/ghidra2dwarf
+[601]: https://github.com/nccgroup/Cartographer
+[602]: https://github.com/ubfx/BinDiffHelper
+[603]: https://github.com/TorgoTorgo/ghidra-findcrypt
+[604]: https://github.com/PoomSmart/IDAObjcTypes
+[605]: https://github.com/HackOvert/GhidraSnippets
+[606]: https://github.com/blacktop/docker-ghidra
+[607]: https://github.com/advanced-threat-research/GhidraScripts
+[608]: https://github.com/bootleg/ret-sync
+[609]: https://github.com/clearbluejar/ghidrecomp
+[610]: https://github.com/CERTCC/kaiju
+[611]: https://github.com/angr/pypcode
+[612]: https://github.com/dod-cyber-crime-center/pyhidra
+[613]: https://github.com/trailofbits/BTIGhidra
+[614]: https://github.com/alphaSeclab/awesome-reverse-engineering
+[615]: https://github.com/wtsxDev/reverse-engineering
+[616]: https://github.com/onethawt/reverseengineering-reading-list
