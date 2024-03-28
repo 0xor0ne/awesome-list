@@ -399,6 +399,11 @@ exploit"][392]
   * ["Subroutines"][415]
 * ["Attacking Titan M with Only One Byte"][259]
 * ["Avoiding Detection with Shellcode Mutator"][432]
+* "BasicFUN Series":
+  * ["Hardware Analysis / SPI Flash Extraction"][626]
+  * ["Reverse Engineering Firmware / Reflashing SPI Flash"][627]
+  * ["Dumping Parallel Flash via I2C I/O Expanders"][628]
+  * ["I2C Sniffing, EEPROM Extraction and Parallel Flash Extraction"][629]
 * ["Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu"][238]
 * "Bypassing software update package encryption ":
   * ["Extracting the Lexmark MC3224i printer firmware"][190]
@@ -420,6 +425,7 @@ exploit"][392]
 * ["Expanding the Dragon: Adding an ISA to Ghidra"][542]
 * ["Exploiting CSN.1 Bugs in MediaTek Basebands"][272]
 * ["exploiting CVE-2019-2215"][61]
+* ["Exploring the Hidden Attack Surface of OEM IoT Devices"][625]
 * ["Firmware key extraction by gaining EL3"][316]
 * ["Fortigate - Authentication Bypass Lead to Full Device Takeover"][291]
 * ["Hackign More Secure Portable Storage Devices"][623]
@@ -1365,3 +1371,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [622]: https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-riding-free-on-the-heap-double-free-attacks/
 [623]: https://www.deepsec.net/docs/Slides/2022/Hacking_More_Secure_Portable_Storage_Devices_Matthias_Deeg.pdf
 [624]: https://tuckersiemens.com/posts/parsing-tftp-in-rust/
+[625]: https://github.com/infobyte/cve-2022-27255/blob/main/DEFCON/slides.pdf
+[626]: https://wrongbaud.github.io/posts/BasicFUN-flashing/
+[627]: https://wrongbaud.github.io/posts/BasicFUN-rom-analysis/
+[628]: https://wrongbaud.github.io/posts/MK-Teardown/
+[629]: https://wrongbaud.github.io/posts/Holiday-Teardown/
