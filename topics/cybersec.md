@@ -418,6 +418,7 @@ exploit"][392]
 * ["CVE-2022-27666: Exploit esp6 modules in Linux kernel"][532]
 * ["CVE-2022-29582 An io_uring vulnerability"][495]
 * ["DirtyCred Remastered: how to turn an UAF into Privilege Escalation"][167]
+* ["Disclosing information with a side-channel in Django"][630]
 * ["Dumping the Amlogic A113X Bootrom"][78]
 * ["Dynamic analysis of firmware components in IoT devices"][250]
 * ["Embedded Systems Security and TrustZone"][145]
@@ -520,6 +521,7 @@ exploit"][392]
 * ["Vulnerabilities in Tenda's W15Ev2 AC1200 Router"][127]
 * ["Write a Linux firewall from scratch based on Netfilter"][313]
 * ["Yet another bug into Netfilter"][457]
+* ["Zyxel authentication bypass patch analysis (CVE-2022-0342)"][632]
 
 ## 2021
 
@@ -558,6 +560,7 @@ exploit"][392]
   * [Part 1][83]
   * [Part 2][84]
   * [Part 3][85]
+* ["Linux Internals: How /proc/self/mem writes to unwritable memory"][631]
 * "Linux Kernel Exploitation":
   * ["Debugging the Kernel with QEMU"][25]
   * ["Smashing Stack Overflows in the Kernel"][26]
@@ -1376,3 +1379,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [627]: https://wrongbaud.github.io/posts/BasicFUN-rom-analysis/
 [628]: https://wrongbaud.github.io/posts/MK-Teardown/
 [629]: https://wrongbaud.github.io/posts/Holiday-Teardown/
+[630]: https://www.sonarsource.com/blog/disclosing-information-with-a-side-channel-in-django/
+[631]: https://offlinemark.com/2021/05/12/an-obscure-quirk-of-proc/ 
+[632]: https://security.humanativaspa.it/zyxel-authentication-bypass-patch-analysis-cve-2022-0342/
