@@ -513,6 +513,7 @@ exploit"][392]
 * ["TP-Link Tapo c200 Camera Unauthenticated RCE (CVE-2021-4045)"][553]
 * ["Trying To Exploit A Windows Kernel Arbitrary Read Vulnerability"][312]
 * ["Turning Google smart speakers into wiretaps for $100k"][18]
+* ["UWB Real Time Locating Systems: How Secure Radio Communications May Fail in Practice'"][633]
 * ["Vulnerabilities and Hardware Teardown of GL.iNET GL-MT300N-V2 Router"][126]
 * "Vulnerabilities in BMC Firmware Affect OT/IoT Device Security":
   * [Part 1][496]
@@ -601,6 +602,9 @@ exploit"][392]
 * ["Detecting Linux memfd_create() Fileless Malware with Command Line Forensics"][430]
 * ["Exception(al) Failure - Breaking the STM32F1 Read-Out Protection"][161]
 * ["Flashback Connects - Cisco RV340 SSL VPN RCE"][525]
+* "Hardware Debugging for Reverse Engineers":
+  * ["SWD, OpenOCD and Xbox One Controllers"][634]
+  * ["TAG, SSDs and Firmware Extraction"][635]
 * ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
 * ["House of Muney - Leakless Heap Exploitation Technique"][181]
 * ["Loading Dynamic Libraries on Mac"][458]
@@ -1382,3 +1386,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [630]: https://www.sonarsource.com/blog/disclosing-information-with-a-side-channel-in-django/
 [631]: https://offlinemark.com/2021/05/12/an-obscure-quirk-of-proc/ 
 [632]: https://security.humanativaspa.it/zyxel-authentication-bypass-patch-analysis-cve-2022-0342/
+[633]: https://uploads-ssl.webflow.com/645a4534705010e2cb244f50/64912bac55ece2717e14e84a_Nozomi-Networks-WP-UWB-Real-Time-Locating-Systems.pdf
+[634]: https://wrongbaud.github.io/posts/stm-xbox-jtag/
+[635]: https://wrongbaud.github.io/posts/jtag-hdd/
