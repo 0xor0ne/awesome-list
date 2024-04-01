@@ -59,6 +59,9 @@
   * [bettercap][18]: Swiss Army knife for WiFi, Bluetooth Low Energy, wireless
     HID hijacking.
     * [GitHub][19]: source code repository.
+  * [crEAP][202]: WPA Enterprise mode EAP types analysis
+  * [EAP_buster][203]: lists what EAP methods are supported by the RADIUS server.
+  * [eaphammer][201]: evil twin attacks against WPA2-Enterprise networks.
   * [ESP32 802.11 TX][41]: Send arbitrary IEEE 802.11 frames with Espressif's
     ESP32.
   * [ESP32 ESP8266 attacks][38]: Proof of Concept of ESP32/8266 Wi-Fi
@@ -68,9 +71,13 @@
   * [ESP32-WiFi-Hash-Monster][152]: store EAPOL & PMKID packets in an SD CARD.
   * [esp32-wifi-penetration-tool][104]: Exploring possibilities of ESP32
     platform to attack on nearby Wi-Fi networks.
+  * [fern-wifi-cracker][204]: Wireless security auditing and attack software.
   * [FlyingCarpet][132]: Cross-platform AirDrop.
   * [FreeRADIUS][99]: open source RADIUS server.
+    * [Github][197]
   * [hostapd][100]: user space daemon for access points.
+  * [hostapd-mana][198]: SensePost's modified hostapd for wifi attacks.
+    * [w1f1.net][199]: set of tools for wifi hacking using rogue access points.
   * [howmanypeoplearearound][143]: Count the number of people around you.
   * [Kismet][14]: Wi-Fi, Bluetooth, RF, and more
     * [GitHub][15]: Kismet and related tools and libraries for wireless
@@ -83,32 +90,40 @@
   * [LinkLiar][144]: Link-Layer MAC spoofing GUI for macOS.
   * [linux-router][151]: Set Linux as router in one command.
   * [modwifi][174]: low-layer Wi-Fi attacks.
+  * [nearby][208]: scans all nearby wifi networks and the devices connected to each network for Indoor positioning.
   * [nexmon][20]: The C-based Firmware Patching Framework for Broadcom/Cypress
     WiFi Chips.
+  * [openwrt][209]: Linux operating system targeting embedded devices.
   * [pawnagotchi][42]:  A2C-based “AI” powered by bettercap and running on a
     Raspberry Pi Zero W that learns from its surrounding WiFi environment in
     order to maximize the crackable WPA key material it captures/
   * [pi-pwnbox-rogueap][103]: Rogue AP based on Raspberry Pi
   * [pixiewps][160]: An offline Wi-Fi Protected Setup brute-force utility.
   * [probequest][136]: Toolkit for playing with Wi-Fi probe requests.
+  * [rastap][210]: full-featured wireless router setup for Debian-based devices.
   * [rogue (InfamousSYN)][135]: extensible toolkit providing penetration
   testers an easy-to-use platform to deploy Access Points.
   * [trackerjacker][134]: like nmap for mapping wifi networks you're not
     connected to, plus device tracking.
+  * [websploit][205]: an advanced MITM framework.
   * [WEF][106]: Wi-Fi Exploitation Framework.
   * [wifi-arsenal][122]: links to projects related to wifi security.
   * [wifi-cracking][105]: Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and
     Aircrack-ng/Hashcat.
   * [wifi-deauth][150]: deauth attac.
   * [Wifi-Hacking][124]: Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools.
+  * [WIFI-HACKING][207]: Security Tool For Hacking Wireless Connections.
   * [WiFi-Spam][148]: Spam thousands of WiFi access points with custom SSIDs.
+  * [WiFiBroot][211]: A Wireless (WPA/WPA2) Pentest/Cracking tool.
   * [wifijammer][28]: Continuously jam all wifi clients/routers.
   * [wifiphisher][27]: The Rogue Access Point Framework.
   * [WiFiManager][121]: ESP8266 WiFi Connection manager with web captive portal.
   * [wifipumpkin3][29]: Powerful framework for rogue access point attack.
   * [wifite2][102]: script for auditing wireless networks.
   * [wiphisher][120]: The Rogue Access Point Framework.
+  * [wirespy][206]: automate various wireless networks attacks.
   * [wpa_supplicant][100]: supplicant for 802.11
+  * [WPAxFuzz][213]: full-featured open-source Wi-Fi fuzzer
 * [esp-wifi][45]: WIP / POC for using the ESP32-C3, ESP32-S3 and ESP32 wifi
   drivers in bare-metal Rust.
 * [esp32-wifi-lib][153]: ESP32 WiFi library.
@@ -236,6 +251,7 @@ communicating, and attacking IoT (Internet of Things) devices
   * [fccid.io]: Searchable FCC ID Database
   * [Official FCC ID][63] 
 * [ESP32-Paxcounter][127]: Wifi & BLE driven passenger flow metering with cheap ESP32 boards.
+* [esp32-open-mac][214]: Reverse engineered wifi driver for the ESP32.
 * [esp32free80211][147]: Send arbitrary IEEE 802.11 frames.
 * [FlipperZero][108]
   * [Awesome][112]
@@ -251,10 +267,12 @@ communicating, and attacking IoT (Internet of Things) devices
 * [netscanner][146]: network scanner implemented in rust
 * [opendrop][171]: An open Apple AirDrop implementation
 * [owlink][170]: Open Wireless Link
+* [Responder][200]: LLMNR, NBT-NS and MDNS poisoner
 * [Signal Identification Guide][55]: help identify radio signals through example
   sounds and waterfall images.
 * [sparrow-wifi][125]: Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 * [WiFiDuck][123]: Wireless keystroke injection attack platform
+* [wigle.net][212]: Wireless network mapping service
 
 ## Radio Controllers
 
@@ -494,3 +512,21 @@ communicating, and attacking IoT (Internet of Things) devices
 [194]: https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/
 [195]: https://github.com/DigitalSecurity/btlejuice
 [196]: https://github.com/mikeryan/crackle
+[197]: https://github.com/FreeRADIUS
+[198]: https://github.com/sensepost/hostapd-mana
+[199]: https://w1f1.net
+[200]: https://github.com/lgandx/Responder
+[201]: https://github.com/s0lst1c3/eaphammer
+[202]: https://github.com/p0dalirius/crEAP
+[203]: https://github.com/blackarrowsec/EAP_buster
+[204]: https://github.com/savio-code/fern-wifi-cracker
+[205]: https://github.com/f4rih/websploit
+[206]: https://github.com/aress31/wirespy
+[207]: https://github.com/U7P4L-IN/WIFI-HACKING
+[208]: https://github.com/wisespace-io/nearby/tree/master
+[209]: https://openwrt.org
+[210]: https://raspap.com
+[211]: https://github.com/hash3liZer/WiFiBroot
+[212]: https://wigle.net
+[213]: https://github.com/efchatz/WPAxFuzz
+[214]: https://github.com/esp32-open-mac/esp32-open-mac
