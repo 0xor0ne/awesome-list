@@ -222,6 +222,7 @@ exploit"][392]
 * ["In-Memory-Only ELF Execution (Without tmpfs)"][355]
 * ["Intel BIOS Advisory – Memory Corruption in HID Drivers "][257]
 * ["Intercepting Allocations with the Global Allocator"][79]
+* ["Intro to Cutter"][637]
 * ["Introduction to SELinux"][59]
 * "IoT Series":
   * ["Are People Ready to go?"][465]
@@ -426,6 +427,7 @@ exploit"][392]
 * ["Expanding the Dragon: Adding an ISA to Ghidra"][542]
 * ["Exploiting CSN.1 Bugs in MediaTek Basebands"][272]
 * ["exploiting CVE-2019-2215"][61]
+* ["Exploiting CVE-2022-42703 - Bringing back the stack attack"][636]
 * ["Exploring the Hidden Attack Surface of OEM IoT Devices"][625]
 * ["Firmware key extraction by gaining EL3"][316]
 * ["Fortigate - Authentication Bypass Lead to Full Device Takeover"][291]
@@ -604,7 +606,7 @@ exploit"][392]
 * ["Flashback Connects - Cisco RV340 SSL VPN RCE"][525]
 * "Hardware Debugging for Reverse Engineers":
   * ["SWD, OpenOCD and Xbox One Controllers"][634]
-  * ["TAG, SSDs and Firmware Extraction"][635]
+  * ["TAG, SSDs and Firmware Extraction"Manipulating AES Traffic][635]
 * ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
 * ["House of Muney - Leakless Heap Exploitation Technique"][181]
 * ["Loading Dynamic Libraries on Mac"][458]
@@ -1389,3 +1391,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [633]: https://uploads-ssl.webflow.com/645a4534705010e2cb244f50/64912bac55ece2717e14e84a_Nozomi-Networks-WP-UWB-Real-Time-Locating-Systems.pdf
 [634]: https://wrongbaud.github.io/posts/stm-xbox-jtag/
 [635]: https://wrongbaud.github.io/posts/jtag-hdd/
+[636]: https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html
+[637]: https://goggleheadedhacker.com/post/intro-to-cutter
