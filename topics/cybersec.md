@@ -601,6 +601,10 @@ exploit"][392]
   * [Part 1][187]
   * [Part 2][188]
 * ["BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution"][372]
+* ["Espressif ESP32: Bypassing Encrypted Secure Boot (CVE-2020-13629)"][641]
+* ["Espressif ESP32: Bypassing Secure Boot using EMFI"][638]
+* ["Espressif ESP32: Bypassing Flash Encryption (CVE-2020-15048)"][640]
+* ["Espressif ESP32: Controlling PC during Secure Boot"][639]
 * ["Detecting Linux memfd_create() Fileless Malware with Command Line Forensics"][430]
 * ["Exception(al) Failure - Breaking the STM32F1 Read-Out Protection"][161]
 * ["Flashback Connects - Cisco RV340 SSL VPN RCE"][525]
@@ -1393,3 +1397,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [635]: https://wrongbaud.github.io/posts/jtag-hdd/
 [636]: https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html
 [637]: https://goggleheadedhacker.com/post/intro-to-cutter
+[638]: https://raelize.com/blog/espressif-systems-esp32-bypassing-sb-using-emfi/
+[639]: https://raelize.com/blog/espressif-systems-esp32-controlling-pc-during-sb/
+[640]: https://raelize.com/blog/espressif-systems-esp32-bypassing-flash-encryption/
+[641]: https://raelize.com/blog/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/
