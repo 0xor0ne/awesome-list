@@ -185,6 +185,7 @@ exploit"][392]
   * ["Evaluating Performance of Fuzzer"][44]
   * ["Patch Analysis and PoC Development"][45]
   * ["Hunting and Exploiting 0-day [CVE-2022-24834]"][46]
+* ["Fuzzing Golang msgpack for fun and panic"][643]
 * ["Getting RCE in Chrome with incomplete object initialization in the Maglev compiler"][486]
 * "Ghidra" (Craig Young):
   * ["A Guide to Reversing Shared Objects with Ghidra"][121]
@@ -522,6 +523,7 @@ exploit"][392]
   * [Part 2][497]
 * ["Vulnerability Details for CVE-2022-41218"][563]
 * ["Vulnerabilities in Tenda's W15Ev2 AC1200 Router"][127]
+* ["When an N-Day turns into a 0day"][642]
 * ["Write a Linux firewall from scratch based on Netfilter"][313]
 * ["Yet another bug into Netfilter"][457]
 * ["Zyxel authentication bypass patch analysis (CVE-2022-0342)"][632]
@@ -1401,3 +1403,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [639]: https://raelize.com/blog/espressif-systems-esp32-controlling-pc-during-sb/
 [640]: https://raelize.com/blog/espressif-systems-esp32-bypassing-flash-encryption/
 [641]: https://raelize.com/blog/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/
+[642]: https://github.com/b1ack0wl/vulnerability-write-ups/blob/master/TP-Link/WR940N/112022/Part1.md
+[643]: https://redcanary.com/blog/fuzzing/
