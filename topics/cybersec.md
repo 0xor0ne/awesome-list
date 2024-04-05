@@ -499,6 +499,7 @@ exploit"][392]
 * ["Spoofing Call Stacks To Confuse EDRs"][431]
 * ["Stealing the Bitlocker key from a TPM"][505]
 * ["Stranger Strings: An exploitable flaw in SQLite"][588]
+* ["Survey of security mitigations and architectures, December 2022"][644]
 * ["Symbiote Deep-Dive: Analysis of a New, Nearly-Impossible-to-Detect Linux Threat"][461]
 * ["Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later"][226]
 * ["The Dirty Pipe Vulnerability"][321]
@@ -578,8 +579,10 @@ exploit"][392]
 * ["My RCE PoC walkthrough for (CVE-2021–21974) VMware ESXi OpenSLP heap-overflow vulnerability"][560]
 * ["New Linux Backdoor RedXOR Likely Operated by Chinese Nation-State Actor"][440]
 * ["New Old Bugs in the Linux Kernel"][305]
+* ["Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug"][646]
 * ["Pwn2Own Tokyo 2020: Defeating the TP-link AC1750"][555]
 * ["Recovering a Full PEM Private key when Half of it is Redacted"][96]
+* ["Reverse Engineering an Unknown Microcontroller"][645]
 * "Reverse Engineering Bare-Metal Firmware":
   * [Part 1][142]
   * [Part 2][143]
@@ -1405,3 +1408,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [641]: https://raelize.com/blog/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/
 [642]: https://github.com/b1ack0wl/vulnerability-write-ups/blob/master/TP-Link/WR940N/112022/Part1.md
 [643]: https://redcanary.com/blog/fuzzing/
+[644]: https://saaramar.github.io/memory_safety_blogpost_2022/
+[645]: https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller
+[646]: https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
