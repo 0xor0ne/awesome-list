@@ -557,6 +557,8 @@ many of the static and dynamic analysis tools.
 * [DogBolt][342]: decompiler explorer.
 * [ELFKickers][156]: collection of programs that access and manipulate ELF
   files.
+* [ESP32-reversing][618]: curated list of ESP32 related reversing resources
+* [esp32knife][617]: Tools for ESP32 firmware dissection.
 * [flare-emu][226]: easy to use and flexible interface for scripting emulation
   tasks.
 * [FLOSS][102]: FLARE Obfuscated String Solver.
@@ -1178,3 +1180,5 @@ many of the static and dynamic analysis tools.
 [614]: https://github.com/alphaSeclab/awesome-reverse-engineering
 [615]: https://github.com/wtsxDev/reverse-engineering
 [616]: https://github.com/onethawt/reverseengineering-reading-list
+[617]: https://github.com/jmswrnr/esp32knife
+[618]: https://github.com/BlackVS/ESP32-reversing
