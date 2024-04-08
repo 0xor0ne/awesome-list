@@ -305,6 +305,7 @@ exploit"][392]
   * [Part 1][477]
   * [Part 2][478]
   * [Part 3][479]
+* ["Prototype Pollution in Python"][647]
 * ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
 * ["PwnAgent: A One-Click WAN-side RCE in Netgear RAX Routers with CVE-2023-24749"][318]
 * ["Pwnassistant - Controlling /home's via a Home Assistant RCE"][613]
@@ -374,6 +375,7 @@ exploit"][392]
 * ["Understanding the Heap - a beautiful mess"][348]
 * ["Unleashing ksmbd: remote exploitation of the Linux kernel (ZDI-23-979, ZDI-23-980)"][533]
 * ["Unlimited Results: Breaking Firmware Encryption of ESP32-V3"][598]
+* ["Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More"][648]
 * ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
 * ["Windows Installer EOP (CVE-2023-21800)"][314]
 * ["Writing your own RDI /sRDI loader using C and ASM"][307]
@@ -471,6 +473,7 @@ exploit"][392]
 * ["Overview of GLIBC heap exploitation techniques"][239]
 * ["Parsing TFTP in Rust"][624]
 * ["Patching, Instrumenting & Debugging Linux Kernel Modules"][483]
+* ["PCIe DMA Attack against a secured Jetson Nano (CVE-2022-21819)"][649]
 * ["pipe_buffer arbitrary read write"][282]
 * "Pixel 6 Bootloader"
   * ["Booting up"][286]
@@ -579,7 +582,7 @@ exploit"][392]
 * ["My RCE PoC walkthrough for (CVE-2021–21974) VMware ESXi OpenSLP heap-overflow vulnerability"][560]
 * ["New Linux Backdoor RedXOR Likely Operated by Chinese Nation-State Actor"][440]
 * ["New Old Bugs in the Linux Kernel"][305]
-* ["Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug"][646]
+* ["Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug"]
 * ["Pwn2Own Tokyo 2020: Defeating the TP-link AC1750"][555]
 * ["Recovering a Full PEM Private key when Half of it is Redacted"][96]
 * ["Reverse Engineering an Unknown Microcontroller"][645]
@@ -1411,3 +1414,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [644]: https://saaramar.github.io/memory_safety_blogpost_2022/
 [645]: https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller
 [646]: https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
+[647]: https://blog.abdulrah33m.com/prototype-pollution-in-python/
+[648]: https://samcurry.net/web-hackers-vs-the-auto-industry/
+[649]: https://www.thegoodpenguin.co.uk/blog/pcie-dma-attack-against-a-secured-jetson-nano-cve-2022-21819/
