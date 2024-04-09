@@ -530,6 +530,7 @@ exploit"][392]
 * ["When an N-Day turns into a 0day"][642]
 * ["Write a Linux firewall from scratch based on Netfilter"][313]
 * ["Yet another bug into Netfilter"][457]
+* ["Xiongmai IoT Exploitation"][650]
 * ["Zyxel authentication bypass patch analysis (CVE-2022-0342)"][632]
 
 ## 2021
@@ -758,6 +759,7 @@ exploit"][392]
 * [Red-Team-Infrastructure-Wiki][498]
 * ["Reverse Engineering For Everyone!"][399]
 * ["Reverse Engineering WiFi on RISC-V BL602"][617]
+* ["Rust Atomics and Locks"][651]
 * ["Satellite Hacking Demystified(RTC0007)"][221]
 * [TEE Reversing][263]
 * [tmpout.sh][515]: collection of writeups on low-level stuff
@@ -1417,3 +1419,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [647]: https://blog.abdulrah33m.com/prototype-pollution-in-python/
 [648]: https://samcurry.net/web-hackers-vs-the-auto-industry/
 [649]: https://www.thegoodpenguin.co.uk/blog/pcie-dma-attack-against-a-secured-jetson-nano-cve-2022-21819/
+[650]: https://vulncheck.com/blog/xiongmai-iot-exploitation
+[651]: https://marabos.nl/atomics/
