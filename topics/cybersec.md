@@ -236,6 +236,7 @@ exploit"][392]
 * ["Let's build a Chrome extension that steals everything"][463]
 * ["Let’s Go into the rabbit hole (part 1) — the challenges of dynamically hooking Golang programs"][387]
 * ["Leveraging ssh-keygen for Arbitrary Execution (and Privilege Escalation)"][327]
+* ["lexmark printer haxx"][652]
 * [linux-re-101][169]
 * ["Linux debugging, profiling and tracing training"][353]
 * ["Linux Kernel Unauthenticated Remote Heap Overflow Within KSMBD"][544]
@@ -375,6 +376,9 @@ exploit"][392]
 * ["Understanding the Heap - a beautiful mess"][348]
 * ["Unleashing ksmbd: remote exploitation of the Linux kernel (ZDI-23-979, ZDI-23-980)"][533]
 * ["Unlimited Results: Breaking Firmware Encryption of ESP32-V3"][598]
+* "Unveiling secrets of the ESP32":
+  * ["creating an open-source MAC Layer"][653]
+  * ["reverse engineering RX"][654]
 * ["Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More"][648]
 * ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
 * ["Windows Installer EOP (CVE-2023-21800)"][314]
@@ -1421,3 +1425,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [649]: https://www.thegoodpenguin.co.uk/blog/pcie-dma-attack-against-a-secured-jetson-nano-cve-2022-21819/
 [650]: https://vulncheck.com/blog/xiongmai-iot-exploitation
 [651]: https://marabos.nl/atomics/
+[652]: https://github.com/blasty/lexmark
+[653]: https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/
+[654]: https://zeus.ugent.be/blog/23-24/esp32-reverse-engineering-continued/
