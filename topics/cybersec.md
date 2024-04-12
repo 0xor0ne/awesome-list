@@ -109,6 +109,12 @@ exploit"][392]
 * ["Coffee: A COFF loader made in Rust"][93]
 * ["Competing in Pwn2Own ICS 2022 Miami: Exploiting a zero click remote memory corruption in ICONICS Genesis64"][397]
 * ["Conquering the memory through io_uring - Analysis of CVE-2023-2598"][528]
+* "Cracking Windows Kernel with HEVD"
+  * ["Chapter 0"][656]
+  * ["Chapter 1"][657]
+  * ["Chapter 2"][658]
+  * ["Chapter 3"][659]
+  * ["Chapter 4"][660]
 * ["Cueing up a calculator: an introduction to exploit development on Linux"][534]
 * "Customizing Sliver":
   * [Part 1][603]
@@ -556,6 +562,7 @@ exploit"][392]
 * "Digging into Linux namespaces":
   * [Part 1][157]
   * [Part 2][158]
+* ["Extending Ghidra Part 1: Setting up a Development Environment"][655]
 * ["Fire of Salvation Writeup: Utilizing msg_msg Objects for Arbitrary Read and Arbitrary Write in the Linux Kernel"][252]
 * "Fuzzing101 with LibAFL":
   * ["Fuzzing Xpdf"][468]
@@ -1428,3 +1435,9 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [652]: https://github.com/blasty/lexmark
 [653]: https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/
 [654]: https://zeus.ugent.be/blog/23-24/esp32-reverse-engineering-continued/
+[655]: https://voidstarsec.com/blog/ghidra-dev-environment
+[656]: https://mdanilor.github.io/posts/hevd-0/
+[657]: https://mdanilor.github.io/posts/hevd-1/
+[658]: https://mdanilor.github.io/posts/hevd-2/
+[659]: https://mdanilor.github.io/posts/hevd-3/
+[660]: https://mdanilor.github.io/posts/hevd-4/
