@@ -25,6 +25,7 @@
   * [Article 01][583]
   * [Article 02][584]
 * ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
+* ["Hunting for Unauthenticated n-days in Asus Routers"][662]
 * ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
 * ["Playing with libmalloc in 2024"][610]
 * ["Strengthening the Shield: MTE in Heap Allocators"][596]
@@ -114,7 +115,7 @@ exploit"][392]
   * ["Chapter 1"][657]
   * ["Chapter 2"][658]
   * ["Chapter 3"][659]
-  * ["Chapter 4"][660]
+  * ["Chapter 4"][660Hardware Hacking to Bypass Hardware Hacking to Bypass Hardware Hacking to Bypass ]
 * ["Cueing up a calculator: an introduction to exploit development on Linux"][534]
 * "Customizing Sliver":
   * [Part 1][603]
@@ -224,6 +225,7 @@ exploit"][392]
   * [Part 6][106]
 * ["How to Emulate Android Native Libraries Using Qiling"][482]
 * ["How To Secure A Linux Server"][140]
+* ["Hunting Vulnerable Kernel Drivers"][661]
 * ["Icicle: A Re-designed Emulator for Grey-Box Firmware Fuzzing"][171]
 * ["In-depth analysis on Valorant’s Guarded Regions"][141]
 * ["In-Memory-Only ELF Execution (Without tmpfs)"][355]
@@ -1441,3 +1443,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [658]: https://mdanilor.github.io/posts/hevd-2/
 [659]: https://mdanilor.github.io/posts/hevd-3/
 [660]: https://mdanilor.github.io/posts/hevd-4/
+[661]: https://blogs.vmware.com/security/2023/10/hunting-vulnerable-kernel-drivers.html
+[662]: https://www.shielder.com/blog/2024/01/hunting-for-~~un~~authenticated-n-days-in-asus-routers/
