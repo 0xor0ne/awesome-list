@@ -25,6 +25,7 @@
   * [Article 01][583]
   * [Article 02][584]
 * ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
+* ["Hunting down the HVCI bug in UEFI"][668]
 * ["Hunting for Unauthenticated n-days in Asus Routers"][662]
 * ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
 * ["Playing with libmalloc in 2024"][610]
@@ -461,6 +462,12 @@ exploit"][392]
 * "Intro to Embedded RE":
   * ["Tools and Series"][351]
   * ["UART Discovery and Firmware Extraction via UBoot"][352]
+* "Introduction to x64 Linux Binary Exploitation":
+  * [Part 1][663]
+  * [Part 2][664]
+  * [Part 3][665]
+  * [Part 4][666]
+  * [Part 5][667]
 * ["Linux Hardening Guide"][349]
 * ["Linux Kernel: Exploiting a Netfilter Use-after-Free in kmalloc-cg"][269]
 * ["Linux Kernel Exploit (CVE-2022–32250) with mqueue"][242]
@@ -1445,3 +1452,9 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [660]: https://mdanilor.github.io/posts/hevd-4/
 [661]: https://blogs.vmware.com/security/2023/10/hunting-vulnerable-kernel-drivers.html
 [662]: https://www.shielder.com/blog/2024/01/hunting-for-~~un~~authenticated-n-days-in-asus-routers/
+[663]: https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-1-14ad4a27aeef
+[664]: https://valsamaras.medium.com/introduction-to-x64-binary-exploitation-part-2-return-into-libc-c325017f465
+[665]: https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-3-rop-chains-3cdcf17e8826
+[666]: https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-4-stack-canaries-e9b6dd2c3127
+[667]: https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-5-aslr-394d0dc8e4fb
+[668]: https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html
