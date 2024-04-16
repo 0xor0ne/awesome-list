@@ -20,6 +20,7 @@
 
 ## 2024
 
+* ["A first look at Android 14 forensics"][669]
 * ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
 * "Exploiting Reversing (ER) series":
   * [Article 01][583]
@@ -116,7 +117,7 @@ exploit"][392]
   * ["Chapter 1"][657]
   * ["Chapter 2"][658]
   * ["Chapter 3"][659]
-  * ["Chapter 4"][660Hardware Hacking to Bypass Hardware Hacking to Bypass Hardware Hacking to Bypass ]
+  * ["Chapter 4"][660]
 * ["Cueing up a calculator: an introduction to exploit development on Linux"][534]
 * "Customizing Sliver":
   * [Part 1][603]
@@ -509,6 +510,11 @@ exploit"][392]
   * [Part 2][163]
 * ["Reverse Engineering a Cobalt Strike Dropper With Binary Ninja"][368]
 * ["Reverse engineering an EV charger"][606]
+* "Reverse Engineering Dark Souls 3":
+  * ["Connection"][670]
+  * ["Packets"][671]
+  * ["Key Exchange"][672]
+  * ["Reliable UDP"][673]
 * ["Reverse engineering integrity checks in Black Ops 3"][220]
 * ["Reverse engineering thermal printers"][245]
 * ["Reviving Exploits Against Cred Structs - Six Byte Cross Cache Overflow to Leakless Data-Oriented Kernel Pwnage"][491]
@@ -1458,3 +1464,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [666]: https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-4-stack-canaries-e9b6dd2c3127
 [667]: https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-5-aslr-394d0dc8e4fb
 [668]: https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html
+[669]: https://blog.digital-forensics.it/2024/01/a-first-look-at-android-14-forensics.html?m=1
+[670]: https://timleonard.uk/2022/05/29/reverse-engineering-dark-souls-3-networking
+[671]: https://timleonard.uk/2022/06/02/reverse-engineering-dark-souls-3-networking-part-2
+[672]: https://timleonard.uk/2022/06/03/reverse-engineering-dark-souls-3-networking-part-3
+[673]: https://timleonard.uk/2022/06/09/reverse-engineering-dark-souls-3-networking-part-4
