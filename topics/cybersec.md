@@ -26,6 +26,7 @@
   * [Article 01][583]
   * [Article 02][584]
 * ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
+* ["Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution"][674]
 * ["Hunting down the HVCI bug in UEFI"][668]
 * ["Hunting for Unauthenticated n-days in Asus Routers"][662]
 * ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
@@ -504,6 +505,7 @@ exploit"][392]
 * ["Racing against the clock -- hitting a tiny kernel race window"][492]
 * ["Reversing C++, Qt based applications using Ghidra"][586]
 * ["Racing Cats to the Exit: A Boring Linux Kernel Use-After-Free"][406]
+* ["Replicant: Reproducing a Fault Injection "][675]
 * ["Researching Xiaomi’s Tee to Get to Chinese Money"][274]
 * "Reversing embedded device bootloader (U-Boot)":
   * [Part 1][162]
@@ -1469,3 +1471,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [671]: https://timleonard.uk/2022/06/02/reverse-engineering-dark-souls-3-networking-part-2
 [672]: https://timleonard.uk/2022/06/03/reverse-engineering-dark-souls-3-networking-part-3
 [673]: https://timleonard.uk/2022/06/09/reverse-engineering-dark-souls-3-networking-part-4
+[674]: https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/
+[675]: https://voidstarsec.com/blog/replicant-part-1
