@@ -27,6 +27,7 @@
   * [Article 02][584]
 * ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
 * ["Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution"][674]
+* ["Hi, My Name is Keyboard"][676]
 * ["Hunting down the HVCI bug in UEFI"][668]
 * ["Hunting for Unauthenticated n-days in Asus Routers"][662]
 * ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
@@ -55,6 +56,7 @@
 * ["A Race to Report a TOCTOU: Analysis of a Bug Collision in Intel SMM"][255]
 * ["A Red-Teamer diaries"][156]
 * ["A story about tampering EDRs"][293]
+* ["Abusing Liftoff assembly and efficiently escaping from sbx"][677]
 * ["Abusing undocumented features to spoof PE section headers"][139]
 * ["Achieving Remote Code Execution in Steam: a journey into the Remote Play protocol"][587]
 * ["All about LeakSanitizer"][460]
@@ -1473,3 +1475,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [673]: https://timleonard.uk/2022/06/09/reverse-engineering-dark-souls-3-networking-part-4
 [674]: https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/
 [675]: https://voidstarsec.com/blog/replicant-part-1
+[676]: https://github.com/skysafe/reblog/blob/main/cve-2024-0230/README.md
+[677]: https://retr0.zip/blog/abusing-Liftoff-assembly-and-efficiently-escaping-from-sbx.html
