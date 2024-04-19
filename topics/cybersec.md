@@ -252,6 +252,10 @@ exploit"][392]
 * ["lexmark printer haxx"][652]
 * [linux-re-101][169]
 * ["Linux debugging, profiling and tracing training"][353]
+* "Linux Kernel Exploitation"
+  * ["Getting started & BOF"][678]
+  * ["Heap techniques"][679]
+  * ["Exploiting race-condition + UAF"][680]
 * ["Linux Kernel Unauthenticated Remote Heap Overflow Within KSMBD"][544]
 * ["Linux Kernel Teaching"][131]
 * ["Linux Malware: Defense Evasion Techniques"][165]
@@ -405,6 +409,8 @@ exploit"][392]
   * ["Chip identification, BUSSide, and I2C"][294]
   * ["Discover components and ports"][295]
   * ["Firmware dump and analysis"][296]
+  * ["Radio communications"][681]
+  * ["Internal communications"][682]
 * "A Technical Analysis of Pegasus for Android":
   [part 1][564]
   [Part 2][565]
@@ -1477,3 +1483,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [675]: https://voidstarsec.com/blog/replicant-part-1
 [676]: https://github.com/skysafe/reblog/blob/main/cve-2024-0230/README.md
 [677]: https://retr0.zip/blog/abusing-Liftoff-assembly-and-efficiently-escaping-from-sbx.html
+[678]: https://santaclz.github.io/2023/11/03/Linux-Kernel-Exploitation-Getting-started-and-BOF.html
+[679]: https://santaclz.github.io/2024/01/20/Linux-Kernel-Exploitation-Heap-techniques.html
+[680]: https://santaclz.github.io/2024/01/29/Linux-Kernel-Exploitation-exploiting-race-condition-and-UAF.html
+[681]: https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-3-radio-communications/
+[682]: https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-4-internal-communications/
