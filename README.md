@@ -476,6 +476,7 @@ many of the static and dynamic analysis tools.
   * [How to learn modern Rust][498]: guide to rust adventurer.
   * [Macros][308]: the little book of rust macros.
   * [min-sized-rust][373]: how to minimize Rust binary size.
+  * [miri][621]: interpreter for Rust's mid-level intermediate representation.
   * [Offensive Rust][379]: Rust Weaponization for Red Team Engagements.
   * [Official Repository][286]: official Rust repository.
   * [Performance][322]: Rust Performance Book.
@@ -490,6 +491,7 @@ many of the static and dynamic analysis tools.
   using musl-cross.
   * [Rust cookbook][544]: collection of simple examples in Rust
   * [Rust for professionals][545]: short introduction to Rust
+  * [rust-indexed][620]
   * [Rust to Assembly][501]: Understanding the Inner Workings of Rust.
   * [RustBooks][547]: List of Rust books
   * [Rustonomicon][150]: awful details that you need to understand when writing
@@ -499,6 +501,7 @@ many of the static and dynamic analysis tools.
   * [Rust Reference][151]: primary reference for the Rust programming language.
   * [rustup][152]: installer for the systems programming language Rust.
   * [std][43]: standard library documentation.
+  * [The Little Book of Rust Books][619]
   * [Usafe Code Guidelines][552]: "guide" for writing unsafe code
   * [Windows RS][383]: Rust for Windows.
   * [This Week In Rust][148]: handpicked Rust updates, delivered to your inbox.
@@ -1182,3 +1185,6 @@ many of the static and dynamic analysis tools.
 [616]: https://github.com/onethawt/reverseengineering-reading-list
 [617]: https://github.com/jmswrnr/esp32knife
 [618]: https://github.com/BlackVS/ESP32-reversing
+[619]: https://lborb.github.io/book/official.html
+[620]: https://rust-indexed.com
+[621]: https://github.com/rust-lang/miri
