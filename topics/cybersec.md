@@ -22,9 +22,11 @@
 
 * ["A first look at Android 14 forensics"][669]
 * ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
+* ["Deobfuscating Android ARM64 strings with Ghidra: Emulating, Patching, and Automating"][683]
 * "Exploiting Reversing (ER) series":
   * [Article 01][583]
   * [Article 02][584]
+* ["Exploring object file formats"][684]
 * ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
 * ["Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution"][674]
 * ["Hi, My Name is Keyboard"][676]
@@ -1488,3 +1490,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [680]: https://santaclz.github.io/2024/01/29/Linux-Kernel-Exploitation-exploiting-race-condition-and-UAF.html
 [681]: https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-3-radio-communications/
 [682]: https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-4-internal-communications/
+[683]: https://blog.nviso.eu/2024/01/15/deobfuscating-android-arm64-strings-with-ghidra-emulating-patching-and-automating/
+[684]: https://maskray.me/blog/2024-01-14-exploring-object-file-formats
