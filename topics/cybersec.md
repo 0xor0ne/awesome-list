@@ -231,6 +231,7 @@ exploit"][392]
   * [Part 5][105]
   * [Part 6][106]
 * ["How to Emulate Android Native Libraries Using Qiling"][482]
+* ["How to Voltage Fault Injection"][685]
 * ["How To Secure A Linux Server"][140]
 * ["Hunting Vulnerable Kernel Drivers"][661]
 * ["Icicle: A Re-designed Emulator for Grey-Box Firmware Fuzzing"][171]
@@ -798,6 +799,7 @@ exploit"][392]
 * ["Reverse Engineering For Everyone!"][399]
 * ["Reverse Engineering WiFi on RISC-V BL602"][617]
 * ["Rust Atomics and Locks"][651]
+* ["RustRedOps"][686]
 * ["Satellite Hacking Demystified(RTC0007)"][221]
 * [TEE Reversing][263]
 * [tmpout.sh][515]: collection of writeups on low-level stuff
@@ -1492,3 +1494,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [682]: https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-4-internal-communications/
 [683]: https://blog.nviso.eu/2024/01/15/deobfuscating-android-arm64-strings-with-ghidra-emulating-patching-and-automating/
 [684]: https://maskray.me/blog/2024-01-14-exploring-object-file-formats
+[685]: https://www.synacktiv.com/en/publications/how-to-voltage-fault-injectiongg
+[686]: https://github.com/joaoviictorti/RustRedOps
