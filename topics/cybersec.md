@@ -32,7 +32,9 @@
 * ["Hi, My Name is Keyboard"][676]
 * ["Hunting down the HVCI bug in UEFI"][668]
 * ["Hunting for Unauthenticated n-days in Asus Routers"][662]
+* ["LeftoverLocals: Listening to LLM responses through leaked GPU local memory"][687]
 * ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
+* ["My new superpower"][688]
 * ["Playing with libmalloc in 2024"][610]
 * ["Strengthening the Shield: MTE in Heap Allocators"][596]
 * "Writing a Debugger From Scratch"
@@ -1496,3 +1498,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [684]: https://maskray.me/blog/2024-01-14-exploring-object-file-formats
 [685]: https://www.synacktiv.com/en/publications/how-to-voltage-fault-injectiongg
 [686]: https://github.com/joaoviictorti/RustRedOps
+[687]: https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/
+[688]: https://zeromips.org/posts/2024-01-08-superpower/
