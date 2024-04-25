@@ -60,6 +60,7 @@
 * [Clang Built Linux][23]: building the Linux kernel with Clang.
 * [crash][96]: Linux kernel crash utility
 * [lowlevelprogramming-university][82]: How to be low-level programmer
+* lunatik: framework for scripting the Linux kernel with Lua
 * [TuxSuite][42]: on-demand APIs and tools for building Linux Kernels.
 * [vmlinux-to-elf][86]: tool to recover a fully analyzable .ELF from a raw
   kernel.
@@ -260,3 +261,4 @@
 [95]: https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/
 [96]: https://crash-utility.github.io
 [97]: https://arm64.syscall.sh
+[98]: https://github.com/luainkernel/lunatik
