@@ -29,9 +29,11 @@
 * ["Exploring object file formats"][684]
 * ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
 * ["Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution"][674]
+* ["Hacking a Smart Home Device"][691]
 * ["Hi, My Name is Keyboard"][676]
 * ["Hunting down the HVCI bug in UEFI"][668]
 * ["Hunting for Unauthenticated n-days in Asus Routers"][662]
+* ["Inside the LogoFAIL PoC: From Integer Overflow to Arbitrary Code Execution"][692]
 * ["LeftoverLocals: Listening to LLM responses through leaked GPU local memory"][687]
 * ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
 * ["Modern implant design: position independent malware development"][690]
@@ -1504,3 +1506,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [688]: https://zeromips.org/posts/2024-01-08-superpower/
 [689]: https://redops.at/en/blog/shell-we-assemble-unleashing-x86-inline-assembly-for-shellcode-execution
 [690]: https://5pider.net/blog/2024/01/27/modern-shellcode-implant-design/
+[691]: https://jmswrnr.com/blog/hacking-a-smart-home-device
+[692]: https://www.binarly.io/blog/inside-the-logofail-poc-from-integer-overflow-to-arbitrary-code-execution
