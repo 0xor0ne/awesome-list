@@ -41,6 +41,8 @@
 * ["Playing with libmalloc in 2024"][610]
 * ["Shell We Assemble?"][689]
 * ["Strengthening the Shield: MTE in Heap Allocators"][596]
+* ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
+* ["Understanding Windows x64 Assembly"][693]
 * "Writing a Debugger From Scratch"
   * ["Attaching to a Process"][449]
   * ["Register State and Stepping"][450]
@@ -1508,3 +1510,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [690]: https://5pider.net/blog/2024/01/27/modern-shellcode-implant-design/
 [691]: https://jmswrnr.com/blog/hacking-a-smart-home-device
 [692]: https://www.binarly.io/blog/inside-the-logofail-poc-from-integer-overflow-to-arbitrary-code-execution
+[693]: https://sonictk.github.io/asm_tutorial/
+[694]: https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta
