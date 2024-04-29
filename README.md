@@ -589,6 +589,7 @@ many of the static and dynamic analysis tools.
   * [IDAObjcTypes][604]: collection of types & functions definitions useful for Objective-C binaries analysis.
   * [pyhidra][612]: Ghidra API within a native CPython interpreter using jpype.
   * [pypcode][611]: Python bindings to Ghidra's SLEIGH library for disassembly and lifting to P-Code IR
+  * [refinery][622]: transformations of binary data
   * [Sekiryu][517]: comprehensive toolkit for Ghidra headless.
   * [SVD-Loader-Ghidra][593]: SVD loader for Ghidra.
     * [cmsis-svd][594]: Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools
@@ -1188,3 +1189,4 @@ many of the static and dynamic analysis tools.
 [619]: https://lborb.github.io/book/official.html
 [620]: https://rust-indexed.com
 [621]: https://github.com/rust-lang/miri
+[622]: https://github.com/binref/refinery
