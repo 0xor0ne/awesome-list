@@ -65,12 +65,13 @@ See also the following lists dedicated to specifics sub-topics:
 * [Fuzzing][388]: curated list of fuzzing resources.
 * [Fuzzing paper collection][397]: papers related to fuzzing, binary analysis,
   and exploit dev.
+* [Golang][105]: curated list of awesome Go frameworks, libraries and software.
 * [Hacking][361]: collection of awesome lists for hackers, pentesters & security
   researchers.
 * [ICS Security][374]: tools, tips, tricks, and more for exploring ICS Security.
 * [IoT Security 101][273]: curated list of IoT Security Resources.
 * [IoT][19]: list of great resources about IoT Framework, Library, OS, Platforms.
-* [Golang][105]: curated list of awesome Go frameworks, libraries and software.
+* [Linux-Bash-Commands][624]: list of Linux bash commands, cheatsheets and resources.
 * [Malware Analysis][34]: malware analysis tools and resources.
 * [Modern Unix][493]: collection of modern/faster/saner alternatives to common
   unix commands.
@@ -96,10 +97,12 @@ See also the following lists dedicated to specifics sub-topics:
 * [System Design][400]: learn how to design systems at scale.
 * [Tech Interview][401]: curated coding interview preparation materials.
 * [The Art of Command Line][496]: Master the command line.
+* [tmux][644]: awesome resources for tmux
 * [Tunneling][181]: ngrok alternatives and other ngrok-like tunneling software
   and services.
 * [Vim][32]: all things vim.
 * [WAF][317]: everything about web-application firewalls (WAF).
+* [You-Dont-Need-GUI][623]: list some common tasks that you might be tempted to do in GUI.
 
 ## Blogs and Tutorials
 
@@ -341,8 +344,11 @@ many of the static and dynamic analysis tools.
 ## Misc
 
 * [Arti][427]: implementation of Tor, in Rust.
+* [bat][625]: A cat(1) clone with wings.
+* [broot][626]: A new way to see and navigate directory trees
 * [Caddy][363]: fast, multi-platform web server with automatic HTTPS.
 * [CoreUtils][214]: Cross-platform Rust rewrite of the GNU coreutils.
+* [delta][632]: syntax-highlighting pager for git, diff, and grep output.
 * [difftastic][440]: structural diff that understands syntax.
 * [e9patch][582]: static binary rewriting tool.
 * [esphome.io][449]: control your ESP8266/ESP32.
@@ -350,25 +356,42 @@ many of the static and dynamic analysis tools.
   multiple vendors.
 * [fccid][433]: information resource for all wireless device applications filed
   with the FCC.
+* [fd][627]: A simple, fast and user-friendly alternative to 'find'
 * [FlipperZero][402]: portable multi-tool for pentesters and geeks in a toy-like
   body.
+* [fx][638]: Terminal JSON viewer & processor
+* [fzf][636]: command-line fuzzy finder.
 * [Googl Home][452]: smart home ecosystem.
-* [klgrth][245]: pastebin alternative.
+* [httpie (cli)][640]: modern, user-friendly command-line HTTP client for the
+API era.
 * [jless][434]: command-line JSON viewer designed for reading, exploring, and
   searching through JSON data.
+* [klgrth][245]: pastebin alternative.
+* [jnv][634]: interactive JSON filter using jq
+* [jq][637]: Command-line JSON processor
+* [lazygit][639]: simple terminal UI for git commands.
+* [lsd][631]: next gen ls command.
 * [makefiletutorial][487]: makefile tutorial
+* [miller][629]: like awk, sed, cut, join, and sort for name-indexed data such
+as CSV, TSV, and tabular JSON.
+* [miniserve][634]: serve some files over HTTP right now.
 * [OpenSK][67]: open-source implementation for security keys written in Rust.
 * [Pastebin][242]: store any text online for easy sharing.
 * [patents][434]: patents db from Google.
 * [Polypyus][191]: locate functions in raw binaries by extracting known functions
   from similar binaries.
+* [procs][633]: modern replacement for ps written in Rust.
 * [pspy][264]: monitor linux processes without root permissions.
+* [ranger][642]: VIM-inspired filemanager for the console
+* [ripgrep][628]: line-oriented search tool.
+* [sd][641]: Intuitive find & replace CLI.
 * [sniffglue][455]: Secure multithreaded packet sniffer (in rust).
 * [sniffle][444]: sniffer for Bluetooth 5 and 4.x LE.
 * [temp.sh][246]: alternative to transfer.sh.
 * [transfer.sh][243]: easy file sharing from the command line.
 * [uhr][237]: Universal Radio Hacker.
 * [wabt][255]: WebAssembly Binary Toolkit.
+* [yazi][643]: terminal file manager written in Rus
 * [ZeroBin][244]: open source online pastebin where the server has zero
   knowledge of pasted data.
 
@@ -594,6 +617,7 @@ many of the static and dynamic analysis tools.
   * [SVD-Loader-Ghidra][593]: SVD loader for Ghidra.
     * [cmsis-svd][594]: Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools
     * [keil (devices)][595]: Keil devices SVDs
+* [hexyl][630]: command-line hex viewer
 * [ImHex][584]: Hex Editor for Reverse Engineers.
 * [kaiju][610]: binary analysis framework extension for Ghidra.
 * [Kaitai Struct][231]: declarative language to generate binary data parsers.
@@ -1190,3 +1214,25 @@ many of the static and dynamic analysis tools.
 [620]: https://rust-indexed.com
 [621]: https://github.com/rust-lang/miri
 [622]: https://github.com/binref/refinery
+[623]: https://github.com/you-dont-need/You-Dont-Need-GUI
+[624]: https://github.com/trinib/Linux-Bash-Commands
+[625]: https://github.com/sharkdp/bat
+[626]: https://github.com/Canop/broot
+[627]: https://github.com/sharkdp/fd
+[628]: https://github.com/BurntSushi/ripgrep
+[629]: https://github.com/johnkerl/miller
+[630]: https://github.com/sharkdp/hexyl
+[631]: https://github.com/lsd-rs/lsd
+[632]: https://github.com/dandavison/delta
+[633]: https://github.com/dalance/procs
+[634]: https://github.com/svenstaro/miniserve
+[635]: https://github.com/ynqa/jnv
+[636]: https://github.com/junegunn/fzf
+[637]: https://github.com/jqlang/jq
+[638]: https://github.com/antonmedv/fx
+[639]: https://github.com/jesseduffield/lazygit
+[640]: https://github.com/httpie/cli
+[641]: https://github.com/chmln/sd
+[642]: https://github.com/ranger/ranger
+[643]: https://github.com/sxyazi/yazi
+[644]: https://github.com/rothgar/awesome-tmux
