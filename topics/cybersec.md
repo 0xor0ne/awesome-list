@@ -22,6 +22,8 @@
 
 * ["A first look at Android 14 forensics"][669]
 * ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
+* ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
+* ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
 * ["Deobfuscating Android ARM64 strings with Ghidra: Emulating, Patching, and Automating"][683]
 * "Exploiting Reversing (ER) series":
   * [Article 01][583]
@@ -38,10 +40,12 @@
 * ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
 * ["Modern implant design: position independent malware development"][690]
 * ["My new superpower"][688]
+* ["Out-of-bounds read & write in the glibc's qsort()"][698]
 * ["Playing with libmalloc in 2024"][610]
 * ["Shell We Assemble?"][689]
 * ["Strengthening the Shield: MTE in Heap Allocators"][596]
 * ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
+* ["TP-Link TDDP Buffer Overflow Vulnerability"][695]
 * ["Understanding Windows x64 Assembly"][693]
 * "Writing a Debugger From Scratch"
   * ["Attaching to a Process"][449]
@@ -810,8 +814,9 @@ exploit"][392]
 * ["RustRedOps"][686]
 * ["Satellite Hacking Demystified(RTC0007)"][221]
 * [TEE Reversing][263]
-* [tmpout.sh][515]: collection of writeups on low-level stuff
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][258]
+* [tmpout.sh][515]: collection of writeups on low-level stuff
+* [TripleCross][696]
 * [USB-WiFi][329]
 * ["VSS: Beginners Guide to Building a Hardware Hacking Lab"][249]
 * ["WinDBG quick start tutorial"][485]
@@ -1512,3 +1517,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [692]: https://www.binarly.io/blog/inside-the-logofail-poc-from-integer-overflow-to-arbitrary-code-execution
 [693]: https://sonictk.github.io/asm_tutorial/
 [694]: https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta
+[695]: https://boschko.ca/tp-link-tddp-bof/
+[696]: https://github.com/h3xduck/TripleCross
+[697]: https://seclists.org/oss-sec/2024/q1/68
+[698]: https://seclists.org/oss-sec/2024/q1/69
+[699]: https://www.whid.ninja/blog/denial-of-pleasure-attacking-unusual-ble-targets-with-a-flipper-zero
