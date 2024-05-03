@@ -1,4 +1,4 @@
-# Cybersecurity Content
+# Cybersecurity Contet
 
 - Go back to [Home page (awesome list)](../)
 - See also [Exploitation specific content](./exploitation.md)
@@ -25,6 +25,7 @@
 * ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
 * ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
 * ["Deobfuscating Android ARM64 strings with Ghidra: Emulating, Patching, and Automating"][683]
+* ["Exploring AMD Platform Secure Boot"][701]
 * "Exploiting Reversing (ER) series":
   * [Article 01][583]
   * [Article 02][584]
@@ -316,6 +317,7 @@ exploit"][392]
 * ["nftables Adventures: Bug Hunting and N-day Exploitation (CVE-2023-31248)"][365]
 * ["Obscure Windows File Types"][74]
 * ["Old Bug, Shallow Bug: Exploiting Ubuntu at Pwn2own Vancouver 2023"][254]
+* ["One shot, Triple kill"][700]
 * "OPC UA Deep Dive Series":
   * [Part 1][211]
   * [Part 2][212]
@@ -1453,7 +1455,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [628]: https://wrongbaud.github.io/posts/MK-Teardown/
 [629]: https://wrongbaud.github.io/posts/Holiday-Teardown/
 [630]: https://www.sonarsource.com/blog/disclosing-information-with-a-side-channel-in-django/
-[631]: https://offlinemark.com/2021/05/12/an-obscure-quirk-of-proc/ 
+[631]: https://offlinemark.com/2021/05/12/an-obscure-quirk-of-proc/
 [632]: https://security.humanativaspa.it/zyxel-authentication-bypass-patch-analysis-cve-2022-0342/
 [633]: https://uploads-ssl.webflow.com/645a4534705010e2cb244f50/64912bac55ece2717e14e84a_Nozomi-Networks-WP-UWB-Real-Time-Locating-Systems.pdf
 [634]: https://wrongbaud.github.io/posts/stm-xbox-jtag/
@@ -1522,3 +1524,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [697]: https://seclists.org/oss-sec/2024/q1/68
 [698]: https://seclists.org/oss-sec/2024/q1/69
 [699]: https://www.whid.ninja/blog/denial-of-pleasure-attacking-unusual-ble-targets-with-a-flipper-zero
+[700]: https://kaist-hacking.github.io/pubs/2023/kim:kernel-ctf-slides.pdf
+[701]: https://labs.ioactive.com/2024/02/exploring-amd-platform-secure-boot.html
