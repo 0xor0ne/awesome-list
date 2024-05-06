@@ -20,6 +20,9 @@
 
 ## 2024
 
+* "*nix libX11: Uncovering and exploiting a 35-year-old vulnerability"
+  * [Part 1][703]
+  * [Part 2][704]
 * ["A first look at Android 14 forensics"][669]
 * ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
 * ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
@@ -36,6 +39,7 @@
 * ["Hi, My Name is Keyboard"][676]
 * ["Hunting down the HVCI bug in UEFI"][668]
 * ["Hunting for Unauthenticated n-days in Asus Routers"][662]
+* ["Kuiper Ransomware’s Evolution"][702]
 * ["Inside the LogoFAIL PoC: From Integer Overflow to Arbitrary Code Execution"][692]
 * ["LeftoverLocals: Listening to LLM responses through leaked GPU local memory"][687]
 * ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
@@ -1526,3 +1530,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [699]: https://www.whid.ninja/blog/denial-of-pleasure-attacking-unusual-ble-targets-with-a-flipper-zero
 [700]: https://kaist-hacking.github.io/pubs/2023/kim:kernel-ctf-slides.pdf
 [701]: https://labs.ioactive.com/2024/02/exploring-amd-platform-secure-boot.html
+[702]: https://www.trellix.com/blogs/research/the-evolution-of-the-kuiper-ransomware/
+[703]: https://jfrog.com/blog/xorg-libx11-vulns-cve-2023-43786-cve-2023-43787-part-one/
+[704]: https://jfrog.com/blog/xorg-libx11-vulns-cve-2023-43786-cve-2023-43787-part-two/
