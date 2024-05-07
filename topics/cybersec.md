@@ -28,6 +28,7 @@
 * ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
 * ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
 * ["Deobfuscating Android ARM64 strings with Ghidra: Emulating, Patching, and Automating"][683]
+* ["DJI - The ART of obfuscation"][705]
 * ["Exploring AMD Platform Secure Boot"][701]
 * "Exploiting Reversing (ER) series":
   * [Article 01][583]
@@ -370,6 +371,7 @@ exploit"][392]
   * [Part 2][576]
   * [Part 3][577]
   * [Part 4][578]
+* ["scudo Hardened Allocator — Unofficial Internals Documentation"][706]
 * ["Securing our home labs: Frigate code review"][615]
 * ["Securing our home labs: Home Assistant code review"][614]
 * ["SHA-1 gets SHAttered"][325]
@@ -475,6 +477,7 @@ exploit"][392]
 * ["Exploiting CSN.1 Bugs in MediaTek Basebands"][272]
 * ["exploiting CVE-2019-2215"][61]
 * ["Exploiting CVE-2022-42703 - Bringing back the stack attack"][636]
+* ["Exploration of the Dirty Pipe Vulnerability (CVE-2022-0847)"][707]
 * ["Exploring the Hidden Attack Surface of OEM IoT Devices"][625]
 * ["Firmware key extraction by gaining EL3"][316]
 * ["Fortigate - Authentication Bypass Lead to Full Device Takeover"][291]
@@ -1533,3 +1536,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [702]: https://www.trellix.com/blogs/research/the-evolution-of-the-kuiper-ransomware/
 [703]: https://jfrog.com/blog/xorg-libx11-vulns-cve-2023-43786-cve-2023-43787-part-one/
 [704]: https://jfrog.com/blog/xorg-libx11-vulns-cve-2023-43786-cve-2023-43787-part-two/
+[705]: https://blog.quarkslab.com/dji-the-art-of-obfuscation.html
+[706]: https://www.l3harris.com/newsroom/editorial/2023/10/scudo-hardened-allocator-unofficial-internals-documentation
+[707]: https://lolcads.github.io/posts/2022/06/dirty_pipe_cve_2022_0847/
