@@ -24,6 +24,7 @@
   * [Part 1][703]
   * [Part 2][704]
 * ["A first look at Android 14 forensics"][669]
+* ["A Practical Guide to PrintNightmare in 2024"][709]
 * ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
 * ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
 * ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
@@ -434,6 +435,7 @@ exploit"][392]
   * ["Firmware dump and analysis"][296]
   * ["Radio communications"][681]
   * ["Internal communications"][682]
+* ["A Kernel Hacker Meets Fuchsia OS"][710]
 * "A Technical Analysis of Pegasus for Android":
   [part 1][564]
   [Part 2][565]
@@ -787,6 +789,7 @@ exploit"][392]
 * [Awesome Industrial Protocols][510]
 * ["Brute Ratel - Scandinavian Defence"][436]
 * [Comprehensive Rust][620]
+* [CVE North Stars][708]
 * ["Debugger Ghidra Class"][232]
 * [DhavalKapil/heap-exploitation][363]
 * [Diffing Portal][378]
@@ -1539,3 +1542,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [705]: https://blog.quarkslab.com/dji-the-art-of-obfuscation.html
 [706]: https://www.l3harris.com/newsroom/editorial/2023/10/scudo-hardened-allocator-unofficial-internals-documentation
 [707]: https://lolcads.github.io/posts/2022/06/dirty_pipe_cve_2022_0847/
+[708]: https://cve-north-stars.github.io
+[709]: https://itm4n.github.io/printnightmare-exploitation/
+[710]: https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html
