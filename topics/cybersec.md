@@ -37,6 +37,7 @@
 * ["Exploring object file formats"][684]
 * ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
 * ["Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution"][674]
+* ["GraphStrike: Anatomy of Offensive Tool Development"][712]
 * ["Hacking a Smart Home Device"][691]
 * ["Hi, My Name is Keyboard"][676]
 * ["Hunting down the HVCI bug in UEFI"][668]
@@ -48,6 +49,7 @@
 * ["Modern implant design: position independent malware development"][690]
 * ["My new superpower"][688]
 * ["Out-of-bounds read & write in the glibc's qsort()"][698]
+* ["PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack"][711]
 * ["Playing with libmalloc in 2024"][610]
 * ["Shell We Assemble?"][689]
 * ["Strengthening the Shield: MTE in Heap Allocators"][596]
@@ -167,7 +169,9 @@ exploit"][392]
 * ["Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”"][164]
 * ["Diving Into Smart Contract Decompilation"][204]
 * ["Diving into Starlink's User Terminal Firmware"][268]
-* ["DJI Mavic 3 Drone Research Part 1: Firmware Analysis"][376]
+* "DJI Mavic 3 Drone Research"
+  * ["Firmware Analysis"][376]
+  * ["Vulnerability Analysis"][713]
 * ["Drone Security and Fault Injection Attacks"][82]
 * "DualShock4 Reverse Engineering":
   * [Part 1][149]
@@ -1545,3 +1549,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [708]: https://cve-north-stars.github.io
 [709]: https://itm4n.github.io/printnightmare-exploitation/
 [710]: https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html
+[711]: https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html
+[712]: https://redsiege.com/blog/2024/01/graphstrike-developer/
+[713]: https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-2-vulnerability-analysis
