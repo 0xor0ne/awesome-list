@@ -25,6 +25,8 @@
   * [Part 2][704]
 * ["A first look at Android 14 forensics"][669]
 * ["A Practical Guide to PrintNightmare in 2024"][709]
+* ["A Technical Deep Dive: Comparing Anti-Cheat Bypass and EDR Bypass "][714]
+* ["A Trip Down Memory Lane"][715]
 * ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
 * ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
 * ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
@@ -1552,3 +1554,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [711]: https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html
 [712]: https://redsiege.com/blog/2024/01/graphstrike-developer/
 [713]: https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-2-vulnerability-analysis
+[714]: https://whiteknightlabs.com/2024/02/09/a-technical-deep-dive-comparing-anti-cheat-bypass-and-edr-bypass/#:~:text=Anti%2Dcheat%20bypass%20aims%20to,fostering%20a%20secure%20digital%20environment.
+[715]: https://gatari.dev/posts/a-trip-down-memory-lane/
