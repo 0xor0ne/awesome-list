@@ -28,6 +28,7 @@
 * ["A Technical Deep Dive: Comparing Anti-Cheat Bypass and EDR Bypass "][714]
 * ["A Trip Down Memory Lane"][715]
 * ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
+* ["Bypassing EDRs With EDR-Preloading"][716]
 * ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
 * ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
 * ["Deobfuscating Android ARM64 strings with Ghidra: Emulating, Patching, and Automating"][683]
@@ -793,6 +794,7 @@ exploit"][392]
 * [Anti-Debug Tricks][585]
 * ["ARM TrustZone: pivoting to the secure world"][304]
 * [Awesome Industrial Protocols][510]
+* [Awesome Executable Packing][717]
 * ["Brute Ratel - Scandinavian Defence"][436]
 * [Comprehensive Rust][620]
 * [CVE North Stars][708]
@@ -1556,3 +1558,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [713]: https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-2-vulnerability-analysis
 [714]: https://whiteknightlabs.com/2024/02/09/a-technical-deep-dive-comparing-anti-cheat-bypass-and-edr-bypass/#:~:text=Anti%2Dcheat%20bypass%20aims%20to,fostering%20a%20secure%20digital%20environment.
 [715]: https://gatari.dev/posts/a-trip-down-memory-lane/
+[716]: https://malwaretech.com/2024/02/bypassing-edrs-with-edr-preload.html
+[717]: https://github.com/packing-box/awesome-executable-packing?tab=readme-ov-file
