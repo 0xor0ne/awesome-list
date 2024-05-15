@@ -1,4 +1,4 @@
-# Cybersecurity Contet
+# Cybersecurity Content
 
 - Go back to [Home page (awesome list)](../)
 - See also [Exploitation specific content](./exploitation.md)
@@ -49,6 +49,7 @@
 * ["Inside the LogoFAIL PoC: From Integer Overflow to Arbitrary Code Execution"][692]
 * ["LeftoverLocals: Listening to LLM responses through leaked GPU local memory"][687]
 * ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
+* ["Microsoft BitLocker Bypasses are Practical"][718]
 * ["Modern implant design: position independent malware development"][690]
 * ["My new superpower"][688]
 * ["Out-of-bounds read & write in the glibc's qsort()"][698]
@@ -471,6 +472,7 @@ exploit"][392]
 * ["Blind Exploits to Rule Watchguard Firewalls"][173]
 * ["BPFDoor - An Evasive Linux Backdoor Technical Analysis"][292]
 * ["Competing in Pwn2Own 2021 Austin: Icarus at the Zenith"][556]
+* ["Creating a Rootkit to Learn C"][719]
 * ["CVE-2022-0435: A Remote Stack Overflow in The Linux Kernel"][377]
 * ["[CVE-2022-1786] A Journey To The Dawn"][401]
 * ["CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF"][168]
@@ -1560,3 +1562,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [715]: https://gatari.dev/posts/a-trip-down-memory-lane/
 [716]: https://malwaretech.com/2024/02/bypassing-edrs-with-edr-preload.html
 [717]: https://github.com/packing-box/awesome-executable-packing?tab=readme-ov-file
+[718]: https://blog.compass-security.com/2024/02/microsoft-bitlocker-bypasses-are-practical/
+[719]: https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/
