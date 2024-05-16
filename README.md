@@ -504,6 +504,7 @@ as CSV, TSV, and tabular JSON.
   * [Official Repository][286]: official Rust repository.
   * [Performance][322]: Rust Performance Book.
   * [Practice][375]: easily diving into and get skilled with Rust.
+  * [pretzelhammer's Rust blog][657]
   * [proc-macro-workshop][645]: Learn to write Rust procedural macros.
   * [Raspberrypi OS Tutorials][186]: learn to write an embedded OS in Rust.
   * [Redox OS][318]: Unix-like Operating System written in Rust.
@@ -1240,3 +1241,4 @@ as CSV, TSV, and tabular JSON.
 [644]: https://github.com/rothgar/awesome-tmux
 [645]: https://github.com/dtolnay/proc-macro-workshop
 [656]: https://github.com/dloss/binary-parsing?tab=readme-ov-file
+[657]: https://github.com/pretzelhammer/rust-blog
