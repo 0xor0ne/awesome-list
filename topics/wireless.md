@@ -98,11 +98,13 @@
     Raspberry Pi Zero W that learns from its surrounding WiFi environment in
     order to maximize the crackable WPA key material it captures/
   * [pi-pwnbox-rogueap][103]: Rogue AP based on Raspberry Pi
+  * [PiDense][217]: Python script to audit wireless network security.
   * [pixiewps][160]: An offline Wi-Fi Protected Setup brute-force utility.
   * [probequest][136]: Toolkit for playing with Wi-Fi probe requests.
   * [rastap][210]: full-featured wireless router setup for Debian-based devices.
   * [rogue (InfamousSYN)][135]: extensible toolkit providing penetration
   testers an easy-to-use platform to deploy Access Points.
+  * [sentrygun][215]: Rogue AP killer
   * [trackerjacker][134]: like nmap for mapping wifi networks you're not
     connected to, plus device tracking.
   * [websploit][205]: an advanced MITM framework.
@@ -120,6 +122,7 @@
   * [WiFiManager][121]: ESP8266 WiFi Connection manager with web captive portal.
   * [wifipumpkin3][29]: Powerful framework for rogue access point attack.
   * [wifite2][102]: script for auditing wireless networks.
+  * [wifi-presence][216]: Presence detection on OpenWrt routers using connect/disconnect events of WiFi clients.
   * [wiphisher][120]: The Rogue Access Point Framework.
   * [wirespy][206]: automate various wireless networks attacks.
   * [wpa_supplicant][100]: supplicant for 802.11
@@ -159,6 +162,7 @@
   * [BTStack][117]: Dual-mode Bluetooth stack, with small memory footprint
   * [NimBLE][130]: open-source Bluetooth Low Energy (BLE) stack
 * Tools
+  * [Android nRF-Connect][218]: nRF Connect for Mobile is an application designed for Bluetooth Low Energy developers.
   * [apple_bleee][166]: what an attacker get from Apple devices if they sniff Bluetooth traffic.
   * [AppleJuice][167]: Apple BLE proximity pairing message spoofing
   * [ble-fuzzing][107]: Stateful Black-Box Fuzzing of BLE Devices Using Automata
@@ -183,9 +187,11 @@
   * [gattlib][139]: Library to access GATT information from BLE (Bluetooth Low Energy) devices.
   * [ice9-bluetooth-sniffer][51]: Wireshark Bluetooth sniffer for HackRF,
     BladeRF, and USRP.
+  * [injectable-firmware][221]: Custom firmware for nrf52840-dongle to eversdrop and attack BLE communications.
   * [internalblue][26]: About Bluetooth experimentation framework for Broadcom
     and Cypress chips.
   * [Injectable firmware][35]: Custom firmware for nrf52840-dongle.
+  * [LOGITacker][219]: Enumerate and test Logitech wireless input devices for vulnerabilities
   * [nRF sniffer][40]: Bluetooth LE sniffer from nordic.
   * [Sniffle][21]: A sniffer for Bluetooth 5 and 4.x LE
 
@@ -228,6 +234,7 @@
 * [Nordic][79]
   * [GitHub][80]
   * [Documentation][191]
+  * [nrf-rs][220]
   * Tools:
     * [nRF Sniffer for 802.15.4][192]
     * [nRF Sniffer for Bluetooth LE][193]
@@ -530,3 +537,10 @@ communicating, and attacking IoT (Internet of Things) devices
 [212]: https://wigle.net
 [213]: https://github.com/efchatz/WPAxFuzz
 [214]: https://github.com/esp32-open-mac/esp32-open-mac
+[215]: https://github.com/s0lst1c3/sentrygun
+[216]: https://github.com/awilliams/wifi-presence
+[217]: https://github.com/WiPi-Hunter/PiDense
+[218]: https://github.com/NordicSemiconductor/Android-nRF-Connect/tree/main
+[219]: https://github.com/RoganDawes/LOGITacker
+[220]: https://github.com/nrf-rs
+[221]: https://github.com/RCayre/injectable-firmware
