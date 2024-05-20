@@ -114,6 +114,7 @@ exploit"][392]
   * [Part 1][395]
   * [Part 2][396]
 * ["Attacking IoT Devices from Web Perspective"][608]
+* ["Attacking JS engines: Fundamentals for understanding memory corruption crashes"][720]
 * ["Audio with embedded Linux training"][267]
 * ["Automating C2 Infrastructure with Terraform, Nebula, Caddy and Cobalt Strike"][300]
 * ["b3typer - bi0sCTF 2022"][554]
@@ -613,6 +614,9 @@ exploit"][392]
   * ["Imports (Import Direcory Table, ILT, IAT)"][336]
   * ["PE Base Relocations"][337]
   * ["Writing a PE Parser"][338]
+* "A Practical Approach to Attacking IoT Embedded Designs":
+  * [Part 1][721]
+  * [Part 2][722]
 * ["Automatic unpacking with Qiling framework"][558]
 * ["Breaking 64 bit aslr on Linux x86-64"][234]
 * ["Bypassing GLIBC 2.32’s Safe-Linking Without Leaks into Code Execution: The House of Rust"][375]
@@ -1564,3 +1568,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [717]: https://github.com/packing-box/awesome-executable-packing?tab=readme-ov-file
 [718]: https://blog.compass-security.com/2024/02/microsoft-bitlocker-bypasses-are-practical/
 [719]: https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/
+[720]: https://sidechannel.blog/en/attacking-js-engines/
+[721]: https://labs.ioactive.com/2021/02/a-practical-approach-to-attacking-iot.html
+[722]: https://labs.ioactive.com/2021/02/a-practical-approach-to-attacking-iot_23.html
