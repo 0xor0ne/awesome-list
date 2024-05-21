@@ -34,6 +34,7 @@
 * ["Deobfuscating Android ARM64 strings with Ghidra: Emulating, Patching, and Automating"][683]
 * ["DJI - The ART of obfuscation"][705]
 * ["Exploring AMD Platform Secure Boot"][701]
+* ["Exploiting Empire C2 Framework"][723]
 * "Exploiting Reversing (ER) series":
   * [Article 01][583]
   * [Article 02][584]
@@ -842,6 +843,7 @@ exploit"][392]
 * [TEE Reversing][263]
 * ["THC's favourite Tips, Tricks & Hacks (Cheat Sheet)"][258]
 * [tmpout.sh][515]: collection of writeups on low-level stuff
+* ["Trail of Bits Testing Handbook"][724]
 * [TripleCross][696]
 * [USB-WiFi][329]
 * ["VSS: Beginners Guide to Building a Hardware Hacking Lab"][249]
@@ -1562,7 +1564,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [711]: https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html
 [712]: https://redsiege.com/blog/2024/01/graphstrike-developer/
 [713]: https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-2-vulnerability-analysis
-[714]: https://whiteknightlabs.com/2024/02/09/a-technical-deep-dive-comparing-anti-cheat-bypass-and-edr-bypass/#:~:text=Anti%2Dcheat%20bypass%20aims%20to,fostering%20a%20secure%20digital%20environment.
+[714]: https://whiteknightlabs.com/2024/02/09/a-technical-deep-dive-comparing-anti-cheat-bypass-and-edr-bypass/
 [715]: https://gatari.dev/posts/a-trip-down-memory-lane/
 [716]: https://malwaretech.com/2024/02/bypassing-edrs-with-edr-preload.html
 [717]: https://github.com/packing-box/awesome-executable-packing?tab=readme-ov-file
@@ -1571,3 +1573,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [720]: https://sidechannel.blog/en/attacking-js-engines/
 [721]: https://labs.ioactive.com/2021/02/a-practical-approach-to-attacking-iot.html
 [722]: https://labs.ioactive.com/2021/02/a-practical-approach-to-attacking-iot_23.html
+[723]: http://aceresponder.com/blog/exploiting-empire-c2-framework
+[724]: https://appsec.guide
