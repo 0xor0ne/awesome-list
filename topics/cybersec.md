@@ -57,6 +57,7 @@
 * ["PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack"][711]
 * ["Playing with libmalloc in 2024"][610]
 * ["Shell We Assemble?"][689]
+* ["Shellcode evasion using WebAssembly and Rust"][726]
 * ["Strengthening the Shield: MTE in Heap Allocators"][596]
 * ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
 * ["TP-Link TDDP Buffer Overflow Vulnerability"][695]
@@ -686,6 +687,7 @@ exploit"][392]
   * [Part 1][187]
   * [Part 2][188]
 * ["BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution"][372]
+* ["CVE-2020-16040 Analysis & Exploitation"][725]
 * ["Espressif ESP32: Bypassing Encrypted Secure Boot (CVE-2020-13629)"][641]
 * ["Espressif ESP32: Bypassing Secure Boot using EMFI"][638]
 * ["Espressif ESP32: Bypassing Flash Encryption (CVE-2020-15048)"][640]
@@ -1575,3 +1577,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [722]: https://labs.ioactive.com/2021/02/a-practical-approach-to-attacking-iot_23.html
 [723]: http://aceresponder.com/blog/exploiting-empire-c2-framework
 [724]: https://appsec.guide
+[725]: https://homecrew.dev/posts/cve-2020-16040
+[726]: https://balwurk.com/shellcode-evasion-using-webassembly-and-rust/
