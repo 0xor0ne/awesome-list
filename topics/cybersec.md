@@ -27,6 +27,7 @@
 * ["A Practical Guide to PrintNightmare in 2024"][709]
 * ["A Technical Deep Dive: Comparing Anti-Cheat Bypass and EDR Bypass "][714]
 * ["A Trip Down Memory Lane"][715]
+* ["BGGP4: A 420 Byte Self-Replicating UEFI App For x64"][728]
 * ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
 * ["Bypassing EDRs With EDR-Preloading"][716]
 * ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
@@ -700,6 +701,7 @@ exploit"][392]
   * ["TAG, SSDs and Firmware Extraction"Manipulating AES Traffic][635]
 * ["Hardware Hacking 101: Identifying and Dumping eMMC Flash"][87]
 * ["House of Muney - Leakless Heap Exploitation Technique"][181]
+* ["Learning to Decapsulate Integrated Circuits Using Acid Deposition"][727]
 * ["Loading Dynamic Libraries on Mac"][458]
 * ["Minesweeper - TP-Link Archer C7 LAN RCE"][446]
 * ["My Methods To Achieve Persistence In Linux Systems"][247]
@@ -1579,3 +1581,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [724]: https://appsec.guide
 [725]: https://homecrew.dev/posts/cve-2020-16040
 [726]: https://balwurk.com/shellcode-evasion-using-webassembly-and-rust/
+[727]: https://jcjc-dev.com/2020/10/20/learning-to-decap-ics/
+[728]: https://github.com/netspooky/golfclub/tree/master/uefi/bggp4
