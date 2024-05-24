@@ -34,6 +34,7 @@
 * ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
 * ["Deobfuscating Android ARM64 strings with Ghidra: Emulating, Patching, and Automating"][683]
 * ["DJI - The ART of obfuscation"][705]
+* ["Docker Security – Step-by-Step Hardening (Docker Hardening)"][729]
 * ["Exploring AMD Platform Secure Boot"][701]
 * ["Exploiting Empire C2 Framework"][723]
 * "Exploiting Reversing (ER) series":
@@ -57,6 +58,7 @@
 * ["Out-of-bounds read & write in the glibc's qsort()"][698]
 * ["PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack"][711]
 * ["Playing with libmalloc in 2024"][610]
+* ["Puckungfu 2: Another NETGEAR WAN Command Injection"][730]
 * ["Shell We Assemble?"][689]
 * ["Shellcode evasion using WebAssembly and Rust"][726]
 * ["Strengthening the Shield: MTE in Heap Allocators"][596]
@@ -1583,3 +1585,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [726]: https://balwurk.com/shellcode-evasion-using-webassembly-and-rust/
 [727]: https://jcjc-dev.com/2020/10/20/learning-to-decap-ics/
 [728]: https://github.com/netspooky/golfclub/tree/master/uefi/bggp4
+[729]: https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/
+[730]: https://research.nccgroup.com/2024/02/09/puckungfu-2-another-netgear-wan-command-injection/
