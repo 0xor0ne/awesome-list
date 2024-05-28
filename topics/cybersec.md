@@ -30,7 +30,9 @@
 - ["ASLRn’t: How memory alignment broke library ASLR"][731]
 - ["BGGP4: A 420 Byte Self-Replicating UEFI App For x64"][728]
 - ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
+- ["Buying Spying Insights into Commercial Surveillance Vendors"][733]
 - ["Bypassing EDRs With EDR-Preloading"][716]
+- ["Continuously fuzzing Python C extensions"][734]
 - ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
 - ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
 - ["Deobfuscating Android ARM64 strings with Ghidra: Emulating, Patching, and Automating"][683]
@@ -42,6 +44,7 @@
   - [Article 01][583]
   - [Article 02][584]
 - ["Exploring object file formats"][684]
+- ["Extracting Secure Onboard Communication (SecOC) keys from a 2021 Toyota RAV4 Prime"][735]
 - ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
 - ["Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution"][674]
 - ["GraphStrike: Anatomy of Offensive Tool Development"][712]
@@ -65,6 +68,7 @@
 - ["Strengthening the Shield: MTE in Heap Allocators"][596]
 - ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
 - ["Toolchain Necromancy: Past Mistakes Haunting ASLR"][732]
+
 - ["TP-Link TDDP Buffer Overflow Vulnerability"][695]
 - ["Understanding Windows x64 Assembly"][693]
 - "Writing a Debugger From Scratch"
@@ -1586,3 +1590,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [730]: https://research.nccgroup.com/2024/02/09/puckungfu-2-another-netgear-wan-command-injection/
 [731]: https://zolutal.github.io/aslrnt/
 [732]: https://grsecurity.net/toolchain_necromancy_past_mistakes_haunting_aslr
+[733]: https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Buying_Spying_-_Insights_into_Commercial_Surveillance_Vendors_-_TAG_report.pdf
+[734]: https://blog.trailofbits.com/2024/02/23/continuously-fuzzing-python-c-extensions/
+[735]: https://icanhack.nl/blog/secoc-key-extraction/
