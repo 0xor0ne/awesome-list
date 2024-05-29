@@ -23,10 +23,12 @@
 - "*nix libX11: Uncovering and exploiting a 35-year-old vulnerability"
   - [Part 1][703]
   - [Part 2][704]
+- ["A few notes on AWS Nitro Enclaves: Images and attestation"][738]
 - ["A first look at Android 14 forensics"][669]
 - ["A Practical Guide to PrintNightmare in 2024"][709]
 - ["A Technical Deep Dive: Comparing Anti-Cheat Bypass and EDR Bypass "][714]
 - ["A Trip Down Memory Lane"][715]
+- ["Advanced CyberChef Techniques For Malware Analysis - Detailed Walkthrough and Examples"][736]
 - ["ASLRn’t: How memory alignment broke library ASLR"][731]
 - ["BGGP4: A 420 Byte Self-Replicating UEFI App For x64"][728]
 - ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
@@ -66,6 +68,7 @@
 - ["Shell We Assemble?"][689]
 - ["Shellcode evasion using WebAssembly and Rust"][726]
 - ["Strengthening the Shield: MTE in Heap Allocators"][596]
+- ["The architecture of SAST tools: An explainer for developers"][739]
 - ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
 - ["Toolchain Necromancy: Past Mistakes Haunting ASLR"][732]
 
@@ -722,6 +725,7 @@ exploit"][392]
   - [Part 2][507]
 - ["ret2dl_resolve x64: Exploiting Dynamic Linking Procedure In x64 ELF Binaries"][370]
 - ["SSHD Injection and Password Harvesting"][230]
+- ["There’s A Hole In Your SoC: Glitching The MediaTek BootROM"][737]
 - ["Weekend Destroyer - RCE in Western Digital PR4100 NAS"][447]
 - ["What're you telling me, Ghidra?"][358]
 
@@ -1593,3 +1597,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [733]: https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Buying_Spying_-_Insights_into_Commercial_Surveillance_Vendors_-_TAG_report.pdf
 [734]: https://blog.trailofbits.com/2024/02/23/continuously-fuzzing-python-c-extensions/
 [735]: https://icanhack.nl/blog/secoc-key-extraction/
+[736]: https://www.embeeresearch.io/advanced-cyberchef-operations-netsupport/
+[737]: https://research.nccgroup.com/2020/10/15/theres-a-hole-in-your-soc-glitching-the-mediatek-bootrom/
+[738]: https://blog.trailofbits.com/2024/02/16/a-few-notes-on-aws-nitro-enclaves-images-and-attestation/
+[739]: https://github.blog/2024-02-12-the-architecture-of-sast-tools-an-explainer-for-developers/
