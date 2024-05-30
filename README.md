@@ -47,6 +47,7 @@ See also the following lists dedicated to specifics sub-topics:
 * [Bash Handbook][495]: for those who wanna learn Bash.
 * [BSK][362]: the book of secret knowledge.
 * [C][17]: A curated list of C good stuff.
+* [C Preprocessor][658]: C preprocessor stuff
 * [ChatGPT prompts][480]: ChatGPT prompt curation to use ChatGPT better.
 * [eBPF][25]: curated list of awesome projects related to eBPF.
 * [Docker][30]: curated list of Docker resources and projects.
@@ -447,6 +448,7 @@ as CSV, TSV, and tabular JSON.
     * [musl][59]: C standard library.
     * [uclibc][60]: C library for developing embedded Linux systems.
     * [uclibc-ng][61]: small C library for developing embedded Linux systems.
+    * [uv][660]: Cross-platform asynchronous I/O
   * Libraries:
     * [libaco][104]: blazing fast and lightweight C asymmetric coroutine
       library.
@@ -540,6 +542,7 @@ as CSV, TSV, and tabular JSON.
         * [console][576]: debugger for async rust.
     * [avml][384]: Acquire Volatile Memory for Linux.
     * [Aya][222]: eBPF library for the Rust programming language.
+    * [binrw][661]: parse and rebuild binary data.
     * [cbindgen][499]: project for generating C bindings from Rust code.
     * [cross][553]: “Zero setup” cross compilation and “cross testing” of Rust
     crates.
@@ -547,6 +550,7 @@ as CSV, TSV, and tabular JSON.
     * [Goblin][99]: cross-platform binary parsing crate, written in Rust.
     * [libp2p][241]: Rust Implementation of the libp2p networking stack.
     * [nix][304]: rust friendly bindings to \*nix APIs.
+    * [nom][662]: parser combinator framework
     * [py03][543]: Rust bindings for the Python interpreter.
     * [redbpf][119]: Rust library for building and running BPF/eBPF modules.
     * [redhook][96]: dynamic function call interposition / hooking (LD_PRELOAD)
@@ -710,6 +714,7 @@ as CSV, TSV, and tabular JSON.
   execution.
 * [strace][254]: diagnostic, debugging and instructional userspace utility for
   Linux.
+* [TinyInst][659]: lightweight dynamic instrumentation library.
 * [Tracee][24]: Linux Runtime Security and Forensics using eBPF.
 
 ## Trusted Execution Environment
@@ -1242,3 +1247,8 @@ as CSV, TSV, and tabular JSON.
 [645]: https://github.com/dtolnay/proc-macro-workshop
 [656]: https://github.com/dloss/binary-parsing?tab=readme-ov-file
 [657]: https://github.com/pretzelhammer/rust-blog
+[658]: https://github.com/Hirrolot/awesome-c-preprocessor
+[659]: https://github.com/googleprojectzero/TinyInst
+[660]: https://libuv.org
+[661]: https://binrw.rs
+[662]: https://github.com/rust-bakery/nom
