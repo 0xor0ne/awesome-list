@@ -500,6 +500,7 @@ exploit"][392]
 - ["Embedded Systems Security and TrustZone"][145]
 - ["EntryBleed: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543)"][473]
 - ["Expanding the Dragon: Adding an ISA to Ghidra"][542]
+- ["Exploiting: Buffer overflow in Xiongmai DVRs"][742]
 - ["Exploiting CSN.1 Bugs in MediaTek Basebands"][272]
 - ["exploiting CVE-2019-2215"][61]
 - ["Exploiting CVE-2022-42703 - Bringing back the stack attack"][636]
@@ -659,6 +660,9 @@ exploit"][392]
   - [Part 1][83]
   - [Part 2][84]
   - [Part 3][85]
+- "LinkSys EA6100 AC1200":
+  - [Part 1][740]
+  - [Part 1][741]
 - ["Linux Internals: How /proc/self/mem writes to unwritable memory"][631]
 - "Linux Kernel Exploitation":
   - ["Debugging the Kernel with QEMU"][25]
@@ -1601,3 +1605,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [737]: https://research.nccgroup.com/2020/10/15/theres-a-hole-in-your-soc-glitching-the-mediatek-bootrom/
 [738]: https://blog.trailofbits.com/2024/02/16/a-few-notes-on-aws-nitro-enclaves-images-and-attestation/
 [739]: https://github.blog/2024-02-12-the-architecture-of-sast-tools-an-explainer-for-developers/
+[740]: https://0x434b.dev/linksys-ea6100_pt1/
+[741]: https://0x434b.dev/linksys-ea6100_pt1/
+[742]: https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/
