@@ -743,6 +743,7 @@ exploit"][392]
   - ["Dynamic Linking"][138]
 - ["Hacking microcontroller firmware through a USB"][243]
 - ["Hardening Secure Boot on Embedded Devices for Hostile Environments"][175]
+- ["How to Weaponize the Yubikey"][743]
 - ["Pew Pew Pew: Designing Secure Boot Securely"][176]
 - ["Pwn the ESP32 Secure Boot"][289]
 - ["Reverse Engineering Architecture And Pinout of Custom Asics"][398]
@@ -1608,3 +1609,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [740]: https://0x434b.dev/linksys-ea6100_pt1/
 [741]: https://0x434b.dev/linksys-ea6100_pt1/
 [742]: https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/
+[743]: https://www.blackhillsinfosec.com/how-to-weaponize-the-yubikey/
