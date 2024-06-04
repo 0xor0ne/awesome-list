@@ -20,7 +20,7 @@
 
 ## 2024
 
-- "*nix libX11: Uncovering and exploiting a 35-year-old vulnerability"
+- "nix libX11: Uncovering and exploiting a 35-year-old vulnerability":
   - [Part 1][703]
   - [Part 2][704]
 - ["A few notes on AWS Nitro Enclaves: Images and attestation"][738]
@@ -71,7 +71,6 @@
 - ["The architecture of SAST tools: An explainer for developers"][739]
 - ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
 - ["Toolchain Necromancy: Past Mistakes Haunting ASLR"][732]
-
 - ["TP-Link TDDP Buffer Overflow Vulnerability"][695]
 - ["Understanding Windows x64 Assembly"][693]
 - "Writing a Debugger From Scratch"
@@ -460,9 +459,10 @@ exploit"][392]
   - ["Internal communications"][682]
 - ["A Kernel Hacker Meets Fuchsia OS"][710]
 - "A Technical Analysis of Pegasus for Android":
-  [part 1][564]
-  [Part 2][565]
-  [Part 3][566]
+  - [part 1][564]
+  - [Part 2][565]
+  - [Part 3][566]
+- ["ALL ABOUT USB-C: INTRODUCTION FOR HACKERS"][747]
 - "ARM 64 Assembly Series":
   - ["Basic definitions and registers"][408]
   - ["Offset and Addressing modes"][409]
@@ -498,6 +498,7 @@ exploit"][392]
 - ["Dumping the Amlogic A113X Bootrom"][78]
 - ["Dynamic analysis of firmware components in IoT devices"][250]
 - ["Embedded Systems Security and TrustZone"][145]
+- ["Emulate Until You Make it"][748]
 - ["EntryBleed: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543)"][473]
 - ["Expanding the Dragon: Adding an ISA to Ghidra"][542]
 - ["Exploiting: Buffer overflow in Xiongmai DVRs"][742]
@@ -655,6 +656,10 @@ exploit"][392]
   - ["Creating Structures in Ghidra"][420]
   - ["Loading Windows Symbols (PDB files) in Ghidra 10.x"][421]
 - ["GRCON 2021 - Capture the Signal"][403]
+- "Hacking the Furbo Dog Camera":
+  - [Part 1][744]
+  - [Part 2][745]
+  - [Part 3][746]
 - ["How AUTOSLAB Changes the Memory Unsafety Game"][536]
 - "Learning Linux Kernel Exploitation":
   - [Part 1][83]
@@ -1610,3 +1615,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [741]: https://0x434b.dev/linksys-ea6100_pt1/
 [742]: https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/
 [743]: https://www.blackhillsinfosec.com/how-to-weaponize-the-yubikey/
+[744]: https://www.somersetrecon.com/blog/2021/hacking-the-furbo-part-1
+[745]: https://www.somersetrecon.com/blog/2021/hacking-the-furbo-dog-camera-part-ii
+[746]: https://www.somersetrecon.com/blog/2022/hacking-the-furbo-dog-camera-part-iii
+[747]: https://hackaday.com/2022/12/06/usb-c-introduction-for-hackers/
+[748]: https://www.hexacon.fr/slides/hexacon_draytek_2022_final.pdf
