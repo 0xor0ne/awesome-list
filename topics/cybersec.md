@@ -479,6 +479,7 @@ exploit"][392]
   - ["Reverse Engineering Firmware / Reflashing SPI Flash"][627]
   - ["Dumping Parallel Flash via I2C I/O Expanders"][628]
   - ["I2C Sniffing, EEPROM Extraction and Parallel Flash Extraction"][629]
+- ["Basics for Binary Exploitation"][749]
 - ["Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu"][238]
 - "Bypassing software update package encryption ":
   - ["Extracting the Lexmark MC3224i printer firmware"][190]
@@ -605,6 +606,7 @@ exploit"][392]
   - ["House of Spirit"][346]
   - ["House of Lore"][347]
 - ["TP-Link Tapo c200 Camera Unauthenticated RCE (CVE-2021-4045)"][553]
+- ["Tracing and Manipulating with DynamoRIO"][750]
 - ["Trying To Exploit A Windows Kernel Arbitrary Read Vulnerability"][312]
 - ["Turning Google smart speakers into wiretaps for $100k"][18]
 - ["UWB Real Time Locating Systems: How Secure Radio Communications May Fail in Practice'"][633]
@@ -1620,3 +1622,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [746]: https://www.somersetrecon.com/blog/2022/hacking-the-furbo-dog-camera-part-iii
 [747]: https://hackaday.com/2022/12/06/usb-c-introduction-for-hackers/
 [748]: https://www.hexacon.fr/slides/hexacon_draytek_2022_final.pdf
+[749]: https://o5wald.github.io/posts/binary_exploitation_basics/
+[750]: https://vx.zone/2022/10/22/tracingwithdynamo-utku.html
