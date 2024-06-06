@@ -510,6 +510,7 @@ exploit"][392]
 - ["Exploring the Hidden Attack Surface of OEM IoT Devices"][625]
 - ["Firmware key extraction by gaining EL3"][316]
 - ["Fortigate - Authentication Bypass Lead to Full Device Takeover"][291]
+- ["Fuzzing ping(8) … and finding a 24 year old bug"][751]
 - ["Hackign More Secure Portable Storage Devices"][623]
 - ["How The Tables Have Turned: An analysis of two new Linux vulnerabilities in nf_tables"][266]
 - ["Huawei Security Hypervisor Vulnerability"][435]
@@ -1624,3 +1625,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [748]: https://www.hexacon.fr/slides/hexacon_draytek_2022_final.pdf
 [749]: https://o5wald.github.io/posts/binary_exploitation_basics/
 [750]: https://vx.zone/2022/10/22/tracingwithdynamo-utku.html
+[751]: https://sha256.net/fuzzing-ping.html
