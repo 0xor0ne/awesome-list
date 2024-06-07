@@ -481,6 +481,10 @@ exploit"][392]
   - ["I2C Sniffing, EEPROM Extraction and Parallel Flash Extraction"][629]
 - ["Basics for Binary Exploitation"][749]
 - ["Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu"][238]
+- "Hacking Bluetooth to Brew Coffee from Github Actions":
+  - [Part 1][752]
+  - [Part 2][753]
+  - [Part 3][754]
 - "Bypassing software update package encryption ":
   - ["Extracting the Lexmark MC3224i printer firmware"][190]
   - ["Exploiting the Lexmark MC3224i printer"][191]
@@ -596,6 +600,7 @@ exploit"][392]
 - ["Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later"][226]
 - ["The Dirty Pipe Vulnerability"][321]
 - ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
+- ["TheHole New World - how a small leak will sink a great browser (CVE-2021-38003)"][751]
 - "The toddler’s introduction to Heap exploitation":
   - ["Part 1"][339]
   - ["Part 2"][340]
@@ -1626,3 +1631,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [749]: https://o5wald.github.io/posts/binary_exploitation_basics/
 [750]: https://vx.zone/2022/10/22/tracingwithdynamo-utku.html
 [751]: https://sha256.net/fuzzing-ping.html
+[752]: https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/
+[753]: https://grack.com/blog/2022/12/02/hacking-bluetooth-to-brew-coffee-on-github-actions-part-2/
+[754]: https://grack.com/blog/2022/12/04/hacking-bluetooth-to-brew-coffee-on-github-actions-part-3/
