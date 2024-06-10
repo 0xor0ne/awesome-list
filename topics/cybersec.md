@@ -642,11 +642,13 @@ exploit"][392]
   - [Part 1][721]
   - [Part 2][722]
 - ["Automatic unpacking with Qiling framework"][558]
+- ["BRAKTOOTH: Causing Havoc on Bluetooth Link Manager"][755]
 - ["Breaking 64 bit aslr on Linux x86-64"][234]
 - ["Bypassing GLIBC 2.32’s Safe-Linking Without Leaks into Code Execution: The House of Rust"][375]
 - ["Complete Guide to Stack Buffer Overflow (OSCP Preparation)"][317]
 - ["CVE-2020-3992 & CVE-2021-21974: Rre-auth Remote Code Execution in VMWare esxi"][561]
 - ["CVE-2021–20226 a reference counting bug which leads to local privilege escalation in io_uring."][179]
+- ["Da Vinci Hits a Nerve: Exploiting Huawei’s NPU Driver"][756]
 - "Digging into Linux namespaces":
   - [Part 1][157]
   - [Part 2][158]
@@ -1634,3 +1636,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [752]: https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/
 [753]: https://grack.com/blog/2022/12/02/hacking-bluetooth-to-brew-coffee-on-github-actions-part-2/
 [754]: https://grack.com/blog/2022/12/04/hacking-bluetooth-to-brew-coffee-on-github-actions-part-3/
+[755]: https://asset-group.github.io/disclosures/braktooth/braktooth.pdf
+[756]: https://labs.taszk.io/articles/post/exploiting_huaweis_npu_driver/
