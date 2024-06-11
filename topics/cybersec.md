@@ -369,6 +369,7 @@ exploit"][392]
   - [Part 2][478]
   - [Part 3][479]
 - ["Prototype Pollution in Python"][647]
+- ["PSPRAY: Timing Side-Channel based Linux Kernel Heap Exploitation Technique"][758]
 - ["PyLoose: Python-based fileless malware targets cloud workloads to deliver cryptominer"][98]
 - ["PwnAgent: A One-Click WAN-side RCE in Netgear RAX Routers with CVE-2023-24749"][318]
 - ["Pwnassistant - Controlling /home's via a Home Assistant RCE"][613]
@@ -481,10 +482,6 @@ exploit"][392]
   - ["I2C Sniffing, EEPROM Extraction and Parallel Flash Extraction"][629]
 - ["Basics for Binary Exploitation"][749]
 - ["Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu"][238]
-- "Hacking Bluetooth to Brew Coffee from Github Actions":
-  - [Part 1][752]
-  - [Part 2][753]
-  - [Part 3][754]
 - "Bypassing software update package encryption ":
   - ["Extracting the Lexmark MC3224i printer firmware"][190]
   - ["Exploiting the Lexmark MC3224i printer"][191]
@@ -492,6 +489,7 @@ exploit"][392]
 - ["Blind Exploits to Rule Watchguard Firewalls"][173]
 - ["BPFDoor - An Evasive Linux Backdoor Technical Analysis"][292]
 - ["Competing in Pwn2Own 2021 Austin: Icarus at the Zenith"][556]
+- ["CoRJail: From Null Byte Overflow To Docker Escape Exploiting poll_list Objects In The Linux Kernel"][759]
 - ["Creating a Rootkit to Learn C"][719]
 - ["CVE-2022-0435: A Remote Stack Overflow in The Linux Kernel"][377]
 - ["[CVE-2022-1786] A Journey To The Dawn"][401]
@@ -515,6 +513,10 @@ exploit"][392]
 - ["Firmware key extraction by gaining EL3"][316]
 - ["Fortigate - Authentication Bypass Lead to Full Device Takeover"][291]
 - ["Fuzzing ping(8) … and finding a 24 year old bug"][751]
+- "Hacking Bluetooth to Brew Coffee from Github Actions":
+  - [Part 1][752]
+  - [Part 2][753]
+  - [Part 3][754]
 - ["Hackign More Secure Portable Storage Devices"][623]
 - ["How The Tables Have Turned: An analysis of two new Linux vulnerabilities in nf_tables"][266]
 - ["Huawei Security Hypervisor Vulnerability"][435]
@@ -760,6 +762,7 @@ exploit"][392]
 - ["Hardening Secure Boot on Embedded Devices for Hostile Environments"][175]
 - ["How to Weaponize the Yubikey"][743]
 - ["Pew Pew Pew: Designing Secure Boot Securely"][176]
+- ["Pwn the ESP32 crypto-core"][757]
 - ["Pwn the ESP32 Secure Boot"][289]
 - ["Reverse Engineering Architecture And Pinout of Custom Asics"][398]
 - ["Reverse-engineering Broadcom wireless chipsets"][200]
@@ -1638,3 +1641,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [754]: https://grack.com/blog/2022/12/04/hacking-bluetooth-to-brew-coffee-on-github-actions-part-3/
 [755]: https://asset-group.github.io/disclosures/braktooth/braktooth.pdf
 [756]: https://labs.taszk.io/articles/post/exploiting_huaweis_npu_driver/
+[757]: https://limitedresults.com/2019/08/pwn-the-esp32-crypto-core/
+[758]: https://s2-lab.github.io/assets/sec23summer_79-lee-prepub.pdf
+[759]: https://syst3mfailure.io/corjail//
