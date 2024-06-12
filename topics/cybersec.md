@@ -490,6 +490,7 @@ exploit"][392]
 - ["BPFDoor - An Evasive Linux Backdoor Technical Analysis"][292]
 - ["Competing in Pwn2Own 2021 Austin: Icarus at the Zenith"][556]
 - ["CoRJail: From Null Byte Overflow To Docker Escape Exploiting poll_list Objects In The Linux Kernel"][759]
+- ["Corrupting memory without memory corruption"][762]
 - ["Creating a Rootkit to Learn C"][719]
 - ["CVE-2022-0435: A Remote Stack Overflow in The Linux Kernel"][377]
 - ["[CVE-2022-1786] A Journey To The Dawn"][401]
@@ -654,6 +655,7 @@ exploit"][392]
 - "Digging into Linux namespaces":
   - [Part 1][157]
   - [Part 2][158]
+- ["Exploiting crash handlers: LPE on Ubuntu"][760]
 - ["Extending Ghidra Part 1: Setting up a Development Environment"][655]
 - ["Fire of Salvation Writeup: Utilizing msg_msg Objects for Arbitrary Read and Arbitrary Write in the Linux Kernel"][252]
 - "Fuzzing101 with LibAFL":
@@ -784,6 +786,7 @@ exploit"][392]
   - [Part 4][22]
 - ["eMMC Data Recovery from Damaged Smartphone"][88]
 - ["My journey towards Reverse Engineering a Smart Band — Bluetooth-LE RE"][302]
+- ["Reverse Engineering BLE Devices"][761]
 - "Reversing ESP8266 Firmware":
   - [Part 1][545]
   - [Part 2][546]
@@ -1644,3 +1647,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [757]: https://limitedresults.com/2019/08/pwn-the-esp32-crypto-core/
 [758]: https://s2-lab.github.io/assets/sec23summer_79-lee-prepub.pdf
 [759]: https://syst3mfailure.io/corjail//
+[760]: https://alephsecurity.com/2021/02/16/apport-lpe/
+[761]: https://reverse-engineering-ble-devices.readthedocs.io/en/latest/
+[762]: https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/
