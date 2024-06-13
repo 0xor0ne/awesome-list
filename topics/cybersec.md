@@ -513,6 +513,10 @@ exploit"][392]
 - ["Exploring the Hidden Attack Surface of OEM IoT Devices"][625]
 - ["Firmware key extraction by gaining EL3"][316]
 - ["Fortigate - Authentication Bypass Lead to Full Device Takeover"][291]
+- "Fourchain":
+  - ["Prologue"][765]
+  - ["Hole"][766]
+  - ["Sandbox"][767]
 - ["Fuzzing ping(8) … and finding a 24 year old bug"][751]
 - "Hacking Bluetooth to Brew Coffee from Github Actions":
   - [Part 1][752]
@@ -572,6 +576,7 @@ exploit"][392]
 - ["Port knocking from the scratch"][227]
 - ["Pulling MikroTik into the Limelight"][120]
 - ["Racing against the clock -- hitting a tiny kernel race window"][492]
+- ["Replicating CVEs with KLEE"][763]
 - ["Reversing C++, Qt based applications using Ghidra"][586]
 - ["Racing Cats to the Exit: A Boring Linux Kernel Use-After-Free"][406]
 - ["Replicant: Reproducing a Fault Injection "][675]
@@ -626,6 +631,7 @@ exploit"][392]
 - ["Vulnerability Details for CVE-2022-41218"][563]
 - ["Vulnerabilities in Tenda's W15Ev2 AC1200 Router"][127]
 - ["When an N-Day turns into a 0day"][642]
+- ["WPAxFuzz: Sniffing Out Vulnerabilities in Wi-Fi Implementations"][764]
 - ["Write a Linux firewall from scratch based on Netfilter"][313]
 - ["Yet another bug into Netfilter"][457]
 - ["Xiongmai IoT Exploitation"][650]
@@ -1650,3 +1656,8 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [760]: https://alephsecurity.com/2021/02/16/apport-lpe/
 [761]: https://reverse-engineering-ble-devices.readthedocs.io/en/latest/
 [762]: https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/
+[763]: https://research.nccgroup.com/2022/12/12/klee-for-the-cve/
+[764]: https://www.mdpi.com/2410-387X/6/4/53/
+[765]: https://org.anize.rs/HITCON-2022/pwn/fourchain-prologue
+[766]: https://org.anize.rs/HITCON-2022/pwn/fourchain-hole
+[767]: https://org.anize.rs/HITCON-2022/pwn/fourchain-sandbox
