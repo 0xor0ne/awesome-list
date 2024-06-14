@@ -534,6 +534,7 @@ exploit"][392]
 - "Hacking Some More Secure USB Flash Drives":
   - [Part 1][132]
   - [Part 2][133]
+- ["Learning eBPF exploitation"][768]
 - "Intro to Embedded RE":
   - ["Tools and Series"][351]
   - ["UART Discovery and Firmware Extraction via UBoot"][352]
@@ -601,6 +602,7 @@ exploit"][392]
 - ["side channels: using the chipwhisperer"][381]
 - ["SIM Hijacking"][579]
 - ["Spoofing Call Stacks To Confuse EDRs"][431]
+- ["SROP Exploitation with radare2"][770]
 - ["Stealing the Bitlocker key from a TPM"][505]
 - ["Stranger Strings: An exploitable flaw in SQLite"][588]
 - ["Survey of security mitigations and architectures, December 2022"][644]
@@ -848,8 +850,9 @@ exploit"][392]
 - ["Android Kernel Exploitation"][571]
 - [Anti-Debug Tricks][585]
 - ["ARM TrustZone: pivoting to the secure world"][304]
-- [Awesome Industrial Protocols][510]
+- [Awesome binary parsing][769]
 - [Awesome Executable Packing][717]
+- [Awesome Industrial Protocols][510]
 - ["Brute Ratel - Scandinavian Defence"][436]
 - [Comprehensive Rust][620]
 - [CVE North Stars][708]
@@ -1661,3 +1664,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [765]: https://org.anize.rs/HITCON-2022/pwn/fourchain-prologue
 [766]: https://org.anize.rs/HITCON-2022/pwn/fourchain-hole
 [767]: https://org.anize.rs/HITCON-2022/pwn/fourchain-sandbox
+[768]: https://stdnoerr.github.io/writeup/2022/08/21/eBPF-exploitation-(ft.-D-3CTF-d3bpf).html
+[769]: https://github.com/dloss/binary-parsing
+[770]: https://bananamafia.dev/post/srop/
