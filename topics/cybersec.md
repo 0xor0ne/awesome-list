@@ -609,6 +609,7 @@ exploit"][392]
 - ["Symbiote Deep-Dive: Analysis of a New, Nearly-Impossible-to-Detect Linux Threat"][461]
 - ["Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later"][226]
 - ["The Dirty Pipe Vulnerability"][321]
+- ["The Last Breath of Our Netgear RAX30 Bugs - A Tragic Tale before Pwn2Own Toronto 2022"][772]
 - ["The Old, The New and The Bypass - One-click/Open-redirect to own Samsung S22 at Pwn2Own 2022"][36]
 - ["TheHole New World - how a small leak will sink a great browser (CVE-2021-38003)"][751]
 - "The toddler’s introduction to Heap exploitation":
@@ -670,6 +671,7 @@ exploit"][392]
   - ["Fuzzing Xpdf"][468]
   - ["Speed Improvements to Part I"][469]
   - ["Fuzzing libexif"][470]
+- ["Getting to know memblock"][771]
 - "Ghidra 101":
   - ["Cursor Text Highlighting"][416]
   - ["Slice Highlighting"][417]
@@ -768,6 +770,7 @@ exploit"][392]
   - ["Symbols"][136]
   - ["Relocations"][137]
   - ["Dynamic Linking"][138]
+- ["Exploiting Qualcomm WLAN and Modem Over the Air"][773]
 - ["Hacking microcontroller firmware through a USB"][243]
 - ["Hardening Secure Boot on Embedded Devices for Hostile Environments"][175]
 - ["How to Weaponize the Yubikey"][743]
@@ -1667,3 +1670,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [768]: https://stdnoerr.github.io/writeup/2022/08/21/eBPF-exploitation-(ft.-D-3CTF-d3bpf).html
 [769]: https://github.com/dloss/binary-parsing
 [770]: https://bananamafia.dev/post/srop/
+[771]: https://insecuremode.com/post/2021/12/14/getting-to-know-memblock.html
+[772]: https://starlabs.sg/blog/2022/12-the-last-breath-of-our-netgear-rax30-bugs-a-tragic-tale-before-pwn2own-toronto-2022/
+[773]: https://i.blackhat.com/USA-19/Thursday/us-19-Pi-Exploiting-Qualcomm-WLAN-And-Modem-Over-The-Air-wp.pdf
