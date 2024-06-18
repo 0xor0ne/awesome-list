@@ -558,6 +558,7 @@ exploit"][392]
 - ["Looking for Remote Code Execution bugs in the Linux kernel"][503]
 - ["Manipulating AES Traffic using a Chain of Proxies and Hardcoded Keys"][319]
 - ["Missing Manuals - io_uring worker pool"][265]
+- ["Modifying Embedded Filesystems in ARM Linux zImages"][775]
 - "Netgear Orbi":
   - ["orbi hunting 0x0: introduction, uart access, recon"][33]
   - ["orbi hunting 0x1: crashes in soap-api"][34]
@@ -811,6 +812,7 @@ exploit"][392]
 
 ## 2017
 
+- ["Escalating Privileges in Linux using Fault Injection"][774]
 - ["Hardware hacking tutorial: Dumping and reversing firmware"][557]
 - ["HiSilicon DVR hack"][236]
 - ["How I Reverse Engineered and Exploited a Smart Massager"][301]
@@ -1673,3 +1675,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [771]: https://insecuremode.com/post/2021/12/14/getting-to-know-memblock.html
 [772]: https://starlabs.sg/blog/2022/12-the-last-breath-of-our-netgear-rax30-bugs-a-tragic-tale-before-pwn2own-toronto-2022/
 [773]: https://i.blackhat.com/USA-19/Thursday/us-19-Pi-Exploiting-Qualcomm-WLAN-And-Modem-Over-The-Air-wp.pdf
+[774]: https://raelize.com/upload/research/2017/2017_FDTC_Escalating-Privileges-in-Linux-using-Fault-Injection_NT-CM.pdf
+[775]: https://jamchamb.net/2022/01/02/modify-vmlinuz-arm.html
