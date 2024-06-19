@@ -497,6 +497,7 @@ exploit"][392]
 - ["CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF"][168]
 - ["CVE-2022-27666: Exploit esp6 modules in Linux kernel"][532]
 - ["CVE-2022-29582 An io_uring vulnerability"][495]
+- ["Deconstructing and Exploiting CVE-2020-6418"][778]
 - ["DirtyCred Remastered: how to turn an UAF into Privilege Escalation"][167]
 - ["Disclosing information with a side-channel in Django"][630]
 - ["Dumping the Amlogic A113X Bootrom"][78]
@@ -557,6 +558,7 @@ exploit"][392]
 - ["Linux kernel heap feng shui in 2022"][535]
 - ["Looking for Remote Code Execution bugs in the Linux kernel"][503]
 - ["Manipulating AES Traffic using a Chain of Proxies and Hardcoded Keys"][319]
+- ["MeshyJSON: A TP-Link tdpServer JSON Stack Overflow"][777]
 - ["Missing Manuals - io_uring worker pool"][265]
 - ["Modifying Embedded Filesystems in ARM Linux zImages"][775]
 - "Netgear Orbi":
@@ -879,6 +881,7 @@ exploit"][392]
   - ["Asymmetric-Key Encryption and Digital Signatures in Practice"][2]
 - ["Introduction to Malware Analysis and Reverse Engineering"][407]
 - ["Kernel Address Space Layout Derandomization"][529]
+- ["Kernel Exploit Recipes Notebook"][776]
 - ["Laser-Based Audio Injection on Voice-Controllable Systems"][328]
 - [Linux Kernel CVEs][385]
 - ["Linux kernel exploit development"][573]
@@ -1677,3 +1680,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [773]: https://i.blackhat.com/USA-19/Thursday/us-19-Pi-Exploiting-Qualcomm-WLAN-And-Modem-Over-The-Air-wp.pdf
 [774]: https://raelize.com/upload/research/2017/2017_FDTC_Escalating-Privileges-in-Linux-using-Fault-Injection_NT-CM.pdf
 [775]: https://jamchamb.net/2022/01/02/modify-vmlinuz-arm.html
+[776]: https://docs.google.com/document/d/1a9uUAISBzw3ur1aLQqKc5JOQLaJYiOP5pe_B4xCT1KA/edit#heading=h.6141m9mqkmgh
+[777]: https://research.nccgroup.com/2022/12/19/meshyjson-a-tp-link-tdpserver-json-stack-overflow/
+[778]: https://starlabs.sg/blog/2022/12-deconstructing-and-exploiting-cve-2020-6418/
