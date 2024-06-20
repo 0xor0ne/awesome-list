@@ -464,6 +464,7 @@ exploit"][392]
   - [Part 2][565]
   - [Part 3][566]
 - ["ALL ABOUT USB-C: INTRODUCTION FOR HACKERS"][747]
+- ["An In-Depth Look at the ICE-V Wireless FPGA Development Board"][779]
 - "ARM 64 Assembly Series":
   - ["Basic definitions and registers"][408]
   - ["Offset and Addressing modes"][409]
@@ -760,6 +761,7 @@ exploit"][392]
   - [Part 1][506]
   - [Part 2][507]
 - ["ret2dl_resolve x64: Exploiting Dynamic Linking Procedure In x64 ELF Binaries"][370]
+- ["Safe-linking – Eliminating a 20 Year-old malloc() Exploit Primitive"][780]
 - ["SSHD Injection and Password Harvesting"][230]
 - ["There’s A Hole In Your SoC: Glitching The MediaTek BootROM"][737]
 - ["Weekend Destroyer - RCE in Western Digital PR4100 NAS"][447]
@@ -799,6 +801,7 @@ exploit"][392]
   - [Part 3][21]
   - [Part 4][22]
 - ["eMMC Data Recovery from Damaged Smartphone"][88]
+- ["Kinibi TEE: Trusted Application Exploitation"][781]
 - ["My journey towards Reverse Engineering a Smart Band — Bluetooth-LE RE"][302]
 - ["Reverse Engineering BLE Devices"][761]
 - "Reversing ESP8266 Firmware":
@@ -1683,3 +1686,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [776]: https://docs.google.com/document/d/1a9uUAISBzw3ur1aLQqKc5JOQLaJYiOP5pe_B4xCT1KA/edit#heading=h.6141m9mqkmgh
 [777]: https://research.nccgroup.com/2022/12/19/meshyjson-a-tp-link-tdpserver-json-stack-overflow/
 [778]: https://starlabs.sg/blog/2022/12-deconstructing-and-exploiting-cve-2020-6418/
+[779]: https://tomverbeure.github.io/2022/12/27/The-ICE-V-Wireless-FPGA-Board.html
+[780]: https://research.checkpoint.com/2020/safe-linking-eliminating-a-20-year-old-malloc-exploit-primitive/
+[781]: https://www.synacktiv.com/en/publications/kinibi-tee-trusted-application-exploitation.html#
