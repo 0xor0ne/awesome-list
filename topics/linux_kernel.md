@@ -80,6 +80,8 @@
 
 * [Next][48]: next tree
 * [Rust][49]: rust tree
+  * [RFL-patch-registry][99]: aggregate Rust abstractions for Linux that have
+  not yet been upstreamed.
 * [Stable][47]: Stable tree
 * [Torvalds][46]: Linus Torvald tree
 
@@ -124,6 +126,7 @@
 
 * [1337kit][81]: 64-bit LKM Rootkit builder based on yaml prescription.
 * [Awesome Linux Rootkits][2].
+* [ebpfkit][100]: ebpfkit is a rootkit powered by eBPF
 * [brokepkg][77]: LKM rootkit working in Linux Kernels 2.6.x/3.x/4.x/5.x
 * [Brootus][76]: educational Linux Kernel Rootkit.
 * [Diamorphine][3]: LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and
@@ -262,3 +265,5 @@
 [96]: https://crash-utility.github.io
 [97]: https://arm64.syscall.sh
 [98]: https://github.com/luainkernel/lunatik
+[99]: https://github.com/tgross35/RFL-patch-registry
+[100]: https://github.com/Gui774ume/ebpfkit
