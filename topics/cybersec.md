@@ -483,6 +483,7 @@ exploit"][392]
   - ["I2C Sniffing, EEPROM Extraction and Parallel Flash Extraction"][629]
 - ["Basics for Binary Exploitation"][749]
 - ["Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu"][238]
+- ["BrokenPrint: A Netgear stack overflow"][782]
 - "Bypassing software update package encryption ":
   - ["Extracting the Lexmark MC3224i printer firmware"][190]
   - ["Exploiting the Lexmark MC3224i printer"][191]
@@ -760,6 +761,7 @@ exploit"][392]
 - "Patch Diffing a Cisco RV110W Firmware Update"
   - [Part 1][506]
   - [Part 2][507]
+- ["Norec Attack: Stripping BLE encryption from Nordic’s Library (CVE-2020–15509)"][783]
 - ["ret2dl_resolve x64: Exploiting Dynamic Linking Procedure In x64 ELF Binaries"][370]
 - ["Safe-linking – Eliminating a 20 Year-old malloc() Exploit Primitive"][780]
 - ["SSHD Injection and Password Harvesting"][230]
@@ -1689,3 +1691,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [779]: https://tomverbeure.github.io/2022/12/27/The-ICE-V-Wireless-FPGA-Board.html
 [780]: https://research.checkpoint.com/2020/safe-linking-eliminating-a-20-year-old-malloc-exploit-primitive/
 [781]: https://www.synacktiv.com/en/publications/kinibi-tee-trusted-application-exploitation.html#
+[782]: https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow/
+[783]: https://infosecwriteups.com/norec-attack-stripping-ble-encryption-from-nordics-library-cve-2020-15509-9798ab893b95
