@@ -898,6 +898,7 @@ exploit"][392]
 - ["mjsxj09cm Recovering Firmware And Backdooring"][62]
 - ["Offensive security (0xtriboulet)"][405]
 - ["Operating System development tutorials in Rust on the Raspberry Pi"][357]
+- ["Practical Cryprography for Developers"][785]
 - [Red-Team-Infrastructure-Wiki][498]
 - ["Reverse Engineering For Everyone!"][399]
 - ["Reverse Engineering WiFi on RISC-V BL602"][617]
@@ -1693,3 +1694,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [781]: https://www.synacktiv.com/en/publications/kinibi-tee-trusted-application-exploitation.html#
 [782]: https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow/
 [783]: https://infosecwriteups.com/norec-attack-stripping-ble-encryption-from-nordics-library-cve-2020-15509-9798ab893b95
+[785]: https://cryptobook.nakov.com
