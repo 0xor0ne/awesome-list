@@ -58,6 +58,7 @@
 - ["Inside the LogoFAIL PoC: From Integer Overflow to Arbitrary Code Execution"][692]
 - ["LeftoverLocals: Listening to LLM responses through leaked GPU local memory"][687]
 - ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
+- ["Mali GPU Kernel LPE"][786]
 - ["Microsoft BitLocker Bypasses are Practical"][718]
 - ["Modern implant design: position independent malware development"][690]
 - ["My new superpower"][688]
@@ -72,6 +73,7 @@
 - ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
 - ["Toolchain Necromancy: Past Mistakes Haunting ASLR"][732]
 - ["TP-Link TDDP Buffer Overflow Vulnerability"][695]
+- ["Two Bytes is Plenty: FortiGate RCE with CVE-2024-21762"][787]
 - ["Understanding Windows x64 Assembly"][693]
 - "Writing a Debugger From Scratch"
   - ["Attaching to a Process"][449]
@@ -1695,3 +1697,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [782]: https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow/
 [783]: https://infosecwriteups.com/norec-attack-stripping-ble-encryption-from-nordics-library-cve-2020-15509-9798ab893b95
 [785]: https://cryptobook.nakov.com
+[786]: https://github.com/0x36/Pixel_GPU_Exploit
+[787]: https://www.assetnote.io/resources/research/two-bytes-is-plenty-fortigate-rce-with-cve-2024-21762
