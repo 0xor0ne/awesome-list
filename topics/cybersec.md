@@ -799,6 +799,11 @@ exploit"][392]
 
 - ["A Deep dive into (implicit) Thread Local Storage"][581]
 - ["A Guide to ARM64 / AArch64 Assembly on Linux with Shellcodes and Cryptography"][464]
+- "ARM Exploitation":
+  - ["Return oriented Programming"][788]
+  - ["Setup and Tools"][789]
+  - ["Defeating DEP - execute system()"][790]
+  - ["Defeating DEP - executing mprotect()"][791]
 - "CVE-2017-11176: A step-by-step Linux Kernel exploitation":
   - [Part 1][19]
   - [Part 2][20]
@@ -1699,3 +1704,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [785]: https://cryptobook.nakov.com
 [786]: https://github.com/0x36/Pixel_GPU_Exploit
 [787]: https://www.assetnote.io/resources/research/two-bytes-is-plenty-fortigate-rce-with-cve-2024-21762
+[788]: https://blog.3or.de/arm-exploitation-return-oriented-programming
+[789]: https://blog.3or.de/arm-exploitation-setup-and-tools
+[790]: https://blog.3or.de/arm-exploitation-defeating-dep-execute-system
+[791]: https://blog.3or.de/arm-exploitation-defeating-dep-executing-mprotect
