@@ -708,6 +708,16 @@ exploit"][392]
   - [Part 1][470]
   - [Part 2][471]
   - [Part 3][472]
+- "Malware development (0xPat)"
+  - [Part 1][792]
+  - [Part 2][793]
+  - [Part 3][794]
+  - [Part 4][795]
+  - [Part 5][796]
+  - [Part 6][797]
+  - [Part 7][798]
+  - [Part 8][799]
+  - [Part 9][800]
 - ["mooosl"][602]
 - ["My RCE PoC walkthrough for (CVE-2021–21974) VMware ESXi OpenSLP heap-overflow vulnerability"][560]
 - ["New Linux Backdoor RedXOR Likely Operated by Chinese Nation-State Actor"][440]
@@ -1708,3 +1718,12 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [789]: https://blog.3or.de/arm-exploitation-setup-and-tools
 [790]: https://blog.3or.de/arm-exploitation-defeating-dep-execute-system
 [791]: https://blog.3or.de/arm-exploitation-defeating-dep-executing-mprotect
+[792]: https://0xpat.github.io/Malware_development_part_1/
+[793]: https://0xpat.github.io/Malware_development_part_2/
+[794]: https://0xpat.github.io/Malware_development_part_3/
+[795]: https://0xpat.github.io/Malware_development_part_4/
+[796]: https://0xpat.github.io/Malware_development_part_5/
+[797]: https://0xpat.github.io/Malware_development_part_6/
+[798]: https://0xpat.github.io/Malware_development_part_7/
+[799]: https://0xpat.github.io/Malware_development_part_8/
+[800]: https://0xpat.github.io/Malware_development_part_9/
