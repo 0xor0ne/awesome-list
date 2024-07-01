@@ -275,6 +275,7 @@ See also the following lists dedicated to specifics sub-topics:
 * [pwndocker][458]: docker environment for pwn in ctf.
 * [pwninit][457]: automate starting binary exploit challenges.
 * [pwntools][71]: framework and exploit development library.
+* [ronin-exploits][663]: A Ruby micro-framework for writing and running exploits and payloads.
 * [ROPGadget][159]: search your gadgets on your binaries to facilitate your ROP
   exploitation.
 * [ropr][247]: fast multithreaded ROP Gadget finder.
@@ -1252,3 +1253,4 @@ as CSV, TSV, and tabular JSON.
 [660]: https://libuv.org
 [661]: https://binrw.rs
 [662]: https://github.com/rust-bakery/nom
+[663]: https://github.com/ronin-rb/ronin-exploits#readme
