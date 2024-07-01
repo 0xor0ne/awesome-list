@@ -49,6 +49,7 @@
 - ["Extracting Secure Onboard Communication (SecOC) keys from a 2021 Toyota RAV4 Prime"][735]
 - ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
 - ["Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution"][674]
+- ["GhostRace: Exploiting and Mitigating Speculative Race Conditions"][802]
 - ["GraphStrike: Anatomy of Offensive Tool Development"][712]
 - ["Hacking a Smart Home Device"][691]
 - ["Hi, My Name is Keyboard"][676]
@@ -66,6 +67,7 @@
 - ["PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack"][711]
 - ["Playing with libmalloc in 2024"][610]
 - ["Puckungfu 2: Another NETGEAR WAN Command Injection"][730]
+- ["Reverse engineering a car key fob signal "][801]
 - ["Shell We Assemble?"][689]
 - ["Shellcode evasion using WebAssembly and Rust"][726]
 - ["Strengthening the Shield: MTE in Heap Allocators"][596]
@@ -1727,3 +1729,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [798]: https://0xpat.github.io/Malware_development_part_7/
 [799]: https://0xpat.github.io/Malware_development_part_8/
 [800]: https://0xpat.github.io/Malware_development_part_9/
+[801]: https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html
+[802]: https://download.vusec.net/papers/ghostrace_sec24.pdf
