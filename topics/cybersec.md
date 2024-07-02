@@ -31,6 +31,7 @@
 - ["Advanced CyberChef Techniques For Malware Analysis - Detailed Walkthrough and Examples"][736]
 - ["ASLRn’t: How memory alignment broke library ASLR"][731]
 - ["BGGP4: A 420 Byte Self-Replicating UEFI App For x64"][728]
+- ["Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC as Example"][803]
 - ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
 - ["Buying Spying Insights into Commercial Surveillance Vendors"][733]
 - ["Bypassing EDRs With EDR-Preloading"][716]
@@ -48,6 +49,7 @@
 - ["Exploring object file formats"][684]
 - ["Extracting Secure Onboard Communication (SecOC) keys from a 2021 Toyota RAV4 Prime"][735]
 - ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
+- ["Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques"][804]
 - ["Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution"][674]
 - ["GhostRace: Exploiting and Mitigating Speculative Race Conditions"][802]
 - ["GraphStrike: Anatomy of Offensive Tool Development"][712]
@@ -1731,3 +1733,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [800]: https://0xpat.github.io/Malware_development_part_9/
 [801]: https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html
 [802]: https://download.vusec.net/papers/ghostrace_sec24.pdf
+[803]: https://tsmr.eu/blackbox-fuzzing.html
+[804]: https://pwning.tech/nftables/
