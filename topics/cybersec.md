@@ -39,6 +39,7 @@
 - ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
 - ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
 - ["Deobfuscating Android ARM64 strings with Ghidra: Emulating, Patching, and Automating"][683]
+- ["Dissecting a complex vulnerability and achieving arbitrary code execution in Ichitaro Word"][805]
 - ["DJI - The ART of obfuscation"][705]
 - ["Docker Security – Step-by-Step Hardening (Docker Hardening)"][729]
 - ["Exploring AMD Platform Secure Boot"][701]
@@ -99,6 +100,9 @@
 - ["A new method for container escape using file-based DirtyCred"][201]
 - ["A Pain in the NAS: Exploiting Cloud Connectivity to PWN your NAS: Synology DS920+ Edition"][273]
 - ["A Potholing Tour in a SoC"][189]
+- "A Practical Tutorial on PCIe for Total Beginners on Windows":
+  - [Part 1][806]
+  - [Part 2][807]
 - ["A Race to Report a TOCTOU: Analysis of a Bug Collision in Intel SMM"][255]
 - ["A Red-Teamer diaries"][156]
 - ["A story about tampering EDRs"][293]
@@ -1735,3 +1739,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [802]: https://download.vusec.net/papers/ghostrace_sec24.pdf
 [803]: https://tsmr.eu/blackbox-fuzzing.html
 [804]: https://pwning.tech/nftables/
+[805]: https://blog.talosintelligence.com/exploiting-low-severity-vulnerability-using-a-frame-pointer-overwrite/
+[806]: https://ctf.re/windows/kernel/pcie/tutorial/2023/02/14/pcie-part-1/
+[807]: https://ctf.re/kernel/pcie/tutorial/dma/mmio/tlp/2024/03/26/pcie-part-2/
