@@ -51,6 +51,7 @@
 - ["Extracting Secure Onboard Communication (SecOC) keys from a 2021 Toyota RAV4 Prime"][735]
 - ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
 - ["Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques"][804]
+- ["Gaining kernel code execution on an MTE-enabled Pixel 8"][808]
 - ["Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution"][674]
 - ["GhostRace: Exploiting and Mitigating Speculative Race Conditions"][802]
 - ["GraphStrike: Anatomy of Offensive Tool Development"][712]
@@ -62,6 +63,7 @@
 - ["Inside the LogoFAIL PoC: From Integer Overflow to Arbitrary Code Execution"][692]
 - ["LeftoverLocals: Listening to LLM responses through leaked GPU local memory"][687]
 - ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
+- ["Mind the Patch Gap: Exploiting an io_uring Vulnerability in Ubuntu"][809]
 - ["Mali GPU Kernel LPE"][786]
 - ["Microsoft BitLocker Bypasses are Practical"][718]
 - ["Modern implant design: position independent malware development"][690]
@@ -1742,3 +1744,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [805]: https://blog.talosintelligence.com/exploiting-low-severity-vulnerability-using-a-frame-pointer-overwrite/
 [806]: https://ctf.re/windows/kernel/pcie/tutorial/2023/02/14/pcie-part-1/
 [807]: https://ctf.re/kernel/pcie/tutorial/dma/mmio/tlp/2024/03/26/pcie-part-2/
+[808]: https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/
+[809]: https://blog.exodusintel.com/2024/03/27/mind-the-patch-gap-exploiting-an-io_uring-vulnerability-in-ubuntu/
