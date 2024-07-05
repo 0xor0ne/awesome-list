@@ -29,6 +29,7 @@
 - ["A Technical Deep Dive: Comparing Anti-Cheat Bypass and EDR Bypass "][714]
 - ["A Trip Down Memory Lane"][715]
 - ["Advanced CyberChef Techniques For Malware Analysis - Detailed Walkthrough and Examples"][736]
+- ["ARLO: I'M WATCHING YOU"][810]
 - ["ASLRn’t: How memory alignment broke library ASLR"][731]
 - ["BGGP4: A 420 Byte Self-Replicating UEFI App For x64"][728]
 - ["Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC as Example"][803]
@@ -1746,3 +1747,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [807]: https://ctf.re/kernel/pcie/tutorial/dma/mmio/tlp/2024/03/26/pcie-part-2/
 [808]: https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/
 [809]: https://blog.exodusintel.com/2024/03/27/mind-the-patch-gap-exploiting-an-io_uring-vulnerability-in-ubuntu/
+[810]: https://www.synacktiv.com/en/publications/arlo-im-watching-you
