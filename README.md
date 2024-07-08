@@ -378,6 +378,7 @@ API era.
 as CSV, TSV, and tabular JSON.
 * [miniserve][634]: serve some files over HTTP right now.
 * [OpenSK][67]: open-source implementation for security keys written in Rust.
+* [partialzip][664]: download single files from inside online zip archives.
 * [Pastebin][242]: store any text online for easy sharing.
 * [patents][434]: patents db from Google.
 * [Polypyus][191]: locate functions in raw binaries by extracting known functions
@@ -733,7 +734,6 @@ as CSV, TSV, and tabular JSON.
 * [OT/IoT Security](topics/ot_security.md)
 * [Red Teaming and Offensive Security](topics/red-team-adversary-emulation.md)
 
-
 [1]: https://github.com/radareorg/radare2
 [2]: https://github.com/rizinorg/rizin
 [3]: https://cutter.re/
@@ -848,7 +848,6 @@ as CSV, TSV, and tabular JSON.
 [139]: https://mongoose-os.com/
 [140]: https://aws.amazon.com/freertos/
 [148]: https://this-week-in-rust.org/
-[149]: https://doc.rust-lang.org/cargo/
 [150]: https://doc.rust-lang.org/nomicon/
 [151]: https://doc.rust-lang.org/stable/reference/
 [152]: https://rustup.rs/
@@ -958,7 +957,6 @@ as CSV, TSV, and tabular JSON.
 [296]: https://grsecurity.net/blog
 [297]: https://xairy.io/
 [298]: https://sam4k.com/
-[299]: https://github.com/zhaojh329/rtty
 [300]: https://github.com/S2E/s2e
 [301]: https://github.com/airbus-seclab/cpu_rec
 [302]: https://github.com/azure-rtos/threadx/
@@ -984,7 +982,6 @@ as CSV, TSV, and tabular JSON.
 [327]: https://github.com/ps1337/pwntools-r2
 [331]: https://github.com/netbirdio/netbird
 [333]: https://developers.google.com/code-sandboxing
-[338]: https://github.com/SecureAuthCorp/impacket
 [339]: https://github.com/edoardottt/awesome-hacker-search-engines
 [342]: https://dogbolt.org/
 [343]: https://github.com/returntocorp/semgrep
@@ -993,7 +990,6 @@ as CSV, TSV, and tabular JSON.
 [356]: https://www.zerotier.com/
 [357]: https://tailscale.com/
 [358]: https://github.com/zerotier/ZeroTierOne
-[359]: https://github.com/tailscale/tailscale
 [360]: https://github.com/Exein-io/pulsar
 [361]: https://github.com/Hack-with-Github/Awesome-Hacking
 [362]: https://github.com/trimstray/the-book-of-secret-knowledge
@@ -1051,17 +1047,14 @@ as CSV, TSV, and tabular JSON.
 [431]: https://chromium.googlesource.com/linux-syscall-support/
 [433]: https://fccid.io/
 [434]: https://patents.google.com/
-[434]: https://jless.io/
 [435]: https://www.apps3c.info/
 [436]: https://swisskyrepo.github.io/HardwareAllTheThings/
 [437]: https://github.com/PreOS-Security/awesome-firmware-security
 [438]: https://github.com/djsime1/awesome-flipperzero
 [439]: https://epi052.gitlab.io/notes-to-self/
 [440]: https://github.com/AmbiML/sparrow-kata-full
-[441]: https://github.com/Wilfred/difftastic
 [442]: https://github.com/mahaloz/decomp2dbg
 [444]: https://github.com/nccgroup/Sniffle
-[446]: http://dmitry.gr/
 [447]: https://github.com/enovella/TEE-reversing
 [448]: https://github.com/andreia-oca/awesome-embedded-fuzzing
 [449]: https://esphome.io/
@@ -1079,7 +1072,6 @@ as CSV, TSV, and tabular JSON.
 [464]: https://cryptography.rs/
 [465]: https://github.com/UgurcanAkkok/AreWeRustYet
 [466]: https://github.com/cognitive-engineering-lab/aquascope
-[479]: https://github.com/redcode-labs/neurax
 [480]: https://github.com/f/awesome-chatgpt-prompts
 [481]: https://github.com/promptslab/Awesome-Prompt-Engineering
 [482]: https://github.com/dair-ai/Prompt-Engineering-Guide
@@ -1235,7 +1227,6 @@ as CSV, TSV, and tabular JSON.
 [632]: https://github.com/dandavison/delta
 [633]: https://github.com/dalance/procs
 [634]: https://github.com/svenstaro/miniserve
-[635]: https://github.com/ynqa/jnv
 [636]: https://github.com/junegunn/fzf
 [637]: https://github.com/jqlang/jq
 [638]: https://github.com/antonmedv/fx
@@ -1254,3 +1245,4 @@ as CSV, TSV, and tabular JSON.
 [661]: https://binrw.rs
 [662]: https://github.com/rust-bakery/nom
 [663]: https://github.com/ronin-rb/ronin-exploits#readme
+[664]: https://github.com/marcograss/partialzip
