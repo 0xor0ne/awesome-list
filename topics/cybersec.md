@@ -74,6 +74,9 @@
 - ["Playing with libmalloc in 2024"][610]
 - ["Puckungfu 2: Another NETGEAR WAN Command Injection"][730]
 - ["Reverse engineering a car key fob signal "][801]
+- "Say Friend and Enter":
+  - [Part 1][812]
+  - [Part 2][813]
 - ["Shell We Assemble?"][689]
 - ["Shellcode evasion using WebAssembly and Rust"][726]
 - ["Strengthening the Shield: MTE in Heap Allocators"][596]
@@ -83,6 +86,7 @@
 - ["TP-Link TDDP Buffer Overflow Vulnerability"][695]
 - ["Two Bytes is Plenty: FortiGate RCE with CVE-2024-21762"][787]
 - ["Understanding Windows x64 Assembly"][693]
+- ["Windows Secure-Launch on Qualcomm devices"][811]
 - "Writing a Debugger From Scratch"
   - ["Attaching to a Process"][449]
   - ["Register State and Stepping"][450]
@@ -1748,3 +1752,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [808]: https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/
 [809]: https://blog.exodusintel.com/2024/03/27/mind-the-patch-gap-exploiting-an-io_uring-vulnerability-in-ubuntu/
 [810]: https://www.synacktiv.com/en/publications/arlo-im-watching-you
+[811]: https://github.com/TravMurav/Qcom-Secure-Launch
+[812]: https://alephsecurity.com/2024/02/20/kontrol-lux-lock-1/
+[813]: https://alephsecurity.com/2024/03/07/kontrol-lux-lock-2/
