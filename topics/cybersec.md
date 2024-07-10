@@ -66,6 +66,7 @@
 - ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
 - ["Mind the Patch Gap: Exploiting an io_uring Vulnerability in Ubuntu"][809]
 - ["Mali GPU Kernel LPE"][786]
+- ["MalpediaFLOSSed"][814]
 - ["Microsoft BitLocker Bypasses are Practical"][718]
 - ["Modern implant design: position independent malware development"][690]
 - ["My new superpower"][688]
@@ -1755,3 +1756,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [811]: https://github.com/TravMurav/Qcom-Secure-Launch
 [812]: https://alephsecurity.com/2024/02/20/kontrol-lux-lock-1/
 [813]: https://alephsecurity.com/2024/03/07/kontrol-lux-lock-2/
+[814]: https://danielplohmann.github.io/blog/2024/03/08/malpediaflossed.html
