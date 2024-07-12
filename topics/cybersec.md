@@ -408,6 +408,7 @@ exploit"][392]
 - "Rooting the FiiO M6":
   - ["Using the "World's Worst Fuzzer" To Find A Kernel Bug"][499]
   - ["Writing an LPE Exploit For Our Overflow Bug"][500]
+- ["Rooting Xiaomi WiFi Routers"][817]
 - ["Rust Binary Analysis, Feature by Feature"][231]
 - ["Rust to Assembly: Understanding the Inner Workings of Rust"][134]
 - "Rustproofing Linux":
@@ -1761,3 +1762,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [814]: https://danielplohmann.github.io/blog/2024/03/08/malpediaflossed.html
 [815]: https://www.synacktiv.com/en/publications/java-deserialization-tricks
 [816]: https://starlabs.sg/blog/2024/route-to-safety-navigating-router-pitfalls/
+[817]: https://blog.thalium.re/posts/rooting-xiaomi-wifi-routers/
