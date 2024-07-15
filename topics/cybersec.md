@@ -57,6 +57,7 @@
 - ["GhostRace: Exploiting and Mitigating Speculative Race Conditions"][802]
 - ["GraphStrike: Anatomy of Offensive Tool Development"][712]
 - ["Hacking a Smart Home Device"][691]
+- ["HEAP HEAP HOORAY — Unveiling GLIBC heap overflow vulnerability (CVE-2023–6246)"][818]
 - ["Hi, My Name is Keyboard"][676]
 - ["Hunting down the HVCI bug in UEFI"][668]
 - ["Hunting for Unauthenticated n-days in Asus Routers"][662]
@@ -77,6 +78,7 @@
 - ["Puckungfu 2: Another NETGEAR WAN Command Injection"][730]
 - ["Reverse engineering a car key fob signal "][801]
 - ["Route to Safety: Navigating Router Pitfalls"][816]
+- ["Rooting a Hive Camera"][819]
 - "Say Friend and Enter":
   - [Part 1][812]
   - [Part 2][813]
@@ -1763,3 +1765,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [815]: https://www.synacktiv.com/en/publications/java-deserialization-tricks
 [816]: https://starlabs.sg/blog/2024/route-to-safety-navigating-router-pitfalls/
 [817]: https://blog.thalium.re/posts/rooting-xiaomi-wifi-routers/
+[818]: https://medium.com/@elpepinillo/heap-heap-hooray-unveiling-glibc-heap-overflow-vulnerability-cve-2023-6246-0c6412423269
+[819]: https://boredpentester.com/rooting-hive-ip-cameras/
