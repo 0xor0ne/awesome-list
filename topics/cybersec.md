@@ -77,6 +77,7 @@
 - ["Playing with libmalloc in 2024"][610]
 - ["Puckungfu 2: Another NETGEAR WAN Command Injection"][730]
 - ["Reverse engineering a car key fob signal "][801]
+- ["Reverse Engineering Protobuf Definitions From Compiled Binaries"][820]
 - ["Route to Safety: Navigating Router Pitfalls"][816]
 - ["Rooting a Hive Camera"][819]
 - "Say Friend and Enter":
@@ -404,6 +405,9 @@ exploit"][392]
 - ["Restoring Dyld Memory Loading"][522]
 - ["Retreading The AMLogic A113X TrustZone Exploit Process"][77]
 - ["Reversing UK mobile rail tickets"][551]
+- "Reversing Windows Container":
+  - [Part 1][821]
+  - [Part 2][822]
 - ["RISC-V Bytes: Exploring a Custom ESP32 Bootloader"][493]
 - ["REUnziP: Re-Exploiting Huawei Recovery With FaultyUSB"][364]
 - ["Revisiting CVE-2017-11176"][48]
@@ -1767,3 +1771,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [817]: https://blog.thalium.re/posts/rooting-xiaomi-wifi-routers/
 [818]: https://medium.com/@elpepinillo/heap-heap-hooray-unveiling-glibc-heap-overflow-vulnerability-cve-2023-6246-0c6412423269
 [819]: https://boredpentester.com/rooting-hive-ip-cameras/
+[820]: https://arkadiyt.com/2024/03/03/reverse-engineering-protobuf-definitiions-from-compiled-binaries/
+[821]: https://blog.quarkslab.com/reversing-windows-container-episode-i-silo.html
+[822]: https://blog.quarkslab.com/reversing-windows-container-part-ii-silo-to-server-silo.html
