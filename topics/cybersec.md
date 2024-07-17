@@ -72,6 +72,9 @@
 - ["Microsoft BitLocker Bypasses are Practical"][718]
 - ["Modern implant design: position independent malware development"][690]
 - ["My new superpower"][688]
+- "Operation triangulation":
+  - ["Keychain module analysis"][823]
+  - ["audio module analysis"][824]
 - ["Out-of-bounds read & write in the glibc's qsort()"][698]
 - ["PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack"][711]
 - ["Playing with libmalloc in 2024"][610]
@@ -1774,3 +1777,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [820]: https://arkadiyt.com/2024/03/03/reverse-engineering-protobuf-definitiions-from-compiled-binaries/
 [821]: https://blog.quarkslab.com/reversing-windows-container-episode-i-silo.html
 [822]: https://blog.quarkslab.com/reversing-windows-container-part-ii-silo-to-server-silo.html
+[823]: https://shindan.io/posts/keychain_module_analysis/
+[824]: https://shindan.io/posts/audio_module_analysis/
