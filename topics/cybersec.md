@@ -72,6 +72,7 @@
 - ["Microsoft BitLocker Bypasses are Practical"][718]
 - ["Modern implant design: position independent malware development"][690]
 - ["My new superpower"][688]
+- ["Not the Drones You're Looking For"][825]
 - "Operation triangulation":
   - ["Keychain module analysis"][823]
   - ["audio module analysis"][824]
@@ -111,6 +112,7 @@
 - ["A Deep Dive into Penetration Testing of macOS Applications (Part 1)"][49]
 - ["A Deep Dive into TPM-based BitLocker Drive Encryption"][611]
 - ["A Detailed Look at Pwn2own Automotive EV Charger Hardware"][537]
+- ["A LibAFL Introductory Workshop"][826]
 - ["A look at CVE-2023-29360, a beautiful logical LPE vuln"][260]
 - ["A Journey Into Hacking Google Search Appliance"][203]
 - ["A new method for container escape using file-based DirtyCred"][201]
@@ -1779,3 +1781,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [822]: https://blog.quarkslab.com/reversing-windows-container-part-ii-silo-to-server-silo.html
 [823]: https://shindan.io/posts/keychain_module_analysis/
 [824]: https://shindan.io/posts/audio_module_analysis/
+[825]: https://assets-global.website-files.com/645a4534705010e2cb244f50/663579201211ec0f633afc4b_Nozomi-Networks-WP-Drone-Telemetry.pdf
+[826]: https://www.atredis.com/blog/2023/12/4/a-libafl-introductory-workshop
