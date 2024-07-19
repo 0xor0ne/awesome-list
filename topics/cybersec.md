@@ -228,6 +228,7 @@ exploit"][392]
 - ["Encrypted Doesn't Mean Authenticated: ShareFile RCE (CVE-2023-24489)"][182]
 - ["ENLBufferPwn (CVE-2022-47949)"][422]
 - ["Escaping the Google kCTF Container with a Data-Only Exploit"][178]
+- ["Exploitation of a kernel pool overflow from a restrictive chunk size (CVE-2021-31969)"][827]
 - ["Exploitation of Openfire CVE-2023-32315"][283]
 - ["Exploiting a Critical Spoofing Vulnerability in Windows CryptoAPI"][572]
 - ["Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers"][130]
@@ -267,7 +268,7 @@ exploit"][392]
   - ["Fuzzing GEGL with fuzzuf"][43]
   - ["Evaluating Performance of Fuzzer"][44]
   - ["Patch Analysis and PoC Development"][45]
-  - ["Hunting and Exploiting 0-day [CVE-2022-24834]"][46]
+  - ["Hunting and Exploiting 0-day \[CVE-2022-24834\]"][46]
 - ["Fuzzing Golang msgpack for fun and panic"][643]
 - ["Getting RCE in Chrome with incomplete object initialization in the Maglev compiler"][486]
 - "Ghidra" (Craig Young):
@@ -285,7 +286,7 @@ exploit"][392]
 - ["Hacking the Nintendo DSi Browser"][456]
 - ["Hardware Hacking to Bypass BIOS Passwords"][5]
 - ["Heads up! Xdr33, A Variant Of CIA’s HIVE Attack Kit Emerges"][443]
-- ["How a simple K-TypeConfusion took me 3 months long to create a exploit? [HEVD] - Windows 11 (build 22621)"][240]
+- ["How a simple K-TypeConfusion took me 3 months long to create a exploit? \[HEVD\] - Windows 11 (build 22621)"][240]
 - ["How does Linux start a process"][501]
 - "How NATs Work":
   - [Part 1][152]
@@ -1783,3 +1784,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [824]: https://shindan.io/posts/audio_module_analysis/
 [825]: https://assets-global.website-files.com/645a4534705010e2cb244f50/663579201211ec0f633afc4b_Nozomi-Networks-WP-Drone-Telemetry.pdf
 [826]: https://www.atredis.com/blog/2023/12/4/a-libafl-introductory-workshop
+[827]: https://starlabs.sg/blog/2023/11-exploitation-of-a-kernel-pool-overflow-from-a-restrictive-chunk-size-cve-2021-31969/
