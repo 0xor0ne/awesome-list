@@ -79,6 +79,12 @@
 - ["Out-of-bounds read & write in the glibc's qsort()"][698]
 - ["PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack"][711]
 - ["Playing with libmalloc in 2024"][610]
+- "Pwn2Own Toronto 2023":
+  - ["How it all started"][829]
+  - ["Exploring the Attack Surface"][830]
+  - ["Exploration"][831]
+  - ["Memory Corruption Analysis"][832]
+  - ["The Exploit"][833]
 - ["Puckungfu 2: Another NETGEAR WAN Command Injection"][730]
 - ["Reverse engineering a car key fob signal "][801]
 - ["Reverse Engineering Protobuf Definitions From Compiled Binaries"][820]
@@ -471,6 +477,7 @@ exploit"][392]
 - ["Understanding a Payload’s Life Featuring Meterpreter & Other Guests "][315]
 - ["Understanding Dirty Pagetable - m0leCon Finals 2023 CTF Writeup"][591]
 - ["Understanding the Heap - a beautiful mess"][348]
+- ["Unleashing ksmbd: crafting remote exploits of the Linux kernel"][828]
 - ["Unleashing ksmbd: remote exploitation of the Linux kernel (ZDI-23-979, ZDI-23-980)"][533]
 - ["Unlimited Results: Breaking Firmware Encryption of ESP32-V3"][598]
 - "Unveiling secrets of the ESP32":
@@ -1785,3 +1792,9 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [825]: https://assets-global.website-files.com/645a4534705010e2cb244f50/663579201211ec0f633afc4b_Nozomi-Networks-WP-Drone-Telemetry.pdf
 [826]: https://www.atredis.com/blog/2023/12/4/a-libafl-introductory-workshop
 [827]: https://starlabs.sg/blog/2023/11-exploitation-of-a-kernel-pool-overflow-from-a-restrictive-chunk-size-cve-2021-31969/
+[828]: https://pwning.tech/ksmbd/
+[829]: https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-1-how-it-all-started/
+[830]: https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-2-exploring-the-attack-surface/
+[831]: https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-3-exploration/
+[832]: https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-4-memory-corruption-analysis/
+[833]: https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-5-the-exploit/
