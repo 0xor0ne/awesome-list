@@ -29,6 +29,7 @@
 - ["A Technical Deep Dive: Comparing Anti-Cheat Bypass and EDR Bypass "][714]
 - ["A Trip Down Memory Lane"][715]
 - ["Advanced CyberChef Techniques For Malware Analysis - Detailed Walkthrough and Examples"][736]
+- ["Analyzing Mutation-Coded - VM Protect and Alcatraz English"][834]
 - ["ARLO: I'M WATCHING YOU"][810]
 - ["ASLRn’t: How memory alignment broke library ASLR"][731]
 - ["BGGP4: A 420 Byte Self-Replicating UEFI App For x64"][728]
@@ -1798,3 +1799,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [831]: https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-3-exploration/
 [832]: https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-4-memory-corruption-analysis/
 [833]: https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-5-the-exploit/
+[834]: https://keowu.re/posts/Analyzing-Mutation-Coded-VM-Protect-and-Alcatraz-English/
