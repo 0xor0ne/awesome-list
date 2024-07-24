@@ -37,6 +37,12 @@
 - ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
 - ["Buying Spying Insights into Commercial Surveillance Vendors"][733]
 - ["Bypassing EDRs With EDR-Preloading"][716]
+- "Chaining N-days to Compromise All":
+  - [Part 1][836]
+  - [Part 2][837]
+  - [Part 3][838]
+  - [Part 4][839]
+  - [Part 5][840]
 - ["Continuously fuzzing Python C extensions"][734]
 - ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
 - ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
@@ -78,6 +84,7 @@
   - ["Keychain module analysis"][823]
   - ["audio module analysis"][824]
 - ["Out-of-bounds read & write in the glibc's qsort()"][698]
+- ["Patch Tuesday Diffing: CVE-2024-20696 - Windows Libarchive RCE"][835]
 - ["PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack"][711]
 - ["Playing with libmalloc in 2024"][610]
 - "Pwn2Own Toronto 2023":
@@ -1800,3 +1807,9 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [832]: https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-4-memory-corruption-analysis/
 [833]: https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-5-the-exploit/
 [834]: https://keowu.re/posts/Analyzing-Mutation-Coded-VM-Protect-and-Alcatraz-English/
+[835]: https://clearbluejar.github.io/posts/patch-tuesday-diffing-cve-2024-20696-windows-libarchive-rce/
+[836]: https://blog.theori.io/chaining-n-days-to-compromise-all-part-1-chrome-renderer-rce-1afccf56721b
+[837]: https://blog.theori.io/chaining-n-days-to-compromise-all-part-2-windows-kernel-lpe-a-k-a-chrome-sandbox-escape-44cb49d7a4f8
+[838]: https://blog.theori.io/chaining-n-days-to-compromise-all-part-3-windows-driver-lpe-medium-to-system-12f7821d97bb
+[839]: https://blog.theori.io/chaining-n-days-to-compromise-all-part-4-vmware-workstation-information-leakage-44476b05d410
+[840]: https://blog.theori.io/chaining-n-days-to-compromise-all-part-5-vmware-workstation-host-to-guest-escape-5a1297e431b5
