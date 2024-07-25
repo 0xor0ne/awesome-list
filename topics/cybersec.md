@@ -60,6 +60,7 @@
 - ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
 - ["Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques"][804]
 - ["Gaining kernel code execution on an MTE-enabled Pixel 8"][808]
+- ["Going Native - Malicious Native Applications"][842]
 - ["Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution"][674]
 - ["GhostRace: Exploiting and Mitigating Speculative Race Conditions"][802]
 - ["GraphStrike: Anatomy of Offensive Tool Development"][712]
@@ -314,6 +315,7 @@ exploit"][392]
   - [Part 4][104]
   - [Part 5][105]
   - [Part 6][106]
+- ["How I hacked smart lights: the story behind CVE-2022-47758"][841]
 - ["How to Emulate Android Native Libraries Using Qiling"][482]
 - ["How to Voltage Fault Injection"][685]
 - ["How To Secure A Linux Server"][140]
@@ -1813,3 +1815,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [838]: https://blog.theori.io/chaining-n-days-to-compromise-all-part-3-windows-driver-lpe-medium-to-system-12f7821d97bb
 [839]: https://blog.theori.io/chaining-n-days-to-compromise-all-part-4-vmware-workstation-information-leakage-44476b05d410
 [840]: https://blog.theori.io/chaining-n-days-to-compromise-all-part-5-vmware-workstation-host-to-guest-escape-5a1297e431b5
+[841]: https://pwning.tech/cve-2022-47758/
+[842]: https://www.protexity.com/post/going-native-malicious-native-applications
