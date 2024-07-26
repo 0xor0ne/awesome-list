@@ -111,7 +111,9 @@
 - ["TP-Link TDDP Buffer Overflow Vulnerability"][695]
 - ["Two Bytes is Plenty: FortiGate RCE with CVE-2024-21762"][787]
 - ["Understanding Windows x64 Assembly"][693]
+- ["VBA: having fun with macros, overwritten pointers & R/W/X memory"][843]
 - ["Windows Secure-Launch on Qualcomm devices"][811]
+- ["Windows vs Linux Loader Architecture"][844]
 - "Writing a Debugger From Scratch"
   - ["Attaching to a Process"][449]
   - ["Register State and Stepping"][450]
@@ -494,6 +496,7 @@ exploit"][392]
   - ["creating an open-source MAC Layer"][653]
   - ["reverse engineering RX"][654]
 - ["Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More"][648]
+- ["What is Loader Lock?"][845]
 - ["Windows Installer arbitrary content manipulation Elevation of Privilege (CVE-2020-0911)"][58]
 - ["Windows Installer EOP (CVE-2023-21800)"][314]
 - ["Writing your own RDI /sRDI loader using C and ASM"][307]
@@ -1817,3 +1820,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [840]: https://blog.theori.io/chaining-n-days-to-compromise-all-part-5-vmware-workstation-host-to-guest-escape-5a1297e431b5
 [841]: https://pwning.tech/cve-2022-47758/
 [842]: https://www.protexity.com/post/going-native-malicious-native-applications
+[843]: https://adepts.of0x.cc/vba-hijack-pointers-rwa/
+[844]: https://github.com/ElliotKillick/windows-vs-linux-loader-architecture?tab=readme-ov-file
+[845]: https://elliotonsecurity.com/what-is-loader-lock/
