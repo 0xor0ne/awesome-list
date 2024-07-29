@@ -95,6 +95,7 @@
   - ["Memory Corruption Analysis"][832]
   - ["The Exploit"][833]
 - ["Puckungfu 2: Another NETGEAR WAN Command Injection"][730]
+- ["Resolving Stack Strings with Capstone Disassembler & Unicorn in Python"][846]
 - ["Reverse engineering a car key fob signal "][801]
 - ["Reverse Engineering Protobuf Definitions From Compiled Binaries"][820]
 - ["Route to Safety: Navigating Router Pitfalls"][816]
@@ -104,6 +105,9 @@
   - [Part 2][813]
 - ["Shell We Assemble?"][689]
 - ["Shellcode evasion using WebAssembly and Rust"][726]
+- "SMM isolation":
+  - ["SMI deprivileging (ISRD)"][847]
+  - ["Security policy reporting (ISSR)"][848]
 - ["Strengthening the Shield: MTE in Heap Allocators"][596]
 - ["The architecture of SAST tools: An explainer for developers"][739]
 - ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
@@ -1823,3 +1827,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [843]: https://adepts.of0x.cc/vba-hijack-pointers-rwa/
 [844]: https://github.com/ElliotKillick/windows-vs-linux-loader-architecture?tab=readme-ov-file
 [845]: https://elliotonsecurity.com/what-is-loader-lock/
+[846]: https://www.0ffset.net/reverse-engineering/capstone-resolving-stack-strings/
+[847]: https://tandasat.github.io/blog/2024/02/29/ISRD.html
+[848]: https://tandasat.github.io/blog/2024/03/18/ISSR.html
