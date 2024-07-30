@@ -44,6 +44,7 @@
   - [Part 4][839]
   - [Part 5][840]
 - ["Continuously fuzzing Python C extensions"][734]
+- ["CVE-2022-2586 Writeup"][849]
 - ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
 - ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
 - ["Deobfuscating Android ARM64 strings with Ghidra: Emulating, Patching, and Automating"][683]
@@ -111,6 +112,7 @@
 - ["Strengthening the Shield: MTE in Heap Allocators"][596]
 - ["The architecture of SAST tools: An explainer for developers"][739]
 - ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
+- ["The tale of a GSM Kernel LP"][850]
 - ["Toolchain Necromancy: Past Mistakes Haunting ASLR"][732]
 - ["TP-Link TDDP Buffer Overflow Vulnerability"][695]
 - ["Two Bytes is Plenty: FortiGate RCE with CVE-2024-21762"][787]
@@ -1830,3 +1832,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [846]: https://www.0ffset.net/reverse-engineering/capstone-resolving-stack-strings/
 [847]: https://tandasat.github.io/blog/2024/02/29/ISRD.html
 [848]: https://tandasat.github.io/blog/2024/03/18/ISSR.html
+[849]: https://www.jmpeax.dev/CVE-2022-2586-writeup.html
+[850]: https://www.jmpeax.dev/The-tale-of-a-GSM-Kernel-LPE.html
