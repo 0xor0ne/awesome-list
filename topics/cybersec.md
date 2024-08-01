@@ -71,6 +71,7 @@
 - ["Hunting down the HVCI bug in UEFI"][668]
 - ["Hunting for Unauthenticated n-days in Asus Routers"][662]
 - ["Java Deserialization Tricks"][815]
+- ["JTAG Hacking with a Raspberry Pi"][851]
 - ["Kuiper Ransomware’s Evolution"][702]
 - ["Inside the LogoFAIL PoC: From Integer Overflow to Arbitrary Code Execution"][692]
 - ["LeftoverLocals: Listening to LLM responses through leaked GPU local memory"][687]
@@ -1834,3 +1835,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [848]: https://tandasat.github.io/blog/2024/03/18/ISSR.html
 [849]: https://www.jmpeax.dev/CVE-2022-2586-writeup.html
 [850]: https://www.jmpeax.dev/The-tale-of-a-GSM-Kernel-LPE.html
+[851]: https://voidstarsec.com/blog/jtag-pifex
