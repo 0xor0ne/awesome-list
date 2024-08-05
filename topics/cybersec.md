@@ -32,6 +32,7 @@
 - ["Analyzing Mutation-Coded - VM Protect and Alcatraz English"][834]
 - ["ARLO: I'M WATCHING YOU"][810]
 - ["ASLRn’t: How memory alignment broke library ASLR"][731]
+- ["Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938"][852]
 - ["BGGP4: A 420 Byte Self-Replicating UEFI App For x64"][728]
 - ["Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC as Example"][803]
 - ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
@@ -51,6 +52,7 @@
 - ["Dissecting a complex vulnerability and achieving arbitrary code execution in Ichitaro Word"][805]
 - ["DJI - The ART of obfuscation"][705]
 - ["Docker Security – Step-by-Step Hardening (Docker Hardening)"][729]
+- ["Emulating RH850 architecture with Unicorn Engine"][853]
 - ["Exploring AMD Platform Secure Boot"][701]
 - ["Exploiting Empire C2 Framework"][723]
 - "Exploiting Reversing (ER) series":
@@ -1836,3 +1838,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [849]: https://www.jmpeax.dev/CVE-2022-2586-writeup.html
 [850]: https://www.jmpeax.dev/The-tale-of-a-GSM-Kernel-LPE.html
 [851]: https://voidstarsec.com/blog/jtag-pifex
+[852]: https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/
+[853]: https://blog.quarkslab.com/emulating-rh850-architecture-with-unicorn-engine.html
