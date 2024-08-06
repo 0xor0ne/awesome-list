@@ -131,6 +131,7 @@
   - ["Breakpoints"][453]
   - ["Stacks"][454]
   - ["Disassembly"][455]
+- ["Your NVMe Had Been Syz’ed: Fuzzing NVMe-oF/TCP Driver for Linux with Syzkaller"][854]
 
 ## 2023
 
@@ -1840,3 +1841,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [851]: https://voidstarsec.com/blog/jtag-pifex
 [852]: https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/
 [853]: https://blog.quarkslab.com/emulating-rh850-architecture-with-unicorn-engine.html
+[854]: https://www.cyberark.com/resources/threat-research-blog/your-nvme-had-been-syzed-fuzzing-nvme-of-tcp-driver-for-linux-with-syzkaller
