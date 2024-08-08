@@ -718,6 +718,7 @@ exploit"][392]
   - ["Imports (Import Direcory Table, ILT, IAT)"][336]
   - ["PE Base Relocations"][337]
   - ["Writing a PE Parser"][338]
+- ["A Nerve-Racking Bug Collision in Samsung's NPU Driver"][855]
 - "A Practical Approach to Attacking IoT Embedded Designs":
   - [Part 1][721]
   - [Part 2][722]
@@ -806,6 +807,7 @@ exploit"][392]
   - [Part 1][487]
   - [Part 2][488]
   - [Part 3][489]
+- ["An iOS hacker tries Android"][856]
 - "BGET Explained Binary Heap Exploitation on OP-TEE":
   - [Part 1][187]
   - [Part 2][188]
@@ -1842,3 +1844,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [852]: https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/
 [853]: https://blog.quarkslab.com/emulating-rh850-architecture-with-unicorn-engine.html
 [854]: https://www.cyberark.com/resources/threat-research-blog/your-nvme-had-been-syzed-fuzzing-nvme-of-tcp-driver-for-linux-with-syzkaller
+[855]: https://labs.taszk.io/articles/post/bug_collision_in_samsungs_npu_driver/
+[856]: https://googleprojectzero.blogspot.com/2020/12/an-ios-hacker-tries-android.html
