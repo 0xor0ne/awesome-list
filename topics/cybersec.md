@@ -44,6 +44,10 @@
   - [Part 3][838]
   - [Part 4][839]
   - [Part 5][840]
+- "CodeQL zero to hero":
+  [Part 1][858]
+  [Part 2][859]
+  [Part 3][860]
 - ["Continuously fuzzing Python C extensions"][734]
 - ["CVE-2022-2586 Writeup"][849]
 - ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
@@ -152,6 +156,7 @@
 - ["A Red-Teamer diaries"][156]
 - ["A story about tampering EDRs"][293]
 - ["Abusing Liftoff assembly and efficiently escaping from sbx"][677]
+- ["Abusing RCU callbacks with a Use-After-Free read to defeat KASLR"][857]
 - ["Abusing undocumented features to spoof PE section headers"][139]
 - ["Achieving Remote Code Execution in Steam: a journey into the Remote Play protocol"][587]
 - ["All about LeakSanitizer"][460]
@@ -1846,3 +1851,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [854]: https://www.cyberark.com/resources/threat-research-blog/your-nvme-had-been-syzed-fuzzing-nvme-of-tcp-driver-for-linux-with-syzkaller
 [855]: https://labs.taszk.io/articles/post/bug_collision_in_samsungs_npu_driver/
 [856]: https://googleprojectzero.blogspot.com/2020/12/an-ios-hacker-tries-android.html
+[857]: https://anatomic.rip/abusing_rcu_callbacks_to_defeat_kaslr/
+[858]: https://github.blog/developer-skills/github/codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/
+[859]: https://github.blog/developer-skills/github/codeql-zero-to-hero-part-2-getting-started-with-codeql/
+[860]: https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-3-security-research-with-codeql/
