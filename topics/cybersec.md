@@ -49,6 +49,7 @@
   [Part 2][859]
   [Part 3][860]
 - ["Continuously fuzzing Python C extensions"][734]
+- ["CVE-2024-20356: Jailbreaking a Cisco appliance to run DOOM"][861]
 - ["CVE-2022-2586 Writeup"][849]
 - ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
 - ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
@@ -111,6 +112,7 @@
 - "Say Friend and Enter":
   - [Part 1][812]
   - [Part 2][813]
+- ["SECGlitcher (Part 1) - Reproducible Voltage Glitching on STM32 Microcontrollers"][862]
 - ["Shell We Assemble?"][689]
 - ["Shellcode evasion using WebAssembly and Rust"][726]
 - "SMM isolation":
@@ -1855,3 +1857,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [858]: https://github.blog/developer-skills/github/codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/
 [859]: https://github.blog/developer-skills/github/codeql-zero-to-hero-part-2-getting-started-with-codeql/
 [860]: https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-3-security-research-with-codeql/
+[861]: https://labs.nettitude.com/blog/cve-2024-20356-jailbreaking-a-cisco-appliance-to-run-doom/
+[862]: https://sec-consult.com/blog/detail/secglitcher-part-1-reproducible-voltage-glitching-on-stm32-microcontrollers/
