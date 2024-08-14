@@ -33,6 +33,7 @@
 - ["ARLO: I'M WATCHING YOU"][810]
 - ["ASLRn’t: How memory alignment broke library ASLR"][731]
 - ["Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938"][852]
+- ["Becoming any Android app via Zygote command injection"][863]
 - ["BGGP4: A 420 Byte Self-Replicating UEFI App For x64"][728]
 - ["Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC as Example"][803]
 - ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
@@ -1859,3 +1860,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [860]: https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-3-security-research-with-codeql/
 [861]: https://labs.nettitude.com/blog/cve-2024-20356-jailbreaking-a-cisco-appliance-to-run-doom/
 [862]: https://sec-consult.com/blog/detail/secglitcher-part-1-reproducible-voltage-glitching-on-stm32-microcontrollers/
+[863]: https://rtx.meta.security/exploitation/2024/06/03/Android-Zygote-injection.html
