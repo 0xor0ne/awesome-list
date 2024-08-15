@@ -20,6 +20,9 @@
 
 ## 2024
 
+- "64 bytes and a ROP chain – A journey through nftables":
+  - [Part 1][865]
+  - [Part 2][866]
 - "nix libX11: Uncovering and exploiting a 35-year-old vulnerability":
   - [Part 1][703]
   - [Part 2][704]
@@ -52,6 +55,7 @@
 - ["Continuously fuzzing Python C extensions"][734]
 - ["CVE-2024-20356: Jailbreaking a Cisco appliance to run DOOM"][861]
 - ["CVE-2022-2586 Writeup"][849]
+- ["CVE-2022-4262"][864]
 - ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
 - ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
 - ["Deobfuscating Android ARM64 strings with Ghidra: Emulating, Patching, and Automating"][683]
@@ -1861,3 +1865,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [861]: https://labs.nettitude.com/blog/cve-2024-20356-jailbreaking-a-cisco-appliance-to-run-doom/
 [862]: https://sec-consult.com/blog/detail/secglitcher-part-1-reproducible-voltage-glitching-on-stm32-microcontrollers/
 [863]: https://rtx.meta.security/exploitation/2024/06/03/Android-Zygote-injection.html
+[864]: https://github.com/bjrjk/CVE-2022-4262/blob/main/FA/FA.md
+[865]: https://betrusted.it/blog/64-bytes-and-a-rop-chain-part-1/
+[866]: https://betrusted.it/blog/64-bytes-and-a-rop-chain-part-2/
