@@ -108,6 +108,10 @@
   - ["Exploration"][831]
   - ["Memory Corruption Analysis"][832]
   - ["The Exploit"][833]
+- "Pwntools 10x":
+  - [Part 1][867]
+  - [Part 2][868]
+  - [Part 3][869]
 - ["Puckungfu 2: Another NETGEAR WAN Command Injection"][730]
 - ["Resolving Stack Strings with Capstone Disassembler & Unicorn in Python"][846]
 - ["Reverse engineering a car key fob signal "][801]
@@ -1868,3 +1872,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [864]: https://github.com/bjrjk/CVE-2022-4262/blob/main/FA/FA.md
 [865]: https://betrusted.it/blog/64-bytes-and-a-rop-chain-part-1/
 [866]: https://betrusted.it/blog/64-bytes-and-a-rop-chain-part-2/
+[867]: https://www.archcloudlabs.com/projects/pwntools-bof/
+[868]: https://www.archcloudlabs.com/projects/pwntools-shellcraft/
+[869]: https://www.archcloudlabs.com/projects/pwntools-automating-interactions/
