@@ -82,6 +82,9 @@
 - ["Hi, My Name is Keyboard"][676]
 - ["Hunting down the HVCI bug in UEFI"][668]
 - ["Hunting for Unauthenticated n-days in Asus Routers"][662]
+- "Iconv, Set the Charset to RCE":
+  - [Part 1][870]
+  - [Part 2][871]
 - ["Java Deserialization Tricks"][815]
 - ["JTAG Hacking with a Raspberry Pi"][851]
 - ["Kuiper Ransomware’s Evolution"][702]
@@ -1875,3 +1878,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [867]: https://www.archcloudlabs.com/projects/pwntools-bof/
 [868]: https://www.archcloudlabs.com/projects/pwntools-shellcraft/
 [869]: https://www.archcloudlabs.com/projects/pwntools-automating-interactions/
+[870]: https://www.ambionics.io/blog/iconv-cve-2024-2961-p1
+[871]: https://www.ambionics.io/blog/iconv-cve-2024-2961-p2
