@@ -494,6 +494,7 @@ exploit"][392]
 - ["The art of Fuzzing: Introduction"][57]
 - ["The art of fuzzing: Windows Binaries"][89]
 - ["The art of fuzzing-A Step-by-Step Guide to Coverage-Guided Fuzzing with LibFuzzer"][54]
+- ["The Art Of Linux Persistence"][872]
 - ["The Blitz Tutorial Lab on Fuzzing with AFL++"][303]
 - ["The code that wasn’t there: Reading memory on an Android device by accident"][462]
 - ["The Dragon Who Sold His camaro: Analyzing Custom Router Implant"][228]
@@ -1880,3 +1881,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [869]: https://www.archcloudlabs.com/projects/pwntools-automating-interactions/
 [870]: https://www.ambionics.io/blog/iconv-cve-2024-2961-p1
 [871]: https://www.ambionics.io/blog/iconv-cve-2024-2961-p2
+[872]: https://hadess.io/the-art-of-linux-persistence/
