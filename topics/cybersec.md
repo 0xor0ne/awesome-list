@@ -73,6 +73,7 @@
 - ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
 - ["Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques"][804]
 - ["Gaining kernel code execution on an MTE-enabled Pixel 8"][808]
+- ["Ghidra nanoMIPS ISA module"][873]
 - ["Going Native - Malicious Native Applications"][842]
 - ["Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution"][674]
 - ["GhostRace: Exploiting and Mitigating Speculative Race Conditions"][802]
@@ -1882,3 +1883,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [870]: https://www.ambionics.io/blog/iconv-cve-2024-2961-p1
 [871]: https://www.ambionics.io/blog/iconv-cve-2024-2961-p2
 [872]: https://hadess.io/the-art-of-linux-persistence/
+[873]: https://research.nccgroup.com/2024/05/07/ghidra-nanomips-isa-module/
