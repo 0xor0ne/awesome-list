@@ -48,6 +48,8 @@
   - [Part 3][838]
   - [Part 4][839]
   - [Part 5][840]
+- ["Check Point - Wrong Check Point (CVE-2024-24919)"][875]
+- ["Code injection on Android without ptrace"][874]
 - "CodeQL zero to hero":
   [Part 1][858]
   [Part 2][859]
@@ -1884,3 +1886,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [871]: https://www.ambionics.io/blog/iconv-cve-2024-2961-p2
 [872]: https://hadess.io/the-art-of-linux-persistence/
 [873]: https://research.nccgroup.com/2024/05/07/ghidra-nanomips-isa-module/
+[874]: https://erfur.dev/blog/dev/code-injection-without-ptrace
+[875]: https://labs.watchtowr.com/check-point-wrong-check-point-cve-2024-24919/
