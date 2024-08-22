@@ -31,6 +31,7 @@
 - ["A Practical Guide to PrintNightmare in 2024"][709]
 - ["A Technical Deep Dive: Comparing Anti-Cheat Bypass and EDR Bypass "][714]
 - ["A Trip Down Memory Lane"][715]
+- ["An unexpected journey into Microsoft Defender's signature World"][876]
 - ["Advanced CyberChef Techniques For Malware Analysis - Detailed Walkthrough and Examples"][736]
 - ["Analyzing Mutation-Coded - VM Protect and Alcatraz English"][834]
 - ["ARLO: I'M WATCHING YOU"][810]
@@ -54,6 +55,7 @@
   [Part 1][858]
   [Part 2][859]
   [Part 3][860]
+- ["Compiler Options Hardening Guide for C and C++"][877]
 - ["Continuously fuzzing Python C extensions"][734]
 - ["CVE-2024-20356: Jailbreaking a Cisco appliance to run DOOM"][861]
 - ["CVE-2022-2586 Writeup"][849]
@@ -1888,3 +1890,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [873]: https://research.nccgroup.com/2024/05/07/ghidra-nanomips-isa-module/
 [874]: https://erfur.dev/blog/dev/code-injection-without-ptrace
 [875]: https://labs.watchtowr.com/check-point-wrong-check-point-cve-2024-24919/
+[876]: https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world
+[877]: https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html
