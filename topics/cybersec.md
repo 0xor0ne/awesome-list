@@ -68,6 +68,7 @@
 - ["Docker Security – Step-by-Step Hardening (Docker Hardening)"][729]
 - ["Emulating RH850 architecture with Unicorn Engine"][853]
 - ["Exploring AMD Platform Secure Boot"][701]
+- ["Exploring GNU extensions in the Linux kernel"][878]
 - ["Exploiting Empire C2 Framework"][723]
 - "Exploiting Reversing (ER) series":
   - [Article 01][583]
@@ -126,6 +127,7 @@
 - ["Reverse Engineering Protobuf Definitions From Compiled Binaries"][820]
 - ["Route to Safety: Navigating Router Pitfalls"][816]
 - ["Rooting a Hive Camera"][819]
+- ["SAME70 Emulator"][879]
 - "Say Friend and Enter":
   - [Part 1][812]
   - [Part 2][813]
@@ -1892,3 +1894,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [875]: https://labs.watchtowr.com/check-point-wrong-check-point-cve-2024-24919/
 [876]: https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world
 [877]: https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html
+[878]: https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel
+[879]: https://www.0x01team.com/sw_security/same70-emulator/
