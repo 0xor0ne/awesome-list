@@ -139,6 +139,7 @@
   - ["Security policy reporting (ISSR)"][848]
 - ["Strengthening the Shield: MTE in Heap Allocators"][596]
 - ["The architecture of SAST tools: An explainer for developers"][739]
+- ["The Dark Side of UEFI: A technical Deep-Dive into Cross-Silicon Exploitation"][880]
 - ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
 - ["The tale of a GSM Kernel LP"][850]
 - ["Toolchain Necromancy: Past Mistakes Haunting ASLR"][732]
@@ -1896,3 +1897,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [877]: https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html
 [878]: https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel
 [879]: https://www.0x01team.com/sw_security/same70-emulator/
+[880]: https://www.binarly.io/blog/the-dark-side-of-uefi-a-technical-deep-dive-into-cross-silicon-exploitation
