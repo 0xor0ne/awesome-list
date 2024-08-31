@@ -219,6 +219,7 @@ exploit"][392]
 - ["Behind the Shield: Unmasking Scudos's Defenses"][8]
 - ["BlackLotus UEFI bootkit: Myth confirmed"][429]
 - ["BLUFFS: Bluetooth Forward and Future Secrecy Attacks and Defenses"][618]
+- ["BPF Memory Forensics with Volatility 3"][881]
 - ["Breaking Fortinet Firmware Encryption"][233]
 - ["Breaking the Code - Exploiting and Examining CVE-2023-1829 in cls_tcindex Classifier Vulnerability"][81]
 - ["Breaking Secure Boot on the Silicon Labs Gecko platform"][262]
@@ -1898,3 +1899,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [878]: https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel
 [879]: https://www.0x01team.com/sw_security/same70-emulator/
 [880]: https://www.binarly.io/blog/the-dark-side-of-uefi-a-technical-deep-dive-into-cross-silicon-exploitation
+[881]: https://lolcads.github.io/posts/2023/12/bpf_memory_forensics_with_volatility3/
