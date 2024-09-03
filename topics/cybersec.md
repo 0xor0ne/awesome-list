@@ -31,6 +31,7 @@
 - ["A Practical Guide to PrintNightmare in 2024"][709]
 - ["A Technical Deep Dive: Comparing Anti-Cheat Bypass and EDR Bypass "][714]
 - ["A Trip Down Memory Lane"][715]
+- ["An Introduction to Chrome Exploitation - Maglev Edition"][882]
 - ["An unexpected journey into Microsoft Defender's signature World"][876]
 - ["Advanced CyberChef Techniques For Malware Analysis - Detailed Walkthrough and Examples"][736]
 - ["Analyzing Mutation-Coded - VM Protect and Alcatraz English"][834]
@@ -1900,3 +1901,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [879]: https://www.0x01team.com/sw_security/same70-emulator/
 [880]: https://www.binarly.io/blog/the-dark-side-of-uefi-a-technical-deep-dive-into-cross-silicon-exploitation
 [881]: https://lolcads.github.io/posts/2023/12/bpf_memory_forensics_with_volatility3/
+[882]: https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/
