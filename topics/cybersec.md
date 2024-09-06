@@ -77,6 +77,7 @@
 - ["Exploring object file formats"][684]
 - ["Extracting Secure Onboard Communication (SecOC) keys from a 2021 Toyota RAV4 Prime"][735]
 - ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
+- ["Flatlined: Analyzing Pulse Secure Firmware and Bypassing Integrity Checking"][883]
 - ["Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques"][804]
 - ["Gaining kernel code execution on an MTE-enabled Pixel 8"][808]
 - ["Ghidra nanoMIPS ISA module"][873]
@@ -1902,3 +1903,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [880]: https://www.binarly.io/blog/the-dark-side-of-uefi-a-technical-deep-dive-into-cross-silicon-exploitation
 [881]: https://lolcads.github.io/posts/2023/12/bpf_memory_forensics_with_volatility3/
 [882]: https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/
+[883]: https://eclypsium.com/blog/flatlined-analyzing-pulse-secure-firmware-and-bypassing-integrity-checking/
