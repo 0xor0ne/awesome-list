@@ -568,6 +568,7 @@ exploit"][392]
   - ["Data Processing (Part 2)"][413]
   - ["selections and loops"][414]
   - ["Subroutines"][415]
+- ["Attacking the Android kernel using the Qualcomm TrustZone"][885]
 - ["Attacking Titan M with Only One Byte"][259]
 - ["Avoiding Detection with Shellcode Mutator"][432]
 - "BasicFUN Series":
@@ -620,6 +621,7 @@ exploit"][392]
   - [Part 2][753]
   - [Part 3][754]
 - ["Hackign More Secure Portable Storage Devices"][623]
+- ["How did I approach making linux LKM rootkit, “reveng_rtkit” ?"][884]
 - ["How The Tables Have Turned: An analysis of two new Linux vulnerabilities in nf_tables"][266]
 - ["Huawei Security Hypervisor Vulnerability"][435]
 - "Hunting for Persistence in Linux"
@@ -1904,3 +1906,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [881]: https://lolcads.github.io/posts/2023/12/bpf_memory_forensics_with_volatility3/
 [882]: https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/
 [883]: https://eclypsium.com/blog/flatlined-analyzing-pulse-secure-firmware-and-bypassing-integrity-checking/
+[884]: https://reveng007.github.io/blog/2022/03/08/reveng_rkit_detailed.html
+[885]: https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone
