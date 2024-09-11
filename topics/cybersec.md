@@ -42,6 +42,7 @@
 - ["BGGP4: A 420 Byte Self-Replicating UEFI App For x64"][728]
 - ["Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC as Example"][803]
 - ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
+- ["Bus Pirate 5: The Swiss ARRRmy Knife of Hardware Hacking"][886]
 - ["Buying Spying Insights into Commercial Surveillance Vendors"][733]
 - ["Bypassing EDRs With EDR-Preloading"][716]
 - "Chaining N-days to Compromise All":
@@ -133,6 +134,7 @@
 - "Say Friend and Enter":
   - [Part 1][812]
   - [Part 2][813]
+- ["Samsung NX related posts"][887]
 - ["SECGlitcher (Part 1) - Reproducible Voltage Glitching on STM32 Microcontrollers"][862]
 - ["Shell We Assemble?"][689]
 - ["Shellcode evasion using WebAssembly and Rust"][726]
@@ -1908,3 +1910,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [883]: https://eclypsium.com/blog/flatlined-analyzing-pulse-secure-firmware-and-bypassing-integrity-checking/
 [884]: https://reveng007.github.io/blog/2022/03/08/reveng_rkit_detailed.html
 [885]: https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone
+[886]: https://eclypsium.com/blog/bus-pirate-5-the-swiss-arrrmy-knife-of-hardware-hacking/
+[887]: https://op-co.de/blog/tags/samsung-nx/
