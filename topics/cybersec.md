@@ -149,6 +149,7 @@
 - ["Toolchain Necromancy: Past Mistakes Haunting ASLR"][732]
 - ["TP-Link TDDP Buffer Overflow Vulnerability"][695]
 - ["Two Bytes is Plenty: FortiGate RCE with CVE-2024-21762"][787]
+- ["Understanding AddressSanitizer: Better memory safety for your code"][889]
 - ["Understanding Windows x64 Assembly"][693]
 - ["VBA: having fun with macros, overwritten pointers & R/W/X memory"][843]
 - ["Windows Secure-Launch on Qualcomm devices"][811]
@@ -834,6 +835,7 @@ exploit"][392]
   - [Part 3][425]
 - ["The Art of Exploiting UAF by Ret2bpf in Android Kernel"][595]
 - ["The Oddest Place You Will Ever Find PAC"][306]
+- ["Unveiling Evasive Techniques Employed by Malicious Linux Shell Scripts"][888]
 - ["Wall Of Perdition: Utilizing msg_msg Objects For Arbitrary Read And Arbitrary Write In The Linux Kernel"][251]
 
 ## 2020
@@ -1912,3 +1914,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [885]: https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone
 [886]: https://eclypsium.com/blog/bus-pirate-5-the-swiss-arrrmy-knife-of-hardware-hacking/
 [887]: https://op-co.de/blog/tags/samsung-nx/
+[888]: https://www.uptycs.com/blog/threat-research-report-team/evasive-techniques-used-by-malicious-linux-shell-scripts
+[889]: https://blog.trailofbits.com/2024/05/16/understanding-addresssanitizer-better-memory-safety-for-your-code/
