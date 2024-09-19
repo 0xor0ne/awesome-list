@@ -150,6 +150,7 @@
 - ["TP-Link TDDP Buffer Overflow Vulnerability"][695]
 - ["Two Bytes is Plenty: FortiGate RCE with CVE-2024-21762"][787]
 - ["Understanding AddressSanitizer: Better memory safety for your code"][889]
+- ["Understanding Unix Garbage Collection and its Interaction with io_uring"][891]
 - ["Understanding Windows x64 Assembly"][693]
 - ["VBA: having fun with macros, overwritten pointers & R/W/X memory"][843]
 - ["Windows Secure-Launch on Qualcomm devices"][811]
@@ -849,6 +850,7 @@ exploit"][392]
   - [Part 1][187]
   - [Part 2][188]
 - ["BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution"][372]
+- ["CyRC analysis: CVE-2020-7958 biometric data extraction in Android devices"][890]
 - ["CVE-2020-16040 Analysis & Exploitation"][725]
 - ["Espressif ESP32: Bypassing Encrypted Secure Boot (CVE-2020-13629)"][641]
 - ["Espressif ESP32: Bypassing Secure Boot using EMFI"][638]
@@ -1916,3 +1918,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [887]: https://op-co.de/blog/tags/samsung-nx/
 [888]: https://www.uptycs.com/blog/threat-research-report-team/evasive-techniques-used-by-malicious-linux-shell-scripts
 [889]: https://blog.trailofbits.com/2024/05/16/understanding-addresssanitizer-better-memory-safety-for-your-code/
+[890]: https://www.synopsys.com/blogs/software-security/cve-2020-7958-trustlet-tee-attack.html
+[891]: https://blogs.oracle.com/linux/post/unix-garbage-collection-and-iouring
