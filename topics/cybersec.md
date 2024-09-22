@@ -128,6 +128,7 @@
 - ["Resolving Stack Strings with Capstone Disassembler & Unicorn in Python"][846]
 - ["Reverse engineering a car key fob signal "][801]
 - ["Reverse Engineering Protobuf Definitions From Compiled Binaries"][820]
+- ["ROPing Routers from scratch: Step-by-step Tenda Ac8v4 Mips 0day Flow-control ROP -> RCE"][892]
 - ["Route to Safety: Navigating Router Pitfalls"][816]
 - ["Rooting a Hive Camera"][819]
 - ["SAME70 Emulator"][879]
@@ -1920,3 +1921,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [889]: https://blog.trailofbits.com/2024/05/16/understanding-addresssanitizer-better-memory-safety-for-your-code/
 [890]: https://www.synopsys.com/blogs/software-security/cve-2020-7958-trustlet-tee-attack.html
 [891]: https://blogs.oracle.com/linux/post/unix-garbage-collection-and-iouring
+[892]: https://0reg.dev/blog/tenda-ac8-rop
