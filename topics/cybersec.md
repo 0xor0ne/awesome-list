@@ -28,6 +28,7 @@
   - [Part 2][704]
 - ["A few notes on AWS Nitro Enclaves: Images and attestation"][738]
 - ["A first look at Android 14 forensics"][669]
+- ["A "Gau-Hack" from EuskalHack"][893]
 - ["A Practical Guide to PrintNightmare in 2024"][709]
 - ["A Technical Deep Dive: Comparing Anti-Cheat Bypass and EDR Bypass "][714]
 - ["A Trip Down Memory Lane"][715]
@@ -147,6 +148,7 @@
 - ["The Dark Side of UEFI: A technical Deep-Dive into Cross-Silicon Exploitation"][880]
 - ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
 - ["The tale of a GSM Kernel LP"][850]
+- ["TIKTAG: Breaking ARM’s Memory Tagging Extension with Speculative Execution"][894]
 - ["Toolchain Necromancy: Past Mistakes Haunting ASLR"][732]
 - ["TP-Link TDDP Buffer Overflow Vulnerability"][695]
 - ["Two Bytes is Plenty: FortiGate RCE with CVE-2024-21762"][787]
@@ -1922,3 +1924,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [890]: https://www.synopsys.com/blogs/software-security/cve-2020-7958-trustlet-tee-attack.html
 [891]: https://blogs.oracle.com/linux/post/unix-garbage-collection-and-iouring
 [892]: https://0reg.dev/blog/tenda-ac8-rop
+[893]: https://gum3t.xyz/posts/a-gau-hack-from-euskalhack/
+[894]: https://arxiv.org/pdf/2406.08719
