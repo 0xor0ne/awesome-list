@@ -1,4 +1,4 @@
-# Beyond Control Cybersecurity Content
+# Cybersecurity Content
 
 - Go back to [Home page (awesome list)](../)
 - See also [Exploitation specific content](./exploitation.md)
