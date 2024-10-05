@@ -1,4 +1,4 @@
-# Cybersecurity Content
+# Beyond Control Cybersecurity Content
 
 - Go back to [Home page (awesome list)](../)
 - See also [Exploitation specific content](./exploitation.md)
@@ -40,6 +40,7 @@
 - ["ASLRn’t: How memory alignment broke library ASLR"][731]
 - ["Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938"][852]
 - ["Becoming any Android app via Zygote command injection"][863]
+- ["Beyond Control: Exploring Novel File System Objects for Data-Only Attacks on Linux Systems"][895]
 - ["BGGP4: A 420 Byte Self-Replicating UEFI App For x64"][728]
 - ["Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC as Example"][803]
 - ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
@@ -1926,3 +1927,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [892]: https://0reg.dev/blog/tenda-ac8-rop
 [893]: https://gum3t.xyz/posts/a-gau-hack-from-euskalhack/
 [894]: https://arxiv.org/pdf/2406.08719
+[895]: https://arxiv.org/pdf/2401.17618
