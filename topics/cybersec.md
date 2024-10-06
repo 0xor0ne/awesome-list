@@ -100,6 +100,7 @@
 - ["JTAG Hacking with a Raspberry Pi"][851]
 - ["Kuiper Ransomware’s Evolution"][702]
 - ["Inside the LogoFAIL PoC: From Integer Overflow to Arbitrary Code Execution"][692]
+- ["Infostealers - The all-around Infostealers hub with reports and recent news"][896]
 - ["LeftoverLocals: Listening to LLM responses through leaked GPU local memory"][687]
 - ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
 - ["Mind the Patch Gap: Exploiting an io_uring Vulnerability in Ubuntu"][809]
@@ -1928,3 +1929,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [893]: https://gum3t.xyz/posts/a-gau-hack-from-euskalhack/
 [894]: https://arxiv.org/pdf/2406.08719
 [895]: https://arxiv.org/pdf/2401.17618
+[896]: https://www.infostealers.com/
