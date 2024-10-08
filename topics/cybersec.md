@@ -246,6 +246,7 @@ exploit"][392]
 - "chonked"
   - ["minidlna 1.3.2 http chunk parsing heap overflow (cve-2023-33476) root cause analysis"][193]
   - ["exploiting cve-2023-33476 for remote code execution"][194]
+- ["Code Execution in Chromium’s V8 Heap Sandbox"][896]
 - ["Coffee: A COFF loader made in Rust"][93]
 - ["Competing in Pwn2Own ICS 2022 Miami: Exploiting a zero click remote memory corruption in ICONICS Genesis64"][397]
 - ["Conquering the memory through io_uring - Analysis of CVE-2023-2598"][528]
@@ -1928,3 +1929,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [893]: https://gum3t.xyz/posts/a-gau-hack-from-euskalhack/
 [894]: https://arxiv.org/pdf/2406.08719
 [895]: https://arxiv.org/pdf/2401.17618
+[896]: https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/
