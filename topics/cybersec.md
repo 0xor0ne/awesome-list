@@ -59,6 +59,7 @@
   [Part 1][858]
   [Part 2][859]
   [Part 3][860]
+- ["Commonly Abused Linux Initial Access Techniques and Detection Strategies"][896]
 - ["Compiler Options Hardening Guide for C and C++"][877]
 - ["Continuously fuzzing Python C extensions"][734]
 - ["CVE-2024-20356: Jailbreaking a Cisco appliance to run DOOM"][861]
@@ -122,6 +123,7 @@
   - ["Exploration"][831]
   - ["Memory Corruption Analysis"][832]
   - ["The Exploit"][833]
+- ["Pwning a Brother labelmaker, for fun and interop!"][897]
 - "Pwntools 10x":
   - [Part 1][867]
   - [Part 2][868]
@@ -1930,3 +1932,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [894]: https://arxiv.org/pdf/2406.08719
 [895]: https://arxiv.org/pdf/2401.17618
 [896]: https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/
+[897]: https://sdomi.pl/weblog/20-pwning-a-labelmaker/
