@@ -78,6 +78,7 @@
 - "Exploiting Reversing (ER) series":
   - [Article 01][583]
   - [Article 02][584]
+- ["Exploiting Steam: Usual and Unusual Ways in the CEF Framework"][898]
 - ["Exploring object file formats"][684]
 - ["Extracting Secure Onboard Communication (SecOC) keys from a 2021 Toyota RAV4 Prime"][735]
 - ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
@@ -398,6 +399,9 @@ exploit"][392]
   - ["Getting started & BOF"][678]
   - ["Heap techniques"][679]
   - ["Exploiting race-condition + UAF"][680]
+- "Linux Kernel PWN":
+  - ["ret2dir"][899]
+  - ["DirtyCred"][900]
 - ["Linux Kernel Unauthenticated Remote Heap Overflow Within KSMBD"][544]
 - ["Linux Kernel Teaching"][131]
 - ["Linux Malware: Defense Evasion Techniques"][165]
@@ -1933,3 +1937,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [895]: https://arxiv.org/pdf/2401.17618
 [896]: https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/
 [897]: https://sdomi.pl/weblog/20-pwning-a-labelmaker/
+[898]: https://www.darknavy.org/blog/exploiting_steam_usual_and_unusual_ways_in_the_cef_framework/
+[899]: https://blog.wohin.me/posts/linux-kernel-pwn-05/
+[900]: https://blog.wohin.me/posts/linux-kernel-pwn-06/
