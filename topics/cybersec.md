@@ -104,6 +104,10 @@
 - ["Inside the LogoFAIL PoC: From Integer Overflow to Arbitrary Code Execution"][692]
 - ["LeftoverLocals: Listening to LLM responses through leaked GPU local memory"][687]
 - ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
+- "ManageEngine ADAudit - Reverse engineering Windows RPC to find CVEs":
+  - [Part 1][901]
+  - [Part 2][902]
+  - [Part 3][903]
 - ["Mind the Patch Gap: Exploiting an io_uring Vulnerability in Ubuntu"][809]
 - ["Mali GPU Kernel LPE"][786]
 - ["MalpediaFLOSSed"][814]
@@ -1940,3 +1944,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [898]: https://www.darknavy.org/blog/exploiting_steam_usual_and_unusual_ways_in_the_cef_framework/
 [899]: https://blog.wohin.me/posts/linux-kernel-pwn-05/
 [900]: https://blog.wohin.me/posts/linux-kernel-pwn-06/
+[901]: https://www.shelltrail.com/research/manageengine-adaudit-reverse-engineering-windows-rpc-to-find-cve-2024-36036-and-cve-2024-36037-part1/
+[902]: https://www.shelltrail.com/research/manageengine-adaudit-reverse-engineering-windows-rpc-to-find-cve-2024-36036-and-cve-2024-36037-part2/
+[903]: https://www.shelltrail.com/research/manageengine-adaudit-reverse-engineering-windows-rpc-to-find-cve-2024-36036-and-cve-2024-36037-part3/
