@@ -42,6 +42,7 @@
 - ["Becoming any Android app via Zygote command injection"][863]
 - ["Beyond Control: Exploring Novel File System Objects for Data-Only Attacks on Linux Systems"][895]
 - ["BGGP4: A 420 Byte Self-Replicating UEFI App For x64"][728]
+- ["Binary type inference in Ghidra"][905]
 - ["Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC as Example"][803]
 - ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
 - ["Bus Pirate 5: The Swiss ARRRmy Knife of Hardware Hacking"][886]
@@ -394,7 +395,9 @@ exploit"][392]
 - ["Kernel Exploit Factory"][159]
 - ["Learn Makefiles With the tastiest examples"][24]
 - ["Let's build a Chrome extension that steals everything"][463]
-- ["Let’s Go into the rabbit hole (part 1) — the challenges of dynamically hooking Golang programs"][387]
+- ["Let’s Go into the rabbit hole — the challenges of dynamically hooking Golang programs"][387]
+  - [Part 1][387]
+  - [Part 2][904]
 - ["Leveraging ssh-keygen for Arbitrary Execution (and Privilege Escalation)"][327]
 - ["lexmark printer haxx"][652]
 - [linux-re-101][169]
@@ -1947,3 +1950,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [901]: https://www.shelltrail.com/research/manageengine-adaudit-reverse-engineering-windows-rpc-to-find-cve-2024-36036-and-cve-2024-36037-part1/
 [902]: https://www.shelltrail.com/research/manageengine-adaudit-reverse-engineering-windows-rpc-to-find-cve-2024-36036-and-cve-2024-36037-part2/
 [903]: https://www.shelltrail.com/research/manageengine-adaudit-reverse-engineering-windows-rpc-to-find-cve-2024-36036-and-cve-2024-36037-part3/
+[904]: https://blog.quarkslab.com/lets-go-into-the-rabbit-hole-part-2-the-challenges-of-dynamically-hooking-golang-program.html
+[905]: https://blog.trailofbits.com/2024/02/07/binary-type-inference-in-ghidra/
