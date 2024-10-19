@@ -76,6 +76,9 @@
 - ["Exploring AMD Platform Secure Boot"][701]
 - ["Exploring GNU extensions in the Linux kernel"][878]
 - ["Exploiting Empire C2 Framework"][723]
+- "Exploiting Enterprise Backup Software For Privilege Escalation":
+  - [Part 1][906]
+  - [Part 2][907]
 - "Exploiting Reversing (ER) series":
   - [Article 01][583]
   - [Article 02][584]
@@ -1952,3 +1955,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [903]: https://www.shelltrail.com/research/manageengine-adaudit-reverse-engineering-windows-rpc-to-find-cve-2024-36036-and-cve-2024-36037-part3/
 [904]: https://blog.quarkslab.com/lets-go-into-the-rabbit-hole-part-2-the-challenges-of-dynamically-hooking-golang-program.html
 [905]: https://blog.trailofbits.com/2024/02/07/binary-type-inference-in-ghidra/
+[906]: https://northwave-cybersecurity.com/exploiting-enterprise-backup-software-for-privilege-escalation-part-one
+[907]: https://northwave-cybersecurity.com/exploiting-enterprise-backup-software-for-privilege-escalation-part-two
