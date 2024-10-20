@@ -72,6 +72,7 @@
 - ["Dissecting a complex vulnerability and achieving arbitrary code execution in Ichitaro Word"][805]
 - ["DJI - The ART of obfuscation"][705]
 - ["Docker Security – Step-by-Step Hardening (Docker Hardening)"][729]
+- ["Driving forward in Android drivers"][908]
 - ["Emulating RH850 architecture with Unicorn Engine"][853]
 - ["Exploring AMD Platform Secure Boot"][701]
 - ["Exploring GNU extensions in the Linux kernel"][878]
@@ -1957,3 +1958,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [905]: https://blog.trailofbits.com/2024/02/07/binary-type-inference-in-ghidra/
 [906]: https://northwave-cybersecurity.com/exploiting-enterprise-backup-software-for-privilege-escalation-part-one
 [907]: https://northwave-cybersecurity.com/exploiting-enterprise-backup-software-for-privilege-escalation-part-two
+[908]: https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html
