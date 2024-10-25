@@ -781,6 +781,7 @@ exploit"][392]
 - "A Practical Approach to Attacking IoT Embedded Designs":
   - [Part 1][721]
   - [Part 2][722]
+- ["Attacking Samsung RKP"][909]
 - ["Automatic unpacking with Qiling framework"][558]
 - ["BRAKTOOTH: Causing Havoc on Bluetooth Link Manager"][755]
 - ["Breaking 64 bit aslr on Linux x86-64"][234]
@@ -1959,3 +1960,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [906]: https://northwave-cybersecurity.com/exploiting-enterprise-backup-software-for-privilege-escalation-part-one
 [907]: https://northwave-cybersecurity.com/exploiting-enterprise-backup-software-for-privilege-escalation-part-two
 [908]: https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html
+[909]: https://blog.impalabs.com/2111_attacking-samsung-rkp.html
