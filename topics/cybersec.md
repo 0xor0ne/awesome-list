@@ -127,6 +127,7 @@
 - ["Patch Tuesday Diffing: CVE-2024-20696 - Windows Libarchive RCE"][835]
 - ["PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack"][711]
 - ["Playing with libmalloc in 2024"][610]
+- ["Pumping Iron on the Musl Heap – Real World CVE-2022-24834 Exploitation on an Alpine mallocng Heap"][910]
 - "Pwn2Own Toronto 2023":
   - ["How it all started"][829]
   - ["Exploring the Attack Surface"][830]
@@ -1961,3 +1962,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [907]: https://northwave-cybersecurity.com/exploiting-enterprise-backup-software-for-privilege-escalation-part-two
 [908]: https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html
 [909]: https://blog.impalabs.com/2111_attacking-samsung-rkp.html
+[910]: https://www.nccgroup.com/us/research-blog/pumping-iron-on-the-musl-heap-real-world-cve-2022-24834-exploitation-on-an-alpine-mallocng-heap/
