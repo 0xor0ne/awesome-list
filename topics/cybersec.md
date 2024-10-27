@@ -38,6 +38,7 @@
 - ["Analyzing Mutation-Coded - VM Protect and Alcatraz English"][834]
 - ["ARLO: I'M WATCHING YOU"][810]
 - ["ASLRn’t: How memory alignment broke library ASLR"][731]
+- ["Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties"][911]
 - ["Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938"][852]
 - ["Becoming any Android app via Zygote command injection"][863]
 - ["Beyond Control: Exploring Novel File System Objects for Data-Only Attacks on Linux Systems"][895]
@@ -1963,3 +1964,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [908]: https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html
 [909]: https://blog.impalabs.com/2111_attacking-samsung-rkp.html
 [910]: https://www.nccgroup.com/us/research-blog/pumping-iron-on-the-musl-heap-real-world-cve-2022-24834-exploitation-on-an-alpine-mallocng-heap/
+[911]: https://github.blog/security/vulnerability-research/attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/
