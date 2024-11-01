@@ -35,6 +35,7 @@
 - ["An Introduction to Chrome Exploitation - Maglev Edition"][882]
 - ["An unexpected journey into Microsoft Defender's signature World"][876]
 - ["Advanced CyberChef Techniques For Malware Analysis - Detailed Walkthrough and Examples"][736]
+- ["AES-GCM and breaking it on nonce reuse"][912]
 - ["Analyzing Mutation-Coded - VM Protect and Alcatraz English"][834]
 - ["ARLO: I'M WATCHING YOU"][810]
 - ["ASLRn’t: How memory alignment broke library ASLR"][731]
@@ -1965,3 +1966,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [909]: https://blog.impalabs.com/2111_attacking-samsung-rkp.html
 [910]: https://www.nccgroup.com/us/research-blog/pumping-iron-on-the-musl-heap-real-world-cve-2022-24834-exploitation-on-an-alpine-mallocng-heap/
 [911]: https://github.blog/security/vulnerability-research/attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/
+[912]: https://frereit.de/aes_gcm/
