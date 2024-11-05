@@ -160,10 +160,15 @@
   - ["SMI deprivileging (ISRD)"][847]
   - ["Security policy reporting (ISSR)"][848]
 - ["Strengthening the Shield: MTE in Heap Allocators"][596]
+- ["Take a Step Further: Understanding Page Spray in Linux Kernel Exploitation"][913]
 - ["The architecture of SAST tools: An explainer for developers"][739]
 - ["The Dark Side of UEFI: A technical Deep-Dive into Cross-Silicon Exploitation"][880]
 - ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
 - ["The tale of a GSM Kernel LP"][850]
+- "The Windows Registry Adventure":
+  - [Part 1][914]
+  - [Part 2][915]
+  - [Part 3][916]
 - ["TIKTAG: Breaking ARM’s Memory Tagging Extension with Speculative Execution"][894]
 - ["Toolchain Necromancy: Past Mistakes Haunting ASLR"][732]
 - ["TP-Link TDDP Buffer Overflow Vulnerability"][695]
@@ -1967,3 +1972,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [910]: https://www.nccgroup.com/us/research-blog/pumping-iron-on-the-musl-heap-real-world-cve-2022-24834-exploitation-on-an-alpine-mallocng-heap/
 [911]: https://github.blog/security/vulnerability-research/attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/
 [912]: https://frereit.de/aes_gcm/
+[913]: https://arxiv.org/pdf/2406.02624
+[914]: https://googleprojectzero.blogspot.com/2024/04/the-windows-registry-adventure-1.html
+[915]: https://googleprojectzero.blogspot.com/2024/04/the-windows-registry-adventure-2.html
+[916]: https://googleprojectzero.blogspot.com/2024/06/the-windows-registry-adventure-3.html
