@@ -619,6 +619,7 @@ exploit"][392]
 - ["Bypassing vtable Check in glibc File Structures"][208]
 - ["Blind Exploits to Rule Watchguard Firewalls"][173]
 - ["BPFDoor - An Evasive Linux Backdoor Technical Analysis"][292]
+- ["Canary in the Kernel Mine: Exploiting and Defending Against Same-Type Object Reuse"][917]
 - ["Competing in Pwn2Own 2021 Austin: Icarus at the Zenith"][556]
 - ["CoRJail: From Null Byte Overflow To Docker Escape Exploiting poll_list Objects In The Linux Kernel"][759]
 - ["Corrupting memory without memory corruption"][762]
@@ -1976,3 +1977,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [914]: https://googleprojectzero.blogspot.com/2024/04/the-windows-registry-adventure-1.html
 [915]: https://googleprojectzero.blogspot.com/2024/04/the-windows-registry-adventure-2.html
 [916]: https://googleprojectzero.blogspot.com/2024/06/the-windows-registry-adventure-3.html
+[917]: https://grsecurity.net/exploiting_and_defending_against_same_type_object_reuse
