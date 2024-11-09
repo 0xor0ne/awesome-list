@@ -72,6 +72,7 @@
 - ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
 - ["Deobfuscating Android ARM64 strings with Ghidra: Emulating, Patching, and Automating"][683]
 - ["Dissecting a complex vulnerability and achieving arbitrary code execution in Ichitaro Word"][805]
+- ["Diving Deep into F5 Secure Vault"][918]
 - ["DJI - The ART of obfuscation"][705]
 - ["Docker Security – Step-by-Step Hardening (Docker Hardening)"][729]
 - ["Driving forward in Android drivers"][908]
@@ -1978,3 +1979,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [915]: https://googleprojectzero.blogspot.com/2024/04/the-windows-registry-adventure-2.html
 [916]: https://googleprojectzero.blogspot.com/2024/06/the-windows-registry-adventure-3.html
 [917]: https://grsecurity.net/exploiting_and_defending_against_same_type_object_reuse
+[918]: https://offsec.almond.consulting/deep-diving-f5-secure-vault.html
