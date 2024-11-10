@@ -143,6 +143,7 @@
   - [Part 2][868]
   - [Part 3][869]
 - ["Puckungfu 2: Another NETGEAR WAN Command Injection"][730]
+- ["regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)"][919]
 - ["Resolving Stack Strings with Capstone Disassembler & Unicorn in Python"][846]
 - ["Reverse engineering a car key fob signal "][801]
 - ["Reverse Engineering Protobuf Definitions From Compiled Binaries"][820]
@@ -1980,3 +1981,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [916]: https://googleprojectzero.blogspot.com/2024/06/the-windows-registry-adventure-3.html
 [917]: https://grsecurity.net/exploiting_and_defending_against_same_type_object_reuse
 [918]: https://offsec.almond.consulting/deep-diving-f5-secure-vault.html
+[919]: https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt
