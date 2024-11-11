@@ -50,6 +50,7 @@
 - ["Bus Pirate 5: The Swiss ARRRmy Knife of Hardware Hacking"][886]
 - ["Buying Spying Insights into Commercial Surveillance Vendors"][733]
 - ["Bypassing EDRs With EDR-Preloading"][716]
+- ["Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws"][920]
 - "Chaining N-days to Compromise All":
   - [Part 1][836]
   - [Part 2][837]
@@ -143,6 +144,7 @@
   - [Part 2][868]
   - [Part 3][869]
 - ["Puckungfu 2: Another NETGEAR WAN Command Injection"][730]
+- ["Recovering an ECU firmware using disassembler and branches"][921]
 - ["regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)"][919]
 - ["Resolving Stack Strings with Capstone Disassembler & Unicorn in Python"][846]
 - ["Reverse engineering a car key fob signal "][801]
@@ -1982,3 +1984,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [917]: https://grsecurity.net/exploiting_and_defending_against_same_type_object_reuse
 [918]: https://offsec.almond.consulting/deep-diving-f5-secure-vault.html
 [919]: https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt
+[920]: https://memorycorruption.net/posts/rce-lua-factorio/
+[921]: https://blog.quarkslab.com/recovering-an-ecu-firmware-using-disassembler-and-branches.html
