@@ -113,6 +113,9 @@
 - ["Inside the LogoFAIL PoC: From Integer Overflow to Arbitrary Code Execution"][692]
 - ["LeftoverLocals: Listening to LLM responses through leaked GPU local memory"][687]
 - ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
+- "Linux Kernel Exploitation":
+  - ["Environment"][922]
+  - ["ret2usr"][923]
 - "ManageEngine ADAudit - Reverse engineering Windows RPC to find CVEs":
   - [Part 1][901]
   - [Part 2][902]
@@ -1986,3 +1989,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [919]: https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt
 [920]: https://memorycorruption.net/posts/rce-lua-factorio/
 [921]: https://blog.quarkslab.com/recovering-an-ecu-firmware-using-disassembler-and-branches.html
+[922]: https://scoding.de/linux-kernel-exploitation-environment
+[923]: https://scoding.de/linux-kernel-exploitation-buffer_overflow
