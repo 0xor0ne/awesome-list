@@ -102,6 +102,7 @@
 - ["Hacking a Smart Home Device"][691]
 - ["HEAP HEAP HOORAY — Unveiling GLIBC heap overflow vulnerability (CVE-2023–6246)"][818]
 - ["Hi, My Name is Keyboard"][676]
+- ["Hiding Linux Processes with Bind Mounts"][925]
 - ["Hunting down the HVCI bug in UEFI"][668]
 - ["Hunting for Unauthenticated n-days in Asus Routers"][662]
 - "Iconv, Set the Charset to RCE":
@@ -170,6 +171,7 @@
 - ["Take a Step Further: Understanding Page Spray in Linux Kernel Exploitation"][913]
 - ["The architecture of SAST tools: An explainer for developers"][739]
 - ["The Dark Side of UEFI: A technical Deep-Dive into Cross-Silicon Exploitation"][880]
+- ["The 'Invisibility Cloak' - Slash-Proc Magic"][924]
 - ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
 - ["The tale of a GSM Kernel LP"][850]
 - "The Windows Registry Adventure":
@@ -1991,3 +1993,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [921]: https://blog.quarkslab.com/recovering-an-ecu-firmware-using-disassembler-and-branches.html
 [922]: https://scoding.de/linux-kernel-exploitation-environment
 [923]: https://scoding.de/linux-kernel-exploitation-buffer_overflow
+[924]: https://dfir.ch/posts/slash-proc/
+[925]: https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts/
