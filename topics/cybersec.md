@@ -174,6 +174,7 @@
 - ["The 'Invisibility Cloak' - Slash-Proc Magic"][924]
 - ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
 - ["The tale of a GSM Kernel LP"][850]
+- ["The Wild West of Proof of Concept Exploit Code (PoC)"][926]
 - "The Windows Registry Adventure":
   - [Part 1][914]
   - [Part 2][915]
@@ -1022,6 +1023,7 @@ exploit"][392]
 - ["Android Kernel Exploitation"][571]
 - [Anti-Debug Tricks][585]
 - ["ARM TrustZone: pivoting to the secure world"][304]
+- ["ARMv8 AArch64/ARM64 Full Beginner's Assembly Tutorial"][927]
 - [Awesome binary parsing][769]
 - [Awesome Executable Packing][717]
 - [Awesome Industrial Protocols][510]
@@ -1995,3 +1997,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [923]: https://scoding.de/linux-kernel-exploitation-buffer_overflow
 [924]: https://dfir.ch/posts/slash-proc/
 [925]: https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts/
+[926]: https://santandersecurityresearch.github.io/blog/sshing_the_masses.html
+[927]: https://mariokartwii.com/armv8/
