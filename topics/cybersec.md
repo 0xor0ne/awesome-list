@@ -180,6 +180,7 @@
   - [Part 2][915]
   - [Part 3][916]
 - ["TIKTAG: Breaking ARM’s Memory Tagging Extension with Speculative Execution"][894]
+- ["Tony Hawk’s Pro Strcpy"][928]
 - ["Toolchain Necromancy: Past Mistakes Haunting ASLR"][732]
 - ["TP-Link TDDP Buffer Overflow Vulnerability"][695]
 - ["Two Bytes is Plenty: FortiGate RCE with CVE-2024-21762"][787]
@@ -1999,3 +2000,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [925]: https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts/
 [926]: https://santandersecurityresearch.github.io/blog/sshing_the_masses.html
 [927]: https://mariokartwii.com/armv8/
+[928]: https://icode4.coffee/?p=954
