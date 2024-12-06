@@ -66,6 +66,7 @@
 - ["Commonly Abused Linux Initial Access Techniques and Detection Strategies"][896]
 - ["Compiler Options Hardening Guide for C and C++"][877]
 - ["Continuously fuzzing Python C extensions"][734]
+- ["corCTF 2024: trojan-turtles writeup"][929]
 - ["CVE-2024-20356: Jailbreaking a Cisco appliance to run DOOM"][861]
 - ["CVE-2022-2586 Writeup"][849]
 - ["CVE-2022-4262"][864]
@@ -421,6 +422,7 @@ exploit"][392]
 - ["Let’s Go into the rabbit hole — the challenges of dynamically hooking Golang programs"][387]
   - [Part 1][387]
   - [Part 2][904]
+  - [Part 3][930]
 - ["Leveraging ssh-keygen for Arbitrary Execution (and Privilege Escalation)"][327]
 - ["lexmark printer haxx"][652]
 - [linux-re-101][169]
@@ -2001,3 +2003,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [926]: https://santandersecurityresearch.github.io/blog/sshing_the_masses.html
 [927]: https://mariokartwii.com/armv8/
 [928]: https://icode4.coffee/?p=954
+[929]: https://zolutal.github.io/corctf-trojan-turtles/
+[930]: https://blog.quarkslab.com/lets-go-into-the-rabbit-hole-part-3-the-challenges-of-dynamically-hooking-golang-program.html
