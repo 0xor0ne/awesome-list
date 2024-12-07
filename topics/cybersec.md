@@ -100,6 +100,7 @@
 - ["Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution"][674]
 - ["GhostRace: Exploiting and Mitigating Speculative Race Conditions"][802]
 - ["GraphStrike: Anatomy of Offensive Tool Development"][712]
+- ["Hacking a 2014 tablet... in 2024!"][932]
 - ["Hacking a Smart Home Device"][691]
 - ["HEAP HEAP HOORAY — Unveiling GLIBC heap overflow vulnerability (CVE-2023–6246)"][818]
 - ["Hi, My Name is Keyboard"][676]
@@ -199,6 +200,7 @@
   - ["Breakpoints"][453]
   - ["Stacks"][454]
   - ["Disassembly"][455]
+- ["Writing a system call tracer using eBPF"][931]
 - ["Your NVMe Had Been Syz’ed: Fuzzing NVMe-oF/TCP Driver for Linux with Syzkaller"][854]
 
 ## 2023
@@ -2005,3 +2007,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [928]: https://icode4.coffee/?p=954
 [929]: https://zolutal.github.io/corctf-trojan-turtles/
 [930]: https://blog.quarkslab.com/lets-go-into-the-rabbit-hole-part-3-the-challenges-of-dynamically-hooking-golang-program.html
+[931]: http://sh4dy.com/2024/08/03/beetracer/
+[932]: https://blog.r0rt1z2.com/hacking-a-2014-tablet-in-2024.html
