@@ -114,6 +114,9 @@
 - ["JTAG Hacking with a Raspberry Pi"][851]
 - ["Kuiper Ransomware’s Evolution"][702]
 - ["Inside the LogoFAIL PoC: From Integer Overflow to Arbitrary Code Execution"][692]
+- "Learning LLVM":
+  - [Part 1][934]
+  - [Part 2][935]
 - ["LeftoverLocals: Listening to LLM responses through leaked GPU local memory"][687]
 - ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
 - "Linux Kernel Exploitation":
@@ -137,6 +140,7 @@
 - ["Patch Tuesday Diffing: CVE-2024-20696 - Windows Libarchive RCE"][835]
 - ["PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack"][711]
 - ["Playing with libmalloc in 2024"][610]
+- ["Pwn2Own Automotive 2024: Hacking the ChargePoint Home Flex (and their cloud...)"][933]
 - ["Pumping Iron on the Musl Heap – Real World CVE-2022-24834 Exploitation on an Alpine mallocng Heap"][910]
 - "Pwn2Own Toronto 2023":
   - ["How it all started"][829]
@@ -2009,3 +2013,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [930]: https://blog.quarkslab.com/lets-go-into-the-rabbit-hole-part-3-the-challenges-of-dynamically-hooking-golang-program.html
 [931]: http://sh4dy.com/2024/08/03/beetracer/
 [932]: https://blog.r0rt1z2.com/hacking-a-2014-tablet-in-2024.html
+[933]: https://sector7.computest.nl/post/2024-08-pwn2own-automotive-chargepoint-home-flex/
+[934]: http://sh4dy.com/2024/06/29/learning_llvm_01/
+[935]: http://sh4dy.com/2024/07/06/learning_llvm_02/
