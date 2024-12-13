@@ -193,6 +193,7 @@
 - ["Understanding AddressSanitizer: Better memory safety for your code"][889]
 - ["Understanding Unix Garbage Collection and its Interaction with io_uring"][891]
 - ["Understanding Windows x64 Assembly"][693]
+- ["Using Symbolic Execution to Devirtualise a Virtualised Binary"][936]
 - ["VBA: having fun with macros, overwritten pointers & R/W/X memory"][843]
 - ["Windows Secure-Launch on Qualcomm devices"][811]
 - ["Windows vs Linux Loader Architecture"][844]
@@ -2016,3 +2017,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [933]: https://sector7.computest.nl/post/2024-08-pwn2own-automotive-chargepoint-home-flex/
 [934]: http://sh4dy.com/2024/06/29/learning_llvm_01/
 [935]: http://sh4dy.com/2024/07/06/learning_llvm_02/
+[936]: https://blog.deobfuscate.io/using-symbolic-execution-for-devirtualisation
