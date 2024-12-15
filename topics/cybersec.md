@@ -168,6 +168,7 @@
   - [Part 2][813]
 - ["Samsung NX related posts"][887]
 - ["SECGlitcher (Part 1) - Reproducible Voltage Glitching on STM32 Microcontrollers"][862]
+- ["SLUBStick: Arbitrary Memory Writes through Practical Software Cross-Cache Attacks within the Linux Kernel"][937]
 - ["Shell We Assemble?"][689]
 - ["Shellcode evasion using WebAssembly and Rust"][726]
 - "SMM isolation":
@@ -2018,3 +2019,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [934]: http://sh4dy.com/2024/06/29/learning_llvm_01/
 [935]: http://sh4dy.com/2024/07/06/learning_llvm_02/
 [936]: https://blog.deobfuscate.io/using-symbolic-execution-for-devirtualisation
+[937]: https://stefangast.eu/papers/slubstick.pdf
