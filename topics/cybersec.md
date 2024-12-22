@@ -102,6 +102,7 @@
 - ["GraphStrike: Anatomy of Offensive Tool Development"][712]
 - ["Hacking a 2014 tablet... in 2024!"][932]
 - ["Hacking a Smart Home Device"][691]
+- ["Heap exploitation, glibc internals and nifty tricks"][938]
 - ["HEAP HEAP HOORAY — Unveiling GLIBC heap overflow vulnerability (CVE-2023–6246)"][818]
 - ["Hi, My Name is Keyboard"][676]
 - ["Hiding Linux Processes with Bind Mounts"][925]
@@ -122,6 +123,7 @@
 - "Linux Kernel Exploitation":
   - ["Environment"][922]
   - ["ret2usr"][923]
+- ["Listen Up: Sonos Over-The-Air Remote Kernel Exploitation and Covert Wiretap – BlackHat USA 2024 Whitepaper"][939]
 - "ManageEngine ADAudit - Reverse engineering Windows RPC to find CVEs":
   - [Part 1][901]
   - [Part 2][902]
@@ -2020,3 +2022,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [935]: http://sh4dy.com/2024/07/06/learning_llvm_02/
 [936]: https://blog.deobfuscate.io/using-symbolic-execution-for-devirtualisation
 [937]: https://stefangast.eu/papers/slubstick.pdf
+[938]: https://blog.quarkslab.com/heap-exploitation-glibc-internals-and-nifty-tricks.html
+[939]: https://www.nccgroup.com/media/uzbp3ttw/bhus24_sonos_whitepaper.pdf
