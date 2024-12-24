@@ -94,6 +94,7 @@
 - ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
 - ["Flatlined: Analyzing Pulse Secure Firmware and Bypassing Integrity Checking"][883]
 - ["Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques"][804]
+- ["From object transition to RCE in the Chrome renderer"][940]
 - ["Gaining kernel code execution on an MTE-enabled Pixel 8"][808]
 - ["Ghidra nanoMIPS ISA module"][873]
 - ["Going Native - Malicious Native Applications"][842]
@@ -106,6 +107,7 @@
 - ["HEAP HEAP HOORAY — Unveiling GLIBC heap overflow vulnerability (CVE-2023–6246)"][818]
 - ["Hi, My Name is Keyboard"][676]
 - ["Hiding Linux Processes with Bind Mounts"][925]
+- ["How to Bypass Golang SSL Verification"][941]
 - ["Hunting down the HVCI bug in UEFI"][668]
 - ["Hunting for Unauthenticated n-days in Asus Routers"][662]
 - "Iconv, Set the Charset to RCE":
@@ -2024,3 +2026,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [937]: https://stefangast.eu/papers/slubstick.pdf
 [938]: https://blog.quarkslab.com/heap-exploitation-glibc-internals-and-nifty-tricks.html
 [939]: https://www.nccgroup.com/media/uzbp3ttw/bhus24_sonos_whitepaper.pdf
+[940]: https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/
+[941]: https://www.cyberark.com/resources/threat-research-blog/how-to-bypass-golang-ssl-verification
