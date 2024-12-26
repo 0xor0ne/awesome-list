@@ -146,6 +146,7 @@
 - ["Playing with libmalloc in 2024"][610]
 - ["Pwn2Own Automotive 2024: Hacking the ChargePoint Home Flex (and their cloud...)"][933]
 - ["Pumping Iron on the Musl Heap – Real World CVE-2022-24834 Exploitation on an Alpine mallocng Heap"][910]
+- ["Pwn2Own: Pivoting from WAN to LAN to Attack a Synology BC500 IP Camera, Part 2"][942]
 - "Pwn2Own Toronto 2023":
   - ["How it all started"][829]
   - ["Exploring the Attack Surface"][830]
@@ -163,6 +164,7 @@
 - ["Resolving Stack Strings with Capstone Disassembler & Unicorn in Python"][846]
 - ["Reverse engineering a car key fob signal "][801]
 - ["Reverse Engineering Protobuf Definitions From Compiled Binaries"][820]
+- ["Reverse engineering the 59-pound printer onboard the Space Shuttle"][943]
 - ["ROPing Routers from scratch: Step-by-step Tenda Ac8v4 Mips 0day Flow-control ROP -> RCE"][892]
 - ["Route to Safety: Navigating Router Pitfalls"][816]
 - ["Rooting a Hive Camera"][819]
@@ -2028,3 +2030,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [939]: https://www.nccgroup.com/media/uzbp3ttw/bhus24_sonos_whitepaper.pdf
 [940]: https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/
 [941]: https://www.cyberark.com/resources/threat-research-blog/how-to-bypass-golang-ssl-verification
+[942]: https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera
+[943]: https://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html
