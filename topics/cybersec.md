@@ -79,6 +79,7 @@
 - ["Docker Security – Step-by-Step Hardening (Docker Hardening)"][729]
 - ["Driving forward in Android drivers"][908]
 - ["Emulating RH850 architecture with Unicorn Engine"][853]
+- ["Exploit detail about CVE-2024-26581"][944]
 - ["Exploring AMD Platform Secure Boot"][701]
 - ["Exploring GNU extensions in the Linux kernel"][878]
 - ["Exploiting Empire C2 Framework"][723]
@@ -2032,3 +2033,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [941]: https://www.cyberark.com/resources/threat-research-blog/how-to-bypass-golang-ssl-verification
 [942]: https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera
 [943]: https://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html
+[944]: https://github.com/google/security-research/blob/master/pocs/linux/kernelctf/CVE-2024-26581_lts_cos_mitigation/docs/exploit.md
