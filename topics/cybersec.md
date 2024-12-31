@@ -41,6 +41,9 @@
 - ["ASLRn’t: How memory alignment broke library ASLR"][731]
 - ["Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties"][911]
 - ["Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938"][852]
+- "Base64 Beyond Encoding"
+  - [Part 1][945]
+  - [Part 2][946]
 - ["Becoming any Android app via Zygote command injection"][863]
 - ["Beyond Control: Exploring Novel File System Objects for Data-Only Attacks on Linux Systems"][895]
 - ["BGGP4: A 420 Byte Self-Replicating UEFI App For x64"][728]
@@ -165,6 +168,7 @@
 - ["Resolving Stack Strings with Capstone Disassembler & Unicorn in Python"][846]
 - ["Reverse engineering a car key fob signal "][801]
 - ["Reverse Engineering Protobuf Definitions From Compiled Binaries"][820]
+- ["Reverse Engineering the AM335x Boot ROM"][947]
 - ["Reverse engineering the 59-pound printer onboard the Space Shuttle"][943]
 - ["ROPing Routers from scratch: Step-by-step Tenda Ac8v4 Mips 0day Flow-control ROP -> RCE"][892]
 - ["Route to Safety: Navigating Router Pitfalls"][816]
@@ -2034,3 +2038,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [942]: https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera
 [943]: https://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html
 [944]: https://github.com/google/security-research/blob/master/pocs/linux/kernelctf/CVE-2024-26581_lts_cos_mitigation/docs/exploit.md
+[945]: https://hexarcana.ch/b/2024-08-16-base64-beyond-encoding/
+[946]: https://hexarcana.ch/b/2024-08-19-base64-beyond-encoding-p2/
+[947]: https://github.com/sjgallagher2/am335xbootrom
