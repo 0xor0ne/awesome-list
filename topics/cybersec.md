@@ -70,6 +70,7 @@
 - ["Compiler Options Hardening Guide for C and C++"][877]
 - ["Continuously fuzzing Python C extensions"][734]
 - ["corCTF 2024: trojan-turtles writeup"][929]
+- ["corMine 1 and 2"][948]
 - ["CVE-2024-20356: Jailbreaking a Cisco appliance to run DOOM"][861]
 - ["CVE-2022-2586 Writeup"][849]
 - ["CVE-2022-4262"][864]
@@ -107,6 +108,7 @@
 - ["GraphStrike: Anatomy of Offensive Tool Development"][712]
 - ["Hacking a 2014 tablet... in 2024!"][932]
 - ["Hacking a Smart Home Device"][691]
+- ["Hacking Android Games"][949]
 - ["Heap exploitation, glibc internals and nifty tricks"][938]
 - ["HEAP HEAP HOORAY — Unveiling GLIBC heap overflow vulnerability (CVE-2023–6246)"][818]
 - ["Hi, My Name is Keyboard"][676]
@@ -2041,3 +2043,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [945]: https://hexarcana.ch/b/2024-08-16-base64-beyond-encoding/
 [946]: https://hexarcana.ch/b/2024-08-19-base64-beyond-encoding-p2/
 [947]: https://github.com/sjgallagher2/am335xbootrom
+[948]: https://nnub.es/blog/en/ctf/corctf/2024/cormine/
+[949]: https://8ksec.io/hacking-android-games/
