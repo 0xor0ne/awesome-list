@@ -152,7 +152,9 @@
 - ["Playing with libmalloc in 2024"][610]
 - ["Pwn2Own Automotive 2024: Hacking the ChargePoint Home Flex (and their cloud...)"][933]
 - ["Pumping Iron on the Musl Heap – Real World CVE-2022-24834 Exploitation on an Alpine mallocng Heap"][910]
-- ["Pwn2Own: Pivoting from WAN to LAN to Attack a Synology BC500 IP Camera, Part 2"][942]
+- "Pwn2Own: WAN-to-LAN Exploit Showcase":
+  - ["Pwn2Own: WAN-to-LAN Exploit Showcase, Part 1"][950]
+  - ["Pwn2Own: Pivoting from WAN to LAN to Attack a Synology BC500 IP Camera, Part 2"][942]
 - "Pwn2Own Toronto 2023":
   - ["How it all started"][829]
   - ["Exploring the Attack Surface"][830]
@@ -2045,3 +2047,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [947]: https://github.com/sjgallagher2/am335xbootrom
 [948]: https://nnub.es/blog/en/ctf/corctf/2024/cormine/
 [949]: https://8ksec.io/hacking-android-games/
+[950]: https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase
