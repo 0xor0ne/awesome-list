@@ -147,6 +147,7 @@
   - ["Keychain module analysis"][823]
   - ["audio module analysis"][824]
 - ["Out-of-bounds read & write in the glibc's qsort()"][698]
+- ["PageJack: A Powerful Exploit Technique With Page-Level UAF"][951]
 - ["Patch Tuesday Diffing: CVE-2024-20696 - Windows Libarchive RCE"][835]
 - ["PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack"][711]
 - ["Playing with libmalloc in 2024"][610]
@@ -2048,3 +2049,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [948]: https://nnub.es/blog/en/ctf/corctf/2024/cormine/
 [949]: https://8ksec.io/hacking-android-games/
 [950]: https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase
+[951]: https://i.blackhat.com/BH-US-24/Presentations/US24-Qian-PageJack-A-Powerful-Exploit-Technique-With-Page-Level-UAF-Thursday.pdf
