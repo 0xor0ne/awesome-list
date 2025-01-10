@@ -34,6 +34,7 @@
 - ["A Trip Down Memory Lane"][715]
 - ["An Introduction to Chrome Exploitation - Maglev Edition"][882]
 - ["An unexpected journey into Microsoft Defender's signature World"][876]
+- ["Analysis of CVE-2024-21310 Pool Overflow Windows Cloud Filter Driver"][952]
 - ["Advanced CyberChef Techniques For Malware Analysis - Detailed Walkthrough and Examples"][736]
 - ["AES-GCM and breaking it on nonce reuse"][912]
 - ["Analyzing Mutation-Coded - VM Protect and Alcatraz English"][834]
@@ -2050,3 +2051,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [949]: https://8ksec.io/hacking-android-games/
 [950]: https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase
 [951]: https://i.blackhat.com/BH-US-24/Presentations/US24-Qian-PageJack-A-Powerful-Exploit-Technique-With-Page-Level-UAF-Thursday.pdf
+[952]: https://gabrieldurdiak.github.io/clfd/
