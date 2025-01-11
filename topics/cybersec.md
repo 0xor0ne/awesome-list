@@ -176,6 +176,9 @@
 - ["Reverse Engineering Protobuf Definitions From Compiled Binaries"][820]
 - ["Reverse Engineering the AM335x Boot ROM"][947]
 - ["Reverse engineering the 59-pound printer onboard the Space Shuttle"][943]
+- "Ring Around The Regex"
+  - [Part 1][955]
+  - [Part 2][956]
 - ["ROPing Routers from scratch: Step-by-step Tenda Ac8v4 Mips 0day Flow-control ROP -> RCE"][892]
 - ["Route to Safety: Navigating Router Pitfalls"][816]
 - ["Rooting a Hive Camera"][819]
@@ -213,8 +216,10 @@
 - ["Understanding Windows x64 Assembly"][693]
 - ["Using Symbolic Execution to Devirtualise a Virtualised Binary"][936]
 - ["VBA: having fun with macros, overwritten pointers & R/W/X memory"][843]
+- ["Why Code Security Matters - Even in Hardened Environments"][953]
 - ["Windows Secure-Launch on Qualcomm devices"][811]
 - ["Windows vs Linux Loader Architecture"][844]
+- ["Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078"][954]
 - "Writing a Debugger From Scratch"
   - ["Attaching to a Process"][449]
   - ["Register State and Stepping"][450]
@@ -2052,3 +2057,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [950]: https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase
 [951]: https://i.blackhat.com/BH-US-24/Presentations/US24-Qian-PageJack-A-Powerful-Exploit-Technique-With-Page-Level-UAF-Thursday.pdf
 [952]: https://gabrieldurdiak.github.io/clfd/
+[953]: https://www.sonarsource.com/blog/why-code-security-matters-even-in-hardened-environments/
+[954]: https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/
+[955]: https://secret.club/2024/06/30/ring-around-the-regex-1.html
+[956]: https://secret.club/2024/08/23/ring-around-the-regex-2.html
