@@ -20,6 +20,7 @@
 
 ## 2024
 
+- ["4 exploits, 1 bug: exploiting cve-2024-20017 4 different ways"][959]
 - "64 bytes and a ROP chain – A journey through nftables":
   - [Part 1][865]
   - [Part 2][866]
@@ -153,6 +154,7 @@
 - ["PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack"][711]
 - ["Playing with libmalloc in 2024"][610]
 - ["Pwn2Own Automotive 2024: Hacking the ChargePoint Home Flex (and their cloud...)"][933]
+- ["Pwning browsers like a kernel"][957]
 - ["Pumping Iron on the Musl Heap – Real World CVE-2022-24834 Exploitation on an Alpine mallocng Heap"][910]
 - "Pwn2Own: WAN-to-LAN Exploit Showcase":
   - ["Pwn2Own: WAN-to-LAN Exploit Showcase, Part 1"][950]
@@ -179,6 +181,7 @@
 - "Ring Around The Regex"
   - [Part 1][955]
   - [Part 2][956]
+- ["RISCVuzz: Discovering Architectural CPU Vulnerabilities via Differential Hardware Fuzzing"][958]
 - ["ROPing Routers from scratch: Step-by-step Tenda Ac8v4 Mips 0day Flow-control ROP -> RCE"][892]
 - ["Route to Safety: Navigating Router Pitfalls"][816]
 - ["Rooting a Hive Camera"][819]
@@ -2061,3 +2064,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [954]: https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/
 [955]: https://secret.club/2024/06/30/ring-around-the-regex-1.html
 [956]: https://secret.club/2024/08/23/ring-around-the-regex-2.html
+[957]: https://phrack.org/issues/71/10
+[958]: https://ghostwriteattack.com/riscvuzz.pdf
+[959]: https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html
