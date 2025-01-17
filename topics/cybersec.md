@@ -915,6 +915,9 @@ exploit"][392]
 - ["The Art of Exploiting UAF by Ret2bpf in Android Kernel"][595]
 - ["The Oddest Place You Will Ever Find PAC"][306]
 - ["Unveiling Evasive Techniques Employed by Malicious Linux Shell Scripts"][888]
+- "VMProtect 2"
+  - [Part 1][960]
+  - [Part 2][961]
 - ["Wall Of Perdition: Utilizing msg_msg Objects For Arbitrary Read And Arbitrary Write In The Linux Kernel"][251]
 
 ## 2020
@@ -2067,3 +2070,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [957]: https://phrack.org/issues/71/10
 [958]: https://ghostwriteattack.com/riscvuzz.pdf
 [959]: https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html
+[960]: https://blog.back.engineering/17/05/2021/
+[961]: https://blog.back.engineering/21/06/2021/
