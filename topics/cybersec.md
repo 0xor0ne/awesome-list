@@ -175,6 +175,7 @@
 - ["regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)"][919]
 - ["Resolving Stack Strings with Capstone Disassembler & Unicorn in Python"][846]
 - ["Reverse engineering a car key fob signal "][801]
+- ["Reverse Engineering and Dismantling Kekz Headphones"][962]
 - ["Reverse Engineering Protobuf Definitions From Compiled Binaries"][820]
 - ["Reverse Engineering the AM335x Boot ROM"][947]
 - ["Reverse engineering the 59-pound printer onboard the Space Shuttle"][943]
@@ -191,6 +192,7 @@
   - [Part 2][813]
 - ["Samsung NX related posts"][887]
 - ["SECGlitcher (Part 1) - Reproducible Voltage Glitching on STM32 Microcontrollers"][862]
+- ["SELinux bypasses"][963]
 - ["SLUBStick: Arbitrary Memory Writes through Practical Software Cross-Cache Attacks within the Linux Kernel"][937]
 - ["Shell We Assemble?"][689]
 - ["Shellcode evasion using WebAssembly and Rust"][726]
@@ -2072,3 +2074,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [959]: https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html
 [960]: https://blog.back.engineering/17/05/2021/
 [961]: https://blog.back.engineering/21/06/2021/
+[962]: https://nv1t.github.io/blog/kekz-headphones/
+[963]: https://klecko.github.io/posts/selinux-bypasses/
