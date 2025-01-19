@@ -20,6 +20,7 @@
 
 ## 2024
 
+- ["1-click Exploit in South Korea's biggest mobile chat app"][965]
 - ["4 exploits, 1 bug: exploiting cve-2024-20017 4 different ways"][959]
 - "64 bytes and a ROP chain – A journey through nftables":
   - [Part 1][865]
@@ -336,6 +337,7 @@ exploit"][392]
 - ["CVE-2023-36844 And Friends: RCE In Juniper Devices"][281]
 - ["CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent"][186]
 - ["cURL audit: How a joke led to significant findings"][459]
+- ["D^ 3CTF2023 d3kcache： From null-byte cross-cache overflow to infinite arbitrary read & write."][964]
 - ["Debugger Ghidra Class"][28]
 - ["Debugging D-Link: Emulating firmware and hacking hardware"][290]
 - ["Decompilation Debugging"][508]
@@ -2076,3 +2078,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [961]: https://blog.back.engineering/21/06/2021/
 [962]: https://nv1t.github.io/blog/kekz-headphones/
 [963]: https://klecko.github.io/posts/selinux-bypasses/
+[964]: https://blog.arttnba3.cn/2023/05/02/CTF-0X08_D3CTF2023_D3KCACHE/
+[965]: https://stulle123.github.io/posts/kakaotalk-account-takeover/
