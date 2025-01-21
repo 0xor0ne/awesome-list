@@ -52,6 +52,7 @@
 - ["BGGP4: A 420 Byte Self-Replicating UEFI App For x64"][728]
 - ["Binary type inference in Ghidra"][905]
 - ["Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC as Example"][803]
+- ["Breaking Down Multipart Parsers: File upload validation bypass"][966]
 - ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
 - ["Bus Pirate 5: The Swiss ARRRmy Knife of Hardware Hacking"][886]
 - ["Buying Spying Insights into Commercial Surveillance Vendors"][733]
@@ -76,6 +77,7 @@
 - ["corMine 1 and 2"][948]
 - ["CVE-2024-20356: Jailbreaking a Cisco appliance to run DOOM"][861]
 - ["CVE-2022-2586 Writeup"][849]
+- ["CVE-2020-27786 ( Race Condition + Use-After-Free )"][967]
 - ["CVE-2022-4262"][864]
 - ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
 - ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
@@ -2080,3 +2082,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [963]: https://klecko.github.io/posts/selinux-bypasses/
 [964]: https://blog.arttnba3.cn/2023/05/02/CTF-0X08_D3CTF2023_D3KCACHE/
 [965]: https://stulle123.github.io/posts/kakaotalk-account-takeover/
+[966]: https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/
+[967]: https://ii4gsp.github.io/cve-2020-27786/
