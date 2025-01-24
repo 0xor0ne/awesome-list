@@ -105,6 +105,7 @@
 - ["Flatlined: Analyzing Pulse Secure Firmware and Bypassing Integrity Checking"][883]
 - ["Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques"][804]
 - ["From object transition to RCE in the Chrome renderer"][940]
+- ["Fuzzing between the lines in popular barcode software"][968]
 - ["Gaining kernel code execution on an MTE-enabled Pixel 8"][808]
 - ["Ghidra nanoMIPS ISA module"][873]
 - ["Going Native - Malicious Native Applications"][842]
@@ -2084,3 +2085,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [965]: https://stulle123.github.io/posts/kakaotalk-account-takeover/
 [966]: https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/
 [967]: https://ii4gsp.github.io/cve-2020-27786/
+[968]: https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/
