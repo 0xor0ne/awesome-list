@@ -52,6 +52,7 @@
 - ["BGGP4: A 420 Byte Self-Replicating UEFI App For x64"][728]
 - ["Binary type inference in Ghidra"][905]
 - ["Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC as Example"][803]
+- ["Breaking the Barrier: Post-Barrier Spectre Attacks"][970]
 - ["Breaking Down Multipart Parsers: File upload validation bypass"][966]
 - ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
 - ["Bus Pirate 5: The Swiss ARRRmy Knife of Hardware Hacking"][886]
@@ -75,6 +76,7 @@
 - ["Continuously fuzzing Python C extensions"][734]
 - ["corCTF 2024: trojan-turtles writeup"][929]
 - ["corMine 1 and 2"][948]
+- ["Cross-Process Spectre Exploitation"][969]
 - ["CVE-2024-20356: Jailbreaking a Cisco appliance to run DOOM"][861]
 - ["CVE-2022-2586 Writeup"][849]
 - ["CVE-2020-27786 ( Race Condition + Use-After-Free )"][967]
@@ -2086,3 +2088,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [966]: https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/
 [967]: https://ii4gsp.github.io/cve-2020-27786/
 [968]: https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/
+[969]: https://grsecurity.net/cross_process_spectre_exploitation
+[970]: https://comsec.ethz.ch/wp-content/files/ibpb_sp25.pdf
