@@ -157,6 +157,7 @@
 - ["Out-of-bounds read & write in the glibc's qsort()"][698]
 - ["PageJack: A Powerful Exploit Technique With Page-Level UAF"][951]
 - ["Patch Tuesday Diffing: CVE-2024-20696 - Windows Libarchive RCE"][835]
+- ["Pygmy Goat"][972]
 - ["PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack"][711]
 - ["Playing with libmalloc in 2024"][610]
 - ["Pwn2Own Automotive 2024: Hacking the ChargePoint Home Flex (and their cloud...)"][933]
@@ -209,6 +210,7 @@
 - ["Take a Step Further: Understanding Page Spray in Linux Kernel Exploitation"][913]
 - ["The architecture of SAST tools: An explainer for developers"][739]
 - ["The Dark Side of UEFI: A technical Deep-Dive into Cross-Silicon Exploitation"][880]
+- ["The Definitive Guide to Linux Process Injection"][971]
 - ["The 'Invisibility Cloak' - Slash-Proc Magic"][924]
 - ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
 - ["The tale of a GSM Kernel LP"][850]
@@ -2090,3 +2092,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [968]: https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/
 [969]: https://grsecurity.net/cross_process_spectre_exploitation
 [970]: https://comsec.ethz.ch/wp-content/files/ibpb_sp25.pdf
+[971]: https://www.akamai.com/blog/security-research/the-definitive-guide-to-linux-process-injection
+[972]: https://www.ncsc.gov.uk/static-assets/documents/malware-analysis-reports/pygmy-goat/ncsc-mar-pygmy-goat.pdf
