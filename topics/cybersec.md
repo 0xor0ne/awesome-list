@@ -90,6 +90,9 @@
 - ["Docker Security – Step-by-Step Hardening (Docker Hardening)"][729]
 - ["Driving forward in Android drivers"][908]
 - ["Emulating RH850 architecture with Unicorn Engine"][853]
+- "Everyday Ghidra: Ghidra Data Types"
+  - [Part 1][973]
+  - [Part 2][974]
 - ["Exploit detail about CVE-2024-26581"][944]
 - ["Exploring AMD Platform Secure Boot"][701]
 - ["Exploring GNU extensions in the Linux kernel"][878]
@@ -198,6 +201,7 @@
   - [Part 1][812]
   - [Part 2][813]
 - ["Samsung NX related posts"][887]
+- ["Scavy: Automated Discovery of Memory Corruption Targets in Linux Kernel for Privilege Escalation"][975]
 - ["SECGlitcher (Part 1) - Reproducible Voltage Glitching on STM32 Microcontrollers"][862]
 - ["SELinux bypasses"][963]
 - ["SLUBStick: Arbitrary Memory Writes through Practical Software Cross-Cache Attacks within the Linux Kernel"][937]
@@ -2094,3 +2098,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [970]: https://comsec.ethz.ch/wp-content/files/ibpb_sp25.pdf
 [971]: https://www.akamai.com/blog/security-research/the-definitive-guide-to-linux-process-injection
 [972]: https://www.ncsc.gov.uk/static-assets/documents/malware-analysis-reports/pygmy-goat/ncsc-mar-pygmy-goat.pdf
+[973]: https://medium.com/@clearbluejar/everyday-ghidra-ghidra-data-types-when-to-create-custom-gdts-part-1-143fe45777eb
+[974]: https://medium.com/@clearbluejar/everyday-ghidra-ghidra-data-types-creating-custom-gdts-from-windows-headers-part-2-39b8121e1d82
+[975]: https://www.usenix.org/system/files/usenixsecurity24-avllazagaj.pdf
