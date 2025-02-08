@@ -124,6 +124,7 @@
 - ["HEAP HEAP HOORAY — Unveiling GLIBC heap overflow vulnerability (CVE-2023–6246)"][818]
 - ["Hi, My Name is Keyboard"][676]
 - ["Hiding Linux Processes with Bind Mounts"][925]
+- ["How I Also Hacked my Car"][976]
 - ["How to Bypass Golang SSL Verification"][941]
 - ["Hunting down the HVCI bug in UEFI"][668]
 - ["Hunting for Unauthenticated n-days in Asus Routers"][662]
@@ -859,6 +860,7 @@ exploit"][392]
 - ["Complete Guide to Stack Buffer Overflow (OSCP Preparation)"][317]
 - ["CVE-2020-3992 & CVE-2021-21974: Rre-auth Remote Code Execution in VMWare esxi"][561]
 - ["CVE-2021–20226 a reference counting bug which leads to local privilege escalation in io_uring."][179]
+- ["CVE-2021-22555: Turning \x00\x00 into 10000$"][977]
 - ["Da Vinci Hits a Nerve: Exploiting Huawei’s NPU Driver"][756]
 - "Digging into Linux namespaces":
   - [Part 1][157]
@@ -2101,3 +2103,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [973]: https://medium.com/@clearbluejar/everyday-ghidra-ghidra-data-types-when-to-create-custom-gdts-part-1-143fe45777eb
 [974]: https://medium.com/@clearbluejar/everyday-ghidra-ghidra-data-types-creating-custom-gdts-from-windows-headers-part-2-39b8121e1d82
 [975]: https://www.usenix.org/system/files/usenixsecurity24-avllazagaj.pdf
+[976]: https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car
+[977]: https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html
