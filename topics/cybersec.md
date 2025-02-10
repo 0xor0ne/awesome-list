@@ -740,6 +740,7 @@ exploit"][392]
   - [Part 3][665]
   - [Part 4][666]
   - [Part 5][667]
+- ["io_uring - new code, new bugs, and a new exploit technique"][978]
 - ["Linux Hardening Guide"][349]
 - ["Linux Kernel: Exploiting a Netfilter Use-after-Free in kmalloc-cg"][269]
 - ["Linux Kernel Exploit (CVE-2022–32250) with mqueue"][242]
@@ -2105,3 +2106,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [975]: https://www.usenix.org/system/files/usenixsecurity24-avllazagaj.pdf
 [976]: https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car
 [977]: https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html
+[978]: https://www.starlabs.sg/blog/2022/06-io_uring-new-code-new-bugs-and-a-new-exploit-technique/#unlinking-attack

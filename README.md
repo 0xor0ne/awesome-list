@@ -349,6 +349,8 @@ many of the static and dynamic analysis tools.
 * [bat][625]: A cat(1) clone with wings.
 * [broot][626]: A new way to see and navigate directory trees
 * [Caddy][363]: fast, multi-platform web server with automatic HTTPS.
+- [Cookiecutter][665]: A cross-platform command-line utility that creates
+projects from cookiecutters (project templates).
 * [CoreUtils][214]: Cross-platform Rust rewrite of the GNU coreutils.
 * [delta][632]: syntax-highlighting pager for git, diff, and grep output.
 * [difftastic][440]: structural diff that understands syntax.
@@ -636,6 +638,7 @@ as CSV, TSV, and tabular JSON.
 * [McSema][249]: Framework for lifting program binaries to LLVM bitcode.
 * [Metasm][250]: a free assembler / disassembler / compiler.
 * [Miasm][251]: reverse engineering framework in Python.
+* [nyxstone][666]: assembly / disassembly library based on LLVM.
 * [Objection][583]: runtime mobile exploration.
 * [Radare2][1]: UNIX-like reverse engineering framework and command-line
   toolset.
@@ -1246,3 +1249,5 @@ as CSV, TSV, and tabular JSON.
 [662]: https://github.com/rust-bakery/nom
 [663]: https://github.com/ronin-rb/ronin-exploits#readme
 [664]: https://github.com/marcograss/partialzip
+[665]: https://github.com/cookiecutter/cookiecutter
+[666]: https://github.com/emproof-com/nyxstone/
