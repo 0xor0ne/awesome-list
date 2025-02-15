@@ -205,6 +205,7 @@
 - ["Scavy: Automated Discovery of Memory Corruption Targets in Linux Kernel for Privilege Escalation"][975]
 - ["SECGlitcher (Part 1) - Reproducible Voltage Glitching on STM32 Microcontrollers"][862]
 - ["SELinux bypasses"][963]
+- ["SLUB Internals for Exploit Developers"][980]
 - ["SLUBStick: Arbitrary Memory Writes through Practical Software Cross-Cache Attacks within the Linux Kernel"][937]
 - ["Shell We Assemble?"][689]
 - ["Shellcode evasion using WebAssembly and Rust"][726]
@@ -1093,6 +1094,7 @@ exploit"][392]
 - [exploit_mitigations][526]
 - [Ghidriff - Ghidra Binary Diffing Engine][490]
 - ["Grand Theft Auto A peek of BLE relay attack"][433]
+- ["Hands-on Firmware Extraction, Exploration, and Emulation"][979]
 - [ice9-bluetooth-sniffer][437]
 - "Illustrated Connections":
   - [dtls][519]
@@ -2107,3 +2109,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [976]: https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car
 [977]: https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html
 [978]: https://www.starlabs.sg/blog/2022/06-io_uring-new-code-new-bugs-and-a-new-exploit-technique/#unlinking-attack
+[979]: https://github.com/onekey-sec/BHEU23-firmware-workshop
+[980]: https://static.sched.com/hosted_files/lsseu2024/37/2024%2C%20LSS%20EU_%20SLUB%20Internals%20for%20Exploit%20Developers.pdf
