@@ -194,6 +194,7 @@
   - [Part 1][955]
   - [Part 2][956]
 - ["RISCVuzz: Discovering Architectural CPU Vulnerabilities via Differential Hardware Fuzzing"][958]
+- ["RomCom exploits Firefox and Windows zero days in the wild"][981]
 - ["ROPing Routers from scratch: Step-by-step Tenda Ac8v4 Mips 0day Flow-control ROP -> RCE"][892]
 - ["Route to Safety: Navigating Router Pitfalls"][816]
 - ["Rooting a Hive Camera"][819]
@@ -1113,6 +1114,7 @@ exploit"][392]
 - ["Linux kernel exploit development"][573]
 - ["Linux Kernel map"][225]
 - ["Linux Insides"][246]
+- ["Linux Privilege Escalation"][982]
 - ["Linux Syscalls Reference"][17]
 - ["Lytro Unlock - Making a bad camera slightly better"][373]
 - ["Minimizing Rust Binary Size"][476]
@@ -2111,3 +2113,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [978]: https://www.starlabs.sg/blog/2022/06-io_uring-new-code-new-bugs-and-a-new-exploit-technique/#unlinking-attack
 [979]: https://github.com/onekey-sec/BHEU23-firmware-workshop
 [980]: https://static.sched.com/hosted_files/lsseu2024/37/2024%2C%20LSS%20EU_%20SLUB%20Internals%20for%20Exploit%20Developers.pdf
+[981]: https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/
+[982]: https://tbhaxor.com/linux-privilege-escalation/
