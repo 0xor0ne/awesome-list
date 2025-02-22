@@ -161,12 +161,13 @@
 - ["Out-of-bounds read & write in the glibc's qsort()"][698]
 - ["PageJack: A Powerful Exploit Technique With Page-Level UAF"][951]
 - ["Patch Tuesday Diffing: CVE-2024-20696 - Windows Libarchive RCE"][835]
-- ["Pygmy Goat"][972]
+- ["Pinning User-space Pages in the Linux Kernel: Exploring get_user_pages, pin_user_pages, and Page Table Walking"][983]
 - ["PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack"][711]
 - ["Playing with libmalloc in 2024"][610]
+- ["Puckungfu 2: Another NETGEAR WAN Command Injection"][730]
+- ["Pumping Iron on the Musl Heap – Real World CVE-2022-24834 Exploitation on an Alpine mallocng Heap"][910]
 - ["Pwn2Own Automotive 2024: Hacking the ChargePoint Home Flex (and their cloud...)"][933]
 - ["Pwning browsers like a kernel"][957]
-- ["Pumping Iron on the Musl Heap – Real World CVE-2022-24834 Exploitation on an Alpine mallocng Heap"][910]
 - "Pwn2Own: WAN-to-LAN Exploit Showcase":
   - ["Pwn2Own: WAN-to-LAN Exploit Showcase, Part 1"][950]
   - ["Pwn2Own: Pivoting from WAN to LAN to Attack a Synology BC500 IP Camera, Part 2"][942]
@@ -181,7 +182,7 @@
   - [Part 1][867]
   - [Part 2][868]
   - [Part 3][869]
-- ["Puckungfu 2: Another NETGEAR WAN Command Injection"][730]
+- ["Pygmy Goat"][972]
 - ["Recovering an ECU firmware using disassembler and branches"][921]
 - ["regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)"][919]
 - ["Resolving Stack Strings with Capstone Disassembler & Unicorn in Python"][846]
@@ -2115,3 +2116,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [980]: https://static.sched.com/hosted_files/lsseu2024/37/2024%2C%20LSS%20EU_%20SLUB%20Internals%20for%20Exploit%20Developers.pdf
 [981]: https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/
 [982]: https://tbhaxor.com/linux-privilege-escalation/
+[983]: https://blogs.oracle.com/linux/post/pinning-userspace-pages-in-the-linux-kernel?source=:ow:o:s:po:::_lk%2B:ow:lp:cpo
