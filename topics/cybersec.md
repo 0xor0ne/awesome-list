@@ -135,6 +135,7 @@
 - ["JTAG Hacking with a Raspberry Pi"][851]
 - ["Kuiper Ransomware’s Evolution"][702]
 - ["Inside the LogoFAIL PoC: From Integer Overflow to Arbitrary Code Execution"][692]
+- ["Introduction to Fuzzing Android Native Components"][984]
 - "Learning LLVM":
   - [Part 1][934]
   - [Part 2][935]
@@ -236,6 +237,7 @@
 - ["Understanding Unix Garbage Collection and its Interaction with io_uring"][891]
 - ["Understanding Windows x64 Assembly"][693]
 - ["Using Symbolic Execution to Devirtualise a Virtualised Binary"][936]
+- ["Utilizing Cross-CPU Allocation to Exploit Preempt-Disabled Linux Kernel"][985]
 - ["VBA: having fun with macros, overwritten pointers & R/W/X memory"][843]
 - ["Why Code Security Matters - Even in Hardened Environments"][953]
 - ["Windows Secure-Launch on Qualcomm devices"][811]
@@ -2117,3 +2119,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [981]: https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/
 [982]: https://tbhaxor.com/linux-privilege-escalation/
 [983]: https://blogs.oracle.com/linux/post/pinning-userspace-pages-in-the-linux-kernel?source=:ow:o:s:po:::_lk%2B:ow:lp:cpo
+[984]: https://blog.convisoappsec.com/en/introduction-to-fuzzing-android-native-components/
+[985]: https://www.hexacon.fr/slides/Cho_Lee-Utilizing_Cross-CPU_Allocation_to_Exploit_Preempt-Disabled_Linux_Kernel.pdf
