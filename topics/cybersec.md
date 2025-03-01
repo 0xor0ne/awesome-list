@@ -53,6 +53,7 @@
 - ["Binary type inference in Ghidra"][905]
 - ["Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC as Example"][803]
 - ["Breaking the Barrier: Post-Barrier Spectre Attacks"][970]
+- ["Breaking Down Adversarial Machine Learning Attacks Through Red Team Challenges"][987]
 - ["Breaking Down Multipart Parsers: File upload validation bypass"][966]
 - ["Breaking the Flash Encryption Feature of Espressif’s Parts"][589]
 - ["Bus Pirate 5: The Swiss ARRRmy Knife of Hardware Hacking"][886]
@@ -159,6 +160,7 @@
 - "Operation triangulation":
   - ["Keychain module analysis"][823]
   - ["audio module analysis"][824]
+- ["OtterRoot: Netfilter Universal Root 1-day"][986]
 - ["Out-of-bounds read & write in the glibc's qsort()"][698]
 - ["PageJack: A Powerful Exploit Technique With Page-Level UAF"][951]
 - ["Patch Tuesday Diffing: CVE-2024-20696 - Windows Libarchive RCE"][835]
@@ -2121,3 +2123,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [983]: https://blogs.oracle.com/linux/post/pinning-userspace-pages-in-the-linux-kernel?source=:ow:o:s:po:::_lk%2B:ow:lp:cpo
 [984]: https://blog.convisoappsec.com/en/introduction-to-fuzzing-android-native-components/
 [985]: https://www.hexacon.fr/slides/Cho_Lee-Utilizing_Cross-CPU_Allocation_to_Exploit_Preempt-Disabled_Linux_Kernel.pdf
+[986]: https://osec.io/blog/2024-11-25-netfilter-universal-root-1-day
+[987]: https://boschko.ca/adversarial-ml/
