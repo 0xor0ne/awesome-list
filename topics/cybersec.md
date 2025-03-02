@@ -83,6 +83,7 @@
 - ["CVE-2020-27786 ( Race Condition + Use-After-Free )"][967]
 - ["CVE-2022-4262"][864]
 - ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
+- ["Declawing PUMAKIT"][989]
 - ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
 - ["Deobfuscating Android ARM64 strings with Ghidra: Emulating, Patching, and Automating"][683]
 - ["Dissecting a complex vulnerability and achieving arbitrary code execution in Ichitaro Word"][805]
@@ -233,6 +234,7 @@
 - ["TIKTAG: Breaking ARM’s Memory Tagging Extension with Speculative Execution"][894]
 - ["Tony Hawk’s Pro Strcpy"][928]
 - ["Toolchain Necromancy: Past Mistakes Haunting ASLR"][732]
+- ["TP-Link Firmware Decryption C210 V2 cloud camera bootloaders"][988]
 - ["TP-Link TDDP Buffer Overflow Vulnerability"][695]
 - ["Two Bytes is Plenty: FortiGate RCE with CVE-2024-21762"][787]
 - ["Understanding AddressSanitizer: Better memory safety for your code"][889]
@@ -2125,3 +2127,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [985]: https://www.hexacon.fr/slides/Cho_Lee-Utilizing_Cross-CPU_Allocation_to_Exploit_Preempt-Disabled_Linux_Kernel.pdf
 [986]: https://osec.io/blog/2024-11-25-netfilter-universal-root-1-day
 [987]: https://boschko.ca/adversarial-ml/
+[988]: https://watchfulip.github.io/28-12-24/tp-link_c210_v2.html
+[989]: https://www.elastic.co/security-labs/declawing-pumakit
