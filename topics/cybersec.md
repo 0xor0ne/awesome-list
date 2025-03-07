@@ -111,6 +111,7 @@
 - ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
 - ["Flatlined: Analyzing Pulse Secure Firmware and Bypassing Integrity Checking"][883]
 - ["Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques"][804]
+- ["From fault injection to RCE"][990]
 - ["From object transition to RCE in the Chrome renderer"][940]
 - ["Fuzzing between the lines in popular barcode software"][968]
 - ["Gaining kernel code execution on an MTE-enabled Pixel 8"][808]
@@ -2129,3 +2130,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [987]: https://boschko.ca/adversarial-ml/
 [988]: https://watchfulip.github.io/28-12-24/tp-link_c210_v2.html
 [989]: https://www.elastic.co/security-labs/declawing-pumakit
+[990]: https://fahrplan.events.ccc.de/congress/2024/fahrplan/media/38c3/submissions/YM3UTV/resources/ccc_Heppyky.pdf
