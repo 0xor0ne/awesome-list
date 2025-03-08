@@ -109,6 +109,7 @@
 - ["Exploring object file formats"][684]
 - ["Extracting Secure Onboard Communication (SecOC) keys from a 2021 Toyota RAV4 Prime"][735]
 - ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
+- ["Fault Injection – Down the Rabbit Hole"][993]
 - ["Flatlined: Analyzing Pulse Secure Firmware and Bypassing Integrity Checking"][883]
 - ["Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques"][804]
 - ["From fault injection to RCE"][990]
@@ -258,6 +259,8 @@
   - ["Disassembly"][455]
 - ["Writing a system call tracer using eBPF"][931]
 - ["Your NVMe Had Been Syz’ed: Fuzzing NVMe-oF/TCP Driver for Linux with Syzkaller"][854]
+- ["x64 Return Address Spoofing"][991]
+- ["x64 Call Stack Spoofing"][992]
 
 ## 2023
 
@@ -2131,3 +2134,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [988]: https://watchfulip.github.io/28-12-24/tp-link_c210_v2.html
 [989]: https://www.elastic.co/security-labs/declawing-pumakit
 [990]: https://fahrplan.events.ccc.de/congress/2024/fahrplan/media/38c3/submissions/YM3UTV/resources/ccc_Heppyky.pdf
+[991]: https://hulkops.gitbook.io/blog/red-team/x64-return-address-spoofing
+[992]: https://hulkops.gitbook.io/blog/red-team/x64-call-stack-spoofing
+[993]: https://security.humanativaspa.it/fault-injection-down-the-rabbit-hole/
