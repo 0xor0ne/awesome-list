@@ -110,6 +110,9 @@
 - ["Extracting Secure Onboard Communication (SecOC) keys from a 2021 Toyota RAV4 Prime"][735]
 - ["Fault Injection Attacks against the ESP32-C3 and ESP32-C6"][590]
 - ["Fault Injection – Down the Rabbit Hole"][993]
+- "Finding Bugs in Kernel":
+  - [Part 1][996]
+  - [Part 2][997]
 - ["Flatlined: Analyzing Pulse Secure Firmware and Bypassing Integrity Checking"][883]
 - ["Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques"][804]
 - ["From fault injection to RCE"][990]
@@ -120,6 +123,7 @@
 - ["Going Native - Malicious Native Applications"][842]
 - ["Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution"][674]
 - ["GhostRace: Exploiting and Mitigating Speculative Race Conditions"][802]
+- ["GPUAF - Two ways of Rooting All Qualcomm based Android phones"][994]
 - ["GraphStrike: Anatomy of Offensive Tool Development"][712]
 - ["Hacking a 2014 tablet... in 2024!"][932]
 - ["Hacking a Smart Home Device"][691]
@@ -130,6 +134,7 @@
 - ["Hiding Linux Processes with Bind Mounts"][925]
 - ["How I Also Hacked my Car"][976]
 - ["How to Bypass Golang SSL Verification"][941]
+- ["Hunting Bugs in Linux Kernel With KASAN: How to Use it & What's the Benefit?"][995]
 - ["Hunting down the HVCI bug in UEFI"][668]
 - ["Hunting for Unauthenticated n-days in Asus Routers"][662]
 - "Iconv, Set the Charset to RCE":
@@ -2137,3 +2142,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [991]: https://hulkops.gitbook.io/blog/red-team/x64-return-address-spoofing
 [992]: https://hulkops.gitbook.io/blog/red-team/x64-call-stack-spoofing
 [993]: https://security.humanativaspa.it/fault-injection-down-the-rabbit-hole/
+[994]: https://powerofcommunity.net/poc2024/Pan%20Zhenpeng%20&%20Jheng%20Bing%20Jhong,%20GPUAF%20-%20Two%20ways%20of%20rooting%20All%20Qualcomm%20based%20Android%20phones.pdf
+[995]: https://slavamoskvin.com/hunting-bugs-in-linux-kernel-with-kasan-how-to-use-it-whats-the-benefit/
+[996]: https://slavamoskvin.com/finding-bugs-in-kernel.-part-1-crashing-a-vulnerable-driver-with-syzkaller/
+[997]: https://slavamoskvin.com/finding-bugs-in-kernel.-part-2-fuzzing-the-actual-kernel/
