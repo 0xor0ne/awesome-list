@@ -150,6 +150,7 @@
   - [Part 2][935]
 - ["LeftoverLocals: Listening to LLM responses through leaked GPU local memory"][687]
 - ["Leveraging Binary Ninja il to Reverse a Custom ISA: Cracking the “pot of gold” 37C3"][612]
+- ["Linux Kernel Attack Surface: beyond IOCTL. DMA-BUF"][999]
 - "Linux Kernel Exploitation":
   - ["Environment"][922]
   - ["ret2usr"][923]
@@ -171,6 +172,7 @@
 - ["OtterRoot: Netfilter Universal Root 1-day"][986]
 - ["Out-of-bounds read & write in the glibc's qsort()"][698]
 - ["PageJack: A Powerful Exploit Technique With Page-Level UAF"][951]
+- ["Page-Oriented Programming: Subverting Control-Flow Integrity of Commodity Operating System Kernels with Non-Writable Code Pages"][1000]
 - ["Patch Tuesday Diffing: CVE-2024-20696 - Windows Libarchive RCE"][835]
 - ["Pinning User-space Pages in the Linux Kernel: Exploring get_user_pages, pin_user_pages, and Page Table Walking"][983]
 - ["PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack"][711]
@@ -252,6 +254,7 @@
 - ["VBA: having fun with macros, overwritten pointers & R/W/X memory"][843]
 - ["Why Code Security Matters - Even in Hardened Environments"][953]
 - ["Windows Secure-Launch on Qualcomm devices"][811]
+- ["Windows Sockets: From Registered I/O to SYSTEM Privileges"][998]
 - ["Windows vs Linux Loader Architecture"][844]
 - ["Windows Wi-Fi Driver RCE Vulnerability – CVE-2024-30078"][954]
 - "Writing a Debugger From Scratch"
@@ -2146,3 +2149,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [995]: https://slavamoskvin.com/hunting-bugs-in-linux-kernel-with-kasan-how-to-use-it-whats-the-benefit/
 [996]: https://slavamoskvin.com/finding-bugs-in-kernel.-part-1-crashing-a-vulnerable-driver-with-syzkaller/
 [997]: https://slavamoskvin.com/finding-bugs-in-kernel.-part-2-fuzzing-the-actual-kernel/
+[998]: https://blog.exodusintel.com/2024/12/02/
+[999]: https://slavamoskvin.com/linux-kernel-attack-surface-beyond-ioctl.-dma-buf/
+[1000]: https://www.usenix.org/system/files/usenixsecurity24-han-seunghun.pdf
