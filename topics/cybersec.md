@@ -143,6 +143,7 @@
 - ["Java Deserialization Tricks"][815]
 - ["JTAG Hacking with a Raspberry Pi"][851]
 - ["Kuiper Ransomware’s Evolution"][702]
+- ["Inside a New OT/IoT Cyberweapon: IOCONTROL"][1001]
 - ["Inside the LogoFAIL PoC: From Integer Overflow to Arbitrary Code Execution"][692]
 - ["Introduction to Fuzzing Android Native Components"][984]
 - "Learning LLVM":
@@ -252,6 +253,7 @@
 - ["Using Symbolic Execution to Devirtualise a Virtualised Binary"][936]
 - ["Utilizing Cross-CPU Allocation to Exploit Preempt-Disabled Linux Kernel"][985]
 - ["VBA: having fun with macros, overwritten pointers & R/W/X memory"][843]
+- ["Vulnerabilities of Realtek SD card reader driver"][1002]
 - ["Why Code Security Matters - Even in Hardened Environments"][953]
 - ["Windows Secure-Launch on Qualcomm devices"][811]
 - ["Windows Sockets: From Registered I/O to SYSTEM Privileges"][998]
@@ -2152,3 +2154,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [998]: https://blog.exodusintel.com/2024/12/02/
 [999]: https://slavamoskvin.com/linux-kernel-attack-surface-beyond-ioctl.-dma-buf/
 [1000]: https://www.usenix.org/system/files/usenixsecurity24-han-seunghun.pdf
+[1001]: https://claroty.com/team82/research/inside-a-new-ot-iot-cyber-weapon-iocontrol
+[1002]: https://zwclose.github.io/2024/10/14/rtsper1.html
