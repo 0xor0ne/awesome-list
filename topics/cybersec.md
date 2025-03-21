@@ -84,6 +84,7 @@
 - ["CVE-2022-4262"][864]
 - ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
 - ["Declawing PUMAKIT"][989]
+- [Deep Dive into RCU Race Condition: Analysis of TCP-AO UAF (CVE-2024–27394)][1003]
 - ["Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero"][699]
 - ["Deobfuscating Android ARM64 strings with Ghidra: Emulating, Patching, and Automating"][683]
 - ["Dissecting a complex vulnerability and achieving arbitrary code execution in Ichitaro Word"][805]
@@ -203,8 +204,9 @@
 - ["Reverse engineering a car key fob signal "][801]
 - ["Reverse Engineering and Dismantling Kekz Headphones"][962]
 - ["Reverse Engineering Protobuf Definitions From Compiled Binaries"][820]
-- ["Reverse Engineering the AM335x Boot ROM"][947]
 - ["Reverse engineering the 59-pound printer onboard the Space Shuttle"][943]
+- ["Reverse Engineering the AM335x Boot ROM"][947]
+- ["Reverse Engineering The Stream Deck Plus"][1004]
 - "Ring Around The Regex"
   - [Part 1][955]
   - [Part 2][956]
@@ -2156,3 +2158,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1000]: https://www.usenix.org/system/files/usenixsecurity24-han-seunghun.pdf
 [1001]: https://claroty.com/team82/research/inside-a-new-ot-iot-cyber-weapon-iocontrol
 [1002]: https://zwclose.github.io/2024/10/14/rtsper1.html
+[1003]: https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42
+[1004]: https://den.dev/blog/reverse-engineer-stream-deck-plus/
