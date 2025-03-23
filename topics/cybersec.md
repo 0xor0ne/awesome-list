@@ -5,6 +5,7 @@
 
 ## Outline
 
+- [2025](#2025)
 - [2024](#2024)
 - [2023](#2023)
 - [2022](#2022)
@@ -17,6 +18,10 @@
 - [2014](#2014)
 - [2011](#2011)
 - [Other](#other)
+
+## 2025
+
+- ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
 
 ## 2024
 
@@ -2160,3 +2165,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1002]: https://zwclose.github.io/2024/10/14/rtsper1.html
 [1003]: https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42
 [1004]: https://den.dev/blog/reverse-engineer-stream-deck-plus/
+[1005]: https://lukasmaar.github.io/papers/ndss25-kernelsnitch.pdf
