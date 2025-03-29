@@ -21,7 +21,9 @@
 
 ## 2025
 
+- ["Cross Cache Attack CheetSheet"][1006]
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
+- ["The Art of Linux Kernel Rootkits"][1008]
 
 ## 2024
 
@@ -241,6 +243,7 @@
 - ["The Dark Side of UEFI: A technical Deep-Dive into Cross-Silicon Exploitation"][880]
 - ["The Definitive Guide to Linux Process Injection"][971]
 - ["The 'Invisibility Cloak' - Slash-Proc Magic"][924]
+- ["The Qualcomm DSP Driver - Unexpectedly Excavating an Exploit"][1007]
 - ["The rev.ng decompiler goes open source + start of the UI closed beta"][694]
 - ["The tale of a GSM Kernel LP"][850]
 - ["The Wild West of Proof of Concept Exploit Code (PoC)"][926]
@@ -2166,3 +2169,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1003]: https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42
 [1004]: https://den.dev/blog/reverse-engineer-stream-deck-plus/
 [1005]: https://lukasmaar.github.io/papers/ndss25-kernelsnitch.pdf
+[1006]: https://u1f383.github.io/linux/2025/01/03/cross-cache-attack-cheatsheet.html
+[1007]: https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html
+[1008]: https://inferi.club/post/the-art-of-linux-kernel-rootkits
