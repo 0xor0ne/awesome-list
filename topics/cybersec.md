@@ -23,6 +23,7 @@
 
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
+- ["Reliable system call interception"][1010]
 - ["The Art of Linux Kernel Rootkits"][1008]
 
 ## 2024
@@ -38,6 +39,7 @@
 - ["A few notes on AWS Nitro Enclaves: Images and attestation"][738]
 - ["A first look at Android 14 forensics"][669]
 - ["A "Gau-Hack" from EuskalHack"][893]
+- ["A Journey From sudo iptables To Local Privilege Escalation"][1009]
 - ["A Practical Guide to PrintNightmare in 2024"][709]
 - ["A Technical Deep Dive: Comparing Anti-Cheat Bypass and EDR Bypass "][714]
 - ["A Trip Down Memory Lane"][715]
@@ -2172,3 +2174,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1006]: https://u1f383.github.io/linux/2025/01/03/cross-cache-attack-cheatsheet.html
 [1007]: https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html
 [1008]: https://inferi.club/post/the-art-of-linux-kernel-rootkits
+[1009]: https://www.shielder.com/blog/2024/09/a-journey-from-sudo-iptables-to-local-privilege-escalation/
+[1010]: https://blog.mggross.com/intercepting-syscalls/
