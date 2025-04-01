@@ -23,6 +23,7 @@
 
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
+- ["Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution"][1011]
 - ["Reliable system call interception"][1010]
 - ["The Art of Linux Kernel Rootkits"][1008]
 
@@ -2176,3 +2177,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1008]: https://inferi.club/post/the-art-of-linux-kernel-rootkits
 [1009]: https://www.shielder.com/blog/2024/09/a-journey-from-sudo-iptables-to-local-privilege-escalation/
 [1010]: https://blog.mggross.com/intercepting-syscalls/
+[1011]: https://retr0.blog/blog/llama-rpc-rce
