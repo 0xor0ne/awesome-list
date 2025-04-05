@@ -92,6 +92,7 @@
 - ["CVE-2022-2586 Writeup"][849]
 - ["CVE-2020-27786 ( Race Condition + Use-After-Free )"][967]
 - ["CVE-2022-4262"][864]
+- ["CVE-2024-5274: A Minor Flaw in V8 Parser Leading to Catastrophes"][1012]
 - ["CVE-2023-6246: Heap-based buffer overflow in the glibc's syslog()"][697]
 - ["Declawing PUMAKIT"][989]
 - [Deep Dive into RCU Race Condition: Analysis of TCP-AO UAF (CVE-2024–27394)][1003]
@@ -2178,3 +2179,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1009]: https://www.shielder.com/blog/2024/09/a-journey-from-sudo-iptables-to-local-privilege-escalation/
 [1010]: https://blog.mggross.com/intercepting-syscalls/
 [1011]: https://retr0.blog/blog/llama-rpc-rce
+[1012]: https://www.darknavy.org/blog/cve_2024_5274_a_minor_flaw_in_v8_parser_leading_to_catastrophes/
