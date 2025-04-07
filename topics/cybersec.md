@@ -22,6 +22,7 @@
 ## 2025
 
 - ["Cross Cache Attack CheetSheet"][1006]
+- ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
 - ["Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution"][1011]
 - ["Reliable system call interception"][1010]
@@ -2182,3 +2183,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1011]: https://retr0.blog/blog/llama-rpc-rce
 [1012]: https://www.darknavy.org/blog/cve_2024_5274_a_minor_flaw_in_v8_parser_leading_to_catastrophes/
 [1013]: https://infosecwriteups.com/reversing-discovering-and-exploiting-a-tp-link-router-vulnerability-cve-2024-54887-341552c4b104
+[1014]: https://labs.watchtowr.com/exploitation-walkthrough-and-techniques-ivanti-connect-secure-rce-cve-2025-0282/
