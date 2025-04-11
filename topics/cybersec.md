@@ -46,6 +46,7 @@
 - ["A Practical Guide to PrintNightmare in 2024"][709]
 - ["A Technical Deep Dive: Comparing Anti-Cheat Bypass and EDR Bypass "][714]
 - ["A Trip Down Memory Lane"][715]
+- [AArch64 memory and paging][1015]
 - ["An Introduction to Chrome Exploitation - Maglev Edition"][882]
 - ["An unexpected journey into Microsoft Defender's signature World"][876]
 - ["Analysis of CVE-2024-21310 Pool Overflow Windows Cloud Filter Driver"][952]
@@ -2184,3 +2185,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1012]: https://www.darknavy.org/blog/cve_2024_5274_a_minor_flaw_in_v8_parser_leading_to_catastrophes/
 [1013]: https://infosecwriteups.com/reversing-discovering-and-exploiting-a-tp-link-router-vulnerability-cve-2024-54887-341552c4b104
 [1014]: https://labs.watchtowr.com/exploitation-walkthrough-and-techniques-ivanti-connect-secure-rce-cve-2025-0282/
+[1015]: https://krinkinmu.github.io/2024/01/14/aarch64-virtual-memory.html
