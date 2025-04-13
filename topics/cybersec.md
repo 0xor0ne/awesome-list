@@ -28,6 +28,7 @@
 - ["Reliable system call interception"][1010]
 - ["Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability — CVE-2024–54887"][1013]
 - ["The Art of Linux Kernel Rootkits"][1008]
+- ["We are ARMed no more ROPpery Here"][1016]
 
 ## 2024
 
@@ -2186,3 +2187,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1013]: https://infosecwriteups.com/reversing-discovering-and-exploiting-a-tp-link-router-vulnerability-cve-2024-54887-341552c4b104
 [1014]: https://labs.watchtowr.com/exploitation-walkthrough-and-techniques-ivanti-connect-secure-rce-cve-2025-0282/
 [1015]: https://krinkinmu.github.io/2024/01/14/aarch64-virtual-memory.html
+[1016]: https://zeyadazima.com/exploit%20development/pointer_pac/
