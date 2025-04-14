@@ -721,6 +721,7 @@ as CSV, TSV, and tabular JSON.
   Linux.
 * [TinyInst][659]: lightweight dynamic instrumentation library.
 * [Tracee][24]: Linux Runtime Security and Forensics using eBPF.
+* [Jibril][667]: A minimal-overhead runtime security agent with no event loss. 
 
 ## Trusted Execution Environment
 
@@ -1251,3 +1252,4 @@ as CSV, TSV, and tabular JSON.
 [664]: https://github.com/marcograss/partialzip
 [665]: https://github.com/cookiecutter/cookiecutter
 [666]: https://github.com/emproof-com/nyxstone/
+[667]: https://jibril.garnet.ai/
