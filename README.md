@@ -16,7 +16,7 @@ See also the following lists dedicated to specifics sub-topics:
 # Content
 
 * [Awesome Lists](#awesome-lists)
-* [Blogs ad Tutorials](#blogs-and-tutorials)
+* [Blogs and Tutorials](#blogs-and-tutorials)
 * [Compilers and Toolchains](#compilers-and-toolchains)
 * [Databases](#databases)
 * [Debuggers](#debuggers)
@@ -149,6 +149,7 @@ See also the following lists dedicated to specifics sub-topics:
 * [Pawnyable][395]: middle to advance binary exploitation.
 * [Phrack][75]: e-zine written by and for hackers.
 * [Project Zero][198]: news and updates from the Project Zero team at Google.
+* [RazviOverflow][667]: Binary exploitation step-by-step, reversing and some malware.
 * [Rust OSDev][68]: rhis Month in Rust OSDev.
 * [Sam4k][298]: linux, security, games and other nerdery.
 * [School of SRE][366]: school of Sire Reliability Engineers.
@@ -1251,3 +1252,4 @@ as CSV, TSV, and tabular JSON.
 [664]: https://github.com/marcograss/partialzip
 [665]: https://github.com/cookiecutter/cookiecutter
 [666]: https://github.com/emproof-com/nyxstone/
+[667]: https://www.youtube.com/razvioverflow
