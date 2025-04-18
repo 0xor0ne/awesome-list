@@ -468,12 +468,25 @@ as CSV, TSV, and tabular JSON.
   * [awesome-python][568]: curated list of awesome Python frameworks,
   libraries, software and resources.
   * [Hitchhiker’s Guide][569]: best practice handbook.
+  * [icecream][679]: Never use print() to debug again.Never use print() to debug again.
+  * [loguru][674]: Python logging made (stupidly) simple
+  * [longchain][678]: Build context-aware reasoning applications
   * [mamba][548]: fast, robust, and cross-platform package manager.
+  * [mypy][672]: Optional static typing for Python
+  * [numba][670]: NumPy aware dynamic Python compiler using LLVM
   * [packaging][564]
     * [poetry][549]: packaging and dependency management.
+    * [uv][668]: extremely fast Python package and project manager, written in Rust.
+  * [polars][669]: Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+  * [pydantic][671]: Data validation using Python type hints
+  * [pyenv][680]: Simple Python version management
+  * [pytest][673]: pytest framework makes it easy to write small tests, yet scales to support complex functional testing
   * [pypi][570]: repository of software for the Python programming language.
   * [PySnooper][579]: poor man's debugger for Python.
   * [realpython][565]: python guides and tutorials.
+  * [rich][675]: Python library for rich text and beautiful formatting in the terminal
+  * [ruff][677]: extremely fast Python linter and code formatter, written in Rust.
+  * [tqdm][676]: Fast, Extensible Progress Bar for Python and CLI
 * [Rust][41]: secure system programming language.
   * [aquascope][466]: Interactive visualizations of Rust at compile-time and run-time
   * [API guidelines][319]: set of recommendations on how to design and present
@@ -614,6 +627,7 @@ as CSV, TSV, and tabular JSON.
   * [ghidra2dwarf][600]: Export ghidra decompiled code to dwarf sections inside ELF binary.
   * [Ghidralligator][534]: multi-architecture pcode emulator based on the Ghidra
   libsla.
+  * [GhidraMCP][667]: MCP Server for Ghidra
   * [Ghidrathon][592]: Python 3 scripting to Ghidra.
   * [GhidraEmu][597]: Native Pcode emulator
   * [GhidraScripts][607]: Scripts to run within Ghidra, maintained by the Trellix ARC team.
@@ -1251,3 +1265,17 @@ as CSV, TSV, and tabular JSON.
 [664]: https://github.com/marcograss/partialzip
 [665]: https://github.com/cookiecutter/cookiecutter
 [666]: https://github.com/emproof-com/nyxstone/
+[667]: https://github.com/LaurieWired/GhidraMCP
+[668]: https://github.com/astral-sh/uv
+[669]: https://github.com/pola-rs/polars
+[670]: https://github.com/numba/numba
+[671]: https://github.com/pydantic/pydantic
+[672]: https://github.com/python/mypy
+[673]: https://github.com/pytest-dev/pytest
+[674]: https://github.com/Delgan/loguru
+[675]: https://github.com/Textualize/rich
+[676]: https://github.com/tqdm/tqdm
+[677]: https://github.com/astral-sh/ruff
+[678]: https://github.com/langchain-ai/langchain
+[679]: https://github.com/gruns/icecream
+[680]: https://github.com/pyenv/pyenv
