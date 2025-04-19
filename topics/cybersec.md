@@ -24,6 +24,7 @@
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
+- ["Laser Fault Injection on a Budget: RP2350 Edition"][1017]
 - ["Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution"][1011]
 - ["Reliable system call interception"][1010]
 - ["Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability — CVE-2024–54887"][1013]
@@ -2188,3 +2189,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1014]: https://labs.watchtowr.com/exploitation-walkthrough-and-techniques-ivanti-connect-secure-rce-cve-2025-0282/
 [1015]: https://krinkinmu.github.io/2024/01/14/aarch64-virtual-memory.html
 [1016]: https://zeyadazima.com/exploit%20development/pointer_pac/
+[1017]: https://courk.cc/rp2350-challenge-laser
