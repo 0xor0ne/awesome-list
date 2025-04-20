@@ -21,6 +21,7 @@
 
 ## 2025
 
+- ["Bypassing disk encryption on systems with automatic TPM2 unlock"][1018]
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
@@ -2190,3 +2191,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1015]: https://krinkinmu.github.io/2024/01/14/aarch64-virtual-memory.html
 [1016]: https://zeyadazima.com/exploit%20development/pointer_pac/
 [1017]: https://courk.cc/rp2350-challenge-laser
+[1018]: https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/
