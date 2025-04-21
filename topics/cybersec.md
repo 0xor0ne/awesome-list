@@ -23,6 +23,7 @@
 
 - ["Bypassing disk encryption on systems with automatic TPM2 unlock"][1018]
 - ["Cross Cache Attack CheetSheet"][1006]
+- ["Disassembling a binary: linear sweep and recursive traversal"][1019]
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
 - ["Laser Fault Injection on a Budget: RP2350 Edition"][1017]
@@ -2192,3 +2193,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1016]: https://zeyadazima.com/exploit%20development/pointer_pac/
 [1017]: https://courk.cc/rp2350-challenge-laser
 [1018]: https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/
+[1019]: https://nicolo.dev/en/blog/disassembling-binary-linear-recursive/
