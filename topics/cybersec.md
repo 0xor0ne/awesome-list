@@ -29,6 +29,7 @@
 - ["Laser Fault Injection on a Budget: RP2350 Edition"][1017]
 - ["Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution"][1011]
 - ["Reliable system call interception"][1010]
+- ["Replacing a Space Heater Firmware Over WiFi"][1020]
 - ["Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability — CVE-2024–54887"][1013]
 - ["The Art of Linux Kernel Rootkits"][1008]
 - ["We are ARMed no more ROPpery Here"][1016]
@@ -2194,3 +2195,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1017]: https://courk.cc/rp2350-challenge-laser
 [1018]: https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/
 [1019]: https://nicolo.dev/en/blog/disassembling-binary-linear-recursive/
+[1020]: https://blog.includesecurity.com/2025/02/replacing-a-space-heater-firmware-over-wifi/
