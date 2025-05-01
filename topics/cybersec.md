@@ -22,6 +22,7 @@
 ## 2025
 
 - ["Accidentally Uncovering a Seven Years Old Vulnerability in the Linux Kernel"][1021]
+- ["Best practices for key derivation"][1023]
 - ["Bypassing disk encryption on systems with automatic TPM2 unlock"][1018]
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
@@ -2200,3 +2201,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1020]: https://blog.includesecurity.com/2025/02/replacing-a-space-heater-firmware-over-wifi/
 [1021]: https://allelesecurity.com/accidentally-uncovering-a-seven-years-old-vulnerability-in-the-linux-kernel/
 [1022]: https://cryptopals.com
+[1023]: https://blog.trailofbits.com/2025/01/28/best-practices-for-key-derivation/
