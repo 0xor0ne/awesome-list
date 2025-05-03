@@ -222,6 +222,7 @@
 - ["Recovering an ECU firmware using disassembler and branches"][921]
 - ["regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)"][919]
 - ["Resolving Stack Strings with Capstone Disassembler & Unicorn in Python"][846]
+- ["Retrofitting encrypted firmware is a Bad Idea"][1024]
 - ["Reverse engineering a car key fob signal "][801]
 - ["Reverse Engineering and Dismantling Kekz Headphones"][962]
 - ["Reverse Engineering Protobuf Definitions From Compiled Binaries"][820]
@@ -2202,3 +2203,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1021]: https://allelesecurity.com/accidentally-uncovering-a-seven-years-old-vulnerability-in-the-linux-kernel/
 [1022]: https://cryptopals.com
 [1023]: https://blog.trailofbits.com/2025/01/28/best-practices-for-key-derivation/
+[1024]: https://haxx.in/posts/wtm-wtf/
