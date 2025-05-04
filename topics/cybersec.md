@@ -33,6 +33,7 @@
 - ["Reliable system call interception"][1010]
 - ["Replacing a Space Heater Firmware Over WiFi"][1020]
 - ["Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability — CVE-2024–54887"][1013]
+- ["RV130X Firmware Analysis"][1025]
 - ["The Art of Linux Kernel Rootkits"][1008]
 - ["We are ARMed no more ROPpery Here"][1016]
 
@@ -2204,3 +2205,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1022]: https://cryptopals.com
 [1023]: https://blog.trailofbits.com/2025/01/28/best-practices-for-key-derivation/
 [1024]: https://haxx.in/posts/wtm-wtf/
+[1025]: https://raffo24.github.io/hardware%20hacking/FirmwareAnalysis/
