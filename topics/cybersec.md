@@ -29,6 +29,7 @@
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
 - ["Laser Fault Injection on a Budget: RP2350 Edition"][1017]
+- ["Linux kernel Rust module for rootkit detection"][1026]
 - ["Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution"][1011]
 - ["Reliable system call interception"][1010]
 - ["Replacing a Space Heater Firmware Over WiFi"][1020]
@@ -2206,3 +2207,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1023]: https://blog.trailofbits.com/2025/01/28/best-practices-for-key-derivation/
 [1024]: https://haxx.in/posts/wtm-wtf/
 [1025]: https://raffo24.github.io/hardware%20hacking/FirmwareAnalysis/
+[1026]: https://blog.thalium.re/posts/linux-kernel-rust-module-for-rootkit-detection/
