@@ -37,6 +37,7 @@
 - ["RV130X Firmware Analysis"][1025]
 - ["The Art of Linux Kernel Rootkits"][1008]
 - ["We are ARMed no more ROPpery Here"][1016]
+- ["Zen and the Art of Microcode Hacking"][1027]
 
 ## 2024
 
@@ -2208,3 +2209,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1024]: https://haxx.in/posts/wtm-wtf/
 [1025]: https://raffo24.github.io/hardware%20hacking/FirmwareAnalysis/
 [1026]: https://blog.thalium.re/posts/linux-kernel-rust-module-for-rootkit-detection/
+[1027]: https://bughunters.google.com/blog/5424842357473280/zen-and-the-art-of-microcode-hacking
