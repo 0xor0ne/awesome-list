@@ -27,6 +27,7 @@
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
+- ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
 - ["Laser Fault Injection on a Budget: RP2350 Edition"][1017]
 - ["Linux kernel Rust module for rootkit detection"][1026]
@@ -34,6 +35,7 @@
 - ["Reliable system call interception"][1010]
 - ["Replacing a Space Heater Firmware Over WiFi"][1020]
 - ["Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability — CVE-2024–54887"][1013]
+- ["ROPing our way to RCE"][1028]
 - ["RV130X Firmware Analysis"][1025]
 - ["The Art of Linux Kernel Rootkits"][1008]
 - ["We are ARMed no more ROPpery Here"][1016]
@@ -2210,3 +2212,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1025]: https://raffo24.github.io/hardware%20hacking/FirmwareAnalysis/
 [1026]: https://blog.thalium.re/posts/linux-kernel-rust-module-for-rootkit-detection/
 [1027]: https://bughunters.google.com/blog/5424842357473280/zen-and-the-art-of-microcode-hacking
+[1028]: https://modzero.com/en/blog/roping-our-way-to-rce/
+[1029]: https://www.darkrelay.com/post/exploring-heap-exploitation-mechanisms-understanding-the-house-of-force-technique
