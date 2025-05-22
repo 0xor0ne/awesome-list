@@ -125,6 +125,7 @@
 - ["Exploit detail about CVE-2024-26581"][944]
 - ["Exploring AMD Platform Secure Boot"][701]
 - ["Exploring GNU extensions in the Linux kernel"][878]
+- ["Exploiting Android’s Hardened Memory Allocator"][1030]
 - ["Exploiting Empire C2 Framework"][723]
 - "Exploiting Enterprise Backup Software For Privilege Escalation":
   - [Part 1][906]
@@ -2214,3 +2215,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1027]: https://bughunters.google.com/blog/5424842357473280/zen-and-the-art-of-microcode-hacking
 [1028]: https://modzero.com/en/blog/roping-our-way-to-rce/
 [1029]: https://www.darkrelay.com/post/exploring-heap-exploitation-mechanisms-understanding-the-house-of-force-technique
+[1030]: https://www.usenix.org/system/files/woot24-mao.pdf
