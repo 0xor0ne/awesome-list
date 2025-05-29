@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/0xor0ne-awesome-list-badge.png)](https://mseep.ai/app/0xor0ne-awesome-list)
+
 # My Awesome List
 
 My personal awesome list of interesting repos, libraries and tools.
