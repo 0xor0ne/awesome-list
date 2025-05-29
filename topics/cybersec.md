@@ -28,6 +28,7 @@
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
+- ["Hack The Emulated Planet: Vulnerability Hunting on Planet WGS-804HPT Industrial Switches"][1031]
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
 - ["Laser Fault Injection on a Budget: RP2350 Edition"][1017]
 - ["Linux kernel Rust module for rootkit detection"][1026]
@@ -2216,3 +2217,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1028]: https://modzero.com/en/blog/roping-our-way-to-rce/
 [1029]: https://www.darkrelay.com/post/exploring-heap-exploitation-mechanisms-understanding-the-house-of-force-technique
 [1030]: https://www.usenix.org/system/files/woot24-mao.pdf
+[1031]: https://claroty.com/team82/research/hack-the-emulated-planet-vulnerability-hunting-on-planet-wgs-804hpt-industrial-switches
