@@ -42,6 +42,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability — CVE-2024–54887"][1013]
 - ["ROPing our way to RCE"][1028]
 - ["RV130X Firmware Analysis"][1025]
+- ["Sound and Efficient Generation of Data-Oriented Exploits via Programming Language Synthesis"][1034]
 - ["The Art of Linux Kernel Rootkits"][1008]
 - ["We are ARMed no more ROPpery Here"][1016]
 - ["Zen and the Art of Microcode Hacking"][1027]
@@ -2235,3 +2236,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1031]: https://claroty.com/team82/research/hack-the-emulated-planet-vulnerability-hunting-on-planet-wgs-804hpt-industrial-switches
 [1032]: https://h0mbre.github.io/Patch_Gapping_Google_COS/
 [1033]: https://blog.doyensec.com/2025/01/07/ksmbd-1.html
+[1034]: https://ilyasergey.net/assets/pdf/papers/doppler-usenix25.pdf
