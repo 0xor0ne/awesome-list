@@ -24,7 +24,9 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 ## 2025
 
 - ["Accidentally Uncovering a Seven Years Old Vulnerability in the Linux Kernel"][1021]
+- ["Analyzing IOS Kernel Panic Logs"][1037]
 - ["Best practices for key derivation"][1023]
+- ["Blasting Past iOS 18"][1038]
 - ["Bypassing disk encryption on systems with automatic TPM2 unlock"][1018]
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
@@ -2241,3 +2243,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1034]: https://ilyasergey.net/assets/pdf/papers/doppler-usenix25.pdf
 [1035]: https://roundofthree.github.io/posts/nginx-aixcc-pwn/
 [1036]: https://dayzerosec.com/blog/2025/03/08/reversing-samsungs-h-arx-hypervisor-part-1.html
+[1037]: https://8ksec.io/analyzing-kernel-panic-ios/?srsltid=AfmBOopTbPIEmMzcKlC4Qnyc6tH5HnSIt0PbuB9eVVf2Tms8DH6lwsgl
+[1038]: https://blog.dfsec.com/ios/2025/05/30/blasting-past-ios-18/
