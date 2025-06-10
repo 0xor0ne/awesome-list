@@ -30,12 +30,16 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages"][1039]
 - ["Bypassing disk encryption on systems with automatic TPM2 unlock"][1018]
 - ["Case Study: Analyzing macOS IONVMeFamily Driver Denial of Service Issue"][1040]
+- ["Case Study: IOMobileFramebuffer NULL Pointer Dereference"][1041]
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
 - ["Exploitation of AIxCC Nginx bugs: Part I"][1035]
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
 - ["Hack The Emulated Planet: Vulnerability Hunting on Planet WGS-804HPT Industrial Switches"][1031]
+- "iOS 17: New Version, New Acronyms":
+  - [Part 1][1042]
+  - [Part 2][1043]
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
 - ["ksmbd vulnerability research"][1033]
 - ["Laser Fault Injection on a Budget: RP2350 Edition"][1017]
@@ -2249,3 +2253,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1038]: https://blog.dfsec.com/ios/2025/05/30/blasting-past-ios-18/
 [1039]: https://googleprojectzero.blogspot.com/2025/05/breaking-sound-barrier-part-i-fuzzing.html
 [1040]: https://afine.com/case-study-analyzing-macos-ionvmefamily-driver-denial-of-service-issue/
+[1041]: https://afine.com/case-study-iomobileframebuffer-null-pointer-dereference/
+[1042]: https://www.df-f.com/blog/ios17
+[1043]: https://www.df-f.com/blog/ios-17round2
