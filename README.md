@@ -25,6 +25,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 - ["Accidentally Uncovering a Seven Years Old Vulnerability in the Linux Kernel"][1021]
 - ["Analyzing IOS Kernel Panic Logs"][1037]
+- ["Being Overlord on the Steam Deck with 1 Byte"][1044]
 - ["Best practices for key derivation"][1023]
 - ["Blasting Past iOS 18"][1038]
 - ["Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages"][1039]
@@ -52,6 +53,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Reversing Samsung's H-Arx Hypervisor Framework - Part 1"][1036]
 - ["ROPing our way to RCE"][1028]
 - ["RV130X Firmware Analysis"][1025]
+- ["smoltalk: RCE in Open Source Agents"][1045]
 - ["Sound and Efficient Generation of Data-Oriented Exploits via Programming Language Synthesis"][1034]
 - ["The Art of Linux Kernel Rootkits"][1008]
 - ["We are ARMed no more ROPpery Here"][1016]
@@ -2256,3 +2258,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1041]: https://afine.com/case-study-iomobileframebuffer-null-pointer-dereference/
 [1042]: https://www.df-f.com/blog/ios17
 [1043]: https://www.df-f.com/blog/ios-17round2
+[1044]: https://blog.quarkslab.com/being-overlord-on-the-steam-deck-with-1-byte.html
+[1045]: https://magic-box.dev/hacking/smoltalk/
