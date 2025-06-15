@@ -34,6 +34,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Case Study: IOMobileFramebuffer NULL Pointer Dereference"][1041]
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
+- ["Dissecting the macOS 'AppleProcessHub' Stealer: Technical Analysis of a Multi-Stage Attack"][1047]
 - ["Exploitation of AIxCC Nginx bugs: Part I"][1035]
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
@@ -56,6 +57,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["smoltalk: RCE in Open Source Agents"][1045]
 - ["Sound and Efficient Generation of Data-Oriented Exploits via Programming Language Synthesis"][1034]
 - ["The Art of Linux Kernel Rootkits"][1008]
+- ["Tracing Back to the Source | SPTM Round 3"][1046]
 - ["We are ARMed no more ROPpery Here"][1016]
 - ["Zen and the Art of Microcode Hacking"][1027]
 
@@ -2260,3 +2262,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1043]: https://www.df-f.com/blog/ios-17round2
 [1044]: https://blog.quarkslab.com/being-overlord-on-the-steam-deck-with-1-byte.html
 [1045]: https://magic-box.dev/hacking/smoltalk/
+[1046]: https://www.df-f.com/blog/sptm3
+[1047]: https://www.kandji.io/blog/macos-appleprocesshub-stealer
