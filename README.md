@@ -52,6 +52,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Replacing a Space Heater Firmware Over WiFi"][1020]
 - ["Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability — CVE-2024–54887"][1013]
 - ["Reversing Samsung's H-Arx Hypervisor Framework - Part 1"][1036]
+- ["Reversing the QardioArm"][1048]
 - ["ROPing our way to RCE"][1028]
 - ["RV130X Firmware Analysis"][1025]
 - ["smoltalk: RCE in Open Source Agents"][1045]
@@ -278,6 +279,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - "SMM isolation":
   - ["SMI deprivileging (ISRD)"][847]
   - ["Security policy reporting (ISSR)"][848]
+- ["SoK: Where’s the “up”?! A Comprehensive (bottom-up) Study on the Security of Arm Cortex-M Systems"][1049]
 - ["Strengthening the Shield: MTE in Heap Allocators"][596]
 - ["Take a Step Further: Understanding Page Spray in Linux Kernel Exploitation"][913]
 - ["The architecture of SAST tools: An explainer for developers"][739]
@@ -2264,3 +2266,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1045]: https://magic-box.dev/hacking/smoltalk/
 [1046]: https://www.df-f.com/blog/sptm3
 [1047]: https://www.kandji.io/blog/macos-appleprocesshub-stealer
+[1048]: https://n0psn0ps.github.io/2025/02/13/Reversing-the-QardioArm/
+[1049]: https://www.usenix.org/system/files/woot24-tan.pdf
