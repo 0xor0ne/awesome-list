@@ -47,6 +47,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Laser Fault Injection on a Budget: RP2350 Edition"][1017]
 - ["Linux kernel Rust module for rootkit detection"][1026]
 - ["Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution"][1011]
+- ["Mali-cious Intent: Exploiting GPU Vulnerabilities (CVE-2022-22706 / CVE-2021-39793)"][1050]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
 - ["Reliable system call interception"][1010]
 - ["Replacing a Space Heater Firmware Over WiFi"][1020]
@@ -2268,3 +2269,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1047]: https://www.kandji.io/blog/macos-appleprocesshub-stealer
 [1048]: https://n0psn0ps.github.io/2025/02/13/Reversing-the-QardioArm/
 [1049]: https://www.usenix.org/system/files/woot24-tan.pdf
+[1050]: https://starlabs.sg/blog/2025/12-mali-cious-intent-exploiting-gpu-vulnerabilities-cve-2022-22706/
