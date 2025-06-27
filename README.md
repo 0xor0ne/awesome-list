@@ -35,6 +35,8 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
 - ["Dissecting the macOS 'AppleProcessHub' Stealer: Technical Analysis of a Multi-Stage Attack"][1047]
+- ["Emulating an iPhone in QEMU"][1051]
+- ["Endless Exploits: The Saga of a macOS Vulnerability Struck Nine Times"][1052]
 - ["Exploitation of AIxCC Nginx bugs: Part I"][1035]
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
@@ -2270,3 +2272,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1048]: https://n0psn0ps.github.io/2025/02/13/Reversing-the-QardioArm/
 [1049]: https://www.usenix.org/system/files/woot24-tan.pdf
 [1050]: https://starlabs.sg/blog/2025/12-mali-cious-intent-exploiting-gpu-vulnerabilities-cve-2022-22706/
+[1051]: https://eshard.com/posts/emulating-ios-14-with-qemu
+[1052]: https://jhftss.github.io/Endless-Exploits/?utm_source=feedly
