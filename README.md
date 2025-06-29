@@ -761,6 +761,10 @@ exploit"][392]
 - ["Blind Exploits to Rule Watchguard Firewalls"][173]
 - ["BPFDoor - An Evasive Linux Backdoor Technical Analysis"][292]
 - ["Canary in the Kernel Mine: Exploiting and Defending Against Same-Type Object Reuse"][917]
+- "Chrome Browser Exploitation":
+  - [Part 1][1053]
+  - [Part 2][1054]
+  - [Part 3][1055]
 - ["Competing in Pwn2Own 2021 Austin: Icarus at the Zenith"][556]
 - ["CoRJail: From Null Byte Overflow To Docker Escape Exploiting poll_list Objects In The Linux Kernel"][759]
 - ["Corrupting memory without memory corruption"][762]
@@ -2274,3 +2278,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1050]: https://starlabs.sg/blog/2025/12-mali-cious-intent-exploiting-gpu-vulnerabilities-cve-2022-22706/
 [1051]: https://eshard.com/posts/emulating-ios-14-with-qemu
 [1052]: https://jhftss.github.io/Endless-Exploits/?utm_source=feedly
+[1053]: https://jhalon.github.io/chrome-browser-exploitation-1/
+[1054]: https://jhalon.github.io/chrome-browser-exploitation-2/
+[1055]: https://jhalon.github.io/chrome-browser-exploitation-3/
