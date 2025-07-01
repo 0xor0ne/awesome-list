@@ -50,6 +50,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Linux kernel Rust module for rootkit detection"][1026]
 - ["Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution"][1011]
 - ["Mali-cious Intent: Exploiting GPU Vulnerabilities (CVE-2022-22706 / CVE-2021-39793)"][1050]
+- ["NASA cFS version Aquila Software Vulnerability Assessment"][1056]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
 - ["Reliable system call interception"][1010]
 - ["Replacing a Space Heater Firmware Over WiFi"][1020]
@@ -2281,3 +2282,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1053]: https://jhalon.github.io/chrome-browser-exploitation-1/
 [1054]: https://jhalon.github.io/chrome-browser-exploitation-2/
 [1055]: https://jhalon.github.io/chrome-browser-exploitation-3/
+[1056]: https://visionspace.com/nasa-cfs-version-aquila-software-vulnerability-assessment/
