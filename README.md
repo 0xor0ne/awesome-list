@@ -1033,6 +1033,7 @@ exploit"][392]
   - [Part 1][187]
   - [Part 2][188]
 - ["BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution"][372]
+- ["Building a Basic C2"][1057]
 - ["CyRC analysis: CVE-2020-7958 biometric data extraction in Android devices"][890]
 - ["CVE-2020-16040 Analysis & Exploitation"][725]
 - ["Espressif ESP32: Bypassing Encrypted Secure Boot (CVE-2020-13629)"][641]
@@ -2283,3 +2284,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1054]: https://jhalon.github.io/chrome-browser-exploitation-2/
 [1055]: https://jhalon.github.io/chrome-browser-exploitation-3/
 [1056]: https://visionspace.com/nasa-cfs-version-aquila-software-vulnerability-assessment/
+[1057]: https://0xrick.github.io/misc/c2/
