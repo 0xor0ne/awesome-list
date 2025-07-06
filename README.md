@@ -40,6 +40,8 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Exploitation of AIxCC Nginx bugs: Part I"][1035]
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
+- ["First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)"][1058]
+- ["FLOP: Breaking the Apple M3 CPU via False Load Output Predictions"][1059]
 - ["Hack The Emulated Planet: Vulnerability Hunting on Planet WGS-804HPT Industrial Switches"][1031]
 - "iOS 17: New Version, New Acronyms":
   - [Part 1][1042]
@@ -59,6 +61,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Reversing the QardioArm"][1048]
 - ["ROPing our way to RCE"][1028]
 - ["RV130X Firmware Analysis"][1025]
+- ["SLAP: Data Speculation Attacks via Load Address Prediction on Apple Silicon"][1060]
 - ["smoltalk: RCE in Open Source Agents"][1045]
 - ["Sound and Efficient Generation of Data-Oriented Exploits via Programming Language Synthesis"][1034]
 - ["The Art of Linux Kernel Rootkits"][1008]
@@ -2285,3 +2288,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1055]: https://jhalon.github.io/chrome-browser-exploitation-3/
 [1056]: https://visionspace.com/nasa-cfs-version-aquila-software-vulnerability-assessment/
 [1057]: https://0xrick.github.io/misc/c2/
+[1058]: https://blog.quarkslab.com/first-analysis-of-apples-usb-restricted-mode-bypass-cve-2025-24200.html
+[1059]: https://predictors.fail/files/FLOP.pdf
+[1060]: https://predictors.fail/files/SLAP.pdf
