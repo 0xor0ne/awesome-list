@@ -32,6 +32,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Bypassing disk encryption on systems with automatic TPM2 unlock"][1018]
 - ["Case Study: Analyzing macOS IONVMeFamily Driver Denial of Service Issue"][1040]
 - ["Case Study: IOMobileFramebuffer NULL Pointer Dereference"][1041]
+- ["CimFS: Crashing in memory, Finding SYSTEM (Kernel Edition)"][1061]
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
 - ["Dissecting the macOS 'AppleProcessHub' Stealer: Technical Analysis of a Multi-Stage Attack"][1047]
@@ -65,6 +66,9 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["smoltalk: RCE in Open Source Agents"][1045]
 - ["Sound and Efficient Generation of Data-Oriented Exploits via Programming Language Synthesis"][1034]
 - ["The Art of Linux Kernel Rootkits"][1008]
+- "The Evolution of Dirty COW":
+  - [Part 1][1062]
+  - [Part 2][1063]
 - ["Tracing Back to the Source | SPTM Round 3"][1046]
 - ["We are ARMed no more ROPpery Here"][1016]
 - ["Zen and the Art of Microcode Hacking"][1027]
@@ -2291,3 +2295,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1058]: https://blog.quarkslab.com/first-analysis-of-apples-usb-restricted-mode-bypass-cve-2025-24200.html
 [1059]: https://predictors.fail/files/FLOP.pdf
 [1060]: https://predictors.fail/files/SLAP.pdf
+[1061]: https://starlabs.sg/blog/2025/03-cimfs-crashing-in-memory-finding-system-kernel-edition/
+[1062]: https://u1f383.github.io/linux/2025/03/27/the-evolution-of-COW-1.html
+[1063]: https://u1f383.github.io/linux/2025/03/29/the-evolution-of-COW-2.html
