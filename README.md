@@ -34,6 +34,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Case Study: IOMobileFramebuffer NULL Pointer Dereference"][1041]
 - ["CimFS: Crashing in memory, Finding SYSTEM (Kernel Edition)"][1061]
 - ["Cross Cache Attack CheetSheet"][1006]
+- ["CVE-2024-53141: an OOB Write Vulnerability in Netfiler Ipset"][1065]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
 - ["Dissecting the macOS 'AppleProcessHub' Stealer: Technical Analysis of a Multi-Stage Attack"][1047]
 - ["Emulating an iPhone in QEMU"][1051]
@@ -71,6 +72,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 2][1063]
 - ["Tracing Back to the Source | SPTM Round 3"][1046]
 - ["We are ARMed no more ROPpery Here"][1016]
+- ["Writing a Ghidra processor module"][1064]
 - ["Zen and the Art of Microcode Hacking"][1027]
 
 ## 2024
@@ -2298,3 +2300,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1061]: https://starlabs.sg/blog/2025/03-cimfs-crashing-in-memory-finding-system-kernel-edition/
 [1062]: https://u1f383.github.io/linux/2025/03/27/the-evolution-of-COW-1.html
 [1063]: https://u1f383.github.io/linux/2025/03/29/the-evolution-of-COW-2.html
+[1064]: https://irisc-research-syndicate.github.io/2025/02/14/writing-a-ghidra-processor-module/
+[1065]: https://u1f383.github.io/linux/2025/01/07/cve-2024-53141-an-oob-write-vulnerability-in-netfilter-ipset.html
