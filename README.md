@@ -51,6 +51,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
 - ["ksmbd vulnerability research"][1033]
 - ["Laser Fault Injection on a Budget: RP2350 Edition"][1017]
+- ["Linux Kernel Hfsplus Slab-out-of-bounds Write"][1066]
 - ["Linux kernel Rust module for rootkit detection"][1026]
 - ["Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution"][1011]
 - ["Mali-cious Intent: Exploiting GPU Vulnerabilities (CVE-2022-22706 / CVE-2021-39793)"][1050]
@@ -72,6 +73,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 2][1063]
 - ["Tracing Back to the Source | SPTM Round 3"][1046]
 - ["We are ARMed no more ROPpery Here"][1016]
+- ["When Good Kernel Defenses Go Bad: Reliable and Stable Kernel Exploits via Defense-Amplified TLB Side-Channel Leaks"][1067]
 - ["Writing a Ghidra processor module"][1064]
 - ["Zen and the Art of Microcode Hacking"][1027]
 
@@ -2302,3 +2304,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1063]: https://u1f383.github.io/linux/2025/03/29/the-evolution-of-COW-2.html
 [1064]: https://irisc-research-syndicate.github.io/2025/02/14/writing-a-ghidra-processor-module/
 [1065]: https://u1f383.github.io/linux/2025/01/07/cve-2024-53141-an-oob-write-vulnerability-in-netfilter-ipset.html
+[1066]: https://ssd-disclosure.com/ssd-advisory-linux-kernel-hfsplus-slab-out-of-bounds-write/
+[1067]: https://lukasmaar.github.io/papers/usenix25-tlbsidechannel.pdf
