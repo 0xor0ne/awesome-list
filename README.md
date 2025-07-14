@@ -35,6 +35,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["CimFS: Crashing in memory, Finding SYSTEM (Kernel Edition)"][1061]
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["CVE-2024-53141: an OOB Write Vulnerability in Netfiler Ipset"][1065]
+- ["Defeating String Obfuscation in Obfuscated NodeJS Malware using AST"][1068]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
 - ["Dissecting the macOS 'AppleProcessHub' Stealer: Technical Analysis of a Multi-Stage Attack"][1047]
 - ["Emulating an iPhone in QEMU"][1051]
@@ -55,6 +56,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Linux kernel Rust module for rootkit detection"][1026]
 - ["Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution"][1011]
 - ["Mali-cious Intent: Exploiting GPU Vulnerabilities (CVE-2022-22706 / CVE-2021-39793)"][1050]
+- ["Mindshare: Using Binary Ninja API to Detect Potential Use-after-free Vulnerabilities"][1069]
 - ["NASA cFS version Aquila Software Vulnerability Assessment"][1056]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
 - ["Reliable system call interception"][1010]
@@ -2306,3 +2308,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1065]: https://u1f383.github.io/linux/2025/01/07/cve-2024-53141-an-oob-write-vulnerability-in-netfilter-ipset.html
 [1066]: https://ssd-disclosure.com/ssd-advisory-linux-kernel-hfsplus-slab-out-of-bounds-write/
 [1067]: https://lukasmaar.github.io/papers/usenix25-tlbsidechannel.pdf
+[1068]: https://dinohacks.com/posts/2025/2025-03-17-defeating-string-obfuscation-in-obfuscated-nodejs-malware/
+[1069]: https://www.zerodayinitiative.com/blog/2025/3/20/mindshare-using-binary-ninja-api-to-detect-potential-use-after-free-vulnerabilities
