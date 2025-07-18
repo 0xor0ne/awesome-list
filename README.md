@@ -25,6 +25,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 - ["Accidentally Uncovering a Seven Years Old Vulnerability in the Linux Kernel"][1021]
 - ["Analyzing IOS Kernel Panic Logs"][1037]
+- ["Android: Scudo"][1070]
 - ["Being Overlord on the Steam Deck with 1 Byte"][1044]
 - ["Best practices for key derivation"][1023]
 - ["Blasting Past iOS 18"][1038]
@@ -2310,3 +2311,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1067]: https://lukasmaar.github.io/papers/usenix25-tlbsidechannel.pdf
 [1068]: https://dinohacks.com/posts/2025/2025-03-17-defeating-string-obfuscation-in-obfuscated-nodejs-malware/
 [1069]: https://www.zerodayinitiative.com/blog/2025/3/20/mindshare-using-binary-ninja-api-to-detect-potential-use-after-free-vulnerabilities
+[1070]: https://technologeeks.com/blog/Scudo/
