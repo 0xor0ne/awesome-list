@@ -65,6 +65,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability — CVE-2024–54887"][1013]
 - ["Reversing Samsung's H-Arx Hypervisor Framework - Part 1"][1036]
 - ["Reversing the QardioArm"][1048]
+- ["Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch"][1071]
 - ["ROPing our way to RCE"][1028]
 - ["RV130X Firmware Analysis"][1025]
 - ["SLAP: Data Speculation Attacks via Load Address Prediction on Apple Silicon"][1060]
@@ -2312,3 +2313,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1068]: https://dinohacks.com/posts/2025/2025-03-17-defeating-string-obfuscation-in-obfuscated-nodejs-malware/
 [1069]: https://www.zerodayinitiative.com/blog/2025/3/20/mindshare-using-binary-ninja-api-to-detect-potential-use-after-free-vulnerabilities
 [1070]: https://technologeeks.com/blog/Scudo/
+[1071]: https://theori.io/blog/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch
