@@ -1,4 +1,5 @@
 # My Awesome Cybersecurity List
+- [JavaScript Memory Exploitation](https://github.com/inorisojiu/JavaScript-Memory-Exploitation)
 
 My personal collection of awesome blog posts, write-ups, and papers focusing on cybersecurity.
 
