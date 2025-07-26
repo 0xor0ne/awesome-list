@@ -46,13 +46,16 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
 - ["First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)"][1058]
 - ["FLOP: Breaking the Apple M3 CPU via False Load Output Predictions"][1059]
+- ["Game Hacking - Valve Anti-Cheat (VAC)"][1074]
 - ["Hack The Emulated Planet: Vulnerability Hunting on Planet WGS-804HPT Industrial Switches"][1031]
+- ["Inside Riot Vanguard's Dispatch Table Hooks"][1073]
 - "iOS 17: New Version, New Acronyms":
   - [Part 1][1042]
   - [Part 2][1043]
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
 - ["ksmbd vulnerability research"][1033]
 - ["Laser Fault Injection on a Budget: RP2350 Edition"][1017]
+- ["Last barrier destroyed, or compromise of Fuse Encryption Key for Intel Security Fuses"][1072]
 - ["Linux Kernel Hfsplus Slab-out-of-bounds Write"][1066]
 - ["Linux kernel Rust module for rootkit detection"][1026]
 - ["Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution"][1011]
@@ -2314,3 +2317,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1069]: https://www.zerodayinitiative.com/blog/2025/3/20/mindshare-using-binary-ninja-api-to-detect-potential-use-after-free-vulnerabilities
 [1070]: https://technologeeks.com/blog/Scudo/
 [1071]: https://theori.io/blog/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch
+[1072]: https://swarm.ptsecurity.com/last-barrier-destroyed-or-compromise-of-fuse-encryption-key-for-intel-security-fuses/
+[1073]: https://archie-osu.github.io/2025/04/11/vanguard-research.html
+[1074]: https://codeneverdies.github.io/posts/gh-2/
