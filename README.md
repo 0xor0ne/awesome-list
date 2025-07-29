@@ -62,6 +62,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Mali-cious Intent: Exploiting GPU Vulnerabilities (CVE-2022-22706 / CVE-2021-39793)"][1050]
 - ["Mindshare: Using Binary Ninja API to Detect Potential Use-after-free Vulnerabilities"][1069]
 - ["NASA cFS version Aquila Software Vulnerability Assessment"][1056]
+- ["Overview of Map Exploitation in v8"][1075]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
 - ["Reliable system call interception"][1010]
 - ["Replacing a Space Heater Firmware Over WiFi"][1020]
@@ -2320,3 +2321,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1072]: https://swarm.ptsecurity.com/last-barrier-destroyed-or-compromise-of-fuse-encryption-key-for-intel-security-fuses/
 [1073]: https://archie-osu.github.io/2025/04/11/vanguard-research.html
 [1074]: https://codeneverdies.github.io/posts/gh-2/
+[1075]: https://xia0.sh/blog/visit-the-map/visit-the-map?ref=blog.exploits.club
