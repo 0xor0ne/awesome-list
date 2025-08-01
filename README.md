@@ -35,6 +35,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Case Study: IOMobileFramebuffer NULL Pointer Dereference"][1041]
 - ["CimFS: Crashing in memory, Finding SYSTEM (Kernel Edition)"][1061]
 - ["Cross Cache Attack CheetSheet"][1006]
+- ["CVE-2025-37752 Two Bytes Of Madness: Pwning The Linux Kernel With A 0x0000 Written 262636 Bytes Out-Of-Bounds"][1076]
 - ["CVE-2024-53141: an OOB Write Vulnerability in Netfiler Ipset"][1065]
 - ["Defeating String Obfuscation in Obfuscated NodeJS Malware using AST"][1068]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
@@ -2322,3 +2323,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1073]: https://archie-osu.github.io/2025/04/11/vanguard-research.html
 [1074]: https://codeneverdies.github.io/posts/gh-2/
 [1075]: https://xia0.sh/blog/visit-the-map/visit-the-map?ref=blog.exploits.club
+[1076]: https://syst3mfailure.io/two-bytes-of-madness/
