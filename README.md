@@ -49,6 +49,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["FLOP: Breaking the Apple M3 CPU via False Load Output Predictions"][1059]
 - ["Game Hacking - Valve Anti-Cheat (VAC)"][1074]
 - ["Hack The Emulated Planet: Vulnerability Hunting on Planet WGS-804HPT Industrial Switches"][1031]
+- ["How I ruined my vacation by reverse engineering WSC"][1077]
 - ["Inside Riot Vanguard's Dispatch Table Hooks"][1073]
 - "iOS 17: New Version, New Acronyms":
   - [Part 1][1042]
@@ -2324,3 +2325,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1074]: https://codeneverdies.github.io/posts/gh-2/
 [1075]: https://xia0.sh/blog/visit-the-map/visit-the-map?ref=blog.exploits.club
 [1076]: https://syst3mfailure.io/two-bytes-of-madness/
+[1077]: https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/
