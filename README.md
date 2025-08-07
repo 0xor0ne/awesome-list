@@ -77,6 +77,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["SLAP: Data Speculation Attacks via Load Address Prediction on Apple Silicon"][1060]
 - ["smoltalk: RCE in Open Source Agents"][1045]
 - ["Sound and Efficient Generation of Data-Oriented Exploits via Programming Language Synthesis"][1034]
+- ["State of Linux Snapshot Fuzzing"][1078]
 - ["The Art of Linux Kernel Rootkits"][1008]
 - "The Evolution of Dirty COW":
   - [Part 1][1062]
@@ -2326,3 +2327,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1075]: https://xia0.sh/blog/visit-the-map/visit-the-map?ref=blog.exploits.club
 [1076]: https://syst3mfailure.io/two-bytes-of-madness/
 [1077]: https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/
+[1078]: https://fuzzinglabs.com/state-of-linux-snapshot-fuzzing/
