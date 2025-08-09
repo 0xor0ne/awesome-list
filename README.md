@@ -51,6 +51,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Hack The Emulated Planet: Vulnerability Hunting on Planet WGS-804HPT Industrial Switches"][1031]
 - ["How I ruined my vacation by reverse engineering WSC"][1077]
 - ["Inside Riot Vanguard's Dispatch Table Hooks"][1073]
+- ["Intercepting HTTPS Communication in Flutter: Going Full Hardcore Mode with Frida"][1079]
 - "iOS 17: New Version, New Acronyms":
   - [Part 1][1042]
   - [Part 2][1043]
@@ -2328,3 +2329,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1076]: https://syst3mfailure.io/two-bytes-of-madness/
 [1077]: https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/
 [1078]: https://fuzzinglabs.com/state-of-linux-snapshot-fuzzing/
+[1079]: https://sensepost.com/blog/2025/intercepting-https-communication-in-flutter-going-full-hardcore-mode-with-frida/
