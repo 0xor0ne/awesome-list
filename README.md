@@ -44,6 +44,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Endless Exploits: The Saga of a macOS Vulnerability Struck Nine Times"][1052]
 - ["Exploitation of AIxCC Nginx bugs: Part I"][1035]
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
+- ["Exploiting CVE-2024-0582 via the Dirty Pagetable Method"][1081]
 - ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
 - ["First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)"][1058]
 - ["FLOP: Breaking the Apple M3 CPU via False Load Output Predictions"][1059]
@@ -63,6 +64,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Linux kernel Rust module for rootkit detection"][1026]
 - ["Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution"][1011]
 - ["Mali-cious Intent: Exploiting GPU Vulnerabilities (CVE-2022-22706 / CVE-2021-39793)"][1050]
+- ["MCTF 2025 - Write-up Sec Mem - Pwn"][1080]
 - ["Mindshare: Using Binary Ninja API to Detect Potential Use-after-free Vulnerabilities"][1069]
 - ["NASA cFS version Aquila Software Vulnerability Assessment"][1056]
 - ["Overview of Map Exploitation in v8"][1075]
@@ -2330,3 +2332,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1077]: https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/
 [1078]: https://fuzzinglabs.com/state-of-linux-snapshot-fuzzing/
 [1079]: https://sensepost.com/blog/2025/intercepting-https-communication-in-flutter-going-full-hardcore-mode-with-frida/
+[1080]: https://blog.itarow.xyz/posts/mctf_2025_sec_mem/
+[1081]: https://kuzey.rs/posts/Dirty_Page_Table/
