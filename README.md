@@ -23,6 +23,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 ## 2025
 
+- ["A Series of io_uring pbuf Vulnerabilities"][1083]
 - ["Accidentally Uncovering a Seven Years Old Vulnerability in the Linux Kernel"][1021]
 - ["Analyzing IOS Kernel Panic Logs"][1037]
 - ["Android: Scudo"][1070]
@@ -56,6 +57,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - "iOS 17: New Version, New Acronyms":
   - [Part 1][1042]
   - [Part 2][1043]
+- ["Kernel-Hack-Drill: Environment For Developing Linux Kernel Exploits"][1082]
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
 - ["ksmbd vulnerability research"][1033]
 - ["Laser Fault Injection on a Budget: RP2350 Edition"][1017]
@@ -2334,3 +2336,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1079]: https://sensepost.com/blog/2025/intercepting-https-communication-in-flutter-going-full-hardcore-mode-with-frida/
 [1080]: https://blog.itarow.xyz/posts/mctf_2025_sec_mem/
 [1081]: https://kuzey.rs/posts/Dirty_Page_Table/
+[1082]: https://a13xp0p0v.github.io/img/Alexander_Popov-Kernel_Hack_Drill-Zer0Con.pdf
+[1083]: https://u1f383.github.io/linux/2025/03/02/a-series-of-io_uring-pbuf-vulnerabilities.html
