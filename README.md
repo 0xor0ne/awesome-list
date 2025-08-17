@@ -23,6 +23,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 ## 2025
 
+- ["A First Glimpse of the Starlink User Ternimal"][1084]
 - ["A Series of io_uring pbuf Vulnerabilities"][1083]
 - ["Accidentally Uncovering a Seven Years Old Vulnerability in the Linux Kernel"][1021]
 - ["Analyzing IOS Kernel Panic Logs"][1037]
@@ -35,6 +36,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Case Study: Analyzing macOS IONVMeFamily Driver Denial of Service Issue"][1040]
 - ["Case Study: IOMobileFramebuffer NULL Pointer Dereference"][1041]
 - ["CimFS: Crashing in memory, Finding SYSTEM (Kernel Edition)"][1061]
+- ["Control Flow Hijacking via Data Pointers"][1085]
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["CVE-2025-37752 Two Bytes Of Madness: Pwning The Linux Kernel With A 0x0000 Written 262636 Bytes Out-Of-Bounds"][1076]
 - ["CVE-2024-53141: an OOB Write Vulnerability in Netfiler Ipset"][1065]
@@ -2338,3 +2340,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1081]: https://kuzey.rs/posts/Dirty_Page_Table/
 [1082]: https://a13xp0p0v.github.io/img/Alexander_Popov-Kernel_Hack_Drill-Zer0Con.pdf
 [1083]: https://u1f383.github.io/linux/2025/03/02/a-series-of-io_uring-pbuf-vulnerabilities.html
+[1084]: https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/
+[1085]: https://www.legacyy.xyz/defenseevasion/windows/2025/04/16/control-flow-hijacking-via-data-pointers.html
