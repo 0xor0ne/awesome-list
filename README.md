@@ -38,6 +38,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["CimFS: Crashing in memory, Finding SYSTEM (Kernel Edition)"][1061]
 - ["Control Flow Hijacking via Data Pointers"][1085]
 - ["Cross Cache Attack CheetSheet"][1006]
+- ["CVE-2025-23016 - EXPLOITING THE FASTCGI LIBRARY"][1086]
 - ["CVE-2025-37752 Two Bytes Of Madness: Pwning The Linux Kernel With A 0x0000 Written 262636 Bytes Out-Of-Bounds"][1076]
 - ["CVE-2024-53141: an OOB Write Vulnerability in Netfiler Ipset"][1065]
 - ["Defeating String Obfuscation in Obfuscated NodeJS Malware using AST"][1068]
@@ -2342,3 +2343,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1083]: https://u1f383.github.io/linux/2025/03/02/a-series-of-io_uring-pbuf-vulnerabilities.html
 [1084]: https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/
 [1085]: https://www.legacyy.xyz/defenseevasion/windows/2025/04/16/control-flow-hijacking-via-data-pointers.html
+[1086]: https://www.synacktiv.com/en/publications/cve-2025-23016-exploiting-the-fastcgi-library
