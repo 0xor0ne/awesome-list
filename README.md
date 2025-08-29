@@ -74,6 +74,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["NASA cFS version Aquila Software Vulnerability Assessment"][1056]
 - ["Overview of Map Exploitation in v8"][1075]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
+- ["Python Dirty Arbitrary File Write to RCE via Writing Shared Object Files Or Overwriting Bytecode Files"][1087]
 - ["Reliable system call interception"][1010]
 - ["Replacing a Space Heater Firmware Over WiFi"][1020]
 - ["Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability — CVE-2024–54887"][1013]
@@ -84,6 +85,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["RV130X Firmware Analysis"][1025]
 - ["SLAP: Data Speculation Attacks via Load Address Prediction on Apple Silicon"][1060]
 - ["smoltalk: RCE in Open Source Agents"][1045]
+- ["SoK: Security of EMV Contactless Payment Systems"][1088]
 - ["Sound and Efficient Generation of Data-Oriented Exploits via Programming Language Synthesis"][1034]
 - ["State of Linux Snapshot Fuzzing"][1078]
 - ["The Art of Linux Kernel Rootkits"][1008]
@@ -2344,3 +2346,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1084]: https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/
 [1085]: https://www.legacyy.xyz/defenseevasion/windows/2025/04/16/control-flow-hijacking-via-data-pointers.html
 [1086]: https://www.synacktiv.com/en/publications/cve-2025-23016-exploiting-the-fastcgi-library
+[1087]: https://siunam321.github.io/research/python-dirty-arbitrary-file-write-to-rce-via-writing-shared-object-files-or-overwriting-bytecode-files/
+[1088]: https://arxiv.org/pdf/2504.12812
