@@ -75,6 +75,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Overview of Map Exploitation in v8"][1075]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
 - ["Python Dirty Arbitrary File Write to RCE via Writing Shared Object Files Or Overwriting Bytecode Files"][1087]
+- ["Recovering Metadata from .NET Native AOT Binaries"][1089]
 - ["Reliable system call interception"][1010]
 - ["Replacing a Space Heater Firmware Over WiFi"][1020]
 - ["Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability — CVE-2024–54887"][1013]
@@ -2348,3 +2349,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1086]: https://www.synacktiv.com/en/publications/cve-2025-23016-exploiting-the-fastcgi-library
 [1087]: https://siunam321.github.io/research/python-dirty-arbitrary-file-write-to-rce-via-writing-shared-object-files-or-overwriting-bytecode-files/
 [1088]: https://arxiv.org/pdf/2504.12812
+[1089]: https://blog.washi.dev/posts/recovering-nativeaot-metadata/
