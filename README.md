@@ -55,6 +55,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Game Hacking - Valve Anti-Cheat (VAC)"][1074]
 - ["Hack The Emulated Planet: Vulnerability Hunting on Planet WGS-804HPT Industrial Switches"][1031]
 - ["How I ruined my vacation by reverse engineering WSC"][1077]
+- ["How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation"][1090]
 - ["Inside Riot Vanguard's Dispatch Table Hooks"][1073]
 - ["Intercepting HTTPS Communication in Flutter: Going Full Hardcore Mode with Frida"][1079]
 - "iOS 17: New Version, New Acronyms":
@@ -2350,3 +2351,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1087]: https://siunam321.github.io/research/python-dirty-arbitrary-file-write-to-rce-via-writing-shared-object-files-or-overwriting-bytecode-files/
 [1088]: https://arxiv.org/pdf/2504.12812
 [1089]: https://blog.washi.dev/posts/recovering-nativeaot-metadata/
+[1090]: https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/
