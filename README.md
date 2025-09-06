@@ -75,6 +75,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["NASA cFS version Aquila Software Vulnerability Assessment"][1056]
 - ["Overview of Map Exploitation in v8"][1075]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
+- ["PatchGuard Internals"][1092]
 - ["Python Dirty Arbitrary File Write to RCE via Writing Shared Object Files Or Overwriting Bytecode Files"][1087]
 - ["Recovering Metadata from .NET Native AOT Binaries"][1089]
 - ["Reliable system call interception"][1010]
@@ -638,6 +639,7 @@ exploit"][392]
   - [Part 1][441]
   - [Part 2][442]
 - ["New HiatusRAT Router Malware Covertly Spies On Victims"][402]
+- ["No Alloc, No Problem: Leveraging Program Entry Points for Process Injection"][1091]
 - ["NVMe: New Vulnerabilities Made Easy"][264]
 - ["nftables Adventures: Bug Hunting and N-day Exploitation (CVE-2023-31248)"][365]
 - ["Obscure Windows File Types"][74]
@@ -2352,3 +2354,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1088]: https://arxiv.org/pdf/2504.12812
 [1089]: https://blog.washi.dev/posts/recovering-nativeaot-metadata/
 [1090]: https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/
+[1091]: https://bohops.com/2023/06/09/no-alloc-no-problem-leveraging-program-entry-points-for-process-injection/
+[1092]: https://r0keb.github.io/posts/PatchGuard-Internals/
