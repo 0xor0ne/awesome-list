@@ -72,6 +72,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Mali-cious Intent: Exploiting GPU Vulnerabilities (CVE-2022-22706 / CVE-2021-39793)"][1050]
 - ["MCTF 2025 - Write-up Sec Mem - Pwn"][1080]
 - ["Mindshare: Using Binary Ninja API to Detect Potential Use-after-free Vulnerabilities"][1069]
+- ["My Emulation Goes to the Moon... Until False Flag"][1094]
 - ["NASA cFS version Aquila Software Vulnerability Assessment"][1056]
 - ["Overview of Map Exploitation in v8"][1075]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
@@ -80,6 +81,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Recovering Metadata from .NET Native AOT Binaries"][1089]
 - ["Reliable system call interception"][1010]
 - ["Replacing a Space Heater Firmware Over WiFi"][1020]
+- ["Reverse Engineering Hanwha Security Camera Firmware File Decryption with IDA Pro"][1093]
 - ["Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability — CVE-2024–54887"][1013]
 - ["Reversing Samsung's H-Arx Hypervisor Framework - Part 1"][1036]
 - ["Reversing the QardioArm"][1048]
@@ -2356,3 +2358,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1090]: https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/
 [1091]: https://bohops.com/2023/06/09/no-alloc-no-problem-leveraging-program-entry-points-for-process-injection/
 [1092]: https://r0keb.github.io/posts/PatchGuard-Internals/
+[1093]: https://brownfinesecurity.com/blog/hanwha-firmware-file-decryption
+[1094]: https://retooling.io/blog/my-emulation-goes-to-the-moon-until-false-flag
