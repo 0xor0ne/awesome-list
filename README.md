@@ -61,6 +61,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - "iOS 17: New Version, New Acronyms":
   - [Part 1][1042]
   - [Part 2][1043]
+- ["kASLR Internals and Evolution"][1095]
 - ["Kernel-Hack-Drill: Environment For Developing Linux Kernel Exploits"][1082]
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
 - ["ksmbd vulnerability research"][1033]
@@ -93,6 +94,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["SoK: Security of EMV Contactless Payment Systems"][1088]
 - ["Sound and Efficient Generation of Data-Oriented Exploits via Programming Language Synthesis"][1034]
 - ["State of Linux Snapshot Fuzzing"][1078]
+- ["Streaming Zero-Fi Shells to Your Smart Speaker"][1096]
 - ["The Art of Linux Kernel Rootkits"][1008]
 - "The Evolution of Dirty COW":
   - [Part 1][1062]
@@ -2360,3 +2362,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1092]: https://r0keb.github.io/posts/PatchGuard-Internals/
 [1093]: https://brownfinesecurity.com/blog/hanwha-firmware-file-decryption
 [1094]: https://retooling.io/blog/my-emulation-goes-to-the-moon-until-false-flag
+[1095]: https://r0keb.github.io/posts/kASLR-Internals-and-Evolution/
+[1096]: https://blog.ret2.io/2025/06/11/pwn2own-soho-2024-sonos-exploit/
