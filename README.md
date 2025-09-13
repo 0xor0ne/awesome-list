@@ -50,6 +50,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["Exploiting CVE-2024-0582 via the Dirty Pagetable Method"][1081]
 - ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
+- ["FiberGateway GR241AG - Full Exploit Chain"][1097]
 - ["First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)"][1058]
 - ["FLOP: Breaking the Apple M3 CPU via False Load Output Predictions"][1059]
 - ["Game Hacking - Valve Anti-Cheat (VAC)"][1074]
@@ -2364,3 +2365,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1094]: https://retooling.io/blog/my-emulation-goes-to-the-moon-until-false-flag
 [1095]: https://r0keb.github.io/posts/kASLR-Internals-and-Evolution/
 [1096]: https://blog.ret2.io/2025/06/11/pwn2own-soho-2024-sonos-exploit/
+[1097]: https://r0ny.net/FiberGateway-GR241AG-Full-Exploit-Chain/
