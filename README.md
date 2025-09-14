@@ -24,6 +24,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 ## 2025
 
 - ["A First Glimpse of the Starlink User Ternimal"][1084]
+- ["A Quick Dive Into The Linux Kernel Page Allocator"][1098]
 - ["A Series of io_uring pbuf Vulnerabilities"][1083]
 - ["Accidentally Uncovering a Seven Years Old Vulnerability in the Linux Kernel"][1021]
 - ["Analyzing IOS Kernel Panic Logs"][1037]
@@ -57,6 +58,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Hack The Emulated Planet: Vulnerability Hunting on Planet WGS-804HPT Industrial Switches"][1031]
 - ["How I ruined my vacation by reverse engineering WSC"][1077]
 - ["How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation"][1090]
+- ["Hypervisors for Memory Introspection and Reverse Engineering"][1099]
 - ["Inside Riot Vanguard's Dispatch Table Hooks"][1073]
 - ["Intercepting HTTPS Communication in Flutter: Going Full Hardcore Mode with Frida"][1079]
 - "iOS 17: New Version, New Acronyms":
@@ -2366,3 +2368,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1095]: https://r0keb.github.io/posts/kASLR-Internals-and-Evolution/
 [1096]: https://blog.ret2.io/2025/06/11/pwn2own-soho-2024-sonos-exploit/
 [1097]: https://r0ny.net/FiberGateway-GR241AG-Full-Exploit-Chain/
+[1098]: https://syst3mfailure.io/linux-page-allocator/
+[1099]: https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html
