@@ -59,6 +59,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["How I ruined my vacation by reverse engineering WSC"][1077]
 - ["How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation"][1090]
 - ["Hypervisors for Memory Introspection and Reverse Engineering"][1099]
+- ["Kernel Exploitation Techniques: Turning The (Page) Tables"][1100]
 - ["Inside Riot Vanguard's Dispatch Table Hooks"][1073]
 - ["Intercepting HTTPS Communication in Flutter: Going Full Hardcore Mode with Frida"][1079]
 - "iOS 17: New Version, New Acronyms":
@@ -2370,3 +2371,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1097]: https://r0ny.net/FiberGateway-GR241AG-Full-Exploit-Chain/
 [1098]: https://syst3mfailure.io/linux-page-allocator/
 [1099]: https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html
+[1100]: https://sam4k.com/page-table-kernel-exploitation/
