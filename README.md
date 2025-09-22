@@ -30,6 +30,9 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Analyzing IOS Kernel Panic Logs"][1037]
 - ["Android: Scudo"][1070]
 - ["Being Overlord on the Steam Deck with 1 Byte"][1044]
+- "BPFDoor"
+  - ["Part 1 - The Past"][1101]
+  - ["Part 2 - The Present"][1102]
 - ["Best practices for key derivation"][1023]
 - ["Blasting Past iOS 18"][1038]
 - ["Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages"][1039]
@@ -1877,6 +1880,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [601]: https://therealcoiffeur.com/c101101.html
 [602]: https://blog.kylebot.net/2021/05/08/DEFCON-2021-Quals-mooosl/
 [603]: https://security.humanativaspa.it/customizing-sliver-part-1/
+
 [604]: https://security.humanativaspa.it/customizing-sliver-part-2/
 [605]: https://security.humanativaspa.it/customizing-sliver-part-3/
 [606]: https://www.mnemonic.io/no/resources/blog/reverse-engineering-an-ev-charger/
@@ -2372,3 +2376,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1098]: https://syst3mfailure.io/linux-page-allocator/
 [1099]: https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html
 [1100]: https://sam4k.com/page-table-kernel-exploitation/
+[1101]: https://haxrob.net/bpfdoor-past-and-present-part-1/
+[1102]: https://haxrob.net/bpfdoor-past-and-present-part-2/
