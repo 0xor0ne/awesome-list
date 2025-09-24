@@ -58,6 +58,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)"][1058]
 - ["FLOP: Breaking the Apple M3 CPU via False Load Output Predictions"][1059]
 - ["Game Hacking - Valve Anti-Cheat (VAC)"][1074]
+- ["Gone in 5 Seconds: How WARN_ON Stole 10 Minutes"][1103]
 - ["Hack The Emulated Planet: Vulnerability Hunting on Planet WGS-804HPT Industrial Switches"][1031]
 - ["How I ruined my vacation by reverse engineering WSC"][1077]
 - ["How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation"][1090]
@@ -2378,3 +2379,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1100]: https://sam4k.com/page-table-kernel-exploitation/
 [1101]: https://haxrob.net/bpfdoor-past-and-present-part-1/
 [1102]: https://haxrob.net/bpfdoor-past-and-present-part-2/
+[1103]: https://starlabs.sg/blog/2025/05-gone-in-5-seconds-how-warn_on-stole-10-minutes/
