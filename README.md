@@ -86,6 +86,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Overview of Map Exploitation in v8"][1075]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
 - ["PatchGuard Internals"][1092]
+- ["Pwn2Own Ireland 2024: Canon imageCLASS MF656Cdw"][1104]
 - ["Python Dirty Arbitrary File Write to RCE via Writing Shared Object Files Or Overwriting Bytecode Files"][1087]
 - ["Recovering Metadata from .NET Native AOT Binaries"][1089]
 - ["Reliable system call interception"][1010]
@@ -2380,3 +2381,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1101]: https://haxrob.net/bpfdoor-past-and-present-part-1/
 [1102]: https://haxrob.net/bpfdoor-past-and-present-part-2/
 [1103]: https://starlabs.sg/blog/2025/05-gone-in-5-seconds-how-warn_on-stole-10-minutes/
+[1104]: https://neodyme.io/en/blog/pwn2own-2024_canon_rce/#exif-format-introduction
