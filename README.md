@@ -37,6 +37,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Blasting Past iOS 18"][1038]
 - ["Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages"][1039]
 - ["Bypassing disk encryption on systems with automatic TPM2 unlock"][1018]
+- ["Bypassing MTE with CVE-2025-0072"][1105]
 - ["Case Study: Analyzing macOS IONVMeFamily Driver Denial of Service Issue"][1040]
 - ["Case Study: IOMobileFramebuffer NULL Pointer Dereference"][1041]
 - ["CimFS: Crashing in memory, Finding SYSTEM (Kernel Edition)"][1061]
@@ -2382,3 +2383,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1102]: https://haxrob.net/bpfdoor-past-and-present-part-2/
 [1103]: https://starlabs.sg/blog/2025/05-gone-in-5-seconds-how-warn_on-stole-10-minutes/
 [1104]: https://neodyme.io/en/blog/pwn2own-2024_canon_rce/#exif-format-introduction
+[1105]: https://github.blog/security/vulnerability-research/bypassing-mte-with-cve-2025-0072/
