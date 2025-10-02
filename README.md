@@ -29,6 +29,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Accidentally Uncovering a Seven Years Old Vulnerability in the Linux Kernel"][1021]
 - ["Analyzing IOS Kernel Panic Logs"][1037]
 - ["Android: Scudo"][1070]
+- ["Attention, High Voltage: Exploring the Attack Surface of the Rockwell Automation PowerMonitor 1000"][1106]
 - ["Being Overlord on the Steam Deck with 1 Byte"][1044]
 - "BPFDoor"
   - ["Part 1 - The Past"][1101]
@@ -2384,3 +2385,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1103]: https://starlabs.sg/blog/2025/05-gone-in-5-seconds-how-warn_on-stole-10-minutes/
 [1104]: https://neodyme.io/en/blog/pwn2own-2024_canon_rce/#exif-format-introduction
 [1105]: https://github.blog/security/vulnerability-research/bypassing-mte-with-cve-2025-0072/
+[1106]: https://claroty.com/team82/research/attention-high-voltage-exploring-the-attack-surface-of-the-rockwell-automation-powermonitor-1000
