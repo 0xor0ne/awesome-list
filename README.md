@@ -41,6 +41,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Bypassing MTE with CVE-2025-0072"][1105]
 - ["Case Study: Analyzing macOS IONVMeFamily Driver Denial of Service Issue"][1040]
 - ["Case Study: IOMobileFramebuffer NULL Pointer Dereference"][1041]
+- ["Challenges and Pitfalls while Emulating Six Current Icelandic Household Routers"][1107]
 - ["CimFS: Crashing in memory, Finding SYSTEM (Kernel Edition)"][1061]
 - ["Control Flow Hijacking via Data Pointers"][1085]
 - ["Cross Cache Attack CheetSheet"][1006]
@@ -2386,3 +2387,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1104]: https://neodyme.io/en/blog/pwn2own-2024_canon_rce/#exif-format-introduction
 [1105]: https://github.blog/security/vulnerability-research/bypassing-mte-with-cve-2025-0072/
 [1106]: https://claroty.com/team82/research/attention-high-voltage-exploring-the-attack-surface-of-the-rockwell-automation-powermonitor-1000
+[1107]: https://skemman.is/bitstream/1946/50456/1/Challenges_and_Pitfalls_while_Emulating_Six_Current_Icelandic_Household_Routers.pdf
