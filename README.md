@@ -65,6 +65,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Hack The Emulated Planet: Vulnerability Hunting on Planet WGS-804HPT Industrial Switches"][1031]
 - ["How I ruined my vacation by reverse engineering WSC"][1077]
 - ["How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation"][1090]
+- ["Hydroph0bia (CVE-2025-4275) - a fixed SecureBoot bypass for UEFI-compatible firmware based on Insyde H2O"][1108]
 - ["Hypervisors for Memory Introspection and Reverse Engineering"][1099]
 - ["Kernel Exploitation Techniques: Turning The (Page) Tables"][1100]
 - ["Inside Riot Vanguard's Dispatch Table Hooks"][1073]
@@ -2388,3 +2389,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1105]: https://github.blog/security/vulnerability-research/bypassing-mte-with-cve-2025-0072/
 [1106]: https://claroty.com/team82/research/attention-high-voltage-exploring-the-attack-surface-of-the-rockwell-automation-powermonitor-1000
 [1107]: https://skemman.is/bitstream/1946/50456/1/Challenges_and_Pitfalls_while_Emulating_Six_Current_Icelandic_Household_Routers.pdf
+[1108]: https://coderush.me/hydroph0bia-part3/
