@@ -63,6 +63,9 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Game Hacking - Valve Anti-Cheat (VAC)"][1074]
 - ["Gone in 5 Seconds: How WARN_ON Stole 10 Minutes"][1103]
 - ["Hack The Emulated Planet: Vulnerability Hunting on Planet WGS-804HPT Industrial Switches"][1031]
+- ["Hacking the XBox 360 Hypervisor"]
+  - [Part 1][1109]
+  - [Part 2][1110]
 - ["How I ruined my vacation by reverse engineering WSC"][1077]
 - ["How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation"][1090]
 - ["Hydroph0bia (CVE-2025-4275) - a fixed SecureBoot bypass for UEFI-compatible firmware based on Insyde H2O"][1108]
@@ -2390,3 +2393,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1106]: https://claroty.com/team82/research/attention-high-voltage-exploring-the-attack-surface-of-the-rockwell-automation-powermonitor-1000
 [1107]: https://skemman.is/bitstream/1946/50456/1/Challenges_and_Pitfalls_while_Emulating_Six_Current_Icelandic_Household_Routers.pdf
 [1108]: https://coderush.me/hydroph0bia-part3/
+[1109]: https://icode4.coffee/?p=1047
+[1110]: https://icode4.coffee/?p=1081
