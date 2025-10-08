@@ -110,6 +110,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["SoK: Security of EMV Contactless Payment Systems"][1088]
 - ["Sound and Efficient Generation of Data-Oriented Exploits via Programming Language Synthesis"][1034]
 - ["State of Linux Snapshot Fuzzing"][1078]
+- ["STM32L05 Voltage Glitching"][1111]
 - ["Streaming Zero-Fi Shells to Your Smart Speaker"][1096]
 - ["The Art of Linux Kernel Rootkits"][1008]
 - "The Evolution of Dirty COW":
@@ -2395,3 +2396,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1108]: https://coderush.me/hydroph0bia-part3/
 [1109]: https://icode4.coffee/?p=1047
 [1110]: https://icode4.coffee/?p=1081
+[1111]: https://blog.syss.com/posts/voltage-glitching-the-stm32l05-microcontroller/
