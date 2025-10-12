@@ -103,6 +103,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Reversing Samsung's H-Arx Hypervisor Framework - Part 1"][1036]
 - ["Reversing the QardioArm"][1048]
 - ["Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch"][1071]
+- ["Root Shell on Credit Card Terminal"][1112]
 - ["ROPing our way to RCE"][1028]
 - ["RV130X Firmware Analysis"][1025]
 - ["SLAP: Data Speculation Attacks via Load Address Prediction on Apple Silicon"][1060]
@@ -2397,3 +2398,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1109]: https://icode4.coffee/?p=1047
 [1110]: https://icode4.coffee/?p=1081
 [1111]: https://blog.syss.com/posts/voltage-glitching-the-stm32l05-microcontroller/
+[1112]: https://stefan-gloor.ch/yomani-hack
