@@ -43,6 +43,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Case Study: IOMobileFramebuffer NULL Pointer Dereference"][1041]
 - ["Challenges and Pitfalls while Emulating Six Current Icelandic Household Routers"][1107]
 - ["CimFS: Crashing in memory, Finding SYSTEM (Kernel Edition)"][1061]
+- ["Control Flow Hijacking in the Linux Kernel"][1114]
 - ["Control Flow Hijacking via Data Pointers"][1085]
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["CVE-2025-23016 - EXPLOITING THE FASTCGI LIBRARY"][1086]
@@ -82,6 +83,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["ksmbd vulnerability research"][1033]
 - ["Laser Fault Injection on a Budget: RP2350 Edition"][1017]
 - ["Last barrier destroyed, or compromise of Fuse Encryption Key for Intel Security Fuses"][1072]
+- ["Linux Kernel Exploitation For Beginners"][1113]
 - ["Linux Kernel Hfsplus Slab-out-of-bounds Write"][1066]
 - ["Linux kernel Rust module for rootkit detection"][1026]
 - ["Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution"][1011]
@@ -2399,3 +2401,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1110]: https://icode4.coffee/?p=1081
 [1111]: https://blog.syss.com/posts/voltage-glitching-the-stm32l05-microcontroller/
 [1112]: https://stefan-gloor.ch/yomani-hack
+[1113]: https://rvasec.com/slides/2025/Massey_Linux_Kernel_Exploitation_For_Beginners.pdf
+[1114]: https://pt-phdays.storage.yandexcloud.net/Yashnikov_Valerij_Obhod_sredstv_zashhity_yadra_Linux_pri_perehvate_potoka_upravleniya_compressed_373ea39bd6.pdf
