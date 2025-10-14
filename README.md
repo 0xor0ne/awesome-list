@@ -69,6 +69,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 2][1110]
 - ["How I ruined my vacation by reverse engineering WSC"][1077]
 - ["How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation"][1090]
+- ["How Much More Must We Bleed? - Citrix NetScaler Memory Disclosure (CitrixBleed 2 CVE-2025-5777)"][1115]
 - ["Hydroph0bia (CVE-2025-4275) - a fixed SecureBoot bypass for UEFI-compatible firmware based on Insyde H2O"][1108]
 - ["Hypervisors for Memory Introspection and Reverse Engineering"][1099]
 - ["Kernel Exploitation Techniques: Turning The (Page) Tables"][1100]
@@ -2403,3 +2404,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1112]: https://stefan-gloor.ch/yomani-hack
 [1113]: https://rvasec.com/slides/2025/Massey_Linux_Kernel_Exploitation_For_Beginners.pdf
 [1114]: https://pt-phdays.storage.yandexcloud.net/Yashnikov_Valerij_Obhod_sredstv_zashhity_yadra_Linux_pri_perehvate_potoka_upravleniya_compressed_373ea39bd6.pdf
+[1115]: https://labs.watchtowr.com/how-much-more-must-we-bleed-citrix-netscaler-memory-disclosure-citrixbleed-2-cve-2025-5777/
