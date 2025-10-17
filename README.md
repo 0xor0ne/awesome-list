@@ -120,6 +120,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - "The Evolution of Dirty COW":
   - [Part 1][1062]
   - [Part 2][1063]
+- ["The Journey of Bypassing Ubuntu’s Unprivileged Namespace Restriction"][1116]
 - ["Tracing Back to the Source | SPTM Round 3"][1046]
 - ["We are ARMed no more ROPpery Here"][1016]
 - ["When Good Kernel Defenses Go Bad: Reliable and Stable Kernel Exploits via Defense-Amplified TLB Side-Channel Leaks"][1067]
@@ -2405,3 +2406,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1113]: https://rvasec.com/slides/2025/Massey_Linux_Kernel_Exploitation_For_Beginners.pdf
 [1114]: https://pt-phdays.storage.yandexcloud.net/Yashnikov_Valerij_Obhod_sredstv_zashhity_yadra_Linux_pri_perehvate_potoka_upravleniya_compressed_373ea39bd6.pdf
 [1115]: https://labs.watchtowr.com/how-much-more-must-we-bleed-citrix-netscaler-memory-disclosure-citrixbleed-2-cve-2025-5777/
+[1116]: https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html
