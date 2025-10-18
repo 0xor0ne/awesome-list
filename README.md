@@ -97,6 +97,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
 - ["PatchGuard Internals"][1092]
 - ["Pwn2Own Ireland 2024: Canon imageCLASS MF656Cdw"][1104]
+- ["Pwn2Own Ireland 2024 – Ubiquiti AI Bullet"][1117]
 - ["Python Dirty Arbitrary File Write to RCE via Writing Shared Object Files Or Overwriting Bytecode Files"][1087]
 - ["Recovering Metadata from .NET Native AOT Binaries"][1089]
 - ["Reliable system call interception"][1010]
@@ -2407,3 +2408,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1114]: https://pt-phdays.storage.yandexcloud.net/Yashnikov_Valerij_Obhod_sredstv_zashhity_yadra_Linux_pri_perehvate_potoka_upravleniya_compressed_373ea39bd6.pdf
 [1115]: https://labs.watchtowr.com/how-much-more-must-we-bleed-citrix-netscaler-memory-disclosure-citrixbleed-2-cve-2025-5777/
 [1116]: https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html
+[1117]: https://blog.compass-security.com/2025/06/pwn2own-ireland-2024-ubiquiti-ai-bullet/
