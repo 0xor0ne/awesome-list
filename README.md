@@ -46,9 +46,10 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Control Flow Hijacking in the Linux Kernel"][1114]
 - ["Control Flow Hijacking via Data Pointers"][1085]
 - ["Cross Cache Attack CheetSheet"][1006]
+- ["CVE-2023-52927 - Turning a Forgotten Syzkaller Report into kCTF Exploit"][1118]
+- ["CVE-2024-53141: an OOB Write Vulnerability in Netfiler Ipset"][1065]
 - ["CVE-2025-23016 - EXPLOITING THE FASTCGI LIBRARY"][1086]
 - ["CVE-2025-37752 Two Bytes Of Madness: Pwning The Linux Kernel With A 0x0000 Written 262636 Bytes Out-Of-Bounds"][1076]
-- ["CVE-2024-53141: an OOB Write Vulnerability in Netfiler Ipset"][1065]
 - ["Defeating String Obfuscation in Obfuscated NodeJS Malware using AST"][1068]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
 - ["Dissecting the macOS 'AppleProcessHub' Stealer: Technical Analysis of a Multi-Stage Attack"][1047]
@@ -2409,3 +2410,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1115]: https://labs.watchtowr.com/how-much-more-must-we-bleed-citrix-netscaler-memory-disclosure-citrixbleed-2-cve-2025-5777/
 [1116]: https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html
 [1117]: https://blog.compass-security.com/2025/06/pwn2own-ireland-2024-ubiquiti-ai-bullet/
+[1118]: https://seadragnol.github.io/posts/CVE-2023-52927/
