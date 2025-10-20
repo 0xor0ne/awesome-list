@@ -59,6 +59,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["Exploiting CVE-2024-0582 via the Dirty Pagetable Method"][1081]
 - ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
+- ["Exploiting Heroes of Might and Magic V"][1119]
 - ["FiberGateway GR241AG - Full Exploit Chain"][1097]
 - ["First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)"][1058]
 - ["FLOP: Breaking the Apple M3 CPU via False Load Output Predictions"][1059]
@@ -2411,3 +2412,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1116]: https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html
 [1117]: https://blog.compass-security.com/2025/06/pwn2own-ireland-2024-ubiquiti-ai-bullet/
 [1118]: https://seadragnol.github.io/posts/CVE-2023-52927/
+[1119]: https://www.synacktiv.com/en/publications/exploiting-heroes-of-might-and-magic-v
