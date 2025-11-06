@@ -53,6 +53,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Defeating String Obfuscation in Obfuscated NodeJS Malware using AST"][1068]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
 - ["Dissecting the macOS 'AppleProcessHub' Stealer: Technical Analysis of a Multi-Stage Attack"][1047]
+- ["EL3vated Privileges: Glitching Google WiFi Pro from Root to EL3"][1121]
 - ["Emulating an iPhone in QEMU"][1051]
 - ["Endless Exploits: The Saga of a macOS Vulnerability Struck Nine Times"][1052]
 - ["Exploitation of AIxCC Nginx bugs: Part I"][1035]
@@ -2415,3 +2416,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1118]: https://seadragnol.github.io/posts/CVE-2023-52927/
 [1119]: https://www.synacktiv.com/en/publications/exploiting-heroes-of-might-and-magic-v
 [1120]: https://raelize.com/upload/research/2025/Dartmouth_202505_False-Injections-Tales-of-Physics-Misconceptions-and-Weird-Machines_v1.1.pdf
+[1121]: https://raelize.com/upload/research/2025/Hw_io-USA-2025_EL3vated-Privileges-Glitching-Google-Wifi-Pro-from-Root-to-EL3_v1.0.pdf
