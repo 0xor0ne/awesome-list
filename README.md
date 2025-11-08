@@ -59,6 +59,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Exploitation of AIxCC Nginx bugs: Part I"][1035]
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["Exploiting CVE-2024-0582 via the Dirty Pagetable Method"][1081]
+- ["Exploiting the Synology TC500 at Pwn2Own Ireland 2024"][1122]
 - ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
 - ["Exploiting Heroes of Might and Magic V"][1119]
 - ["False Injections: Tales of Physics, Misconceptions and Weird Machines"][1120]
@@ -2417,3 +2418,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1119]: https://www.synacktiv.com/en/publications/exploiting-heroes-of-might-and-magic-v
 [1120]: https://raelize.com/upload/research/2025/Dartmouth_202505_False-Injections-Tales-of-Physics-Misconceptions-and-Weird-Machines_v1.1.pdf
 [1121]: https://raelize.com/upload/research/2025/Hw_io-USA-2025_EL3vated-Privileges-Glitching-Google-Wifi-Pro-from-Root-to-EL3_v1.0.pdf
+[1122]: https://blog.infosectcbr.com.au/2025/08/01/exploiting-the-synology-tc500-at-pwn2own-ireland-2024/
