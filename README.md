@@ -37,6 +37,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Best practices for key derivation"][1023]
 - ["Blasting Past iOS 18"][1038]
 - ["Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages"][1039]
+- ["Buried in the Log. Exploiting a 20 years old NTFS Vulnerability"][1124]
 - ["Bypassing disk encryption on systems with automatic TPM2 unlock"][1018]
 - ["Bypassing MTE with CVE-2025-0072"][1105]
 - ["Case Study: Analyzing macOS IONVMeFamily Driver Denial of Service Issue"][1040]
@@ -50,6 +51,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["CVE-2024-53141: an OOB Write Vulnerability in Netfiler Ipset"][1065]
 - ["CVE-2025-23016 - EXPLOITING THE FASTCGI LIBRARY"][1086]
 - ["CVE-2025-37752 Two Bytes Of Madness: Pwning The Linux Kernel With A 0x0000 Written 262636 Bytes Out-Of-Bounds"][1076]
+- ["Debugging the Pixel 8 kernel via KGDB"][1123]
 - ["Defeating String Obfuscation in Obfuscated NodeJS Malware using AST"][1068]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
 - ["Dissecting the macOS 'AppleProcessHub' Stealer: Technical Analysis of a Multi-Stage Attack"][1047]
@@ -2419,3 +2421,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1120]: https://raelize.com/upload/research/2025/Dartmouth_202505_False-Injections-Tales-of-Physics-Misconceptions-and-Weird-Machines_v1.1.pdf
 [1121]: https://raelize.com/upload/research/2025/Hw_io-USA-2025_EL3vated-Privileges-Glitching-Google-Wifi-Pro-from-Root-to-EL3_v1.0.pdf
 [1122]: https://blog.infosectcbr.com.au/2025/08/01/exploiting-the-synology-tc500-at-pwn2own-ireland-2024/
+[1123]: https://xairy.io/articles/pixel-kgdb
+[1124]: https://swarm.ptsecurity.com/buried-in-the-log-exploiting-a-20-years-old-ntfs-vulnerability/
