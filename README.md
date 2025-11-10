@@ -36,6 +36,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - ["Part 2 - The Present"][1102]
 - ["Best practices for key derivation"][1023]
 - ["Blasting Past iOS 18"][1038]
+- ["Breaking Disassembly — Abusing symbol resolution in Linux programs to obfuscate library calls"][1125]
 - ["Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages"][1039]
 - ["Buried in the Log. Exploiting a 20 years old NTFS Vulnerability"][1124]
 - ["Bypassing disk encryption on systems with automatic TPM2 unlock"][1018]
@@ -2423,3 +2424,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1122]: https://blog.infosectcbr.com.au/2025/08/01/exploiting-the-synology-tc500-at-pwn2own-ireland-2024/
 [1123]: https://xairy.io/articles/pixel-kgdb
 [1124]: https://swarm.ptsecurity.com/buried-in-the-log-exploiting-a-20-years-old-ntfs-vulnerability/
+[1125]: https://blog.elmo.sg/posts/breaking-disassembly-through-symbol-resolution/
