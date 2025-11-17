@@ -99,6 +99,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Mali-cious Intent: Exploiting GPU Vulnerabilities (CVE-2022-22706 / CVE-2021-39793)"][1050]
 - ["MCTF 2025 - Write-up Sec Mem - Pwn"][1080]
 - ["Mindshare: Using Binary Ninja API to Detect Potential Use-after-free Vulnerabilities"][1069]
+- ["Modern (Kernel) Low Fragmentation Heap Exploitation"][1227]
 - ["My Emulation Goes to the Moon... Until False Flag"][1094]
 - ["NASA cFS version Aquila Software Vulnerability Assessment"][1056]
 - ["Overview of Map Exploitation in v8"][1075]
@@ -120,6 +121,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["RV130X Firmware Analysis"][1025]
 - ["SLAP: Data Speculation Attacks via Load Address Prediction on Apple Silicon"][1060]
 - ["smoltalk: RCE in Open Source Agents"][1045]
+- ["Solo: A Pixel 6 Pro Story (When one bug is all you need)"][1128]
 - ["SoK: Security of EMV Contactless Payment Systems"][1088]
 - ["Sound and Efficient Generation of Data-Oriented Exploits via Programming Language Synthesis"][1034]
 - ["State of Linux Snapshot Fuzzing"][1078]
@@ -131,6 +133,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 2][1063]
 - ["The Journey of Bypassing Ubuntu’s Unprivileged Namespace Restriction"][1116]
 - ["Tracing Back to the Source | SPTM Round 3"][1046]
+- ["Untangling the Knot: Breaking Access Control in Home Wireless Mesh Networks"][1126]
 - ["We are ARMed no more ROPpery Here"][1016]
 - ["When Good Kernel Defenses Go Bad: Reliable and Stable Kernel Exploits via Defense-Amplified TLB Side-Channel Leaks"][1067]
 - ["Writing a Ghidra processor module"][1064]
@@ -2425,3 +2428,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1123]: https://xairy.io/articles/pixel-kgdb
 [1124]: https://swarm.ptsecurity.com/buried-in-the-log-exploiting-a-20-years-old-ntfs-vulnerability/
 [1125]: https://blog.elmo.sg/posts/breaking-disassembly-through-symbol-resolution/
+[1126]: https://www.cs.ucr.edu/%7Ezhiyunq/pub/ccs24_wireless_mesh.pdf
+[1127]: https://r0keb.github.io/posts/Modern-(Kernel)-Low-Fragmentation-Heap-Exploitation/
+[1128]: https://starlabs.sg/blog/2025/06-solo-a-pixel-6-pro-story-when-one-bug-is-all-you-need/
