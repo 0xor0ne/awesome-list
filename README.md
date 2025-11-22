@@ -75,6 +75,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Hacking the XBox 360 Hypervisor"]
   - [Part 1][1109]
   - [Part 2][1110]
+- ["Hacking Sonoff Smart Home IoT Device - Extract, Modify, Boot, Intercept, Clone!"][1129]
 - ["How I ruined my vacation by reverse engineering WSC"][1077]
 - ["How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation"][1090]
 - ["How Much More Must We Bleed? - Citrix NetScaler Memory Disclosure (CitrixBleed 2 CVE-2025-5777)"][1115]
@@ -117,6 +118,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Reversing the QardioArm"][1048]
 - ["Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch"][1071]
 - ["Root Shell on Credit Card Terminal"][1112]
+- ["Rooting the TP-Link Tapo C200 Rev.5"][1130]
 - ["ROPing our way to RCE"][1028]
 - ["RV130X Firmware Analysis"][1025]
 - ["SLAP: Data Speculation Attacks via Load Address Prediction on Apple Silicon"][1060]
@@ -2431,3 +2433,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1126]: https://www.cs.ucr.edu/%7Ezhiyunq/pub/ccs24_wireless_mesh.pdf
 [1127]: https://r0keb.github.io/posts/Modern-(Kernel)-Low-Fragmentation-Heap-Exploitation/
 [1128]: https://starlabs.sg/blog/2025/06-solo-a-pixel-6-pro-story-when-one-bug-is-all-you-need/
+[1129]: https://jerinsunny.github.io/blogs/iotsecurity/2025/01/03/sonoff-firmware-extraction.html
+[1130]: https://quentinkaiser.be/security/2025/07/25/rooting-tapo-c200/
