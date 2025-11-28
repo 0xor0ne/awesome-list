@@ -29,6 +29,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Accidentally Uncovering a Seven Years Old Vulnerability in the Linux Kernel"][1021]
 - ["Analyzing IOS Kernel Panic Logs"][1037]
 - ["Android: Scudo"][1070]
+- ["Attacking GenAI applications and LLMs – Sometimes all it takes is to ask nicely!"][1132]
 - ["Attention, High Voltage: Exploring the Attack Surface of the Rockwell Automation PowerMonitor 1000"][1106]
 - ["Being Overlord on the Steam Deck with 1 Byte"][1044]
 - "BPFDoor"
@@ -71,6 +72,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["FLOP: Breaking the Apple M3 CPU via False Load Output Predictions"][1059]
 - ["Game Hacking - Valve Anti-Cheat (VAC)"][1074]
 - ["Gone in 5 Seconds: How WARN_ON Stole 10 Minutes"][1103]
+- ["Google CTF 2025 Quals Writeup"][1131]
 - ["Hack The Emulated Planet: Vulnerability Hunting on Planet WGS-804HPT Industrial Switches"][1031]
 - ["Hacking the XBox 360 Hypervisor"]
   - [Part 1][1109]
@@ -100,7 +102,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Mali-cious Intent: Exploiting GPU Vulnerabilities (CVE-2022-22706 / CVE-2021-39793)"][1050]
 - ["MCTF 2025 - Write-up Sec Mem - Pwn"][1080]
 - ["Mindshare: Using Binary Ninja API to Detect Potential Use-after-free Vulnerabilities"][1069]
-- ["Modern (Kernel) Low Fragmentation Heap Exploitation"][1227]
+- ["Modern (Kernel) Low Fragmentation Heap Exploitation"][1127]
 - ["My Emulation Goes to the Moon... Until False Flag"][1094]
 - ["NASA cFS version Aquila Software Vulnerability Assessment"][1056]
 - ["Overview of Map Exploitation in v8"][1075]
@@ -2435,3 +2437,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1128]: https://starlabs.sg/blog/2025/06-solo-a-pixel-6-pro-story-when-one-bug-is-all-you-need/
 [1129]: https://jerinsunny.github.io/blogs/iotsecurity/2025/01/03/sonoff-firmware-extraction.html
 [1130]: https://quentinkaiser.be/security/2025/07/25/rooting-tapo-c200/
+[1131]: https://mystiz.hk/posts/2025/2025-06-30-google-ctf/
+[1132]: https://hnsecurity.it/blog/attacking-genai-applications-and-llms-sometimes-all-it-takes-is-to-ask-nicely/
