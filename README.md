@@ -110,6 +110,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["PatchGuard Internals"][1092]
 - ["Pwn2Own Ireland 2024: Canon imageCLASS MF656Cdw"][1104]
 - ["Pwn2Own Ireland 2024 – Ubiquiti AI Bullet"][1117]
+- ["pyghidra-mcp: Headless Ghidra MCP Server for Project-Wide, Multi-Binary Analysis"][1134]
 - ["Python Dirty Arbitrary File Write to RCE via Writing Shared Object Files Or Overwriting Bytecode Files"][1087]
 - ["Recovering Metadata from .NET Native AOT Binaries"][1089]
 - ["Reliable system call interception"][1010]
@@ -138,6 +139,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["The Journey of Bypassing Ubuntu’s Unprivileged Namespace Restriction"][1116]
 - ["Tracing Back to the Source | SPTM Round 3"][1046]
 - ["Untangling the Knot: Breaking Access Control in Home Wireless Mesh Networks"][1126]
+  - ["Use-After-Free Vulnerability in the Can BCM Subsystem Leading to Information Disclosure (CVE-2023-52922)"][1133]
 - ["We are ARMed no more ROPpery Here"][1016]
 - ["When Good Kernel Defenses Go Bad: Reliable and Stable Kernel Exploits via Defense-Amplified TLB Side-Channel Leaks"][1067]
 - ["Writing a Ghidra processor module"][1064]
@@ -2439,3 +2441,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1130]: https://quentinkaiser.be/security/2025/07/25/rooting-tapo-c200/
 [1131]: https://mystiz.hk/posts/2025/2025-06-30-google-ctf/
 [1132]: https://hnsecurity.it/blog/attacking-genai-applications-and-llms-sometimes-all-it-takes-is-to-ask-nicely/
+[1133]: https://allelesecurity.com/uaf-can-bcm/
+[1134]: https://clearbluejar.github.io/posts/pyghidra-mcp-headless-ghidra-mcp-server-for-project-wide-multi-binary-analysis/
