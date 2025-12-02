@@ -1,4 +1,4 @@
-# My Awesome Cybersecurity List
+# Awesome Cybersecurity List
 
 My personal collection of awesome blog posts, write-ups, and papers focusing on cybersecurity.
 
@@ -108,10 +108,12 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Overview of Map Exploitation in v8"][1075]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
 - ["PatchGuard Internals"][1092]
+- ["Print Scan Hacks: Identifying multiple vulnerabilities acro ss multiple Brother devices"][1136]
 - ["Pwn2Own Ireland 2024: Canon imageCLASS MF656Cdw"][1104]
 - ["Pwn2Own Ireland 2024 – Ubiquiti AI Bullet"][1117]
 - ["pyghidra-mcp: Headless Ghidra MCP Server for Project-Wide, Multi-Binary Analysis"][1134]
 - ["Python Dirty Arbitrary File Write to RCE via Writing Shared Object Files Or Overwriting Bytecode Files"][1087]
+- ["Qualcomm DSP Kernel Internals"][1135]
 - ["Recovering Metadata from .NET Native AOT Binaries"][1089]
 - ["Reliable system call interception"][1010]
 - ["Replacing a Space Heater Firmware Over WiFi"][1020]
@@ -2443,3 +2445,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1132]: https://hnsecurity.it/blog/attacking-genai-applications-and-llms-sometimes-all-it-takes-is-to-ask-nicely/
 [1133]: https://allelesecurity.com/uaf-can-bcm/
 [1134]: https://clearbluejar.github.io/posts/pyghidra-mcp-headless-ghidra-mcp-server-for-project-wide-multi-binary-analysis/
+[1135]: https://streypaws.github.io/posts/DSP-Kernel-Internals/
+[1136]: https://assets.contentstack.io/v3/assets/blte4f029e766e6b253/blt6495b3c6adf2867f/685aa980a26c5e2b1026969c/vulnerability-disclosure-whitepaper.pdf
