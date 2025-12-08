@@ -29,6 +29,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Accidentally Uncovering a Seven Years Old Vulnerability in the Linux Kernel"][1021]
 - ["Analyzing IOS Kernel Panic Logs"][1037]
 - ["Android: Scudo"][1070]
+- ["APPROTECT Bypass on NRF52832"][1139]
 - ["Attacking GenAI applications and LLMs – Sometimes all it takes is to ask nicely!"][1132]
 - ["Attention, High Voltage: Exploring the Attack Surface of the Rockwell Automation PowerMonitor 1000"][1106]
 - ["Being Overlord on the Steam Deck with 1 Byte"][1044]
@@ -37,6 +38,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - ["Part 2 - The Present"][1102]
 - ["Best practices for key derivation"][1023]
 - ["Blasting Past iOS 18"][1038]
+- ["Booting into Breaches Hunting Windows SecureBoot's Remote Attack Surfaces"][1138]
 - ["Breaking Disassembly — Abusing symbol resolution in Linux programs to obfuscate library calls"][1125]
 - ["Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages"][1039]
 - ["Buried in the Log. Exploiting a 20 years old NTFS Vulnerability"][1124]
@@ -95,6 +97,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["ksmbd vulnerability research"][1033]
 - ["Laser Fault Injection on a Budget: RP2350 Edition"][1017]
 - ["Last barrier destroyed, or compromise of Fuse Encryption Key for Intel Security Fuses"][1072]
+- ["Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5"][1137]
 - ["Linux Kernel Exploitation For Beginners"][1113]
 - ["Linux Kernel Hfsplus Slab-out-of-bounds Write"][1066]
 - ["Linux kernel Rust module for rootkit detection"][1026]
@@ -2447,3 +2450,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1134]: https://clearbluejar.github.io/posts/pyghidra-mcp-headless-ghidra-mcp-server-for-project-wide-multi-binary-analysis/
 [1135]: https://streypaws.github.io/posts/DSP-Kernel-Internals/
 [1136]: https://assets.contentstack.io/v3/assets/blte4f029e766e6b253/blt6495b3c6adf2867f/685aa980a26c5e2b1026969c/vulnerability-disclosure-whitepaper.pdf
+[1137]: https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5
+[1138]: https://i.blackhat.com/BH-USA-25/Presentations/US-25-Yang-Booting-into-breaches-Wednesday.pdf
+[1139]: https://www.matiassoler.com/posts/approtect_bypass_nrf52832/
