@@ -54,7 +54,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["CVE-2023-52927 - Turning a Forgotten Syzkaller Report into kCTF Exploit"][1118]
 - ["CVE-2024-53141: an OOB Write Vulnerability in Netfiler Ipset"][1065]
 - ["CVE-2025-23016 - EXPLOITING THE FASTCGI LIBRARY"][1086]
-- ["CVE-2025-37752 Two Bytes Of Madness: Pwning The Linux Kernel With A 0x0000 Written 262636 Bytes Out-Of-Bounds"][1076]
+- ["CVE-2025-37752 wo Bytes Of Madness: Pwning The Linux Kernel With A 0x0000 Written 262636 Bytes Out-Of-Bounds"][1076]
 - ["Debugging the Pixel 8 kernel via KGDB"][1123]
 - ["Defeating String Obfuscation in Obfuscated NodeJS Malware using AST"][1068]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
@@ -148,6 +148,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["We are ARMed no more ROPpery Here"][1016]
 - ["When Good Kernel Defenses Go Bad: Reliable and Stable Kernel Exploits via Defense-Amplified TLB Side-Channel Leaks"][1067]
 - ["Writing a Ghidra processor module"][1064]
+- ["You Already Have Our Personal Data, Take Our Phone Calls Too"][1140]
 - ["Zen and the Art of Microcode Hacking"][1027]
 
 ## 2024
@@ -2453,3 +2454,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1137]: https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5
 [1138]: https://i.blackhat.com/BH-USA-25/Presentations/US-25-Yang-Booting-into-breaches-Wednesday.pdf
 [1139]: https://www.matiassoler.com/posts/approtect_bypass_nrf52832/
+[1140]: https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/
