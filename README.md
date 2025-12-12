@@ -27,6 +27,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["A Quick Dive Into The Linux Kernel Page Allocator"][1098]
 - ["A Series of io_uring pbuf Vulnerabilities"][1083]
 - ["Accidentally Uncovering a Seven Years Old Vulnerability in the Linux Kernel"][1021]
+- ["All You Need Is MCP - LLMs Solving a DEF CON CTF Finals Challenge"][1142]
 - ["Analyzing IOS Kernel Panic Logs"][1037]
 - ["Android: Scudo"][1070]
 - ["APPROTECT Bypass on NRF52832"][1139]
@@ -65,6 +66,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Exploitation of AIxCC Nginx bugs: Part I"][1035]
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["Exploiting CVE-2024-0582 via the Dirty Pagetable Method"][1081]
+- ["Exploiting Retbleed in the real world"][1141]
 - ["Exploiting the Synology TC500 at Pwn2Own Ireland 2024"][1122]
 - ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
 - ["Exploiting Heroes of Might and Magic V"][1119]
@@ -2455,3 +2457,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1138]: https://i.blackhat.com/BH-USA-25/Presentations/US-25-Yang-Booting-into-breaches-Wednesday.pdf
 [1139]: https://www.matiassoler.com/posts/approtect_bypass_nrf52832/
 [1140]: https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/
+[1141]: https://bughunters.google.com/blog/6243730100977664/exploiting-retbleed-in-the-real-world
+[1142]: https://wilgibbs.com/blog/defcon-finals-mcp/
