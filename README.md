@@ -85,7 +85,10 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["How I ruined my vacation by reverse engineering WSC"][1077]
 - ["How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation"][1090]
 - ["How Much More Must We Bleed? - Citrix NetScaler Memory Disclosure (CitrixBleed 2 CVE-2025-5777)"][1115]
-- ["Hydroph0bia (CVE-2025-4275) - a fixed SecureBoot bypass for UEFI-compatible firmware based on Insyde H2O"][1108]
+- "Hydroph0bia (CVE-2025-4275)"
+  - ["a trivial SecureBoot bypass for UEFI-compatible firmware based on Insyde H2O"][1143]
+  - ["a bit more than just a trivial SecureBoot bypass for UEFI-compatible firmware based on Insyde H2O"][1144]
+  - ["a fixed SecureBoot bypass for UEFI-compatible firmware based on Insyde H2O"][1108]
 - ["Hypervisors for Memory Introspection and Reverse Engineering"][1099]
 - ["Kernel Exploitation Techniques: Turning The (Page) Tables"][1100]
 - ["Inside Riot Vanguard's Dispatch Table Hooks"][1073]
@@ -2459,3 +2462,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1140]: https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/
 [1141]: https://bughunters.google.com/blog/6243730100977664/exploiting-retbleed-in-the-real-world
 [1142]: https://wilgibbs.com/blog/defcon-finals-mcp/
+[1143]: https://coderush.me/hydroph0bia-part1/
+[1144]: https://coderush.me/hydroph0bia-part2/
