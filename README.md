@@ -38,6 +38,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - ["Part 1 - The Past"][1101]
   - ["Part 2 - The Present"][1102]
 - ["Best practices for key derivation"][1023]
+- ["Binder Fuzzing"][1146]
 - ["Blasting Past iOS 18"][1038]
 - ["Booting into Breaches Hunting Windows SecureBoot's Remote Attack Surfaces"][1138]
 - ["Breaking Disassembly — Abusing symbol resolution in Linux programs to obfuscate library calls"][1125]
@@ -82,6 +83,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 1][1109]
   - [Part 2][1110]
 - ["Hacking Sonoff Smart Home IoT Device - Extract, Modify, Boot, Intercept, Clone!"][1129]
+- ["HITCON CTF 2025 -- calc"][1145]
 - ["How I ruined my vacation by reverse engineering WSC"][1077]
 - ["How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation"][1090]
 - ["How Much More Must We Bleed? - Citrix NetScaler Memory Disclosure (CitrixBleed 2 CVE-2025-5777)"][1115]
@@ -2464,3 +2466,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1142]: https://wilgibbs.com/blog/defcon-finals-mcp/
 [1143]: https://coderush.me/hydroph0bia-part1/
 [1144]: https://coderush.me/hydroph0bia-part2/
+[1145]: https://bruce30262.github.io/hitcon-ctf-2025-calc/
+[1146]: https://androidoffsec.withgoogle.com/posts/binder-fuzzing/
