@@ -105,6 +105,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Laser Fault Injection on a Budget: RP2350 Edition"][1017]
 - ["Last barrier destroyed, or compromise of Fuse Encryption Key for Intel Security Fuses"][1072]
 - ["Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5"][1137]
+- ["Lifting Binaries, Part 0: Devirtualizing VMProtect and Themida: It's Just Flattening?"][1147]
 - ["Linux Kernel Exploitation For Beginners"][1113]
 - ["Linux Kernel Hfsplus Slab-out-of-bounds Write"][1066]
 - ["Linux kernel Rust module for rootkit detection"][1026]
@@ -115,6 +116,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Modern (Kernel) Low Fragmentation Heap Exploitation"][1127]
 - ["My Emulation Goes to the Moon... Until False Flag"][1094]
 - ["NASA cFS version Aquila Software Vulnerability Assessment"][1056]
+- ["Out-of-bound read in ANGLE CopyNativeVertexData from Compromised Renderer"][1148]
 - ["Overview of Map Exploitation in v8"][1075]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
 - ["PatchGuard Internals"][1092]
@@ -2468,3 +2470,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1144]: https://coderush.me/hydroph0bia-part2/
 [1145]: https://bruce30262.github.io/hitcon-ctf-2025-calc/
 [1146]: https://androidoffsec.withgoogle.com/posts/binder-fuzzing/
+[1147]: https://nac-l.github.io/2025/01/25/lifting_0.html
+[1148]: https://qriousec.github.io/post/oob-angle/
