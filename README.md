@@ -24,6 +24,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 ## 2025
 
 - ["A First Glimpse of the Starlink User Ternimal"][1084]
+- ["A Fuzzy Escape - A tale of vulnerability research on hypervisors"][1151]
 - ["A Quick Dive Into The Linux Kernel Page Allocator"][1098]
 - ["A Series of io_uring pbuf Vulnerabilities"][1083]
 - ["Accidentally Uncovering a Seven Years Old Vulnerability in the Linux Kernel"][1021]
@@ -54,6 +55,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Control Flow Hijacking via Data Pointers"][1085]
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["CVE-2023-52927 - Turning a Forgotten Syzkaller Report into kCTF Exploit"][1118]
+- ["CVE-2024-30088 Pwning Windows Kernel @ Pwn2Own Vancouver 2024 (Plus Xbox)"][1149]
 - ["CVE-2024-53141: an OOB Write Vulnerability in Netfiler Ipset"][1065]
 - ["CVE-2025-23016 - EXPLOITING THE FASTCGI LIBRARY"][1086]
 - ["CVE-2025-37752 wo Bytes Of Madness: Pwning The Linux Kernel With A 0x0000 Written 262636 Bytes Out-Of-Bounds"][1076]
@@ -143,6 +145,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Solo: A Pixel 6 Pro Story (When one bug is all you need)"][1128]
 - ["SoK: Security of EMV Contactless Payment Systems"][1088]
 - ["Sound and Efficient Generation of Data-Oriented Exploits via Programming Language Synthesis"][1034]
+- ["Stack Overflows, Heap Overflows, and Existential Dread"][1150]
 - ["State of Linux Snapshot Fuzzing"][1078]
 - ["STM32L05 Voltage Glitching"][1111]
 - ["Streaming Zero-Fi Shells to Your Smart Speaker"][1096]
@@ -2472,3 +2475,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1146]: https://androidoffsec.withgoogle.com/posts/binder-fuzzing/
 [1147]: https://nac-l.github.io/2025/01/25/lifting_0.html
 [1148]: https://qriousec.github.io/post/oob-angle/
+[1149]: https://exploits.forsale/pwn2own-2024/
+[1150]: https://labs.watchtowr.com/stack-overflows-heap-overflows-and-existential-dread-sonicwall-sma100-cve-2025-40596-cve-2025-40597-and-cve-2025-40598/
+[1151]: https://bughunters.google.com/blog/5800341475819520/a-fuzzy-escape-a-tale-of-vulnerability-research-on-hypervisors
