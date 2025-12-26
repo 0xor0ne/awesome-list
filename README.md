@@ -73,10 +73,12 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Exploiting the Synology TC500 at Pwn2Own Ireland 2024"][1122]
 - ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
 - ["Exploiting Heroes of Might and Magic V"][1119]
+- ["Extraction of Synology Encrypted Archives - Pwn2Own Ireland 2024"][1152]
 - ["False Injections: Tales of Physics, Misconceptions and Weird Machines"][1120]
 - ["FiberGateway GR241AG - Full Exploit Chain"][1097]
 - ["First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)"][1058]
 - ["FLOP: Breaking the Apple M3 CPU via False Load Output Predictions"][1059]
+- ["From Chrome renderer code exec to kernel with MSG_OOB"][1153]
 - ["Game Hacking - Valve Anti-Cheat (VAC)"][1074]
 - ["Gone in 5 Seconds: How WARN_ON Stole 10 Minutes"][1103]
 - ["Google CTF 2025 Quals Writeup"][1131]
@@ -118,6 +120,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Modern (Kernel) Low Fragmentation Heap Exploitation"][1127]
 - ["My Emulation Goes to the Moon... Until False Flag"][1094]
 - ["NASA cFS version Aquila Software Vulnerability Assessment"][1056]
+- ["nRF51 RBPCONF bypass for firmware dumping"][1154]
 - ["Out-of-bound read in ANGLE CopyNativeVertexData from Compromised Renderer"][1148]
 - ["Overview of Map Exploitation in v8"][1075]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
@@ -2478,3 +2481,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1149]: https://exploits.forsale/pwn2own-2024/
 [1150]: https://labs.watchtowr.com/stack-overflows-heap-overflows-and-existential-dread-sonicwall-sma100-cve-2025-40596-cve-2025-40597-and-cve-2025-40598/
 [1151]: https://bughunters.google.com/blog/5800341475819520/a-fuzzy-escape-a-tale-of-vulnerability-research-on-hypervisors
+[1152]: https://www.synacktiv.com/en/publications/extraction-of-synology-encrypted-archives-pwn2own-ireland-2024
+[1153]: https://projectzero.google/2025/08/from-chrome-renderer-code-exec-to-kernel.html?m=1
+[1154]: https://lessonsec.com/posts/nrf51-bypass/
