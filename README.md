@@ -63,6 +63,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Defeating String Obfuscation in Obfuscated NodeJS Malware using AST"][1068]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
 - ["Dissecting the macOS 'AppleProcessHub' Stealer: Technical Analysis of a Multi-Stage Attack"][1047]
+- ["Don’t Phish-let Me Down: FIDO Authentication Downgrade"][1155]
 - ["EL3vated Privileges: Glitching Google WiFi Pro from Root to EL3"][1121]
 - ["Emulating an iPhone in QEMU"][1051]
 - ["Endless Exploits: The Saga of a macOS Vulnerability Struck Nine Times"][1052]
@@ -161,6 +162,9 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Untangling the Knot: Breaking Access Control in Home Wireless Mesh Networks"][1126]
   - ["Use-After-Free Vulnerability in the Can BCM Subsystem Leading to Information Disclosure (CVE-2023-52922)"][1133]
 - ["We are ARMed no more ROPpery Here"][1016]
+- "When a Wi-Fi SSID Gives You Root on an MT02 Repeater"
+  - [Part 1][1156]
+  - [Part 2][1157]
 - ["When Good Kernel Defenses Go Bad: Reliable and Stable Kernel Exploits via Defense-Amplified TLB Side-Channel Leaks"][1067]
 - ["Writing a Ghidra processor module"][1064]
 - ["You Already Have Our Personal Data, Take Our Phone Calls Too"][1140]
@@ -2484,3 +2488,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1152]: https://www.synacktiv.com/en/publications/extraction-of-synology-encrypted-archives-pwn2own-ireland-2024
 [1153]: https://projectzero.google/2025/08/from-chrome-renderer-code-exec-to-kernel.html?m=1
 [1154]: https://lessonsec.com/posts/nrf51-bypass/
+[1155]: https://www.proofpoint.com/us/blog/threat-insight/dont-phish-let-me-down-fido-authentication-downgrade
+[1156]: https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root/
+[1157]: https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root-part-two/
