@@ -159,6 +159,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 2][1063]
 - ["The Journey of Bypassing Ubuntu’s Unprivileged Namespace Restriction"][1116]
 - ["Tracing Back to the Source | SPTM Round 3"][1046]
+- ["Turning Camera Surveillance on its Axis"][1158]
 - ["Untangling the Knot: Breaking Access Control in Home Wireless Mesh Networks"][1126]
   - ["Use-After-Free Vulnerability in the Can BCM Subsystem Leading to Information Disclosure (CVE-2023-52922)"][1133]
 - ["We are ARMed no more ROPpery Here"][1016]
@@ -1310,6 +1311,7 @@ exploit"][392]
 - ["mjsxj09cm Recovering Firmware And Backdooring"][62]
 - ["Offensive security (0xtriboulet)"][405]
 - ["Operating System development tutorials in Rust on the Raspberry Pi"][357]
+- ["parking-game-fuzzer"][1159]
 - ["Practical Cryprography for Developers"][785]
 - [Red-Team-Infrastructure-Wiki][498]
 - ["Reverse Engineering For Everyone!"][399]
@@ -2491,3 +2493,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1155]: https://www.proofpoint.com/us/blog/threat-insight/dont-phish-let-me-down-fido-authentication-downgrade
 [1156]: https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root/
 [1157]: https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root-part-two/
+[1158]: https://claroty.com/team82/research/turning-camera-surveillance-on-its-axis
+[1159]: https://github.com/addisoncrump/parking-game-fuzzer
