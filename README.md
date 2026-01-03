@@ -132,6 +132,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["pyghidra-mcp: Headless Ghidra MCP Server for Project-Wide, Multi-Binary Analysis"][1134]
 - ["Python Dirty Arbitrary File Write to RCE via Writing Shared Object Files Or Overwriting Bytecode Files"][1087]
 - ["Qualcomm DSP Kernel Internals"][1135]
+- ["Race Against Time in the Kernel’s Clockwork"][1160]
 - ["Recovering Metadata from .NET Native AOT Binaries"][1089]
 - ["Reliable system call interception"][1010]
 - ["Replacing a Space Heater Firmware Over WiFi"][1020]
@@ -161,7 +162,8 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Tracing Back to the Source | SPTM Round 3"][1046]
 - ["Turning Camera Surveillance on its Axis"][1158]
 - ["Untangling the Knot: Breaking Access Control in Home Wireless Mesh Networks"][1126]
-  - ["Use-After-Free Vulnerability in the Can BCM Subsystem Leading to Information Disclosure (CVE-2023-52922)"][1133]
+- ["Use-After-Free Vulnerability in the Can BCM Subsystem Leading to Information Disclosure (CVE-2023-52922)"][1133]
+- ["VMware Workstation guest-to-host escape"][1161]
 - ["We are ARMed no more ROPpery Here"][1016]
 - "When a Wi-Fi SSID Gives You Root on an MT02 Repeater"
   - [Part 1][1156]
@@ -2495,3 +2497,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1157]: https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root-part-two/
 [1158]: https://claroty.com/team82/research/turning-camera-surveillance-on-its-axis
 [1159]: https://github.com/addisoncrump/parking-game-fuzzer
+[1160]: https://streypaws.github.io/posts/Race-Against-Time-in-the-Kernel-Clockwork/
+[1161]: https://www.nccgroup.com/media/b2chcbti/vmware-workstation-guest-to-host-escape.pdf
