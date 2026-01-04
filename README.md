@@ -59,6 +59,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["CVE-2024-53141: an OOB Write Vulnerability in Netfiler Ipset"][1065]
 - ["CVE-2025-23016 - EXPLOITING THE FASTCGI LIBRARY"][1086]
 - ["CVE-2025-37752 wo Bytes Of Madness: Pwning The Linux Kernel With A 0x0000 Written 262636 Bytes Out-Of-Bounds"][1076]
+- ["CVE-2025-38001 Exploiting All Google kernelCTF Instances And Debian 12 With A 0-Day For $82k: An RBTree Family Drama"][1163]
 - ["Debugging the Pixel 8 kernel via KGDB"][1123]
 - ["Defeating String Obfuscation in Obfuscated NodeJS Malware using AST"][1068]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
@@ -79,6 +80,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["FiberGateway GR241AG - Full Exploit Chain"][1097]
 - ["First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)"][1058]
 - ["FLOP: Breaking the Apple M3 CPU via False Load Output Predictions"][1059]
+- ["Fundamental of Virtual Memory"][1162]
 - ["From Chrome renderer code exec to kernel with MSG_OOB"][1153]
 - ["Game Hacking - Valve Anti-Cheat (VAC)"][1074]
 - ["Gone in 5 Seconds: How WARN_ON Stole 10 Minutes"][1103]
@@ -2499,3 +2501,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1159]: https://github.com/addisoncrump/parking-game-fuzzer
 [1160]: https://streypaws.github.io/posts/Race-Against-Time-in-the-Kernel-Clockwork/
 [1161]: https://www.nccgroup.com/media/b2chcbti/vmware-workstation-guest-to-host-escape.pdf
+[1162]: https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html
+[1163]: https://syst3mfailure.io/rbtree-family-drama/
