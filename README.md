@@ -73,8 +73,9 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Exploiting CVE-2024-0582 via the Dirty Pagetable Method"][1081]
 - ["Exploiting Retbleed in the real world"][1141]
 - ["Exploiting the Synology TC500 at Pwn2Own Ireland 2024"][1122]
-- ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
+- ["Exploiting Zero-Day (CVE-2025–9961) Vulnerability in the TP-Link AX10 Router"][1164]
 - ["Exploiting Heroes of Might and Magic V"][1119]
+- ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
 - ["Extraction of Synology Encrypted Archives - Pwn2Own Ireland 2024"][1152]
 - ["False Injections: Tales of Physics, Misconceptions and Weird Machines"][1120]
 - ["FiberGateway GR241AG - Full Exploit Chain"][1097]
@@ -2503,3 +2504,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1161]: https://www.nccgroup.com/media/b2chcbti/vmware-workstation-guest-to-host-escape.pdf
 [1162]: https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html
 [1163]: https://syst3mfailure.io/rbtree-family-drama/
+[1164]: https://blog.byteray.co.uk/exploiting-zero-day-cve-2025-9961-in-the-tp-link-ax10-router-8745f9af9c46
