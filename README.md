@@ -62,6 +62,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["CVE-2025-38001 Exploiting All Google kernelCTF Instances And Debian 12 With A 0-Day For $82k: An RBTree Family Drama"][1163]
 - ["Debugging the Pixel 8 kernel via KGDB"][1123]
 - ["Defeating String Obfuscation in Obfuscated NodeJS Malware using AST"][1068]
+- ["Dirty Pageflags: Revisiting PTE Exploitation in Linux"][1166]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
 - ["Dissecting the macOS 'AppleProcessHub' Stealer: Technical Analysis of a Multi-Stage Attack"][1047]
 - ["Don’t Phish-let Me Down: FIDO Authentication Downgrade"][1155]
@@ -162,6 +163,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 1][1062]
   - [Part 2][1063]
 - ["The Journey of Bypassing Ubuntu’s Unprivileged Namespace Restriction"][1116]
+- ["TLS NoVerify: Bypass All The Things"][1165]
 - ["Tracing Back to the Source | SPTM Round 3"][1046]
 - ["Turning Camera Surveillance on its Axis"][1158]
 - ["Untangling the Knot: Breaking Access Control in Home Wireless Mesh Networks"][1126]
@@ -2505,3 +2507,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1162]: https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html
 [1163]: https://syst3mfailure.io/rbtree-family-drama/
 [1164]: https://blog.byteray.co.uk/exploiting-zero-day-cve-2025-9961-in-the-tp-link-ax10-router-8745f9af9c46
+[1165]: https://f0rw4rd.github.io/posts/tls-noverify-bypass-all-the-things/
+[1166]: https://ptr-yudai.hatenablog.com/entry/2025/09/14/180326
