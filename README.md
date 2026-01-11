@@ -53,6 +53,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["CimFS: Crashing in memory, Finding SYSTEM (Kernel Edition)"][1061]
 - ["Control Flow Hijacking in the Linux Kernel"][1114]
 - ["Control Flow Hijacking via Data Pointers"][1085]
+- ["corCTF 2025 - corphone"][1168]
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["CVE-2023-52927 - Turning a Forgotten Syzkaller Report into kCTF Exploit"][1118]
 - ["CVE-2024-30088 Pwning Windows Kernel @ Pwn2Own Vancouver 2024 (Plus Xbox)"][1149]
@@ -76,6 +77,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Exploiting the Synology TC500 at Pwn2Own Ireland 2024"][1122]
 - ["Exploiting Zero-Day (CVE-2025–9961) Vulnerability in the TP-Link AX10 Router"][1164]
 - ["Exploiting Heroes of Might and Magic V"][1119]
+- ["Exploring Grapheneos Secure Allocator: Hardened Malloc"][1167]
 - ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
 - ["Extraction of Synology Encrypted Archives - Pwn2Own Ireland 2024"][1152]
 - ["False Injections: Tales of Physics, Misconceptions and Weird Machines"][1120]
@@ -2509,3 +2511,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1164]: https://blog.byteray.co.uk/exploiting-zero-day-cve-2025-9961-in-the-tp-link-ax10-router-8745f9af9c46
 [1165]: https://f0rw4rd.github.io/posts/tls-noverify-bypass-all-the-things/
 [1166]: https://ptr-yudai.hatenablog.com/entry/2025/09/14/180326
+[1167]: https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc
+[1168]: https://u1f383.github.io/android/2025/09/08/corCTF-2025-corphone.html
