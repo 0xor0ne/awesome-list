@@ -132,6 +132,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Overview of Map Exploitation in v8"][1075]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
 - ["PatchGuard Internals"][1092]
+- ["Phoenix: Rowhammer Attacks on DDR5 with Self-Correcting Synchronization"][1170]
 - ["Print Scan Hacks: Identifying multiple vulnerabilities acro ss multiple Brother devices"][1136]
 - ["Pwn2Own Ireland 2024: Canon imageCLASS MF656Cdw"][1104]
 - ["Pwn2Own Ireland 2024 – Ubiquiti AI Bullet"][1117]
@@ -1292,6 +1293,7 @@ exploit"][392]
 - [DhavalKapil/heap-exploitation][363]
 - [Diffing Portal][378]
 - [exploit_mitigations][526]
+- ["fenrir"][1169]
 - [Ghidriff - Ghidra Binary Diffing Engine][490]
 - ["Grand Theft Auto A peek of BLE relay attack"][433]
 - ["Hands-on Firmware Extraction, Exploration, and Emulation"][979]
@@ -2513,3 +2515,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1166]: https://ptr-yudai.hatenablog.com/entry/2025/09/14/180326
 [1167]: https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc
 [1168]: https://u1f383.github.io/android/2025/09/08/corCTF-2025-corphone.html
+[1169]: https://github.com/R0rt1z2/fenrir
+[1170]: https://comsec-files.ethz.ch/papers/phoenix_sp26.pdf
