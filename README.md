@@ -32,6 +32,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Analyzing IOS Kernel Panic Logs"][1037]
 - ["Android: Scudo"][1070]
 - ["APPROTECT Bypass on NRF52832"][1139]
+- ["APT28 Operation Phantom Net Voxel"][1171]
 - ["Attacking GenAI applications and LLMs – Sometimes all it takes is to ask nicely!"][1132]
 - ["Attention, High Voltage: Exploring the Attack Surface of the Rockwell Automation PowerMonitor 1000"][1106]
 - ["Being Overlord on the Steam Deck with 1 Byte"][1044]
@@ -79,6 +80,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Exploiting Heroes of Might and Magic V"][1119]
 - ["Exploring Grapheneos Secure Allocator: Hardened Malloc"][1167]
 - ["Exploring Heap Exploitation Mechanisms: Understanding the House of Force Technique"][1029]
+- ["Eternal-Tux: Crafting a Linux Kernel KSMBD 0-Click RCE Exploit from N-Days"][1172]
 - ["Extraction of Synology Encrypted Archives - Pwn2Own Ireland 2024"][1152]
 - ["False Injections: Tales of Physics, Misconceptions and Weird Machines"][1120]
 - ["FiberGateway GR241AG - Full Exploit Chain"][1097]
@@ -2517,3 +2519,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1168]: https://u1f383.github.io/android/2025/09/08/corCTF-2025-corphone.html
 [1169]: https://github.com/R0rt1z2/fenrir
 [1170]: https://comsec-files.ethz.ch/papers/phoenix_sp26.pdf
+[1171]: https://blog.sekoia.io/apt28-operation-phantom-net-voxel/
+[1172]: https://www.willsroot.io/2025/09/ksmbd-0-click.html
