@@ -29,6 +29,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["A Series of io_uring pbuf Vulnerabilities"][1083]
 - ["Accidentally Uncovering a Seven Years Old Vulnerability in the Linux Kernel"][1021]
 - ["All You Need Is MCP - LLMs Solving a DEF CON CTF Finals Challenge"][1142]
+- ["Analysing a 1-day Vulnerability in the Linux Kernel's TLS Subsystem"][1174]
 - ["Analyzing IOS Kernel Panic Logs"][1037]
 - ["Android: Scudo"][1070]
 - ["APPROTECT Bypass on NRF52832"][1139]
@@ -211,6 +212,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["ASLRn’t: How memory alignment broke library ASLR"][731]
 - ["Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties"][911]
 - ["Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938"][852]
+- ["Automotive Memory Protection Units: Uncovering Hidden Vulnerabilities"][1173]
 - "Base64 Beyond Encoding"
   - [Part 1][945]
   - [Part 2][946]
@@ -2521,3 +2523,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1170]: https://comsec-files.ethz.ch/papers/phoenix_sp26.pdf
 [1171]: https://blog.sekoia.io/apt28-operation-phantom-net-voxel/
 [1172]: https://www.willsroot.io/2025/09/ksmbd-0-click.html
+[1173]: https://plaxidityx.com/blog/blog-post/is-your-memory-protecteduncovering-hidden-vulnerabilities-in-automotive-mpu-mechanisms/
+[1174]: https://faith2dxy.xyz/2025-10-02/kCTF-TLS-nday-analysis/
