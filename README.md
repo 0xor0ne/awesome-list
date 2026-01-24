@@ -115,7 +115,10 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["kASLR Internals and Evolution"][1095]
 - ["Kernel-Hack-Drill: Environment For Developing Linux Kernel Exploits"][1082]
 - ["KernelSnitch: Side-Channel Attacks on Kernel Data Structures"][1005]
-- ["ksmbd vulnerability research"][1033]
+- ksmbd (doyensec):
+  - ["ksmbd vulnerability research"][1033]
+  - ["Fuzzing Improvements and Vulnerability Discovery"][1175]
+  - ["Exploiting CVE-2025-37947"][1176]
 - ["Laser Fault Injection on a Budget: RP2350 Edition"][1017]
 - ["Last barrier destroyed, or compromise of Fuse Encryption Key for Intel Security Fuses"][1072]
 - ["Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5"][1137]
@@ -124,6 +127,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Linux Kernel Hfsplus Slab-out-of-bounds Write"][1066]
 - ["Linux kernel Rust module for rootkit detection"][1026]
 - ["Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution"][1011]
+- ["LunoBotnet: A Self-Healing Linux Botnet with Modular DDoS and Cryptojacking Capabilities"][1177]
 - ["Mali-cious Intent: Exploiting GPU Vulnerabilities (CVE-2022-22706 / CVE-2021-39793)"][1050]
 - ["MCTF 2025 - Write-up Sec Mem - Pwn"][1080]
 - ["Mindshare: Using Binary Ninja API to Detect Potential Use-after-free Vulnerabilities"][1069]
@@ -137,6 +141,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["PatchGuard Internals"][1092]
 - ["Phoenix: Rowhammer Attacks on DDR5 with Self-Correcting Synchronization"][1170]
 - ["Print Scan Hacks: Identifying multiple vulnerabilities acro ss multiple Brother devices"][1136]
+- ["Project Rain:L1TF"][1178]
 - ["Pwn2Own Ireland 2024: Canon imageCLASS MF656Cdw"][1104]
 - ["Pwn2Own Ireland 2024 – Ubiquiti AI Bullet"][1117]
 - ["pyghidra-mcp: Headless Ghidra MCP Server for Project-Wide, Multi-Binary Analysis"][1134]
@@ -2525,3 +2530,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1172]: https://www.willsroot.io/2025/09/ksmbd-0-click.html
 [1173]: https://plaxidityx.com/blog/blog-post/is-your-memory-protecteduncovering-hidden-vulnerabilities-in-automotive-mpu-mechanisms/
 [1174]: https://faith2dxy.xyz/2025-10-02/kCTF-TLS-nday-analysis/
+[1175]: https://blog.doyensec.com/2025/09/02/ksmbd-2.html
+[1176]: https://blog.doyensec.com/2025/10/08/ksmbd-3.html
+[1177]: https://cyble.com/blog/lunobotnet-a-self-healing-linux-botnet/
+[1178]: https://bughunters.google.com/blog/project-rainl1tf
