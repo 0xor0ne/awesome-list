@@ -46,6 +46,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Booting into Breaches Hunting Windows SecureBoot's Remote Attack Surfaces"][1138]
 - ["Breaking Disassembly — Abusing symbol resolution in Linux programs to obfuscate library calls"][1125]
 - ["Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages"][1039]
+- ["Broken Trust: Fixed Supermicro BMC Bug Gains a New Life in Two New Vulnerabilities"][1179]
 - ["Buried in the Log. Exploiting a 20 years old NTFS Vulnerability"][1124]
 - ["Bypassing disk encryption on systems with automatic TPM2 unlock"][1018]
 - ["Bypassing MTE with CVE-2025-0072"][1105]
@@ -107,6 +108,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - ["a fixed SecureBoot bypass for UEFI-compatible firmware based on Insyde H2O"][1108]
 - ["Hypervisors for Memory Introspection and Reverse Engineering"][1099]
 - ["Kernel Exploitation Techniques: Turning The (Page) Tables"][1100]
+- ["Kernel-hack-drill and a new approach to exploiting CVE-2024-50264 in the Linux kernel"][1180]
 - ["Inside Riot Vanguard's Dispatch Table Hooks"][1073]
 - ["Intercepting HTTPS Communication in Flutter: Going Full Hardcore Mode with Frida"][1079]
 - "iOS 17: New Version, New Acronyms":
@@ -2534,3 +2536,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1176]: https://blog.doyensec.com/2025/10/08/ksmbd-3.html
 [1177]: https://cyble.com/blog/lunobotnet-a-self-healing-linux-botnet/
 [1178]: https://bughunters.google.com/blog/project-rainl1tf
+[1179]: https://www.binarly.io/blog/broken-trust-fixed-supermicro-bmc-bug-gains-a-new-life-in-two-new-vulnerabilities
+[1180]: https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html
