@@ -27,6 +27,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["A Fuzzy Escape - A tale of vulnerability research on hypervisors"][1151]
 - ["A Quick Dive Into The Linux Kernel Page Allocator"][1098]
 - ["A Series of io_uring pbuf Vulnerabilities"][1083]
+- ["A Tour of eBPF in the Linux Kernel: Observability, Security and Networking"][1181]
 - ["Accidentally Uncovering a Seven Years Old Vulnerability in the Linux Kernel"][1021]
 - ["All You Need Is MCP - LLMs Solving a DEF CON CTF Finals Challenge"][1142]
 - ["Analysing a 1-day Vulnerability in the Linux Kernel's TLS Subsystem"][1174]
@@ -85,6 +86,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Eternal-Tux: Crafting a Linux Kernel KSMBD 0-Click RCE Exploit from N-Days"][1172]
 - ["Extraction of Synology Encrypted Archives - Pwn2Own Ireland 2024"][1152]
 - ["False Injections: Tales of Physics, Misconceptions and Weird Machines"][1120]
+- ["Fast & Faulty - A Use After Free in KGSL Fault Handling"][1182]
 - ["FiberGateway GR241AG - Full Exploit Chain"][1097]
 - ["First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)"][1058]
 - ["FLOP: Breaking the Apple M3 CPU via False Load Output Predictions"][1059]
@@ -187,6 +189,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 1][1156]
   - [Part 2][1157]
 - ["When Good Kernel Defenses Go Bad: Reliable and Stable Kernel Exploits via Defense-Amplified TLB Side-Channel Leaks"][1067]
+- ["WireTap: Breaking Server SGX via DRAM Bus Interposition"][1183]
 - ["Writing a Ghidra processor module"][1064]
 - ["You Already Have Our Personal Data, Take Our Phone Calls Too"][1140]
 - ["Zen and the Art of Microcode Hacking"][1027]
@@ -2538,3 +2541,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1178]: https://bughunters.google.com/blog/project-rainl1tf
 [1179]: https://www.binarly.io/blog/broken-trust-fixed-supermicro-bmc-bug-gains-a-new-life-in-two-new-vulnerabilities
 [1180]: https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html
+[1181]: https://www.lucavall.in/blog/a-tour-of-ebpf-in-the-linux-kernel-observability-security-and-networking
+[1182]: https://streypaws.github.io/posts/Fast-and-Faulty-A-Use-After-Free-in-KGSL-Fault-Handling/
+[1183]: https://wiretap.fail
