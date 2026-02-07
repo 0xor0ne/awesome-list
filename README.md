@@ -67,6 +67,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["CVE-2025-38001 Exploiting All Google kernelCTF Instances And Debian 12 With A 0-Day For $82k: An RBTree Family Drama"][1163]
 - ["Debugging the Pixel 8 kernel via KGDB"][1123]
 - ["Defeating String Obfuscation in Obfuscated NodeJS Malware using AST"][1068]
+- ["Denial of Ruzzing: Rust in the Windows Kernel"][1185]
 - ["Dirty Pageflags: Revisiting PTE Exploitation in Linux"][1166]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
 - ["Dissecting the macOS 'AppleProcessHub' Stealer: Technical Analysis of a Multi-Stage Attack"][1047]
@@ -77,6 +78,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Exploitation of AIxCC Nginx bugs: Part I"][1035]
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["Exploiting CVE-2024-0582 via the Dirty Pagetable Method"][1081]
+- ["Exploiting CVE-2025-21479 on a Samsung S23"][1184]
 - ["Exploiting Retbleed in the real world"][1141]
 - ["Exploiting the Synology TC500 at Pwn2Own Ireland 2024"][1122]
 - ["Exploiting Zero-Day (CVE-2025–9961) Vulnerability in the TP-Link AX10 Router"][1164]
@@ -2544,3 +2546,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1181]: https://www.lucavall.in/blog/a-tour-of-ebpf-in-the-linux-kernel-observability-security-and-networking
 [1182]: https://streypaws.github.io/posts/Fast-and-Faulty-A-Use-After-Free-in-KGSL-Fault-Handling/
 [1183]: https://wiretap.fail
+[1184]: https://xploitbengineer.github.io/CVE-2025-21479
+[1185]: https://research.checkpoint.com/2025/denial-of-fuzzing-rust-in-the-windows-kernel/
