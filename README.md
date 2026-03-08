@@ -23,6 +23,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 ## 2025
 
+- ["A File Format Uncracked for 20 Years"][1202]
 - ["A First Glimpse of the Starlink User Ternimal"][1084]
 - ["A Fuzzy Escape - A tale of vulnerability research on hypervisors"][1151]
 - ["A modern tale of blinkenlights"][1200]
@@ -167,6 +168,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Reliable system call interception"][1010]
 - ["Replacing a Space Heater Firmware Over WiFi"][1020]
 - ["Reverse Engineering Hanwha Security Camera Firmware File Decryption with IDA Pro"][1093]
+- ["Reverse engineering Realtek RTL8761B* Bluetooth chips, to make better Bluetooth security tools & classes"][1201]
 - ["Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability — CVE-2024–54887"][1013]
 - ["Reversing Samsung's H-Arx Hypervisor Framework - Part 1"][1036]
 - ["Reversing the QardioArm"][1048]
@@ -2578,3 +2580,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1198]: https://spaceraccoon.dev/nokia-beacon-router-uart-command-injection/
 [1199]: https://hhj4ck.github.io/en/iris-wallet-security-teardown.html
 [1200]: https://blog.quarkslab.com/modern-tale-blinkenlights.html
+[1201]: https://darkmentor.com/publication/2025-11-hardweario/
+[1202]: https://landaire.net/a-file-format-uncracked-for-20-years/
