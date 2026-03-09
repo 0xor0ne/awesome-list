@@ -194,6 +194,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 2][1063]
 - ["The Journey of Bypassing Ubuntu’s Unprivileged Namespace Restriction"][1116]
 - ["TLS NoVerify: Bypass All The Things"][1165]
+- ["Tp-Link Router Deep Research"][1203]
 - ["Tracing Back to the Source | SPTM Round 3"][1046]
 - ["Turning Camera Surveillance on its Axis"][1158]
 - ["Untangling the Knot: Breaking Access Control in Home Wireless Mesh Networks"][1126]
@@ -206,6 +207,12 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["When Good Kernel Defenses Go Bad: Reliable and Stable Kernel Exploits via Defense-Amplified TLB Side-Channel Leaks"][1067]
 - ["Windows arm64 Internals: Deconstructing Pointer Authentication"][1190]
 - ["Windows Heap Exploitation - From Heap Overflow to Arbitrary R/W"][1195]
+- "Windows Inter Process Communication A Deep Dive Beyond the Surface"
+  - [Part 1][1204]
+  - [Part 1][1205]
+  - [Part 1][1206]
+  - [Part 1][1207]
+  - [Part 1][1208]
 - ["WireTap: Breaking Server SGX via DRAM Bus Interposition"][1183]
 - ["Writing a Ghidra processor module"][1064]
 - ["You Already Have Our Personal Data, Take Our Phone Calls Too"][1140]
@@ -2582,3 +2589,9 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1200]: https://blog.quarkslab.com/modern-tale-blinkenlights.html
 [1201]: https://darkmentor.com/publication/2025-11-hardweario/
 [1202]: https://landaire.net/a-file-format-uncracked-for-20-years/
+[1203]: https://r0keb.github.io/posts/Tp-Link-Router-Deep-Research/
+[1204]: https://sud0ru.ghost.io/windows-inter-process-communication-a-deep-dive-beyond-the-surface-part-1/
+[1205]: https://sud0ru.ghost.io/windows-inter-process-communication-a-deep-dive-beyond-the-surface-part-2/
+[1206]: https://sud0ru.ghost.io/windows-inter-process-communication-a-deep-dive-beyond-the-surface-part-3/
+[1207]: https://sud0ru.ghost.io/windows-inter-process-communication-a-deep-dive-beyond-the-surface-part-4/
+[1208]: https://sud0ru.ghost.io/windows-inter-process-communication-a-deep-dive-beyond-the-surface-part-5/
