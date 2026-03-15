@@ -53,6 +53,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Breaking Into a Brother (MFC-J1010DW): Three Security Flaws in a Seemingly Innocent Printer"][1196]
 - ["Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages"][1039]
 - ["Broken Trust: Fixed Supermicro BMC Bug Gains a New Life in Two New Vulnerabilities"][1179]
+- ["Bug Tamer: Turning Limited Heap Overflow into Full VMware Escape"][1209]
 - ["Buried in the Log. Exploiting a 20 years old NTFS Vulnerability"][1124]
 - ["Bypassing disk encryption on systems with automatic TPM2 unlock"][1018]
 - ["Bypassing MTE with CVE-2025-0072"][1105]
@@ -187,7 +188,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["State of Linux Snapshot Fuzzing"][1078]
 - ["STM32L05 Voltage Glitching"][1111]
 - ["Streaming Zero-Fi Shells to Your Smart Speaker"][1096]
-- ["System Register Hijacking: Compromising Kernel Integrity By Turning System Registers Against the System"][1196]
+- ["System Register Hijacking: Compromising Kernel Integrity By Turning System Registers Against the System"][1197]
 - ["The Art of Linux Kernel Rootkits"][1008]
 - "The Evolution of Dirty COW":
   - [Part 1][1062]
@@ -215,6 +216,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 1][1208]
 - ["WireTap: Breaking Server SGX via DRAM Bus Interposition"][1183]
 - ["Writing a Ghidra processor module"][1064]
+- ["yIKEs (WatchGuard Fireware OS IKEv2 Out-of-Bounds Write CVE-2025-9242)"][1210]
 - ["You Already Have Our Personal Data, Take Our Phone Calls Too"][1140]
 - ["Zen and the Art of Microcode Hacking"][1027]
 
@@ -2595,3 +2597,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1206]: https://sud0ru.ghost.io/windows-inter-process-communication-a-deep-dive-beyond-the-surface-part-3/
 [1207]: https://sud0ru.ghost.io/windows-inter-process-communication-a-deep-dive-beyond-the-surface-part-4/
 [1208]: https://sud0ru.ghost.io/windows-inter-process-communication-a-deep-dive-beyond-the-surface-part-5/
+[1209]: https://powerofcommunity.net/2025/slide/y-91b4d.pdf
+[1210]: https://labs.watchtowr.com/yikes-watchguard-fireware-os-ikev2-out-of-bounds-write-cve-2025-9242/
