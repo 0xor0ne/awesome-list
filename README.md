@@ -64,6 +64,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Control Flow Hijacking in the Linux Kernel"][1114]
 - ["Control Flow Hijacking via Data Pointers"][1085]
 - ["corCTF 2025 - corphone"][1168]
+- ["Cracking the Pixel 8: Exploiting the Undocumented DSP to Bypass MTE"][1212]
 - ["Cross Cache Attack CheetSheet"][1006]
 - ["CVE-2023-52927 - Turning a Forgotten Syzkaller Report into kCTF Exploit"][1118]
 - ["CVE-2024-30088 Pwning Windows Kernel @ Pwn2Own Vancouver 2024 (Plus Xbox)"][1149]
@@ -82,6 +83,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["EL3vated Privileges: Glitching Google WiFi Pro from Root to EL3"][1121]
 - ["Emulating an iPhone in QEMU"][1051]
 - ["Endless Exploits: The Saga of a macOS Vulnerability Struck Nine Times"][1052]
+- ["Exploit Development: Investigating Kernel Mode Shadow Stacks on Windows"][1211]
 - ["Exploitation of AIxCC Nginx bugs: Part I"][1035]
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
 - ["Exploiting CVE-2024-0582 via the Dirty Pagetable Method"][1081]
@@ -155,6 +157,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Overview of Map Exploitation in v8"][1075]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
 - ["PatchGuard Internals"][1092]
+- ["PerfektBlue Universal 1-click Exploit to Pwn Automotive Industry"][1213]
 - ["Phoenix: Rowhammer Attacks on DDR5 with Self-Correcting Synchronization"][1170]
 - ["Print Scan Hacks: Identifying multiple vulnerabilities acro ss multiple Brother devices"][1136]
 - ["Project Rain:L1TF"][1178]
@@ -2599,3 +2602,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1208]: https://sud0ru.ghost.io/windows-inter-process-communication-a-deep-dive-beyond-the-surface-part-5/
 [1209]: https://powerofcommunity.net/2025/slide/y-91b4d.pdf
 [1210]: https://labs.watchtowr.com/yikes-watchguard-fireware-os-ikev2-out-of-bounds-write-cve-2025-9242/
+[1211]: https://connormcgarr.github.io/km-shadow-stacks/
+[1212]: https://hitcon.org/2025/slides/b7635c13-282e-4673-8297-43ed3550b3d3.pdf
+[1213]: https://powerofcommunity.net/2025/slide/m-f2d1f.pdf
