@@ -104,6 +104,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Fundamental of Virtual Memory"][1162]
 - ["From Chrome renderer code exec to kernel with MSG_OOB"][1153]
 - ["Game Hacking - Valve Anti-Cheat (VAC)"][1074]
+- ["Ghost in the Controller: Abusing Supermicro BMC Firmware Verification"][1215]
 - ["Gone in 5 Seconds: How WARN_ON Stole 10 Minutes"][1103]
 - ["Google CTF 2025 Quals Writeup"][1131]
 - ["Hack The Emulated Planet: Vulnerability Hunting on Planet WGS-804HPT Industrial Switches"][1031]
@@ -193,6 +194,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Streaming Zero-Fi Shells to Your Smart Speaker"][1096]
 - ["System Register Hijacking: Compromising Kernel Integrity By Turning System Registers Against the System"][1197]
 - ["The Art of Linux Kernel Rootkits"][1008]
+- ["The cryptography behind electronic passports"][1213]
 - "The Evolution of Dirty COW":
   - [Part 1][1062]
   - [Part 2][1063]
@@ -2605,3 +2607,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1211]: https://connormcgarr.github.io/km-shadow-stacks/
 [1212]: https://hitcon.org/2025/slides/b7635c13-282e-4673-8297-43ed3550b3d3.pdf
 [1213]: https://powerofcommunity.net/2025/slide/m-f2d1f.pdf
+[1214]: https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/
+[1215]: https://www.binarly.io/blog/ghost-in-the-controller-abusing-supermicro-bmc-firmware-verification
