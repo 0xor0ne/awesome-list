@@ -51,6 +51,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Bootloader to Iris: A Security Teardown of a Hardware Wallet"][1199]
 - ["Breaking Disassembly — Abusing symbol resolution in Linux programs to obfuscate library calls"][1125]
 - ["Breaking Into a Brother (MFC-J1010DW): Three Security Flaws in a Seemingly Innocent Printer"][1196]
+- ["Rreaking the Beestation: Inside our Pwn2Own 2025 Exploit Journey"][1217]
 - ["Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages"][1039]
 - ["Broken Trust: Fixed Supermicro BMC Bug Gains a New Life in Two New Vulnerabilities"][1179]
 - ["Bug Tamer: Turning Limited Heap Overflow into Full VMware Escape"][1209]
@@ -156,6 +157,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Oops! It's a kernel stack use-after-free: Exploiting NVIDIA's GPU Linux drivers"][1186]
 - ["Out-of-bound read in ANGLE CopyNativeVertexData from Compromised Renderer"][1148]
 - ["Overview of Map Exploitation in v8"][1075]
+- ["Paint it Blue: Attacking the Bluetooth Stack"][1216]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
 - ["PatchGuard Internals"][1092]
 - ["PerfektBlue Universal 1-click Exploit to Pwn Automotive Industry"][1213]
@@ -2609,3 +2611,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1213]: https://powerofcommunity.net/2025/slide/m-f2d1f.pdf
 [1214]: https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/
 [1215]: https://www.binarly.io/blog/ghost-in-the-controller-abusing-supermicro-bmc-firmware-verification
+[1216]: https://www.synacktiv.com/en/publications/paint-it-blue-attacking-the-bluetooth-stack
+[1217]: https://www.synacktiv.com/en/publications/breaking-the-beestation-inside-our-pwn2own-2025-exploit-journey
