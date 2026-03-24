@@ -87,6 +87,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Exploit Development: Investigating Kernel Mode Shadow Stacks on Windows"][1211]
 - ["Exploitation of AIxCC Nginx bugs: Part I"][1035]
 - ["Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)"][1014]
+- ["Exploiting a 13-years old bug on QEMU"][1218]
 - ["Exploiting CVE-2024-0582 via the Dirty Pagetable Method"][1081]
 - ["Exploiting CVE-2025-21479 on a Samsung S23"][1184]
 - ["Exploiting Retbleed in the real world"][1141]
@@ -196,7 +197,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Streaming Zero-Fi Shells to Your Smart Speaker"][1096]
 - ["System Register Hijacking: Compromising Kernel Integrity By Turning System Registers Against the System"][1197]
 - ["The Art of Linux Kernel Rootkits"][1008]
-- ["The cryptography behind electronic passports"][1213]
+- ["The cryptography behind electronic passports"][1214]
 - "The Evolution of Dirty COW":
   - [Part 1][1062]
   - [Part 2][1063]
@@ -2613,3 +2614,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1215]: https://www.binarly.io/blog/ghost-in-the-controller-abusing-supermicro-bmc-firmware-verification
 [1216]: https://www.synacktiv.com/en/publications/paint-it-blue-attacking-the-bluetooth-stack
 [1217]: https://www.synacktiv.com/en/publications/breaking-the-beestation-inside-our-pwn2own-2025-exploit-journey
+[1218]: https://kqx.io/post/qemu-nday/
