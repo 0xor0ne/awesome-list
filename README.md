@@ -6,6 +6,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 ## Outline
 
+- [2026](#2026)
 - [2025](#2025)
 - [2024](#2024)
 - [2023](#2023)
@@ -20,6 +21,10 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - [2011](#2011)
 - [Misc](#misc)
 - [Other Lists](#other-lists)
+
+## 2026
+
+- ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
 
 ## 2025
 
@@ -2615,3 +2620,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1216]: https://www.synacktiv.com/en/publications/paint-it-blue-attacking-the-bluetooth-stack
 [1217]: https://www.synacktiv.com/en/publications/breaking-the-beestation-inside-our-pwn2own-2025-exploit-journey
 [1218]: https://kqx.io/post/qemu-nday/
+[1219]: https://spaceraccoon.dev/reverse-engineer-tapo-c260-tdp-v2/
