@@ -24,6 +24,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 ## 2026
 
+- ["Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC"][1223]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
 
 ## 2025
@@ -63,6 +64,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Buried in the Log. Exploiting a 20 years old NTFS Vulnerability"][1124]
 - ["Bypassing disk encryption on systems with automatic TPM2 unlock"][1018]
 - ["Bypassing MTE with CVE-2025-0072"][1105]
+- ["Callback hell: abusing callbacks, tail-calls, and proxy frames to obfuscate the stack"][1222]
 - ["Case Study: Analyzing macOS IONVMeFamily Driver Denial of Service Issue"][1040]
 - ["Case Study: IOMobileFramebuffer NULL Pointer Dereference"][1041]
 - ["Challenges and Pitfalls while Emulating Six Current Icelandic Household Routers"][1107]
@@ -153,7 +155,9 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Llama's Paradox - Delving deep into Llama.cpp and exploiting Llama.cpp's Heap Maze, from Heap-Overflow to Remote-Code Execution"][1011]
 - ["LunoBotnet: A Self-Healing Linux Botnet with Modular DDoS and Cryptojacking Capabilities"][1177]
 - ["Mali-cious Intent: Exploiting GPU Vulnerabilities (CVE-2022-22706 / CVE-2021-39793)"][1050]
+- ["Malware Just Got Its Free Passes Back!"][1221]
 - ["MCTF 2025 - Write-up Sec Mem - Pwn"][1080]
+- ["mediatek? more like media-rekt, amirite."][1220]
 - ["Mindshare: Using Binary Ninja API to Detect Potential Use-after-free Vulnerabilities"][1069]
 - ["Modern (Kernel) Low Fragmentation Heap Exploitation"][1127]
 - ["My Emulation Goes to the Moon... Until False Flag"][1094]
@@ -2621,3 +2625,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1217]: https://www.synacktiv.com/en/publications/breaking-the-beestation-inside-our-pwn2own-2025-exploit-journey
 [1218]: https://kqx.io/post/qemu-nday/
 [1219]: https://spaceraccoon.dev/reverse-engineer-tapo-c260-tdp-v2/
+[1220]: https://blog.coffinsec.com/0days/2025/12/15/more-like-mediarekt-amirite.html
+[1221]: https://klezvirus.github.io/posts/Moonwalk-plus-plus/
+[1222]: https://klezvirus.github.io/posts/Callback-Hell/
+[1223]: https://neodyme.io/en/blog/drone_hacking_part_1/#intro
