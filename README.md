@@ -80,6 +80,9 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["CVE-2025-23016 - EXPLOITING THE FASTCGI LIBRARY"][1086]
 - ["CVE-2025-37752 wo Bytes Of Madness: Pwning The Linux Kernel With A 0x0000 Written 262636 Bytes Out-Of-Bounds"][1076]
 - ["CVE-2025-38001 Exploiting All Google kernelCTF Instances And Debian 12 With A 0-Day For $82k: An RBTree Family Drama"][1163]
+- "CVE-2025-38352":
+  - ["In-the-wild Android Kernel Vulnerability Analysis + PoC"][1224]
+  - ["Extending The Race Window Without a Kernel Patch"][1225]
 - ["CVE-2025-6554: The (rabbit) Hole"][1188]
 - ["Debugging the Pixel 8 kernel via KGDB"][1123]
 - ["Defeating String Obfuscation in Obfuscated NodeJS Malware using AST"][1068]
@@ -2629,3 +2632,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1221]: https://klezvirus.github.io/posts/Moonwalk-plus-plus/
 [1222]: https://klezvirus.github.io/posts/Callback-Hell/
 [1223]: https://neodyme.io/en/blog/drone_hacking_part_1/#intro
+[1224]: https://faith2dxy.xyz/2025-12-22/cve_2025_38352_analysis/
+[1225]: https://faith2dxy.xyz/2025-12-24/cve_2025_38352_analysis_part_2/
