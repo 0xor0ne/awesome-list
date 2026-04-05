@@ -32,6 +32,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["A File Format Uncracked for 20 Years"][1202]
 - ["A First Glimpse of the Starlink User Ternimal"][1084]
 - ["A Fuzzy Escape - A tale of vulnerability research on hypervisors"][1151]
+- ["A look at an Android ITW DNG exploit"][1231]
 - ["A modern tale of blinkenlights"][1200]
 - ["A Quick Dive Into The Linux Kernel Page Allocator"][1098]
 - ["A Series of io_uring pbuf Vulnerabilities"][1083]
@@ -88,6 +89,8 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Defeating String Obfuscation in Obfuscated NodeJS Malware using AST"][1068]
 - ["Denial of Ruzzing: Rust in the Windows Kernel"][1185]
 - ["Dirty Pageflags: Revisiting PTE Exploitation in Linux"][1166]
+- ["DirtyPipe-CVE-2022-0847 (0xnull007"][1229]
+- ["DirtyPipe-CVE-2022-0847 (stdnoerr"][1230]
 - ["Disassembling a binary: linear sweep and recursive traversal"][1019]
 - ["Dissecting the macOS 'AppleProcessHub' Stealer: Technical Analysis of a Multi-Stage Attack"][1047]
 - ["Don’t Phish-let Me Down: FIDO Authentication Downgrade"][1155]
@@ -192,6 +195,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability — CVE-2024–54887"][1013]
 - ["Reversing Samsung's H-Arx Hypervisor Framework - Part 1"][1036]
 - ["Reversing the QardioArm"][1048]
+- ["Reviving Discarded Vulnerabilities: Exploiting Previously Unexploitable Linux Kernel Bugs Through Control Metadata Fields"][1226]
 - ["Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch"][1071]
 - ["Root Shell on Credit Card Terminal"][1112]
 - ["Rooting the TP-Link Tapo C200 Rev.5"][1130]
@@ -207,6 +211,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["State of Linux Snapshot Fuzzing"][1078]
 - ["STM32L05 Voltage Glitching"][1111]
 - ["Streaming Zero-Fi Shells to Your Smart Speaker"][1096]
+- ["Singularity: Deep Dive into a Modern Stealth Linux Kernel Rootkit"][1228]
 - ["System Register Hijacking: Compromising Kernel Integrity By Turning System Registers Against the System"][1197]
 - ["The Art of Linux Kernel Rootkits"][1008]
 - ["The cryptography behind electronic passports"][1214]
@@ -239,6 +244,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["yIKEs (WatchGuard Fireware OS IKEv2 Out-of-Bounds Write CVE-2025-9242)"][1210]
 - ["You Already Have Our Personal Data, Take Our Phone Calls Too"][1140]
 - ["Zen and the Art of Microcode Hacking"][1027]
+- ["Zyxel Router Vulnerability Research Zyxel DX3301-T0/EX3301-T0"][1227]
 
 ## 2024
 
@@ -2634,3 +2640,9 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1223]: https://neodyme.io/en/blog/drone_hacking_part_1/#intro
 [1224]: https://faith2dxy.xyz/2025-12-22/cve_2025_38352_analysis/
 [1225]: https://faith2dxy.xyz/2025-12-24/cve_2025_38352_analysis_part_2/
+[1226]: https://lujie.ac.cn/files/papers/MetaXploit.pdf
+[1227]: https://watchfulip.github.io/28-12-25/zyxel.html
+[1228]: https://blog.kyntra.io/Singularity-A-final-boss-linux-kernel-rootkit
+[1229]: https://0xnull007.github.io/posts/dirtypipe-cve-2022-0847
+[1230]: https://stdnoerr.blog/blog/DirtyPipe-CVE-2022-0847
+[1231]: https://projectzero.google/2025/12/android-itw-dng.html
