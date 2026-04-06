@@ -4,6 +4,7 @@ My personal collection of awesome blog posts, write-ups, and papers focusing on 
 
 For a deeper dive into cybersecurity-related tools, check out the dedicated **[Cybersecurity Tools](topics/tools_and_repos.md)** list.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including cybersecurity scanning, vulnerability assessment, and automated threat analysis. MIT licensed.
 ## Outline
 
 - [2026](#2026)
