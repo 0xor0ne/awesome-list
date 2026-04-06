@@ -25,6 +25,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 ## 2026
 
 - ["Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC"][1223]
+- ["Exploiting MediaTek's Download Agent"][1232]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
 
 ## 2025
@@ -2646,3 +2647,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1229]: https://0xnull007.github.io/posts/dirtypipe-cve-2022-0847
 [1230]: https://stdnoerr.blog/blog/DirtyPipe-CVE-2022-0847
 [1231]: https://projectzero.google/2025/12/android-itw-dng.html
+[1232]: https://blog.r0rt1z2.com/posts/exploiting-mediatek-datwo/
