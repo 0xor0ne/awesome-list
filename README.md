@@ -24,9 +24,11 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 ## 2026
 
+- ["CVE-2026-0714 TPM-sniffing LUKS Keys on an Embedded Device"][1235]
 - ["Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC"][1223]
 - ["Exploiting MediaTek's Download Agent"][1232]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
+- ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
 
 ## 2025
 
@@ -202,8 +204,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Rooting the TP-Link Tapo C200 Rev.5"][1130]
 - ["ROPing our way to RCE"][1028]
 - ["RV130X Firmware Analysis"][1025]
-- ["Security through Transparency: Tales from the RP2350 Hacking Challenge"][1187]
-- ["SLAP: Data Speculation Attacks via Load Address Prediction on Apple Silicon"][1060]
+
 - ["smoltalk: RCE in Open Source Agents"][1045]
 - ["Solo: A Pixel 6 Pro Story (When one bug is all you need)"][1128]
 - ["SoK: Security of EMV Contactless Payment Systems"][1088]
@@ -1186,6 +1187,7 @@ exploit"][392]
 - ["My RCE PoC walkthrough for (CVE-2021–21974) VMware ESXi OpenSLP heap-overflow vulnerability"][560]
 - ["New Linux Backdoor RedXOR Likely Operated by Chinese Nation-State Actor"][440]
 - ["New Old Bugs in the Linux Kernel"][305]
+- ["Practical Introduction to CodeQL"][1233]
 - ["Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug"]
 - ["Pwn2Own Tokyo 2020: Defeating the TP-link AC1750"][555]
 - ["Recovering a Full PEM Private key when Half of it is Redacted"][96]
@@ -2648,3 +2650,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1230]: https://stdnoerr.blog/blog/DirtyPipe-CVE-2022-0847
 [1231]: https://projectzero.google/2025/12/android-itw-dng.html
 [1232]: https://blog.r0rt1z2.com/posts/exploiting-mediatek-datwo/
+[1233]: https://jorgectf.github.io/blog/post/practical-codeql-introduction/
+[1234]: https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/
+[1235]: https://www.cyloq.se/en/research/cve-2026-0714-tpm-sniffing-luks-keys-on-an-embedded-device
