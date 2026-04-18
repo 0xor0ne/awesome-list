@@ -25,8 +25,10 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 ## 2026
 
 - ["CVE-2026-0714 TPM-sniffing LUKS Keys on an Embedded Device"][1235]
+- ["Defeating Anti-Reverse Engineering: A Deep Dive into the 'Trouble' Binary"][1237]
 - ["Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC"][1223]
 - ["Exploiting MediaTek's Download Agent"][1232]
+- ["Living off the Process"][1236]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
 
@@ -2653,3 +2655,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1233]: https://jorgectf.github.io/blog/post/practical-codeql-introduction/
 [1234]: https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/
 [1235]: https://www.cyloq.se/en/research/cve-2026-0714-tpm-sniffing-luks-keys-on-an-embedded-device
+[1236]: https://g3tsyst3m.com/lotp/Living-off-the-Process/
+[1237]: https://binary.ninja/2026/01/23/reversing-linux-anti-re.html
