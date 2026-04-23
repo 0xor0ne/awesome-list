@@ -24,8 +24,10 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 ## 2026
 
+- ["Clang Hardening Cheat Sheet - Ten Years Later"][1239]
 - ["CVE-2026-0714 TPM-sniffing LUKS Keys on an Embedded Device"][1235]
 - ["Defeating Anti-Reverse Engineering: A Deep Dive into the 'Trouble' Binary"][1237]
+- ["DIRTYFREE: Simplified Data-Oriented Programming in the Linux Kernel"][1238]
 - ["Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC"][1223]
 - ["Exploiting MediaTek's Download Agent"][1232]
 - ["Living off the Process"][1236]
@@ -128,7 +130,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Gone in 5 Seconds: How WARN_ON Stole 10 Minutes"][1103]
 - ["Google CTF 2025 Quals Writeup"][1131]
 - ["Hack The Emulated Planet: Vulnerability Hunting on Planet WGS-804HPT Industrial Switches"][1031]
-- ["Hacking the XBox 360 Hypervisor"]
+- "Hacking the XBox 360 Hypervisor"
   - [Part 1][1109]
   - [Part 2][1110]
 - ["Hacking Sonoff Smart Home IoT Device - Extract, Modify, Boot, Intercept, Clone!"][1129]
@@ -239,10 +241,10 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Windows Heap Exploitation - From Heap Overflow to Arbitrary R/W"][1195]
 - "Windows Inter Process Communication A Deep Dive Beyond the Surface"
   - [Part 1][1204]
-  - [Part 1][1205]
-  - [Part 1][1206]
-  - [Part 1][1207]
-  - [Part 1][1208]
+  - [Part 2][1205]
+  - [Part 3][1206]
+  - [Part 4][1207]
+  - [Part 5][1208]
 - ["WireTap: Breaking Server SGX via DRAM Bus Interposition"][1183]
 - ["Writing a Ghidra processor module"][1064]
 - ["yIKEs (WatchGuard Fireware OS IKEv2 Out-of-Bounds Write CVE-2025-9242)"][1210]
@@ -2657,3 +2659,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1235]: https://www.cyloq.se/en/research/cve-2026-0714-tpm-sniffing-luks-keys-on-an-embedded-device
 [1236]: https://g3tsyst3m.com/lotp/Living-off-the-Process/
 [1237]: https://binary.ninja/2026/01/23/reversing-linux-anti-re.html
+[1238]: https://leeyoochan.github.io/assets/pdf/DirtyFree_NDSS_2026.pdf
+[1239]: https://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html
