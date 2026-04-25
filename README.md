@@ -24,6 +24,10 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 ## 2026
 
+- "A 0-click exploit chain for the Pixel 9"
+  - [Part 1][1241]
+  - [Part 2][1242]
+  - [Part 3][1243]
 - ["Clang Hardening Cheat Sheet - Ten Years Later"][1239]
 - ["CVE-2026-0714 TPM-sniffing LUKS Keys on an Embedded Device"][1235]
 - ["Defeating Anti-Reverse Engineering: A Deep Dive into the 'Trouble' Binary"][1237]
@@ -49,6 +53,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Analysing a 1-day Vulnerability in the Linux Kernel's TLS Subsystem"][1174]
 - ["Analyzing IOS Kernel Panic Logs"][1037]
 - ["Android: Scudo"][1070]
+- ["Another Crack in the Chain of Trust: Uncovering (Yet Another) Secure Boot Bypass"][1240]
 - ["APPROTECT Bypass on NRF52832"][1139]
 - ["APT28 Operation Phantom Net Voxel"][1171]
 - ["Attacking GenAI applications and LLMs – Sometimes all it takes is to ask nicely!"][1132]
@@ -2661,3 +2666,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1237]: https://binary.ninja/2026/01/23/reversing-linux-anti-re.html
 [1238]: https://leeyoochan.github.io/assets/pdf/DirtyFree_NDSS_2026.pdf
 [1239]: https://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html
+[1240]: https://www.binarly.io/blog/another-crack-in-the-chain-of-trust
+[1241]: https://projectzero.google/2026/01/pixel-0-click-part-1.html
+[1242]: https://projectzero.google/2026/01/pixel-0-click-part-2.html
+[1243]: https://projectzero.google/2026/01/pixel-0-click-part-3.html
