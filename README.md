@@ -34,9 +34,11 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["DIRTYFREE: Simplified Data-Oriented Programming in the Linux Kernel"][1238]
 - ["Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC"][1223]
 - ["Exploiting MediaTek's Download Agent"][1232]
+- ["From DDS Packets to Robot Shells: Two RCEs in Unitree Robots (CVE-2026-27509 & CVE-2026-27510)"][1245]
 - ["Living off the Process"][1236]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
+- ["Unauthenticated RCE in NetSupport Manager - A Technical Deep Dive"][1244]
 
 ## 2025
 
@@ -2670,3 +2672,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1241]: https://projectzero.google/2026/01/pixel-0-click-part-1.html
 [1242]: https://projectzero.google/2026/01/pixel-0-click-part-2.html
 [1243]: https://projectzero.google/2026/01/pixel-0-click-part-3.html
+[1244]: https://code-white.com/blog/2026-01-nsm-rce/
+[1245]: https://boschko.ca/unitree-go2-rce/
