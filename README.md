@@ -35,10 +35,12 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC"][1223]
 - ["Exploiting MediaTek's Download Agent"][1232]
 - ["From DDS Packets to Robot Shells: Two RCEs in Unitree Robots (CVE-2026-27509 & CVE-2026-27510)"][1245]
+- ["Have you patched? Are you sure? The story of the sticky Supermicro BMC bugs"][1248]
 - ["Living off the Process"][1236]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
 - ["Unauthenticated RCE in NetSupport Manager - A Technical Deep Dive"][1244]
+- ["Windows ARM64 Internals: Pardon The Interruption! Interrupts on Windows for ARM"][1246]
 
 ## 2025
 
@@ -254,6 +256,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 5][1208]
 - ["WireTap: Breaking Server SGX via DRAM Bus Interposition"][1183]
 - ["Writing a Ghidra processor module"][1064]
+- ["Writing Sync, Popping Cron: DEVCORE's Synology BeeStation RCE & A Novel SQLite Injection RCE Technique (CVE-2024-50629~50631)"][1247]
 - ["yIKEs (WatchGuard Fireware OS IKEv2 Out-of-Bounds Write CVE-2025-9242)"][1210]
 - ["You Already Have Our Personal Data, Take Our Phone Calls Too"][1140]
 - ["Zen and the Art of Microcode Hacking"][1027]
@@ -2674,3 +2677,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1243]: https://projectzero.google/2026/01/pixel-0-click-part-3.html
 [1244]: https://code-white.com/blog/2026-01-nsm-rce/
 [1245]: https://boschko.ca/unitree-go2-rce/
+[1246]: https://connormcgarr.github.io/windows-arm64-interrupts/
+[1247]: https://kiddo-pwn.github.io/blog/2025-11-30/writing-sync-popping-cron
+[1248]: https://www.binarly.io/blog/have-you-patched-are-you-sure-the-story-of-the-sticky-supermicro-bmc-bugs
