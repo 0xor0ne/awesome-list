@@ -28,6 +28,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 1][1241]
   - [Part 2][1242]
   - [Part 3][1243]
+- ["Carbonara: The MediaTek exploit nobody served"][1249]
 - ["Clang Hardening Cheat Sheet - Ten Years Later"][1239]
 - ["CVE-2026-0714 TPM-sniffing LUKS Keys on an Embedded Device"][1235]
 - ["Defeating Anti-Reverse Engineering: A Deep Dive into the 'Trouble' Binary"][1237]
@@ -35,6 +36,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC"][1223]
 - ["Exploiting MediaTek's Download Agent"][1232]
 - ["From DDS Packets to Robot Shells: Two RCEs in Unitree Robots (CVE-2026-27509 & CVE-2026-27510)"][1245]
+- ["General Graboids: Worms and Remote Code Execution in Command & Conquer"][1250]
 - ["Have you patched? Are you sure? The story of the sticky Supermicro BMC bugs"][1248]
 - ["Living off the Process"][1236]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
@@ -217,7 +219,6 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Rooting the TP-Link Tapo C200 Rev.5"][1130]
 - ["ROPing our way to RCE"][1028]
 - ["RV130X Firmware Analysis"][1025]
-
 - ["smoltalk: RCE in Open Source Agents"][1045]
 - ["Solo: A Pixel 6 Pro Story (When one bug is all you need)"][1128]
 - ["SoK: Security of EMV Contactless Payment Systems"][1088]
@@ -2680,3 +2681,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1246]: https://connormcgarr.github.io/windows-arm64-interrupts/
 [1247]: https://kiddo-pwn.github.io/blog/2025-11-30/writing-sync-popping-cron
 [1248]: https://www.binarly.io/blog/have-you-patched-are-you-sure-the-story-of-the-sticky-supermicro-bmc-bugs
+[1249]: https://itssho.my/blog/article/serving-carbonara
+[1250]: https://www.atredis.com/blog/2026/1/26/generals
