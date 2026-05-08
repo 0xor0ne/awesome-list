@@ -39,9 +39,11 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["General Graboids: Worms and Remote Code Execution in Command & Conquer"][1250]
 - ["Have you patched? Are you sure? The story of the sticky Supermicro BMC bugs"][1248]
 - ["Living off the Process"][1236]
+- ["On the Clock: Escaping VMWare Workstation at Pwn2Own Berlin 2025"][1252]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
 - ["Unauthenticated RCE in NetSupport Manager - A Technical Deep Dive"][1244]
+- ["When NAS Vendors Forget How TLS Works"][1251]
 - ["Windows ARM64 Internals: Pardon The Interruption! Interrupts on Windows for ARM"][1246]
 
 ## 2025
@@ -2683,3 +2685,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1248]: https://www.binarly.io/blog/have-you-patched-are-you-sure-the-story-of-the-sticky-supermicro-bmc-bugs
 [1249]: https://itssho.my/blog/article/serving-carbonara
 [1250]: https://www.atredis.com/blog/2026/1/26/generals
+[1251]: https://www.interruptlabs.co.uk/articles/when-nas-vendors-forget-how-tls-works
+[1252]: https://www.synacktiv.com/en/publications/on-the-clock-escaping-vmware-workstation-at-pwn2own-berlin-2025
