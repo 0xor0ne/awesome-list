@@ -38,6 +38,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["From DDS Packets to Robot Shells: Two RCEs in Unitree Robots (CVE-2026-27509 & CVE-2026-27510)"][1245]
 - ["General Graboids: Worms and Remote Code Execution in Command & Conquer"][1250]
 - ["Have you patched? Are you sure? The story of the sticky Supermicro BMC bugs"][1248]
+- ["Intercepting OkHttp at Runtime With Frida - A Practical Guide"][1253]
 - ["Living off the Process"][1236]
 - ["On the Clock: Escaping VMWare Workstation at Pwn2Own Berlin 2025"][1252]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
@@ -74,6 +75,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Best practices for key derivation"][1023]
 - ["Binder Fuzzing"][1146]
 - ["Blasting Past iOS 18"][1038]
+- ["Bluetooth Headphone Jacking: Full Disclosure of Airoha RACE Vulnerabilities"][1254]
 - ["Booting into Breaches Hunting Windows SecureBoot's Remote Attack Surfaces"][1138]
 - ["Bootloader to Iris: A Security Teardown of a Hardware Wallet"][1199]
 - ["Breaking Disassembly — Abusing symbol resolution in Linux programs to obfuscate library calls"][1125]
@@ -2687,3 +2689,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1250]: https://www.atredis.com/blog/2026/1/26/generals
 [1251]: https://www.interruptlabs.co.uk/articles/when-nas-vendors-forget-how-tls-works
 [1252]: https://www.synacktiv.com/en/publications/on-the-clock-escaping-vmware-workstation-at-pwn2own-berlin-2025
+[1253]: https://blog.doyensec.com/2026/01/22/frida-instrumentation.html
+[1354]: https://insinuator.net/2025/12/bluetooth-headphone-jacking-full-disclosure-of-airoha-race-vulnerabilities/
