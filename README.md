@@ -41,6 +41,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Intercepting OkHttp at Runtime With Frida - A Practical Guide"][1253]
 - ["Living off the Process"][1236]
 - ["On the Clock: Escaping VMWare Workstation at Pwn2Own Berlin 2025"][1252]
+- ["Pwning Supercomputers - A 20yo vulnerability in Munge"][1355]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
 - ["Unauthenticated RCE in NetSupport Manager - A Technical Deep Dive"][1244]
@@ -2691,3 +2692,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1252]: https://www.synacktiv.com/en/publications/on-the-clock-escaping-vmware-workstation-at-pwn2own-berlin-2025
 [1253]: https://blog.doyensec.com/2026/01/22/frida-instrumentation.html
 [1354]: https://insinuator.net/2025/12/bluetooth-headphone-jacking-full-disclosure-of-airoha-race-vulnerabilities/
+[1355]: https://blog.lexfo.fr/munge-heap-buffer-overflow.html
