@@ -41,16 +41,17 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Intercepting OkHttp at Runtime With Frida - A Practical Guide"][1253]
 - ["Living off the Process"][1236]
 - ["On the Clock: Escaping VMWare Workstation at Pwn2Own Berlin 2025"][1252]
-- ["Pwning Supercomputers - A 20yo vulnerability in Munge"][1355]
+- ["Pwning Supercomputers - A 20yo vulnerability in Munge"][1255]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
 - ["Unauthenticated RCE in NetSupport Manager - A Technical Deep Dive"][1244]
+- ["V8 Heap Archaeology: Finding Exploitation Artifacts in Chrome’s Memory"][1262]
 - VulHunt
-  - ["A High-Level Look at Binary Vulnerability Detection"][1357]
-  - ["Detecting a Remote Code Execution Vulnerability in rsync"][1358]
-  - ["Vulnerability REsearch using VulHunt"][1359]
-  - ["Inside the Binary Vulnerability Analysis Framework"][1360]
-  - ["Agentic Vulnerability Research with VulHunt"][1361]
+  - ["A High-Level Look at Binary Vulnerability Detection"][1257]
+  - ["Detecting a Remote Code Execution Vulnerability in rsync"][1258]
+  - ["Vulnerability REsearch using VulHunt"][1259]
+  - ["Inside the Binary Vulnerability Analysis Framework"][1260]
+  - ["Agentic Vulnerability Research with VulHunt"][1261]
 - ["When NAS Vendors Forget How TLS Works"][1251]
 - ["Windows ARM64 Internals: Pardon The Interruption! Interrupts on Windows for ARM"][1246]
 
@@ -230,7 +231,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Rooting the TP-Link Tapo C200 Rev.5"][1130]
 - ["ROPing our way to RCE"][1028]
 - ["RV130X Firmware Analysis"][1025]
-- ["Security through Transparency: Tales from the RP2350 Hacking Challenge"][1356]
+- ["Security through Transparency: Tales from the RP2350 Hacking Challenge"][1256]
 - ["smoltalk: RCE in Open Source Agents"][1045]
 - ["Solo: A Pixel 6 Pro Story (When one bug is all you need)"][1128]
 - ["SoK: Security of EMV Contactless Payment Systems"][1088]
@@ -2698,11 +2699,12 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1251]: https://www.interruptlabs.co.uk/articles/when-nas-vendors-forget-how-tls-works
 [1252]: https://www.synacktiv.com/en/publications/on-the-clock-escaping-vmware-workstation-at-pwn2own-berlin-2025
 [1253]: https://blog.doyensec.com/2026/01/22/frida-instrumentation.html
-[1354]: https://insinuator.net/2025/12/bluetooth-headphone-jacking-full-disclosure-of-airoha-race-vulnerabilities/
-[1355]: https://blog.lexfo.fr/munge-heap-buffer-overflow.html
-[1356]: https://www.usenix.org/system/files/woot25-muench.pdf
-[1357]: https://www.binarly.io/blog/vulhunt-intro
-[1358]: https://www.binarly.io/blog/vulhunt-in-practice-detecting-a-remote-code-execution-vulnerability-in-rsync
-[1359]: https://www.binarly.io/blog/vulnerability-research-using-vulhunt
-[1360]: https://www.binarly.io/blog/vulhunt-in-depth-inside-the-binary-vulnerability-analysis-framework
-[1361]: https://www.binarly.io/blog/agentic-vulnerability-research-with-vulhunt
+[1254]: https://insinuator.net/2025/12/bluetooth-headphone-jacking-full-disclosure-of-airoha-race-vulnerabilities/
+[1255]: https://blog.lexfo.fr/munge-heap-buffer-overflow.html
+[1256]: https://www.usenix.org/system/files/woot25-muench.pdf
+[1257]: https://www.binarly.io/blog/vulhunt-intro
+[1258]: https://www.binarly.io/blog/vulhunt-in-practice-detecting-a-remote-code-execution-vulnerability-in-rsync
+[1259]: https://www.binarly.io/blog/vulnerability-research-using-vulhunt
+[1260]: https://www.binarly.io/blog/vulhunt-in-depth-inside-the-binary-vulnerability-analysis-framework
+[1261]: https://www.binarly.io/blog/agentic-vulnerability-research-with-vulhunt
+[1262]: https://specterops.io/blog/2026/02/11/v8-heap-archaeology-finding-exploitation-artifacts-in-chromes-memory/
