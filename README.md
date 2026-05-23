@@ -30,6 +30,10 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 3][1243]
 - ["Carbonara: The MediaTek exploit nobody served"][1249]
 - ["Clang Hardening Cheat Sheet - Ten Years Later"][1239]
+- "CVE-2025-38352":
+  - ["In-the-wild Android Kernel Vulnerability Analysis + PoC"][1224]
+  - ["Extending The Race Window Without a Kernel Patch"][1225]
+  - ["Uncovering Chronomaly"][1265]
 - ["CVE-2026-0714 TPM-sniffing LUKS Keys on an Embedded Device"][1235]
 - ["Defeating Anti-Reverse Engineering: A Deep Dive into the 'Trouble' Binary"][1237]
 - ["DIRTYFREE: Simplified Data-Oriented Programming in the Linux Kernel"][1238]
@@ -113,9 +117,6 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["CVE-2025-23016 - EXPLOITING THE FASTCGI LIBRARY"][1086]
 - ["CVE-2025-37752 wo Bytes Of Madness: Pwning The Linux Kernel With A 0x0000 Written 262636 Bytes Out-Of-Bounds"][1076]
 - ["CVE-2025-38001 Exploiting All Google kernelCTF Instances And Debian 12 With A 0-Day For $82k: An RBTree Family Drama"][1163]
-- "CVE-2025-38352":
-  - ["In-the-wild Android Kernel Vulnerability Analysis + PoC"][1224]
-  - ["Extending The Race Window Without a Kernel Patch"][1225]
 - ["CVE-2025-6554: The (rabbit) Hole"][1188]
 - ["Debugging the Pixel 8 kernel via KGDB"][1123]
 - ["Defeating String Obfuscation in Obfuscated NodeJS Malware using AST"][1068]
@@ -2712,3 +2713,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1262]: https://specterops.io/blog/2026/02/11/v8-heap-archaeology-finding-exploitation-artifacts-in-chromes-memory/
 [1263]: https://ghostbyt3.github.io/blog/nday-research-ai
 [1264]: https://oobs.io/posts/er605-1day-exploit/
+[1265]: https://faith2dxy.xyz/2026-01-03/cve_2025_38352_analysis_part_3/
