@@ -30,12 +30,14 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 3][1243]
 - ["Carbonara: The MediaTek exploit nobody served"][1249]
 - ["Clang Hardening Cheat Sheet - Ten Years Later"][1239]
+- ["CrackArmor: Multiple vulnerabilities in AppArmor"][1267]
 - "CVE-2025-38352":
   - ["In-the-wild Android Kernel Vulnerability Analysis + PoC"][1224]
   - ["Extending The Race Window Without a Kernel Patch"][1225]
   - ["Uncovering Chronomaly"][1265]
 - ["CVE-2026-0714 TPM-sniffing LUKS Keys on an Embedded Device"][1235]
 - ["Defeating Anti-Reverse Engineering: A Deep Dive into the 'Trouble' Binary"][1237]
+- ["DiceCTF 2026 Quals - cornelslop: Turning an RCU Double Free into a Cross-Cache Kernel Exploit"][1266]
 - ["DIRTYFREE: Simplified Data-Oriented Programming in the Linux Kernel"][1238]
 - ["Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC"][1223]
 - ["Exploiting MediaTek's Download Agent"][1232]
@@ -2714,3 +2716,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1263]: https://ghostbyt3.github.io/blog/nday-research-ai
 [1264]: https://oobs.io/posts/er605-1day-exploit/
 [1265]: https://faith2dxy.xyz/2026-01-03/cve_2025_38352_analysis_part_3/
+[1266]: https://ptr-yudai.hatenablog.com/entry/2026/03/16/174349
+[1267]: https://cdn2.qualys.com/advisory/2026/03/10/crack-armor.txt
