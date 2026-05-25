@@ -48,6 +48,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Living off the Process"][1236]
 - ["N-Day Research with AI: Using Ollama and n8n"][1263]
 - ["On the Clock: Escaping VMWare Workstation at Pwn2Own Berlin 2025"][1252]
+- ["Page-level UAF exploitation"][1268]
 - ["Pwning Supercomputers - A 20yo vulnerability in Munge"][1255]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
@@ -274,6 +275,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 4][1207]
   - [Part 5][1208]
 - ["WireTap: Breaking Server SGX via DRAM Bus Interposition"][1183]
+- ["Workshop: Firmware Reverse Engineering"][1269]
 - ["Writing a Ghidra processor module"][1064]
 - ["Writing Sync, Popping Cron: DEVCORE's Synology BeeStation RCE & A Novel SQLite Injection RCE Technique (CVE-2024-50629~50631)"][1247]
 - ["yIKEs (WatchGuard Fireware OS IKEv2 Out-of-Bounds Write CVE-2025-9242)"][1210]
@@ -2718,3 +2720,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1265]: https://faith2dxy.xyz/2026-01-03/cve_2025_38352_analysis_part_3/
 [1266]: https://ptr-yudai.hatenablog.com/entry/2026/03/16/174349
 [1267]: https://cdn2.qualys.com/advisory/2026/03/10/crack-armor.txt
+[1268]: https://nasm.re/posts/cryptodev-linux-vuln/
+[1269]: https://github.com/emproof-com/workshop_firmware_reverse_engineering
