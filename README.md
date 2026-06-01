@@ -49,6 +49,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["N-Day Research with AI: Using Ollama and n8n"][1263]
 - ["On the Clock: Escaping VMWare Workstation at Pwn2Own Berlin 2025"][1252]
 - ["Page-level UAF exploitation"][1268]
+- ["PageJack in Action: CVE-2022-0995 exploit"][1270]
 - ["Pwning Supercomputers - A 20yo vulnerability in Munge"][1255]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
@@ -2722,3 +2723,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1267]: https://cdn2.qualys.com/advisory/2026/03/10/crack-armor.txt
 [1268]: https://nasm.re/posts/cryptodev-linux-vuln/
 [1269]: https://github.com/emproof-com/workshop_firmware_reverse_engineering
+[1270]: https://blog.quarkslab.com/pagejack-in-action-cve-2022-0995-exploit.html
