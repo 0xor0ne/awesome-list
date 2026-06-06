@@ -28,6 +28,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 1][1241]
   - [Part 2][1242]
   - [Part 3][1243]
+- ["Achieving remote code execution in LangSmith Playground using unsafe template formatting"][1271]
 - ["Carbonara: The MediaTek exploit nobody served"][1249]
 - ["Clang Hardening Cheat Sheet - Ten Years Later"][1239]
 - ["CrackArmor: Multiple vulnerabilities in AppArmor"][1267]
@@ -237,6 +238,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Root Shell on Credit Card Terminal"][1112]
 - ["Rooting the TP-Link Tapo C200 Rev.5"][1130]
 - ["ROPing our way to RCE"][1028]
+- ["Running code in a PAX Credit Card Payment Machine"][1272]
 - ["RV130X Firmware Analysis"][1025]
 - ["Security through Transparency: Tales from the RP2350 Hacking Challenge"][1256]
 - ["smoltalk: RCE in Open Source Agents"][1045]
@@ -2724,3 +2726,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1268]: https://nasm.re/posts/cryptodev-linux-vuln/
 [1269]: https://github.com/emproof-com/workshop_firmware_reverse_engineering
 [1270]: https://blog.quarkslab.com/pagejack-in-action-cve-2022-0995-exploit.html
+[1271]: https://lab.ctbb.show/research/langsmith-unsafe-formatting-to-rce
+[1272]: https://lucasteske.dev/2025/09/running-code-in-pax-machines
