@@ -162,6 +162,7 @@ My personal awesome list of interesting cybersecurity-related repos, libraries a
 
 * [0day.today][195]: exploits database.
 * [CVE Details][185]: security vulnerability datasource.
+* [CVE PoC Search][681]: search public GitHub proof-of-concept repositories by CVE identifier.
 * [ExploitAlert][194]: exploits found on the internet.
 * [ExploitDB][112]: the exploit database.
 * [iot-malware][117]: source code of samples leaked online.
@@ -1262,3 +1263,4 @@ as CSV, TSV, and tabular JSON.
 [678]: https://github.com/langchain-ai/langchain
 [679]: https://github.com/gruns/icecream
 [680]: https://github.com/pyenv/pyenv
+[681]: https://labs.jamessawyer.co.uk/cves/
