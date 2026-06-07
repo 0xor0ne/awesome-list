@@ -48,6 +48,7 @@ My personal awesome list of interesting cybersecurity-related repos, libraries a
   frameworks, tools) for understanding fuzzing for IoT/embedded devices.
 * [Embedded Rust][211]: list of resources for Embedded and Low-level development
   in the Rust programming language.
+- [Embedded-Systems-Vulnerability-Research][681]: Resources to getting started vulnerability research on IoT/embedded devices.
 * [Executable Packing][284]: curated list of awesome resources related to
   executable packing.
 * [Firmware Security][437]: curated list of platform firmware resources
@@ -61,6 +62,7 @@ My personal awesome list of interesting cybersecurity-related repos, libraries a
 * [ICS Security][374]: tools, tips, tricks, and more for exploring ICS Security.
 * [IoT Security 101][273]: curated list of IoT Security Resources.
 * [IoT][19]: list of great resources about IoT Framework, Library, OS, Platforms.
+- [LLM for Vulnerability Detection]: Awesome Large Language Models for Vulnerability Detection
 * [Linux-Bash-Commands][624]: list of Linux bash commands, cheatsheets and resources.
 * [Malware Analysis][34]: malware analysis tools and resources.
 * [Modern Unix][493]: collection of modern/faster/saner alternatives to common
@@ -1262,3 +1264,5 @@ as CSV, TSV, and tabular JSON.
 [678]: https://github.com/langchain-ai/langchain
 [679]: https://github.com/gruns/icecream
 [680]: https://github.com/pyenv/pyenv
+[681]: https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research
+[682]: https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection
