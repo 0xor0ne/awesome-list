@@ -45,7 +45,9 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["From DDS Packets to Robot Shells: Two RCEs in Unitree Robots (CVE-2026-27509 & CVE-2026-27510)"][1245]
 - ["General Graboids: Worms and Remote Code Execution in Command & Conquer"][1250]
 - ["Have you patched? Are you sure? The story of the sticky Supermicro BMC bugs"][1248]
+- ["Jenny was a Friend of Mine - MCPs and Friends"][1274]
 - ["Intercepting OkHttp at Runtime With Frida - A Practical Guide"][1253]
+- ["Leveling Up Secure Code Reviews with Claude Code"][1273]
 - ["Living off the Process"][1236]
 - ["N-Day Research with AI: Using Ollama and n8n"][1263]
 - ["On the Clock: Escaping VMWare Workstation at Pwn2Own Berlin 2025"][1252]
@@ -2728,3 +2730,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1270]: https://blog.quarkslab.com/pagejack-in-action-cve-2022-0995-exploit.html
 [1271]: https://lab.ctbb.show/research/langsmith-unsafe-formatting-to-rce
 [1272]: https://lucasteske.dev/2025/09/running-code-in-pax-machines
+[1273]: https://specterops.io/blog/2026/03/26/leveling-up-secure-code-reviews-with-claude-code/
+[1274]: https://blog.zsec.uk/bullyingllms/
