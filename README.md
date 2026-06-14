@@ -50,6 +50,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Leveling Up Secure Code Reviews with Claude Code"][1273]
 - ["Living off the Process"][1236]
 - ["N-Day Research with AI: Using Ollama and n8n"][1263]
+- ["Needle in the haystack: LLMs for vulnerability research"][1275]
 - ["On the Clock: Escaping VMWare Workstation at Pwn2Own Berlin 2025"][1252]
 - ["Page-level UAF exploitation"][1268]
 - ["PageJack in Action: CVE-2022-0995 exploit"][1270]
@@ -2732,3 +2733,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1272]: https://lucasteske.dev/2025/09/running-code-in-pax-machines
 [1273]: https://specterops.io/blog/2026/03/26/leveling-up-secure-code-reviews-with-claude-code/
 [1274]: https://blog.zsec.uk/bullyingllms/
+[1275]: https://devansh.bearblog.dev/needle-in-the-haystack/
