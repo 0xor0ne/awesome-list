@@ -28,6 +28,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 1][1241]
   - [Part 2][1242]
   - [Part 3][1243]
+- ["A Brief Analysis of a Vulnerability in the Glibc (CVE-2025-4802)"][1277]
 - ["Achieving remote code execution in LangSmith Playground using unsafe template formatting"][1271]
 - ["Carbonara: The MediaTek exploit nobody served"][1249]
 - ["Clang Hardening Cheat Sheet - Ten Years Later"][1239]
@@ -52,6 +53,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["N-Day Research with AI: Using Ollama and n8n"][1263]
 - ["Needle in the haystack: LLMs for vulnerability research"][1275]
 - ["On the Clock: Escaping VMWare Workstation at Pwn2Own Berlin 2025"][1252]
+- ["Obfuscation vs the Optimizer: An LLVM Middle-End Arms Race"][1276]
 - ["Page-level UAF exploitation"][1268]
 - ["PageJack in Action: CVE-2022-0995 exploit"][1270]
 - ["Pwning Supercomputers - A 20yo vulnerability in Munge"][1255]
@@ -2734,3 +2736,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1273]: https://specterops.io/blog/2026/03/26/leveling-up-secure-code-reviews-with-claude-code/
 [1274]: https://blog.zsec.uk/bullyingllms/
 [1275]: https://devansh.bearblog.dev/needle-in-the-haystack/
+[1276]: https://blog.quarkslab.com/obfuscation-vs-the-optimizer-an-llvm-middle-end-arms-race.html
+[1277]: https://allelesecurity.com/libc-vuln-analysis/
