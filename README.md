@@ -52,6 +52,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Living off the Process"][1236]
 - ["N-Day Research with AI: Using Ollama and n8n"][1263]
 - ["Needle in the haystack: LLMs for vulnerability research"][1275]
+- ["Now You See mi: Now You're Pwned"][1278]
 - ["On the Clock: Escaping VMWare Workstation at Pwn2Own Berlin 2025"][1252]
 - ["Obfuscation vs the Optimizer: An LLVM Middle-End Arms Race"][1276]
 - ["Page-level UAF exploitation"][1268]
@@ -2738,3 +2739,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1275]: https://devansh.bearblog.dev/needle-in-the-haystack/
 [1276]: https://blog.quarkslab.com/obfuscation-vs-the-optimizer-an-llvm-middle-end-arms-race.html
 [1277]: https://allelesecurity.com/libc-vuln-analysis/
+[1278]: https://labs.taszk.io/articles/post/nowyouseemi/
