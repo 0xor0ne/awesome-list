@@ -44,6 +44,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC"][1223]
 - ["Exploiting MediaTek's Download Agent"][1232]
 - ["From DDS Packets to Robot Shells: Two RCEs in Unitree Robots (CVE-2026-27509 & CVE-2026-27510)"][1245]
+- ["From KernelSnitch to Practical msg_msg/pipe_buffer Heap KASLR Leaks"][1279]
 - ["General Graboids: Worms and Remote Code Execution in Command & Conquer"][1250]
 - ["Have you patched? Are you sure? The story of the sticky Supermicro BMC bugs"][1248]
 - ["Jenny was a Friend of Mine - MCPs and Friends"][1274]
@@ -2740,3 +2741,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1276]: https://blog.quarkslab.com/obfuscation-vs-the-optimizer-an-llvm-middle-end-arms-race.html
 [1277]: https://allelesecurity.com/libc-vuln-analysis/
 [1278]: https://labs.taszk.io/articles/post/nowyouseemi/
+[1279]: https://lukasmaar.github.io/posts/heap-kaslr-leak/index.html
