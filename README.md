@@ -47,6 +47,9 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["From KernelSnitch to Practical msg_msg/pipe_buffer Heap KASLR Leaks"][1279]
 - ["General Graboids: Worms and Remote Code Execution in Command & Conquer"][1250]
 - ["Have you patched? Are you sure? The story of the sticky Supermicro BMC bugs"][1248]
+- "Hooked on Linux"
+  - ["Rootkit Taxonomy, Hooking Techniques and Tradecraft"][1281]
+  - ["Rootkit Detection Engineering"][1282]
 - ["Jenny was a Friend of Mine - MCPs and Friends"][1274]
 - ["Intercepting OkHttp at Runtime With Frida - A Practical Guide"][1253]
 - ["Leveling Up Secure Code Reviews with Claude Code"][1273]
@@ -60,6 +63,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["PageJack in Action: CVE-2022-0995 exploit"][1270]
 - ["Pwning Supercomputers - A 20yo vulnerability in Munge"][1255]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
+- ["Table Manners: Diving into Linux Pagetables exp techniques"][1280]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
 - ["TP-Link ER605 DDNS Pre-Auth RCE: Chaining CVE-2024-5242, CVE-2024-5243, CVE-2024-5244"][1264]
 - ["Unauthenticated RCE in NetSupport Manager - A Technical Deep Dive"][1244]
@@ -2742,3 +2746,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1277]: https://allelesecurity.com/libc-vuln-analysis/
 [1278]: https://labs.taszk.io/articles/post/nowyouseemi/
 [1279]: https://lukasmaar.github.io/posts/heap-kaslr-leak/index.html
+[1280]: https://github.com/Notselwyn/blogpost-files/blob/main/talk_pagetables.pdf
+[1281]: https://www.elastic.co/security-labs/linux-rootkits-1-hooked-on-linux
+[1282]: https://www.elastic.co/security-labs/linux-rootkits-2-caught-in-the-act
