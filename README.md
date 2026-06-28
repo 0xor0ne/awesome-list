@@ -29,6 +29,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 2][1242]
   - [Part 3][1243]
 - ["A Brief Analysis of a Vulnerability in the Glibc (CVE-2025-4802)"][1277]
+- ["A Race Within A Race: Exploiting CVE-2025-38617 in Linux Packet Sockets"][1283]
 - ["Achieving remote code execution in LangSmith Playground using unsafe template formatting"][1271]
 - ["Carbonara: The MediaTek exploit nobody served"][1249]
 - ["Clang Hardening Cheat Sheet - Ten Years Later"][1239]
@@ -2749,3 +2750,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1280]: https://github.com/Notselwyn/blogpost-files/blob/main/talk_pagetables.pdf
 [1281]: https://www.elastic.co/security-labs/linux-rootkits-1-hooked-on-linux
 [1282]: https://www.elastic.co/security-labs/linux-rootkits-2-caught-in-the-act
+[1283]: https://blog.calif.io/p/a-race-within-a-race-exploiting-cve
