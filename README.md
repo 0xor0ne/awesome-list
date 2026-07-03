@@ -55,6 +55,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Intercepting OkHttp at Runtime With Frida - A Practical Guide"][1253]
 - ["Leveling Up Secure Code Reviews with Claude Code"][1273]
 - ["Living off the Process"][1236]
+- ["Mitmproxy for Fun and Profit: Interception and Analysis of Application Traffic"][1284]
 - ["N-Day Research with AI: Using Ollama and n8n"][1263]
 - ["Needle in the haystack: LLMs for vulnerability research"][1275]
 - ["Now You See mi: Now You're Pwned"][1278]
@@ -64,6 +65,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["PageJack in Action: CVE-2022-0995 exploit"][1270]
 - ["Pwning Supercomputers - A 20yo vulnerability in Munge"][1255]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
+- ["Some notes on the security properties of the pipe_buffer kernel object"][1285]
 - ["Table Manners: Diving into Linux Pagetables exp techniques"][1280]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
 - ["TP-Link ER605 DDNS Pre-Auth RCE: Chaining CVE-2024-5242, CVE-2024-5243, CVE-2024-5244"][1264]
@@ -2751,3 +2753,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1281]: https://www.elastic.co/security-labs/linux-rootkits-1-hooked-on-linux
 [1282]: https://www.elastic.co/security-labs/linux-rootkits-2-caught-in-the-act
 [1283]: https://blog.calif.io/p/a-race-within-a-race-exploiting-cve
+[1284]: https://www.synacktiv.com/en/publications/mitmproxy-for-fun-and-profit-interception-and-analysis-of-application-traffic
+[1285]: https://a13xp0p0v.github.io/2026/04/20/pipe-buffer-experiments.html
