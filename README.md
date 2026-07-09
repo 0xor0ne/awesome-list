@@ -72,6 +72,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
 - ["TP-Link ER605 DDNS Pre-Auth RCE: Chaining CVE-2024-5242, CVE-2024-5243, CVE-2024-5244"][1264]
 - ["Trailmark turns code into graphs"][1286]
+- ["TREVEX: A Black-Box Detection Framework For Data-Flow Transient Execution Vulnerabilities"][1289]
 - ["Unauthenticated RCE in NetSupport Manager - A Technical Deep Dive"][1244]
 - ["V8 Heap Archaeology: Finding Exploitation Artifacts in Chrome’s Memory"][1262]
 - VulHunt
@@ -2761,3 +2762,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1286]: https://blog.trailofbits.com/2026/04/23/trailmark-turns-code-into-graphs/
 [1287]: https://starlabs.sg/blog/2026/04-check-removed-context-confused-checkmate-achieved/
 [1288]: https://blog.zolutal.io/two-shot-kernel-shellcode/
+[1289]: https://d-we.me/papers/trevex_sp26.pdf
