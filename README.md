@@ -24,6 +24,11 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 ## 2026
 
+## Offensive Security / Pentest / Red Team (Tools & Frameworks)
+
+- [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+
+
 - "A 0-click exploit chain for the Pixel 9"
   - [Part 1][1241]
   - [Part 2][1242]
