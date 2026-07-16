@@ -49,6 +49,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["From KernelSnitch to Practical msg_msg/pipe_buffer Heap KASLR Leaks"][1279]
 - ["General Graboids: Worms and Remote Code Execution in Command & Conquer"][1250]
 - ["Have you patched? Are you sure? The story of the sticky Supermicro BMC bugs"][1248]
+- ["HDD Firmware Hacking Part 1"][1290]
 - "Hooked on Linux"
   - ["Rootkit Taxonomy, Hooking Techniques and Tradecraft"][1281]
   - ["Rootkit Detection Engineering"][1282]
@@ -2763,3 +2764,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1287]: https://starlabs.sg/blog/2026/04-check-removed-context-confused-checkmate-achieved/
 [1288]: https://blog.zolutal.io/two-shot-kernel-shellcode/
 [1289]: https://d-we.me/papers/trevex_sp26.pdf
+[1290]: https://icode4.coffee/?p=1465
