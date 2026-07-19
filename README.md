@@ -70,6 +70,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Revisiting Two-Shot Kernel Shellcode Execution From Control Flow Hijacking"][1288]
 - ["Some notes on the security properties of the pipe_buffer kernel object"][1285]
 - ["Table Manners: Diving into Linux Pagetables exp techniques"][1280]
+- ["TAPOcalypse Now: Exploiting TP-Link Smart Devices From Anywhere"][1291]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
 - ["TP-Link ER605 DDNS Pre-Auth RCE: Chaining CVE-2024-5242, CVE-2024-5243, CVE-2024-5244"][1264]
 - ["Trailmark turns code into graphs"][1286]
@@ -2765,3 +2766,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1288]: https://blog.zolutal.io/two-shot-kernel-shellcode/
 [1289]: https://d-we.me/papers/trevex_sp26.pdf
 [1290]: https://icode4.coffee/?p=1465
+[1291]: https://labs.taszk.io/articles/post/tapocalypse/
