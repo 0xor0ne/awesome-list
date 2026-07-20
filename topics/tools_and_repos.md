@@ -150,6 +150,7 @@ My personal awesome list of interesting cybersecurity-related repos, libraries a
 * [xilokar][426]: embedded development.
 * [Zero Day Initiative][220]: encourage the reporting of 0-day vulnerabilities
   privately to the affected vendors.
+* [InfoSecLabs](https://infoseclabs.io) : Online hands-on training platform for Security Operations Center tools and simulations.
 
 ## Compilers and Toolchains
 
