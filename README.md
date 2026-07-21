@@ -31,6 +31,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["A Brief Analysis of a Vulnerability in the Glibc (CVE-2025-4802)"][1277]
 - ["A Race Within A Race: Exploiting CVE-2025-38617 in Linux Packet Sockets"][1283]
 - ["Achieving remote code execution in LangSmith Playground using unsafe template formatting"][1271]
+- ["BRIDGEROUTER: Automated Capability Upgrading of Out-Of-Bounds Write Vulnerabilities to Arbitrary Memory Write Primitives in the Linux Kernel"][1293]
 - ["Carbonara: The MediaTek exploit nobody served"][1249]
 - ["CHECK Removed, Context Confused, Checkmate Achieved"][1287]
 - ["Clang Hardening Cheat Sheet - Ten Years Later"][1239]
@@ -69,6 +70,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
 - ["Revisiting Two-Shot Kernel Shellcode Execution From Control Flow Hijacking"][1288]
 - ["Some notes on the security properties of the pipe_buffer kernel object"][1285]
+- ["Static Devirtualization of Themida"][1292]
 - ["Table Manners: Diving into Linux Pagetables exp techniques"][1280]
 - ["TAPOcalypse Now: Exploiting TP-Link Smart Devices From Anywhere"][1291]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
@@ -2767,3 +2769,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1289]: https://d-we.me/papers/trevex_sp26.pdf
 [1290]: https://icode4.coffee/?p=1465
 [1291]: https://labs.taszk.io/articles/post/tapocalypse/
+[1292]: https://back.engineering/blog/09/05/2026/
+[1293]: https://www.youwei.site/papers/SP2025b.pdf
