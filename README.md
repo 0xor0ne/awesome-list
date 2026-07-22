@@ -58,6 +58,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Intercepting OkHttp at Runtime With Frida - A Practical Guide"][1253]
 - ["Leveling Up Secure Code Reviews with Claude Code"][1273]
 - ["Living off the Process"][1236]
+- ["Make it Blink: Over-the-air Exploitation of the Philips HUE Bridge"][1294]
 - ["Mitmproxy for Fun and Profit: Interception and Analysis of Application Traffic"][1284]
 - ["N-Day Research with AI: Using Ollama and n8n"][1263]
 - ["Needle in the haystack: LLMs for vulnerability research"][1275]
@@ -2771,3 +2772,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1291]: https://labs.taszk.io/articles/post/tapocalypse/
 [1292]: https://back.engineering/blog/09/05/2026/
 [1293]: https://www.youwei.site/papers/SP2025b.pdf
+[1294]: https://www.synacktiv.com/en/publications/make-it-blink-over-the-air-exploitation-of-the-philips-hue-bridge
