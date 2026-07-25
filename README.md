@@ -41,6 +41,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - ["Extending The Race Window Without a Kernel Patch"][1225]
   - ["Uncovering Chronomaly"][1265]
 - ["CVE-2026-0714 TPM-sniffing LUKS Keys on an Embedded Device"][1235]
+- ["Damned OOB"][1297]
 - ["Defeating Anti-Reverse Engineering: A Deep Dive into the 'Trouble' Binary"][1237]
 - ["DiceCTF 2026 Quals - cornelslop: Turning an RCU Double Free into a Cross-Cache Kernel Exploit"][1266]
 - ["DIRTYFREE: Simplified Data-Oriented Programming in the Linux Kernel"][1238]
@@ -2777,3 +2778,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1294]: https://www.synacktiv.com/en/publications/make-it-blink-over-the-air-exploitation-of-the-philips-hue-bridge
 [1295]: https://bugscale.ch/blog/here-we-go-again-a-five-bug-chain-to-arbitrary-apk-install-on-samsung-s25/
 [1296]: https://www.elastic.co/security-labs/llm-reversing-vs-llm-obfuscation
+[1297]: https://ze3tar.github.io/post-zcrx.html
