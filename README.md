@@ -36,6 +36,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["CHECK Removed, Context Confused, Checkmate Achieved"][1287]
 - ["Clang Hardening Cheat Sheet - Ten Years Later"][1239]
 - ["CrackArmor: Multiple vulnerabilities in AppArmor"][1267]
+- ["Creative approaches to coding FUD Stagers"][1299]
 - "CVE-2025-38352":
   - ["In-the-wild Android Kernel Vulnerability Analysis + PoC"][1224]
   - ["Extending The Race Window Without a Kernel Patch"][1225]
@@ -77,6 +78,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Table Manners: Diving into Linux Pagetables exp techniques"][1280]
 - ["TAPOcalypse Now: Exploiting TP-Link Smart Devices From Anywhere"][1291]
 - ["The Cost of Understanding: LLM-Driven Reverse Engineering vs Iterative LLM Obfuscation"][1296]
+- ["The Hidden Risk of Side-Channel Attacks on Post Quantum Cryptography"][1298]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
 - ["TP-Link ER605 DDNS Pre-Auth RCE: Chaining CVE-2024-5242, CVE-2024-5243, CVE-2024-5244"][1264]
 - ["Trailmark turns code into graphs"][1286]
@@ -2779,3 +2781,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1295]: https://bugscale.ch/blog/here-we-go-again-a-five-bug-chain-to-arbitrary-apk-install-on-samsung-s25/
 [1296]: https://www.elastic.co/security-labs/llm-reversing-vs-llm-obfuscation
 [1297]: https://ze3tar.github.io/post-zcrx.html
+[1298]: https://www.ledger.com/blog-risk-side-channel-attacks-post-quantum-cryptography
+[1299]: https://g3tsyst3m.com/fud/Creative-approaches-to-coding-FUD-Stagers/
