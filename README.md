@@ -45,6 +45,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Damned OOB"][1297]
 - ["Defeating Anti-Reverse Engineering: A Deep Dive into the 'Trouble' Binary"][1237]
 - ["DiceCTF 2026 Quals - cornelslop: Turning an RCU Double Free into a Cross-Cache Kernel Exploit"][1266]
+- [Dirty Frag][1300]
 - ["DIRTYFREE: Simplified Data-Oriented Programming in the Linux Kernel"][1238]
 - ["Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC"][1223]
 - ["Exploiting MediaTek's Download Agent"][1232]
@@ -2783,3 +2784,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1297]: https://ze3tar.github.io/post-zcrx.html
 [1298]: https://www.ledger.com/blog-risk-side-channel-attacks-post-quantum-cryptography
 [1299]: https://g3tsyst3m.com/fud/Creative-approaches-to-coding-FUD-Stagers/
+[1300]: https://github.com/V4bel/dirtyfrag/blob/master/assets/write-up.md
