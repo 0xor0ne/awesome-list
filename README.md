@@ -45,6 +45,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Damned OOB"][1297]
 - ["Defeating Anti-Reverse Engineering: A Deep Dive into the 'Trouble' Binary"][1237]
 - ["DiceCTF 2026 Quals - cornelslop: Turning an RCU Double Free into a Cross-Cache Kernel Exploit"][1266]
+- ["DirtyCBC: When Linux Kernel Decrypt-Before-MAC Turns Authenticated Encryption Into a Page-Cache Write"][1302]
 - [Dirty Frag][1300]
 - ["DIRTYFREE: Simplified Data-Oriented Programming in the Linux Kernel"][1238]
 - ["Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC"][1223]
@@ -2787,3 +2788,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1299]: https://g3tsyst3m.com/fud/Creative-approaches-to-coding-FUD-Stagers/
 [1300]: https://github.com/V4bel/dirtyfrag/blob/master/assets/write-up.md
 [1301]: https://v4bel.github.io/linux/2026/03/23/ooc.html
+[1302]: https://delphoslabs.com/blog/36142374-e1fe-80a9-9456-d3c64df81bd5/linux-rxgk-decrypt-mac/
