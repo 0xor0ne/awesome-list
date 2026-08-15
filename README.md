@@ -42,6 +42,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - ["Extending The Race Window Without a Kernel Patch"][1225]
   - ["Uncovering Chronomaly"][1265]
 - ["CVE-2026-0714 TPM-sniffing LUKS Keys on an Embedded Device"][1235]
+- ["CVE-2026-20182: Critical authentication bypass in Cisco Catalyst SD-WAN Controller"][1303]
 - ["Damned OOB"][1297]
 - ["Defeating Anti-Reverse Engineering: A Deep Dive into the 'Trouble' Binary"][1237]
 - ["DiceCTF 2026 Quals - cornelslop: Turning an RCU Double Free into a Cross-Cache Kernel Exploit"][1266]
@@ -83,6 +84,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["The Cost of Understanding: LLM-Driven Reverse Engineering vs Iterative LLM Obfuscation"][1296]
 - ["The Hidden Risk of Side-Channel Attacks on Post Quantum Cryptography"][1298]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
+- ["Three Bugs Walk Into a PDF: Prototype Pollution, Served Cold"][1304]
 - ["TP-Link ER605 DDNS Pre-Auth RCE: Chaining CVE-2024-5242, CVE-2024-5243, CVE-2024-5244"][1264]
 - ["Trailmark turns code into graphs"][1286]
 - ["TREVEX: A Black-Box Detection Framework For Data-Flow Transient Execution Vulnerabilities"][1289]
@@ -2789,3 +2791,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1300]: https://github.com/V4bel/dirtyfrag/blob/master/assets/write-up.md
 [1301]: https://v4bel.github.io/linux/2026/03/23/ooc.html
 [1302]: https://delphoslabs.com/blog/36142374-e1fe-80a9-9456-d3c64df81bd5/linux-rxgk-decrypt-mac/
+[1303]: https://www.rapid7.com/blog/post/ve-cve-2026-20182-critical-authentication-bypass-cisco-catalyst-sd-wan-controller-fixed/
+[1304]: https://starlabs.sg/blog/2026/04-three-bugs-walk-into-a-pdf-prototype-pollution-served-cold/
