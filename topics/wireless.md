@@ -54,6 +54,7 @@
   * [airgorah][119]: WiFi auditing software that can perform deauth attacks and
   passwords cracking.
   * [airpwn-ng][46]: Packet injection for wifi.
+  * [Alfa Arsenal][222]: policy-gated WiFi auditor for authorized testing with WPA/WPA2 handshake and PMKID capture, WPS checks, and rogue-AP simulation.
   * [AngryOxide][133]: 802.11 Attack Tool (rust).
   * [apfree-wifidog][145]: high-performance, lightweight captive portal solution.
   * [bettercap][18]: Swiss Army knife for WiFi, Bluetooth Low Energy, wireless
@@ -544,3 +545,4 @@ communicating, and attacking IoT (Internet of Things) devices
 [219]: https://github.com/RoganDawes/LOGITacker
 [220]: https://github.com/nrf-rs
 [221]: https://github.com/RCayre/injectable-firmware
+[222]: https://github.com/ardittirana/alfa-arsenal
