@@ -31,6 +31,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["A Brief Analysis of a Vulnerability in the Glibc (CVE-2025-4802)"][1277]
 - ["A Race Within A Race: Exploiting CVE-2025-38617 in Linux Packet Sockets"][1283]
 - ["Achieving remote code execution in LangSmith Playground using unsafe template formatting"][1271]
+- ["Apache Pony Mail CRLF Injection and SSRF Leading to Full Account Takeover"][1305]
 - ["BRIDGEROUTER: Automated Capability Upgrading of Out-Of-Bounds Write Vulnerabilities to Arbitrary Memory Write Primitives in the Linux Kernel"][1293]
 - ["Carbonara: The MediaTek exploit nobody served"][1249]
 - ["CHECK Removed, Context Confused, Checkmate Achieved"][1287]
@@ -2793,3 +2794,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1302]: https://delphoslabs.com/blog/36142374-e1fe-80a9-9456-d3c64df81bd5/linux-rxgk-decrypt-mac/
 [1303]: https://www.rapid7.com/blog/post/ve-cve-2026-20182-critical-authentication-bypass-cisco-catalyst-sd-wan-controller-fixed/
 [1304]: https://starlabs.sg/blog/2026/04-three-bugs-walk-into-a-pdf-prototype-pollution-served-cold/
+[1305]: https://starlabs.sg/advisories/26/26-41873/
