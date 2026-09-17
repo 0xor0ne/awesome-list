@@ -1247,7 +1247,7 @@ exploit"][392]
   - [Part 3][85]
 - "LinkSys EA6100 AC1200":
   - [Part 1][740]
-  - [Part 1][741]
+  - [Part 2][741]
 - ["Linux Internals: How /proc/self/mem writes to unwritable memory"][631]
 - "Linux Kernel Exploitation":
   - ["Debugging the Kernel with QEMU"][25]
@@ -1272,7 +1272,7 @@ exploit"][392]
 - ["New Linux Backdoor RedXOR Likely Operated by Chinese Nation-State Actor"][440]
 - ["New Old Bugs in the Linux Kernel"][305]
 - ["Practical Introduction to CodeQL"][1233]
-- ["Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug"]
+- ["Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug"][646]
 - ["Pwn2Own Tokyo 2020: Defeating the TP-link AC1750"][555]
 - ["Recovering a Full PEM Private key when Half of it is Redacted"][96]
 - ["Reverse Engineering an Unknown Microcontroller"][645]
@@ -1410,7 +1410,7 @@ exploit"][392]
 - ["munmap madness"][199]
 - ["Implementation of Signal Handling"][23]
 - "Practical Reverse Engineering"
-  - ["Digging Through the Firmware"][114]
+  - ["Hunting for Debug Ports"][114]
   - ["Scouting the Firmware"][115]
   - ["Following the Data"][116]
   - ["Dumping the Flash"][117]
@@ -1645,7 +1645,7 @@ exploit"][392]
 [139]: https://secret.club/2023/06/05/spoof-pe-sections.html
 [140]: https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
 [141]: https://reversing.info/posts/guardedregions/
-[142]: https://ragnarsecurity.medium.com/reverse-engineering-bare-metal-kernel-images-part-2-6a52a4afa3ef
+[142]: https://ragnarsecurity.medium.com/reverse-engineering-bare-metal-low-level-kernel-images-with-qemu-getting-started-c705b7b14d35
 [143]: https://ragnarsecurity.medium.com/reverse-engineering-bare-metal-kernel-images-part-2-6a52a4afa3ef
 [144]: https://medium.com/geekculture/reverse-engineering-bare-metal-firmware-part-3-analyzing-arm-assembly-and-exploiting-3b2dbe219f19
 [145]: https://embeddedsecurity.io
@@ -1753,11 +1753,11 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [246]: https://0xax.gitbooks.io/linux-insides/content/
 [247]: https://flaviu.io/advanced-persistent-threat/
 [248]: https://grahamhelton.com/blog/ssh_agent/
-[249]: https://voidstarsec.com/hw-hacking-lab/vss-lab-guide]
+[249]: https://voidstarsec.com/hw-hacking-lab/vss-lab-guide
 [250]: https://ics-cert.kaspersky.com/publications/reports/2022/07/06/dynamic-analysis-of-firmware-components-in-iot-devices/
 [251]: https://syst3mfailure.io/wall-of-perdition/
 [252]: https://www.willsroot.io/2021/08/corctf-2021-fire-of-salvation-writeup.html
-[253]: https://www.forescout.com/resources/l1-lateral-movement-reportg
+[253]: https://www.forescout.com/resources/l1-lateral-movement-report
 [254]: https://www.synacktiv.com/en/publications/old-bug-shallow-bug-exploiting-ubuntu-at-pwn2own-vancouver-2023
 [255]: https://research.nccgroup.com/2023/03/15/a-race-to-report-a-toctou-analysis-of-a-bug-collision-in-intel-smm/
 [256]: https://research.nccgroup.com/2023/04/11/stepping-insyde-system-management-mode/
@@ -2149,6 +2149,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [643]: https://redcanary.com/blog/fuzzing/
 [644]: https://saaramar.github.io/memory_safety_blogpost_2022/
 [645]: https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller
+[646]: https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
 [647]: https://blog.abdulrah33m.com/prototype-pollution-in-python/
 [648]: https://samcurry.net/web-hackers-vs-the-auto-industry/
 [649]: https://www.thegoodpenguin.co.uk/blog/pcie-dma-attack-against-a-secured-jetson-nano-cve-2022-21819/
@@ -2187,7 +2188,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [682]: https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-4-internal-communications/
 [683]: https://blog.nviso.eu/2024/01/15/deobfuscating-android-arm64-strings-with-ghidra-emulating-patching-and-automating/
 [684]: https://maskray.me/blog/2024-01-14-exploring-object-file-formats
-[685]: https://www.synacktiv.com/en/publications/how-to-voltage-fault-injectiongg
+[685]: https://www.synacktiv.com/en/publications/how-to-voltage-fault-injection
 [686]: https://github.com/joaoviictorti/RustRedOps
 [687]: https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/
 [688]: https://zeromips.org/posts/2024-01-08-superpower/
@@ -2243,7 +2244,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [738]: https://blog.trailofbits.com/2024/02/16/a-few-notes-on-aws-nitro-enclaves-images-and-attestation/
 [739]: https://github.blog/2024-02-12-the-architecture-of-sast-tools-an-explainer-for-developers/
 [740]: https://0x434b.dev/linksys-ea6100_pt1/
-[741]: https://0x434b.dev/linksys-ea6100_pt1/
+[741]: https://0x434b.dev/linksys-ea6100_pt2/
 [742]: https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/
 [743]: https://www.blackhillsinfosec.com/how-to-weaponize-the-yubikey/
 [744]: https://www.somersetrecon.com/blog/2021/hacking-the-furbo-part-1
@@ -2811,7 +2812,7 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1307]: https://raelize.com/blog/ai-fi-reproducing-adb-to-root-on-googles-tv-streamer-using-claude/
 [1308]: https://www.0xkato.xyz/how-llms-actually-work/
 [1309]: https://maorsabag.github.io/posts/adaptix-stealthpalace/sleeping-beauty/
-[1310]: https://maorsabag.github.io/posts/adaptix-stealthpalace/sleeping-beauty-ii/[]
+[1310]: https://maorsabag.github.io/posts/adaptix-stealthpalace/sleeping-beauty-ii/
 [1311]: https://xchglabs.com/blog/fuzzing-gpsd-part-one.html
 [1312]: https://xchglabs.com/blog/fuzzing-gpsd-part-two.html
 [1313]: https://xchglabs.com/blog/fuzzing-gpsd-part-three.html
