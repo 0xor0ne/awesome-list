@@ -276,7 +276,7 @@ simulation) with a focus on Linux environments.
 [76]: https://github.com/WangYihang/Platypus
 [77]: https://github.com/TimeToogo/remote-pty
 [78]: https://github.com/mthbernardes/rsg
-[79]: https://www.graplsecurity.com/blog
+[79]: https://github.com/zhaojh329/rtty
 [80]: https://github.com/robiot/rustcat
 [81]: https://github.com/TimeToogo/tunshell
 [82]: https://github.com/puppetlabs/wash
