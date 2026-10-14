@@ -62,6 +62,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["FatGid: A four-byte type, an eight-byte stride, one root shell"][1318]
 - ["From DDS Packets to Robot Shells: Two RCEs in Unitree Robots (CVE-2026-27509 & CVE-2026-27510)"][1245]
 - ["From KernelSnitch to Practical msg_msg/pipe_buffer Heap KASLR Leaks"][1279]
+- ["From prompt to pwned: chaining LLM and web bugs to Admin"][1324]
 - "Fuzzing GPSD"
   - ["The Lexer Harness"][1311]
   - ["Lessons Learned"][1312]
@@ -89,6 +90,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Out-of-Cancel: A Vulnerability Class Rooted in Workqueue Cancellation APIs"][1301]
 - ["Page-level UAF exploitation"][1268]
 - ["PageJack in Action: CVE-2022-0995 exploit"][1270]
+- ["Privilege Escalation via a Page Use-After-Free in Qualcomm's AI Accelerator Linux Kernel Driver"][1323]
 - ["Pwning Supercomputers - A 20yo vulnerability in Munge"][1255]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
 - ["Revisiting Two-Shot Kernel Shellcode Execution From Control Flow Hijacking"][1288]
@@ -2831,3 +2833,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1320]: https://voidsec.com/cve-2026-40369-browser-sandbox-escape/
 [1321]: https://kqx.io/post/cve-2026-4447/
 [1322]: https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_lu.pdf
+[1323]: https://lukasmaar.github.io/posts/qaic-page-uaf/index.html
+[1324]: https://blog.quarkslab.com/from-prompt-to-pwned-chaining-llm-and-web-bugs-to-admin.html
