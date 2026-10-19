@@ -81,6 +81,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Living off the Process"][1236]
 - ["Make it Blink: Over-the-air Exploitation of the Philips HUE Bridge"][1294]
 - ["Mitmproxy for Fun and Profit: Interception and Analysis of Application Traffic"][1284]
+- ["M-Step: A Single-Stepping Framework for Side-Channel Analysis on TrustZone-M"][1326]
 - ["N-Day Research with AI: Using Ollama and n8n"][1263]
 - ["Needle in the haystack: LLMs for vulnerability research"][1275]
 - ["Now You See mi: Now You're Pwned"][1278]
@@ -90,6 +91,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Out-of-Cancel: A Vulnerability Class Rooted in Workqueue Cancellation APIs"][1301]
 - ["Page-level UAF exploitation"][1268]
 - ["PageJack in Action: CVE-2022-0995 exploit"][1270]
+- ["Practical Android Software Protection in the Wild - An Appetizer"][1325]
 - ["Privilege Escalation via a Page Use-After-Free in Qualcomm's AI Accelerator Linux Kernel Driver"][1323]
 - ["Pwning Supercomputers - A 20yo vulnerability in Munge"][1255]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
@@ -2835,3 +2837,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1322]: https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_lu.pdf
 [1323]: https://lukasmaar.github.io/posts/qaic-page-uaf/index.html
 [1324]: https://blog.quarkslab.com/from-prompt-to-pwned-chaining-llm-and-web-bugs-to-admin.html
+[1325]: https://blog.quarkslab.com/practical-android-software-protection-in-the-wild-an-appetizer.html
+[1326]: https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_rodrigues.pdf
