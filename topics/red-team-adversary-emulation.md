@@ -23,6 +23,7 @@ simulation) with a focus on Linux environments.
 
 ## C2 Frameworks
 
+* [Kernel Pack](https://www.exploitpack.com/products/kernel-pack): commercial Windows C2 with an integrated kernel agent and exploit backends for kernel-level operations.
 * [C2 matrix][38]: C2 frameworks comparison.
   * [Spreadsheet][40]
 * [Emp3r0r][41]: Linux/Windows post-exploitation framework made by linux
