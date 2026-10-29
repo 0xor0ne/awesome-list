@@ -253,6 +253,7 @@ My personal awesome list of interesting cybersecurity-related repos, libraries a
 
 ## Exploit Development
 
+* [Exploit Pack](https://www.exploitpack.com/products/exploit-pack): commercial exploit-development and initial-access framework with exploit discovery, module execution, payload construction, remote testing, debugging, and result collection.
 * [Exploit mitigations][292]: knowledge base of exploit mitigations available
   across numerous operating systems.
 * [how2heap][47]: repository for learning various heap exploitation techniques.
