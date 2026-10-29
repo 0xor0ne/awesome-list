@@ -23,6 +23,7 @@ simulation) with a focus on Linux environments.
 
 ## C2 Frameworks
 
+* [Control Pack](https://www.exploitpack.com/products/control-pack): commercial multi-agent C2 for payload generation, endpoint sessions, remote tasking, interactive access, file handling, post-exploitation, and SOCKS5 reverse tunneling.
 * [C2 matrix][38]: C2 frameworks comparison.
   * [Spreadsheet][40]
 * [Emp3r0r][41]: Linux/Windows post-exploitation framework made by linux
