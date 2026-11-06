@@ -34,6 +34,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Achieving remote code execution in LangSmith Playground using unsafe template formatting"][1271]
 - ["AI-FI: Reproducing adb to root on Google's TV Streamer using Claude in less than 15 minutes"][1307]
 - ["Apache Pony Mail CRLF Injection and SSRF Leading to Full Account Takeover"][1305]
+- ["Bad Epoll: The bug missed by Mythos"][1330]
 - ["Black Box Probing: a Security Analysis of Xiaomi's MJA1 Secure Chip"][1306]
 - ["Break the Trust Chain of the Ethereum Phone"][1316]
 - ["BRIDGEROUTER: Automated Capability Upgrading of Out-Of-Bounds Write Vulnerabilities to Arbitrary Memory Write Primitives in the Linux Kernel"][1293]
@@ -122,6 +123,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - ["Vulnerability REsearch using VulHunt"][1259]
   - ["Inside the Binary Vulnerability Analysis Framework"][1260]
   - ["Agentic Vulnerability Research with VulHunt"][1261]
+- ["When Defenses Become Attack Surface: CVE-2026-20971, a Samsung Kernel UAF"][1329]
 - ["When NAS Vendors Forget How TLS Works"][1251]
 - ["Windows ARM64 Internals: Pardon The Interruption! Interrupts on Windows for ARM"][1246]
 
@@ -2843,3 +2845,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1326]: https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_rodrigues.pdf
 [1327]: https://blog.zsec.uk/harnessing-harnesses/
 [1328]: https://g3tsyst3m.com/encrypted%20shell/Building-an-Encrypted-C2-Implant-Using-QUIC/
+[1329]: https://lucidbitlabs.com/blog/when-defenses-become-attack-surface/
+[1330]: https://github.com/J-jaeyoung/bad-epoll
