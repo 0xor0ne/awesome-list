@@ -33,6 +33,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["About PCIe DMA Cheats: Protocol, IOMMU, Hardware, and Detection"][1317]
 - ["Achieving remote code execution in LangSmith Playground using unsafe template formatting"][1271]
 - ["AI-FI: Reproducing adb to root on Google's TV Streamer using Claude in less than 15 minutes"][1307]
+- ["AI Assisted Vulnerability Research on Embedded Targets"][1331]
 - ["Apache Pony Mail CRLF Injection and SSRF Leading to Full Account Takeover"][1305]
 - ["Bad Epoll: The bug missed by Mythos"][1330]
 - ["Black Box Probing: a Security Analysis of Xiaomi's MJA1 Secure Chip"][1306]
@@ -2847,3 +2848,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1328]: https://g3tsyst3m.com/encrypted%20shell/Building-an-Encrypted-C2-Implant-Using-QUIC/
 [1329]: https://lucidbitlabs.com/blog/when-defenses-become-attack-surface/
 [1330]: https://github.com/J-jaeyoung/bad-epoll
+[1331]: https://quentinkaiser.be/security/2026/07/18/ia-assisted-vuln-research/
