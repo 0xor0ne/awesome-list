@@ -124,6 +124,9 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - ["Vulnerability REsearch using VulHunt"][1259]
   - ["Inside the Binary Vulnerability Analysis Framework"][1260]
   - ["Agentic Vulnerability Research with VulHunt"][1261]
+- Vulnerabilities of Realtek SD card reader driver
+  - ["Part 1"][1002]
+  - ["Part 2"][1332]
 - ["When Defenses Become Attack Surface: CVE-2026-20971, a Samsung Kernel UAF"][1329]
 - ["When NAS Vendors Forget How TLS Works"][1251]
 - ["Windows ARM64 Internals: Pardon The Interruption! Interrupts on Windows for ARM"][1246]
@@ -595,7 +598,6 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Using Symbolic Execution to Devirtualise a Virtualised Binary"][936]
 - ["Utilizing Cross-CPU Allocation to Exploit Preempt-Disabled Linux Kernel"][985]
 - ["VBA: having fun with macros, overwritten pointers & R/W/X memory"][843]
-- ["Vulnerabilities of Realtek SD card reader driver"][1002]
 - ["Why Code Security Matters - Even in Hardened Environments"][953]
 - ["Windows Secure-Launch on Qualcomm devices"][811]
 - ["Windows Sockets: From Registered I/O to SYSTEM Privileges"][998]
@@ -2849,3 +2851,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1329]: https://lucidbitlabs.com/blog/when-defenses-become-attack-surface/
 [1330]: https://github.com/J-jaeyoung/bad-epoll
 [1331]: https://quentinkaiser.be/security/2026/07/18/ia-assisted-vuln-research/
+[1332]: https://zwclose.github.io/2026/07/08/rtsper2.html
