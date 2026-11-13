@@ -62,7 +62,7 @@ My personal awesome list of interesting cybersecurity-related repos, libraries a
 * [ICS Security][374]: tools, tips, tricks, and more for exploring ICS Security.
 * [IoT Security 101][273]: curated list of IoT Security Resources.
 * [IoT][19]: list of great resources about IoT Framework, Library, OS, Platforms.
-- [LLM for Vulnerability Detection]: Awesome Large Language Models for Vulnerability Detection
+- [LLM for Vulnerability Detection][682]: Awesome Large Language Models for Vulnerability Detection
 * [Linux-Bash-Commands][624]: list of Linux bash commands, cheatsheets and resources.
 * [Malware Analysis][34]: malware analysis tools and resources.
 * [Modern Unix][493]: collection of modern/faster/saner alternatives to common
@@ -114,7 +114,7 @@ My personal awesome list of interesting cybersecurity-related repos, libraries a
   * [blog.malware.re][559]: reverse engineering related blog.
 * [CVE North Star][428]: CVEs as North Stars in vulnerability discovery and
   comprehension.
-* [Dmitry.gr]: reverse engineering, embedded and hardware.
+* [Dmitry.gr][683]: reverse engineering, embedded and hardware.
 * [epi052][439]: epi's personal blog.
 * [Gentoo Wiki][216]: official Gentoo wiki.
 * [GitHub Security Lab][137]: GitHub security research.
@@ -950,6 +950,7 @@ as CSV, TSV, and tabular JSON.
 [286]: https://github.com/rust-lang/rust
 [287]: https://github.com/firmadyne/scraper
 [288]: https://alexplaskett.github.io/
+[289]: https://www.graplsecurity.com/blog
 [290]: https://www.willsroot.io/
 [291]: https://security.googleblog.com/
 [292]: https://github.com/nccgroup/exploit_mitigations
@@ -1266,3 +1267,4 @@ as CSV, TSV, and tabular JSON.
 [680]: https://github.com/pyenv/pyenv
 [681]: https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research
 [682]: https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection
+[683]: https://dmitry.gr/

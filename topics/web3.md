@@ -319,7 +319,7 @@
 
 * [sui.io][183]: SUI official website
   * [Documentation][185]: Developers portal
-  * [GitHub]: SUI organization
+  * [GitHub][184]: SUI organization
 
 ### Tezos
 
