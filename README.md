@@ -63,6 +63,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Exploiting CVE-2024-1065 via the Page Cache"][1315]
 - ["Exploiting MediaTek's Download Agent"][1232]
 - ["FatGid: A four-byte type, an eight-byte stride, one root shell"][1318]
+- ["Fit for Detection: Hunting U-Boot Vulnerabilities at Scale"][1334]
 - ["From DDS Packets to Robot Shells: Two RCEs in Unitree Robots (CVE-2026-27509 & CVE-2026-27510)"][1245]
 - ["From KernelSnitch to Practical msg_msg/pipe_buffer Heap KASLR Leaks"][1279]
 - ["From prompt to pwned: chaining LLM and web bugs to Admin"][1324]
@@ -81,6 +82,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["How LLMs Actually Work"][1308]
 - ["Jenny was a Friend of Mine - MCPs and Friends"][1274]
 - ["Intercepting OkHttp at Runtime With Frida - A Practical Guide"][1253]
+- ["IonStack Part II: GhostLock, A Stack-UAF That’s Existed in ALL Linux Distributions for 15 Years"][1333]
 - ["Leveling Up Secure Code Reviews with Claude Code"][1273]
 - ["Living off the Process"][1236]
 - ["Make it Blink: Over-the-air Exploitation of the Philips HUE Bridge"][1294]
@@ -2852,3 +2854,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1330]: https://github.com/J-jaeyoung/bad-epoll
 [1331]: https://quentinkaiser.be/security/2026/07/18/ia-assisted-vuln-research/
 [1332]: https://zwclose.github.io/2026/07/08/rtsper2.html
+[1333]: https://nebusec.ai/research/ionstack-part-2/
+[1334]: https://www.binarly.io/blog/hunting-u-boot-at-scale
