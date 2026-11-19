@@ -20,6 +20,7 @@
 ## 802.11
 
 * [Wi-Fi Alliance][66]
+  * [sloth][222]: passive terminal WiFi-SIGINT monitor in C99 for Linux (evil twin, KARMA, rogue RADIUS, BTM, FragAttacks detection; never transmits).
   * [Specification][67]
 * Attacks:
   * "Broadcom Wi-Fi stack exploitation":
@@ -544,3 +545,4 @@ communicating, and attacking IoT (Internet of Things) devices
 [219]: https://github.com/RoganDawes/LOGITacker
 [220]: https://github.com/nrf-rs
 [221]: https://github.com/RCayre/injectable-firmware
+[222]: https://github.com/SpaceTrucker2196/sloth
