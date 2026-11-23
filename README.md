@@ -102,6 +102,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Pwning Supercomputers - A 20yo vulnerability in Munge"][1255]
 - ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
 - ["Revisiting Two-Shot Kernel Shellcode Execution From Control Flow Hijacking"][1288]
+- ["setresuid: Glitching Google's TV Streamer from adb to root"][1335]
 - "Sleeping Beauty"
   - ["Putting Adaptix to Bed with Crystal Palace"][1309]
   - ["CFG, CET, and Stack Spoofing"][1310]
@@ -2856,3 +2857,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1332]: https://zwclose.github.io/2026/07/08/rtsper2.html
 [1333]: https://nebusec.ai/research/ionstack-part-2/
 [1334]: https://www.binarly.io/blog/hunting-u-boot-at-scale
+[1335]: https://raelize.com/blog/setresuid-glitching-google-tv-streamer-from-adb-to-root/
