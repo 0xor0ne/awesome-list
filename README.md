@@ -23,7 +23,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - [Other Lists](#other-lists)
 
 ## 2026
-
+[CyberStreak](https://cyber-bes.vercel.app/kurs/) - Free beginner cybersecurity course in Russian (Telegram, 117 lessons based on roadmap.sh).
 - "A 0-click exploit chain for the Pixel 9"
   - [Part 1][1241]
   - [Part 2][1242]
