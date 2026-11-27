@@ -109,11 +109,13 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["SoK: All You Ever Wanted to Know About Bootloader Security But Were Afraid to Ask"][1314]
 - ["Some notes on the security properties of the pipe_buffer kernel object"][1285]
 - ["Static Devirtualization of Themida"][1292]
+- ["StepStone: LLM-Based GPU Kernel Driver Fuzzing via User-Space Libraries"][1336]
 - ["Table Manners: Diving into Linux Pagetables exp techniques"][1280]
 - ["TAPOcalypse Now: Exploiting TP-Link Smart Devices From Anywhere"][1291]
 - ["The BlueFrag Zero-Click: A System Replay"][1319]
 - ["The Cost of Understanding: LLM-Driven Reverse Engineering vs Iterative LLM Obfuscation"][1296]
 - ["The Hidden Risk of Side-Channel Attacks on Post Quantum Cryptography"][1298]
+- ["The QNAP Pattern"][1337]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
 - ["Three Bugs Walk Into a PDF: Prototype Pollution, Served Cold"][1304]
 - ["TP-Link ER605 DDNS Pre-Auth RCE: Chaining CVE-2024-5242, CVE-2024-5243, CVE-2024-5244"][1264]
@@ -2858,3 +2860,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1333]: https://nebusec.ai/research/ionstack-part-2/
 [1334]: https://www.binarly.io/blog/hunting-u-boot-at-scale
 [1335]: https://raelize.com/blog/setresuid-glitching-google-tv-streamer-from-adb-to-root/
+[1336]: https://www.cs.ucr.edu/%7Ezhiyunq/pub/oakland26_gpu_fuzzing.pdf
+[1337]: https://runiclabs.io/research/qnap-architecture/
