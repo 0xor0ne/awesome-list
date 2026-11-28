@@ -63,6 +63,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Exploiting CVE-2024-1065 via the Page Cache"][1315]
 - ["Exploiting MediaTek's Download Agent"][1232]
 - ["FatGid: A four-byte type, an eight-byte stride, one root shell"][1318]
+- ["FirmReBugger: A Benchmark Framework for Monolithic Firmware Fuzzers"][1339]
 - ["Fit for Detection: Hunting U-Boot Vulnerabilities at Scale"][1334]
 - ["From DDS Packets to Robot Shells: Two RCEs in Unitree Robots (CVE-2026-27509 & CVE-2026-27510)"][1245]
 - ["From KernelSnitch to Practical msg_msg/pipe_buffer Heap KASLR Leaks"][1279]
@@ -97,6 +98,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Out-of-Cancel: A Vulnerability Class Rooted in Workqueue Cancellation APIs"][1301]
 - ["Page-level UAF exploitation"][1268]
 - ["PageJack in Action: CVE-2022-0995 exploit"][1270]
+- ["Patterns for Building Cybersecurity Evals"][1338]
 - ["Practical Android Software Protection in the Wild - An Appetizer"][1325]
 - ["Privilege Escalation via a Page Use-After-Free in Qualcomm's AI Accelerator Linux Kernel Driver"][1323]
 - ["Pwning Supercomputers - A 20yo vulnerability in Munge"][1255]
@@ -2862,3 +2864,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1335]: https://raelize.com/blog/setresuid-glitching-google-tv-streamer-from-adb-to-root/
 [1336]: https://www.cs.ucr.edu/%7Ezhiyunq/pub/oakland26_gpu_fuzzing.pdf
 [1337]: https://runiclabs.io/research/qnap-architecture/
+[1338]: https://eugeneyan.com/writing/cybersecurity-evals
+[1339]: https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_duong.pdf
