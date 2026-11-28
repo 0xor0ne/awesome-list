@@ -60,7 +60,7 @@
 * [Clang Built Linux][23]: building the Linux kernel with Clang.
 * [crash][96]: Linux kernel crash utility
 * [lowlevelprogramming-university][82]: How to be low-level programmer
-* lunatik: framework for scripting the Linux kernel with Lua
+* [lunatik][98]: framework for scripting the Linux kernel with Lua
 * [TuxSuite][42]: on-demand APIs and tools for building Linux Kernels.
 * [vmlinux-to-elf][86]: tool to recover a fully analyzable .ELF from a raw
   kernel.
@@ -206,7 +206,7 @@
 [37]: https://lore.kernel.org/
 [38]: https://lore.kernel.org/linux-hardening/
 [39]: https://lore.kernel.org/kernel-hardening/
-[40]: https://lore.kernel.org/kernel-hardening/
+[40]: https://elixir.bootlin.com/linux/latest/source
 [41]: https://lore.kernel.org/rust-for-linux/
 [42]: https://tuxsuite.com/
 [43]: https://github.com/Rust-for-Linux
